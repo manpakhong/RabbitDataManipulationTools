@@ -1,0 +1,198 @@
+package hksarg.swd.cssa.csa.common;
+
+import java.util.Date;
+import java.util.List;
+
+import org.dbunit.IDatabaseTester;
+import org.dbunit.dataset.IDataSet;
+import org.dbunit.dataset.ITable;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.FixMethodOrder;
+import org.junit.Test;
+import org.junit.runners.MethodSorters;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.CAM0344006_Helper;
+import hksarg.swd.csss.csa.flowtest.factories.DbUtilsFactory;
+import hksarg.swd.csss.csa.flowtest.helpers.CaseTestHelper;
+import hksarg.swd.csss.csa.flowtest.models.dtos.CaptureScopeDto;
+import hksarg.swd.csss.csa.flowtest.services.CssaDataStubMgr;
+import hksarg.swd.csss.csa.flowtest.services.SnapshotMgr;
+import hksarg.swd.csss.csa.flowtest.utils.DbUtils;
+import hksarg.swd.csss.csa.flowtest.utils.HibernateUtilStub;
+import hksarg.swd.csss.csa.object.StaffListVo;
+import hksarg.swd.csss.csa.object.StaffVo;
+import hksarg.swd.csss.security.UserInfo;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+import junit.framework.TestCase;
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+public class CSA_ChgDhp2_Test extends TestCase {
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	private IDatabaseTester databaseTester;
+	private SnapshotMgr snapshotMgr;
+	private DbUtils db2Utils = null;;
+	private IDatabaseTester dbTester = null;
+	private Integer caseKey;
+	private Integer custKey;
+	private String loginId;
+	private String procUnit;
+	private String post;
+	private CaseTestHelper helper;
+	
+	public CSA_ChgDhp2_Test(){
+		init();
+	}
+	
+	private void init(){
+		try{
+			helper = new CaseTestHelper();
+			caseKey = 1305;
+			custKey = 129289;
+			loginId = "yauman";
+			post = "SSOII2_AFU";
+			procUnit = "KTG";
+			db2Utils = DbUtilsFactory.getInstanceOfDb2DbUtils();
+			dbTester = db2Utils.getJdbcDatabaseTester();
+			snapshotMgr = new SnapshotMgr();
+			databaseTester = db2Utils.getJdbcDatabaseTester();			
+		} catch (Exception e){
+			e.printStackTrace();
+		}
+	}
+	
+	@BeforeClass
+	public void setUpClass() throws Exception {
+
+	}
+
+	@AfterClass
+	public void tearDownClass() {
+		try {
+			databaseTester.getConnection().close();
+			databaseTester = null;
+		} catch (Exception e) {
+			logger.error(className + ".tearDownClass() -", e);
+		}
+	}
+
+	@Before
+	public void setUp() throws Exception {
+		try {
+			CaptureScopeDto captureScopeDto = snapshotMgr.getCaptureScopeDtoFromScopeFileName("csaChgDhpScope.scope");
+			snapshotMgr.restoreXmlFiles(captureScopeDto);
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		// restore the original data snapshot from full data snapshot
+	
+		CaptureScopeDto captureScopeDto = snapshotMgr.getCaptureScopeDtoFromScopeFileName("csaChgDhpScope.scope");
+		snapshotMgr.restoreXmlFiles(captureScopeDto);
+		databaseTester.onTearDown();
+
+
+	}
+
+	private boolean runCheckIfDhpAddressModified() throws Exception{
+		boolean isDone = false;
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+		
+		try{
+			UserInfo userInfo = cssaDataStubMgr.getUserInfo(loginId, procUnit);
+
+			SessionFactory sf = HibernateUtilStub.getSessionFactory();
+			sf.openSession();
+			sess = sf.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+
+			Date now = new Date();
+
+			StaffListVo staffListVo = new StaffListVo();
+			staffListVo.setCustKey(custKey);
+			staffListVo.setCaseKey(caseKey);
+			staffListVo.setTriggerButton(StaffListVo.TRIGGER_BUTTON_SUBMIT_FOR_APPROVAL);
+
+			StaffVo selectedStaffVo = new StaffVo();
+			selectedStaffVo.setLoginId(loginId);
+			selectedStaffVo.setPost(post);
+
+			staffListVo.setSelectedStaffVo(selectedStaffVo);
+
+			CAM0344006_Helper helper = new CAM0344006_Helper(now, sess);
+			helper.checkIfDhpAddressModified(sess, userInfo, staffListVo);
+			tran.commit();		
+			isDone = true;
+		} catch (Exception e){
+			tran.rollback();
+			logger.error(className + ".runCheckIfDhpAddressModified() -", e);
+			throw e;
+		} finally{
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+		}
+		return isDone;
+	}
+	
+
+	
+	@Test
+	public void testAllRelatedTables() throws Exception{
+		IDataSet expectedDataSet = null;
+		ITable expectedTable = null;
+		ITable actualTable = null;
+		try {			
+			
+			boolean isDone = runCheckIfDhpAddressModified();
+			if (!isDone){
+				throw new Exception ("runCheckIfDhpAddressModified() - isDone=false");
+			}
+			
+			CaptureScopeDto captureScopeDto = snapshotMgr.getCaptureScopeDtoFromScopeFileName("csaChgDhpExpectedScope.scope");
+			
+			helper.assertActualTableDataSetWithXmlDataSet(captureScopeDto);
+		}
+//		catch (AssertionError ae){
+//			ae.printStackTrace();
+//		}
+		catch (Exception e) {
+			logger.error(className + ".testAllRelatedTables() -", e);
+			Assert.assertTrue(false);
+			throw e;
+		} finally {
+			if (expectedDataSet != null){
+				expectedDataSet = null;
+			}
+			if (expectedTable != null){
+				expectedTable = null;
+			}
+			if (actualTable != null){
+				actualTable = null;
+			}
+		}
+	}
+	
+
+
+}

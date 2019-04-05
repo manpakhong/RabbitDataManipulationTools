@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TCS_DRP_DBWF_IMG">
+    <column>CASE_KEY</column>
+    <column>PAYMENT_DATE</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>AMT</column>
+    <column>CASE_FILE_NUM</column>
+    <column>SEQ_NUM_IN_FILE</column>
+    <column>DETAIL_REC_IMG</column>
+    <column>REV_IND</column>
+    <column>REV_REQ_BY</column>
+    <column>REV_REQ_TS</column>
+    <column>RJ_ON</column>
+    <column>RJ_CODE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

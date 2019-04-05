@@ -1,0 +1,36 @@
+<dataset>
+  <table name="TCS_BD_MEET">
+    <column>CASE_KEY</column>
+    <column>BRD_DATE</column>
+    <column>DOC_ISS_DATE</column>
+    <column>BRD_MBR1</column>
+    <column>DOC_RCV_DATE1</column>
+    <column>BRD_MBR2</column>
+    <column>DOC_RCV_DATE2</column>
+    <column>BRD_MBR3</column>
+    <column>DOC_RCV_DATE3</column>
+    <column>SEL_FR</column>
+    <column>BRD_DECN_CODE</column>
+    <column>BRD_DECN_RMK</column>
+    <column>SP_INTR_DESC</column>
+    <column>APPR_INC_IND</column>
+    <column>APPR_INC_PERC</column>
+    <column>APPR_RDC_IND</column>
+    <column>APPR_RDC_PERC</column>
+    <column>ADDN_INFO_IND</column>
+    <column>ADDN_INFO_RMK</column>
+    <column>ELIG_IND</column>
+    <column>ELIG_RDC_PERC</column>
+    <column>INELIG_IND</column>
+    <column>OTH_IND</column>
+    <column>OTH_DESC</column>
+    <column>REC_STS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>APPR_RDC_RSN</column>
+    <column>APPR_RDC_RSN_OD</column>
+    <column>BRD_RJ_GND</column>
+    <column>BRD_DEF_GOR</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

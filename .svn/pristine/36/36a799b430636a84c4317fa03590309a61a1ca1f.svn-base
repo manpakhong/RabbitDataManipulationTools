@@ -1,0 +1,98 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>896335</value>
+      <value>V</value>
+      <value><![CDATA[J2951085722         ]]></value>
+      <value>2008-04-02</value>
+      <value>2018-04-02</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:21:13.498659]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1193377</value>
+      <value>V</value>
+      <value><![CDATA[J2545323024         ]]></value>
+      <value>2006-08-02</value>
+      <value>2016-08-02</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:21:37.414601]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1317065</value>
+      <value>V</value>
+      <value><![CDATA[J2629392726         ]]></value>
+      <value>2012-05-09</value>
+      <value>2022-05-09</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2013-02-06 09:15:23.255473]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1316188</value>
+      <value>V</value>
+      <value><![CDATA[J2629392928         ]]></value>
+      <value>2008-04-02</value>
+      <value>2018-04-02</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:21:59.499872]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1317812</value>
+      <value>V</value>
+      <value><![CDATA[J2523696626         ]]></value>
+      <value>2012-08-02</value>
+      <value>2022-08-02</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2013-02-06 09:15:03.064596]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3271418</value>
+      <value>V</value>
+      <value><![CDATA[J4258383422         ]]></value>
+      <value>2011-01-14</value>
+      <value>2014-01-14</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:22:49.528682]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3271418</value>
+      <value>R</value>
+      <value><![CDATA[TO2069406           ]]></value>
+      <value>2011-01-11</value>
+      <value>2016-01-11</value>
+      <value/>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:23:17.711561]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

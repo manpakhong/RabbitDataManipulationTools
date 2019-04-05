@@ -1,0 +1,13 @@
+<dataset>
+  <table name="scas_property">
+    <column>id</column>
+    <column>property_code</column>
+    <column>desc_eng</column>
+    <column>desc_chi</column>
+    <column>access_label</column>
+    <column>created_by</column>
+    <column>created_date</column>
+    <column>updated_by</column>
+    <column>updated_date</column>
+  </table>
+</dataset>

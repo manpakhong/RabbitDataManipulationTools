@@ -1,0 +1,41 @@
+<dataset>
+  <table name="TCS_BANK_ACC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ACC_NAME</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>PURPOSE_CODE</column>
+    <column>PURPOSE_OD</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER                                               ]]></value>
+      <value>014</value>
+      <value>685</value>
+      <value><![CDATA[99996878 ]]></value>
+      <value><![CDATA[P  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 10:52:52.475684]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897386</value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER                                               ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>DCCSA623</value>
+      <value><![CDATA[2007-04-21 23:46:15.189616]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

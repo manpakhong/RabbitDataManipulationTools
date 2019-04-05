@@ -1,0 +1,380 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>1998-12-29</value>
+      <value>1999-05-08</value>
+      <value>2000-11-13</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 19:19:28.907732]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2000-11-14</value>
+      <value>2001-01-06</value>
+      <value>2001-11-13</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 19:18:04.333333]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2001-11-14</value>
+      <value>2001-10-09</value>
+      <value>2002-05-13</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-07-02 14:15:11.599972]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2002-05-14</value>
+      <value>2002-06-24</value>
+      <value>2002-11-13</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-07-02 12:53:38.174131]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2002-11-14</value>
+      <value>2002-12-10</value>
+      <value>2003-11-13</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2003-01-07 10:34:00.926434]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2003-11-14</value>
+      <value>2003-11-03</value>
+      <value>2006-02-12</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-03-20 10:59:11.777909]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2006-02-13</value>
+      <value>2006-02-21</value>
+      <value>2006-08-12</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-03-20 10:58:26.510559]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2006-08-13</value>
+      <value>2006-07-28</value>
+      <value>2007-02-12</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[RU-05-10540(4)                                                        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-08-09 15:38:00.794057]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>DISABILITY</value>
+      <value>2007-02-13</value>
+      <value>2007-01-19</value>
+      <value>2009-02-12</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[RU-05-10540(4)                                                        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-02-13 12:01:14.450351]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2006-02-13</value>
+      <value>2006-02-21</value>
+      <value>2006-08-12</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-03-20 10:58:26.562787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2006-08-13</value>
+      <value>2006-07-28</value>
+      <value>2007-02-12</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[RU-05-10540(4)                                                        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-08-09 15:38:00.842495]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2007-02-13</value>
+      <value>2007-01-19</value>
+      <value>2007-06-10</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[RU-05-10540(4)                                                        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-05 12:14:29.455131]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2007-06-11</value>
+      <value>2007-06-12</value>
+      <value>2008-06-10</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[MSS-07-1734(9)                                                        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-05 12:13:51.449556]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>1998-12-29</value>
+      <value>1999-05-08</value>
+      <value>2000-11-13</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 19:19:51.230344]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2000-11-14</value>
+      <value>2001-01-06</value>
+      <value>2001-11-13</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 19:18:04.349256]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2001-11-14</value>
+      <value>2001-10-09</value>
+      <value>2002-05-13</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-10-16 14:55:04.291039]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2002-05-14</value>
+      <value>2002-06-24</value>
+      <value>2002-11-13</value>
+      <value>INCAPACITY</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-07-02 12:53:38.206034]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2002-11-14</value>
+      <value>2002-12-10</value>
+      <value>2003-11-13</value>
+      <value>INCAPACITY</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2003-01-07 10:34:00.949961]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2003-11-14</value>
+      <value>2003-11-03</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>TMN03010</value>
+      <value><![CDATA[2003-11-07 12:34:39.184802]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value>DISABILITY</value>
+      <value>2012-01-12</value>
+      <value>2012-01-12</value>
+      <value>2012-07-11</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-10 10:26:27.538195]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2011-07-18</value>
+      <value>2011-08-11</value>
+      <value>2012-01-11</value>
+      <value><![CDATA[FULL-TIME ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-10 10:26:44.775456]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2012-01-12</value>
+      <value>2012-01-12</value>
+      <value>2012-07-11</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-10 10:26:27.564113]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>DISABILITY</value>
+      <value>2012-01-31</value>
+      <value>2012-02-14</value>
+      <value>2015-01-30</value>
+      <value><![CDATA[CA        ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-10 10:34:44.622111]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>DISABILITY</value>
+      <value>2015-01-31</value>
+      <value>2015-01-12</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[CA        ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-01-20 14:54:22.759807]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2012-01-31</value>
+      <value>2012-02-14</value>
+      <value>2015-01-30</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-10 10:34:44.642239]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2015-01-31</value>
+      <value>2015-01-12</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-01-20 14:54:22.866166]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

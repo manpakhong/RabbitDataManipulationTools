@@ -1,0 +1,44 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>4001147</value>
+      <value>DISABILITY</value>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>2016-10-09</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:46:25.296477]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001147</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>2016-10-09</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:46:25.296477]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

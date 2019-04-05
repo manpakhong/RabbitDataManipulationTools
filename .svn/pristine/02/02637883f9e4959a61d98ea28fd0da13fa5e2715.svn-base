@@ -1,0 +1,19 @@
+<dataset>
+  <table name="TCS_INJ_FTL">
+    <column>CASE_KEY</column>
+    <column>ADM_IND1</column>
+    <column>HOSP_NAME1</column>
+    <column>DATE_ADM1</column>
+    <column>HOSP_REF_NUM1</column>
+    <column>CASU_REF_NUM1</column>
+    <column>ADM_IND2</column>
+    <column>HOSP_NAME2</column>
+    <column>DATE_ADM2</column>
+    <column>HOSP_REF_NUM2</column>
+    <column>CASU_REF_NUM2</column>
+    <column>INJ_NAT_DESC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

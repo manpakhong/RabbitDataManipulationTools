@@ -1,0 +1,54 @@
+<dataset>
+  <table name="TPY_CQ">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>SCHD_DATE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>PAY_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_RSON_CODE</column>
+    <column>PAY_MTHD</column>
+    <column>PAY_DATE</column>
+    <column>PAY_AMT</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>PAYEE_NAME</column>
+    <column>PAYEE_ID_NUM</column>
+    <column>PAYEE_ID_TYPE</column>
+    <column>CQ_NO</column>
+    <column>REV_IND</column>
+    <column>PAY_STS</column>
+    <column>ACT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>31838</value>
+      <value>1111-11-11</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>A</value>
+      <value>CSA</value>
+      <value>RE</value>
+      <value>CP</value>
+      <value>1111-11-11</value>
+      <value>8460.00</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>PAYEE1272994</value>
+      <value><![CDATA[G318272             ]]></value>
+      <value>I</value>
+      <value><![CDATA[      ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>Y</value>
+      <value>SKM05075</value>
+      <value><![CDATA[2016-06-29 15:35:49.055451]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

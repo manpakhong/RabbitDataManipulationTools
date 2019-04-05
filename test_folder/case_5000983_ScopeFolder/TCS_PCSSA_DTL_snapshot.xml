@@ -1,0 +1,41 @@
+<dataset>
+  <table name="TCS_PCSSA_DTL">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>CASE_STS</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>DATE_PAY_COMM</column>
+    <column>CLS_RSON_CODE</column>
+    <column>CLS_RSON_OD</column>
+    <column>LIV_PUB_HSE_IND</column>
+    <column>PUB_HSE_SURD_DATE</column>
+    <column>RENT_ALW_ELIG_IND</column>
+    <column>ISS_MW_DATE</column>
+    <column>SURNAME_CNCT_PSON</column>
+    <column>OTH_NAME_CNCT_PSON</column>
+    <column>SURNAME_CNCT_CHN</column>
+    <column>OTH_NAME_CNCT_CHN</column>
+    <column>RSHP_CODE_CNCT</column>
+    <column>RSHP_OD_CNCT</column>
+    <column>RES_ADDR1</column>
+    <column>RES_ADDR2</column>
+    <column>RES_ADDR3</column>
+    <column>RES_POSTAL_CODE</column>
+    <column>RES_TEL_NUM</column>
+    <column>CORR_ADDR1</column>
+    <column>CORR_ADDR2</column>
+    <column>CORR_ADDR3</column>
+    <column>CORR_POSTAL_CODE</column>
+    <column>CORR_TEL_NUM</column>
+    <column>REAPPL_IND</column>
+    <column>REVT_CSSA_IND</column>
+    <column>DATE_TERM</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

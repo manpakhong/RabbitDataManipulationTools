@@ -1,0 +1,177 @@
+<dataset>
+  <table name="TCT_RES_ADDR">
+    <column>CUST_KEY</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>POSTAL_CODE</column>
+    <column>TEL_NUM</column>
+    <column>TEL_NUM2</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>CHRG_TYPE</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>896335</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>B4</value>
+      <value><![CDATA[SHEK KIP MEI ESTATE,                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>20HE04</value>
+      <value>21</value>
+      <value>SKM</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:24:31.436075]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1193377</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>B4</value>
+      <value><![CDATA[SHEK KIP MEI ESTATE,                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>20HE04</value>
+      <value>21</value>
+      <value>SKM</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2013-02-06 09:11:41.972721]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1317065</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>B4</value>
+      <value><![CDATA[SHEK KIP MEI ESTATE,                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>20HE04</value>
+      <value>21</value>
+      <value>SKM</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:26:38.593736]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1316188</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>B4</value>
+      <value><![CDATA[SHEK KIP MEI ESTATE,                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>20HE04</value>
+      <value>21</value>
+      <value>SKM</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:26:10.485384]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1317812</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U11</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>SSP</value>
+      <value>PRR</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SSP03112</value>
+      <value><![CDATA[2014-06-06 12:01:43.629623]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3271418</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>B4</value>
+      <value><![CDATA[SHEK KIP MEI ESTATE,                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>20HE04</value>
+      <value>21</value>
+      <value>SKM</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>SKM04085</value>
+      <value><![CDATA[2010-12-17 10:00:53.355353]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

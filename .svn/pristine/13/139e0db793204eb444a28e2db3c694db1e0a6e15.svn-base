@@ -1,0 +1,2405 @@
+<dataset>
+  <table name="TCC_ASSET">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>EFF_DATE</column>
+    <column>CUR_IND</column>
+    <column>AMT_CASH</column>
+    <column>DATE_CASH</column>
+    <column>BANK_NUM</column>
+    <column>BANK_CODE1</column>
+    <column>BRN_CODE1</column>
+    <column>ACC_NUM1</column>
+    <column>BAL1</column>
+    <column>BAL_DATE1</column>
+    <column>CHK_ACC_DATE1</column>
+    <column>BANK_CODE2</column>
+    <column>BRN_CODE2</column>
+    <column>ACC_NUM2</column>
+    <column>BAL2</column>
+    <column>BAL_DATE2</column>
+    <column>CHK_ACC_DATE2</column>
+    <column>BANK_CODE3</column>
+    <column>BRN_CODE3</column>
+    <column>ACC_NUM3</column>
+    <column>BAL3</column>
+    <column>BAL_DATE3</column>
+    <column>CHK_ACC_DATE3</column>
+    <column>BANK_CODE4</column>
+    <column>BRN_CODE4</column>
+    <column>ACC_NUM4</column>
+    <column>BAL4</column>
+    <column>BAL_DATE4</column>
+    <column>CHK_ACC_DATE4</column>
+    <column>BANK_CODE5</column>
+    <column>BRN_CODE5</column>
+    <column>ACC_NUM5</column>
+    <column>BAL5</column>
+    <column>BAL_DATE5</column>
+    <column>CHK_ACC_DATE5</column>
+    <column>BANK_CODE6</column>
+    <column>BRN_CODE6</column>
+    <column>ACC_NUM6</column>
+    <column>BAL6</column>
+    <column>BAL_DATE6</column>
+    <column>CHK_ACC_DATE6</column>
+    <column>BANK_CODE7</column>
+    <column>BRN_CODE7</column>
+    <column>ACC_NUM7</column>
+    <column>BAL7</column>
+    <column>BAL_DATE7</column>
+    <column>CHK_ACC_DATE7</column>
+    <column>BANK_CODE8</column>
+    <column>BRN_CODE8</column>
+    <column>ACC_NUM8</column>
+    <column>BAL8</column>
+    <column>BAL_DATE8</column>
+    <column>CHK_ACC_DATE8</column>
+    <column>INV_AMT</column>
+    <column>DATE_INV</column>
+    <column>ASS_VAL_INV</column>
+    <column>INV_RMK_OFFC</column>
+    <column>INS_ASSET_AMT</column>
+    <column>DATE_INS_ASSET</column>
+    <column>ASS_VAL_INS</column>
+    <column>INS_RMK_OFFC</column>
+    <column>POSSN_AMT</column>
+    <column>DATE_VAL_POSSN</column>
+    <column>ASS_VAL_POSSN</column>
+    <column>POSSN_RMK_OFFC</column>
+    <column>AMT_PPTY</column>
+    <column>DATE_PPTY</column>
+    <column>ASS_VAL_PPTY</column>
+    <column>PPTY_RMK_OFFC</column>
+    <column>MPF_ASSET_AMT</column>
+    <column>DATE_MPF_ASSET</column>
+    <column>ASS_VAL_MPF</column>
+    <column>MPF_RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>OTH_ASSET_DESC</column>
+    <column>OTH_ASSET_AMT</column>
+    <column>DATE_OTH_ASSET</column>
+    <column>ASS_VAL_OTH_ASSET</column>
+    <column>OTH_RMK_OFFC</column>
+    <column>RMK_OFFC</column>
+    <column>FPN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>2002-01-18</value>
+      <value>N</value>
+      <value>1000.00</value>
+      <value>2002-01-18</value>
+      <value>1</value>
+      <value>003</value>
+      <value>424</value>
+      <value><![CDATA[99990569 ]]></value>
+      <value>12354.01</value>
+      <value>2002-01-15</value>
+      <value>2002-01-18</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2002-01-18</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2002-01-18</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2002-01-18</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>2002-01-18</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK03020</value>
+      <value><![CDATA[2003-06-14 10:22:47.25956]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>2003-06-14</value>
+      <value>N</value>
+      <value>800.00</value>
+      <value>2003-06-19</value>
+      <value>2</value>
+      <value>003</value>
+      <value>424</value>
+      <value><![CDATA[99990569 ]]></value>
+      <value>9865.20</value>
+      <value>2003-06-13</value>
+      <value>2003-06-14</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99998544 ]]></value>
+      <value>5000.00</value>
+      <value>2003-06-19</value>
+      <value>2003-06-19</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>2</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-10-07 11:42:00.346832]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>2003-10-07</value>
+      <value>N</value>
+      <value>45000.00</value>
+      <value>2003-10-07</value>
+      <value>1</value>
+      <value>003</value>
+      <value>424</value>
+      <value><![CDATA[99990569 ]]></value>
+      <value>8843.20</value>
+      <value>2003-09-24</value>
+      <value>2003-10-07</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>2003-06-19</value>
+      <value>0.00</value>
+      <value/>
+      <value><![CDATA[(MASKED) Officer's remarks for this case!]]></value>
+      <value>2</value>
+      <value>LCK04006</value>
+      <value><![CDATA[2003-11-12 14:20:54.946089]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2004-04-08</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>2004-04-08</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>100.00</value>
+      <value>2004-04-01</value>
+      <value>2004-04-08</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 10:57:46.329434]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2004-11-09</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2004-11-09</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>89.00</value>
+      <value>2004-10-27</value>
+      <value>2004-11-09</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2004-11-09</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2004-11-09</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2004-11-09</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[Other Asset Description!!!]]></value>
+      <value>0.00</value>
+      <value>2004-11-09</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2005-10-31 10:53:27.737636]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2005-10-31</value>
+      <value>N</value>
+      <value>1000.00</value>
+      <value>2005-10-31</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>393.40</value>
+      <value>2005-10-26</value>
+      <value>2005-10-31</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2006-11-06 10:32:56.925025]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2006-11-06</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2006-11-06</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>3.70</value>
+      <value>2006-11-01</value>
+      <value>2006-11-06</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2007-05-17 10:47:23.865653]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2007-05-17</value>
+      <value>N</value>
+      <value>300.00</value>
+      <value>2007-05-17</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>2591.10</value>
+      <value>2007-05-15</value>
+      <value>2007-05-17</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2007-09-20 18:18:49.453653]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2007-09-20</value>
+      <value>N</value>
+      <value>300.00</value>
+      <value>2007-05-17</value>
+      <value>2</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>2591.10</value>
+      <value>2007-05-15</value>
+      <value>2007-05-17</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911395</value>
+      <value>369.00</value>
+      <value>2007-08-06</value>
+      <value>2007-09-20</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2008-05-20 10:12:43.594981]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2008-05-20</value>
+      <value>N</value>
+      <value>400.00</value>
+      <value>2008-05-20</value>
+      <value>2</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>2662.80</value>
+      <value>2008-05-15</value>
+      <value>2008-05-20</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911395</value>
+      <value>952.00</value>
+      <value>2008-05-13</value>
+      <value>2008-05-20</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>7</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2008-11-19 10:18:28.942925]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2008-11-19</value>
+      <value>N</value>
+      <value>400.00</value>
+      <value>2008-05-20</value>
+      <value>2</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>3668.10</value>
+      <value>2008-11-17</value>
+      <value>2008-11-19</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911395</value>
+      <value>0.00</value>
+      <value>2008-07-08</value>
+      <value>2008-11-19</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value><![CDATA[(MASKED) Officer's remarks for this case!]]></value>
+      <value>8</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2009-05-29 12:23:22.587837]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2009-05-29</value>
+      <value>N</value>
+      <value>400.00</value>
+      <value>2009-05-29</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>1187.30</value>
+      <value>2009-05-17</value>
+      <value>2009-05-29</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>8</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2010-05-27 12:44:36.626035]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2010-05-27</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2010-05-27</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>1561.60</value>
+      <value>2010-05-17</value>
+      <value>2010-05-27</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>8</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2011-06-07 12:32:00.34441]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2011-06-07</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2011-06-07</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>12644.01</value>
+      <value>2011-06-07</value>
+      <value>2011-06-07</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2012-05-29 11:15:49.362372]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2012-05-29</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2012-05-28</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>252.04</value>
+      <value>2012-05-23</value>
+      <value>2012-05-28</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-05-29 17:44:34.780865]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2013-05-29</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2013-05-29</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>825.28</value>
+      <value>2013-05-22</value>
+      <value>2013-05-29</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-12-11 14:22:33.170586]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2013-12-11</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2013-12-11</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>1192.54</value>
+      <value>2013-12-02</value>
+      <value>2013-12-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-26 11:15:03.737988]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2014-11-26</value>
+      <value>N</value>
+      <value>500.00</value>
+      <value>2014-11-26</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>335.67</value>
+      <value>2014-11-17</value>
+      <value>2014-11-26</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2015-11-17 10:55:22.135902]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>2015-11-17</value>
+      <value>Y</value>
+      <value>500.00</value>
+      <value>2015-11-17</value>
+      <value>1</value>
+      <value>012</value>
+      <value>679</value>
+      <value><![CDATA[99991642 ]]></value>
+      <value>3638.96</value>
+      <value>2015-11-16</value>
+      <value>2015-11-17</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[Other Asset Description!!!]]></value>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>10</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2015-11-17 10:55:22.15161]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2005-10-31</value>
+      <value>N</value>
+      <value>50.00</value>
+      <value>2005-10-31</value>
+      <value>1</value>
+      <value>029</value>
+      <value>617</value>
+      <value>999921171</value>
+      <value>760.00</value>
+      <value>2005-10-03</value>
+      <value>2005-10-31</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:33:39.330906]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2006-11-06</value>
+      <value>N</value>
+      <value>20.00</value>
+      <value>2006-11-06</value>
+      <value>1</value>
+      <value>029</value>
+      <value>617</value>
+      <value>999921171</value>
+      <value>24.00</value>
+      <value>2006-06-30</value>
+      <value>2006-11-06</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2007-05-17 10:48:33.51107]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2007-05-17</value>
+      <value>N</value>
+      <value>20.00</value>
+      <value>2007-05-17</value>
+      <value>1</value>
+      <value>029</value>
+      <value>617</value>
+      <value>999921171</value>
+      <value>200.00</value>
+      <value>2007-05-16</value>
+      <value>2007-05-17</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>0</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2007-09-20 18:18:02.440084]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2007-09-20</value>
+      <value>N</value>
+      <value>20.00</value>
+      <value>2007-05-17</value>
+      <value>1</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911683</value>
+      <value>0.00</value>
+      <value>2007-08-10</value>
+      <value>2007-09-20</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>7</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-20 10:13:10.30684]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2008-05-20</value>
+      <value>N</value>
+      <value>50.00</value>
+      <value>2008-05-20</value>
+      <value>1</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911683</value>
+      <value>1238.00</value>
+      <value>2008-05-13</value>
+      <value>2008-05-20</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>7</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-11-19 10:20:59.161463]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2008-11-19</value>
+      <value>N</value>
+      <value>100.00</value>
+      <value>2008-11-19</value>
+      <value>1</value>
+      <value>072</value>
+      <value>714</value>
+      <value>999911683</value>
+      <value>0.00</value>
+      <value>2008-07-08</value>
+      <value>2008-11-19</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value><![CDATA[(MASKED) Officer's remarks for this case!]]></value>
+      <value>7</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2015-11-17 10:55:54.510824]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2015-11-17</value>
+      <value>Y</value>
+      <value>20.00</value>
+      <value>2015-11-17</value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[Other Asset Description!!!]]></value>
+      <value>0.00</value>
+      <value>2015-11-17</value>
+      <value>0.00</value>
+      <value/>
+      <value><![CDATA[(MASKED) Officer's remarks for this case!]]></value>
+      <value>7</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2015-11-17 10:55:54.52179]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

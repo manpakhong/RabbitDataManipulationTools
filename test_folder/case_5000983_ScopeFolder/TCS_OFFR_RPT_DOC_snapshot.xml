@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TCS_OFFR_RPT_DOC">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>ATT_DESC_ID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>IS_USED</column>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-09 15:22:55.638046]]></value>
+      <value>20821</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 11:13:24.69432]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,137 @@
+<dataset>
+  <table name="TCC_MTR_REFL">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REF_DATE</column>
+    <column>LTR_PRT_DATE</column>
+    <column>PD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2009-03-01</value>
+      <value>2010-02-28</value>
+      <value>2009-10-24</value>
+      <value>2009-10-24</value>
+      <value>Y</value>
+      <value><![CDATA[PL19177 ]]></value>
+      <value><![CDATA[2010-11-26 23:02:13.050407]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2010-03-01</value>
+      <value>2011-02-28</value>
+      <value>2010-03-15</value>
+      <value>2010-03-15</value>
+      <value>Y</value>
+      <value><![CDATA[PL19177 ]]></value>
+      <value><![CDATA[2010-11-26 23:02:13.050429]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2011-03-01</value>
+      <value>2012-02-29</value>
+      <value>2011-03-03</value>
+      <value>2011-03-03</value>
+      <value>Y</value>
+      <value>CACGEMT3</value>
+      <value><![CDATA[2011-03-03 22:53:12.249032]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2012-03-01</value>
+      <value>2013-02-28</value>
+      <value>2012-02-21</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2012-02-21 21:30:04.72873]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2013-03-01</value>
+      <value>2014-02-28</value>
+      <value>2013-02-27</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2013-02-27 21:46:32.503725]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2014-03-01</value>
+      <value>2014-08-31</value>
+      <value>2014-01-20</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2014-01-20 21:33:13.453388]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2014-09-01</value>
+      <value>2015-08-31</value>
+      <value>2014-07-15</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2014-07-15 22:08:40.211538]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>2015-09-01</value>
+      <value>2016-08-31</value>
+      <value>2015-07-17</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2015-07-17 21:05:51.323583]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

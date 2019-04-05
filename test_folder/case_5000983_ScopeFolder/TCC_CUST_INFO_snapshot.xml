@@ -1,0 +1,146 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>4001140</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001141</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001142</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001143</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001144</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001145</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 10:56:19.335]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001146</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-12 16:18:35.634794]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001147</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-12 16:20:44.996809]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

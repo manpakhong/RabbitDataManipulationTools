@@ -1,0 +1,11 @@
+<dataset>
+  <table name="TCS_CLEIC_SUM">
+    <column>CASE_KEY</column>
+    <column>SECTION</column>
+    <column>INP_SEQ_NUM</column>
+    <column>DESC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

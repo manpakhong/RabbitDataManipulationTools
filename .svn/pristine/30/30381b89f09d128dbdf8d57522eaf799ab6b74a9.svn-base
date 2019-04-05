@@ -1,0 +1,62 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>755427</value>
+      <value>H</value>
+      <value><![CDATA[J22294984           ]]></value>
+      <value>1997-08-22</value>
+      <value>2007-08-22</value>
+      <value/>
+      <value/>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 09:41:24.525834]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>755427</value>
+      <value>V</value>
+      <value><![CDATA[J2969874422         ]]></value>
+      <value>2004-06-08</value>
+      <value>2014-06-08</value>
+      <value/>
+      <value/>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-11-30 09:56:02.024534]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1210800</value>
+      <value>V</value>
+      <value><![CDATA[J2571351524         ]]></value>
+      <value>2004-06-08</value>
+      <value>2007-06-08</value>
+      <value/>
+      <value/>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-11-30 09:56:21.77856]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1210800</value>
+      <value>V</value>
+      <value><![CDATA[J2571351528         ]]></value>
+      <value>2008-02-21</value>
+      <value>2018-02-21</value>
+      <value/>
+      <value/>
+      <value>CWN04074</value>
+      <value><![CDATA[2008-06-26 11:26:40.721477]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

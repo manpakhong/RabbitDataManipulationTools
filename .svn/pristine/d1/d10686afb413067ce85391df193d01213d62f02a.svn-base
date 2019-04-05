@@ -1,0 +1,262 @@
+<dataset>
+  <table name="TCS_OTH_RES">
+    <column>CASE_KEY</column>
+    <column>FST_RCV_DATE</column>
+    <column>LAST_RCV_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_OD</column>
+    <column>ITEM_TYPE</column>
+    <column>TREAT_TYPE</column>
+    <column>CUST_KEY</column>
+    <column>RES_AMT</column>
+    <column>FREQ_TYPE</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PER_MTH</column>
+    <column>MEAL_PATN</column>
+    <column>FST_MTH_DISREGD</column>
+    <column>PART_DISREGD</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>FPN</column>
+    <column>RMK_OFFR</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>2001-06-24</value>
+      <value>2001-06-24</value>
+      <value>OTO</value>
+      <value>7938789</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1316188</value>
+      <value>693.90</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-06-15</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-06-15 10:25:17.926991]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2001-06-24</value>
+      <value>2001-06-24</value>
+      <value>OTO</value>
+      <value>7938791</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317065</value>
+      <value>688.10</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-06-15</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-06-15 10:27:23.015707]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2001-06-24</value>
+      <value>2001-06-24</value>
+      <value>OTO</value>
+      <value>7938793</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317812</value>
+      <value>676.80</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-06-15</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value/>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-06-15 10:29:12.123312]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2001-08-24</value>
+      <value>2001-08-24</value>
+      <value>OTO</value>
+      <value>7938810</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317812</value>
+      <value>220.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-07-03</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-07-16 14:39:25.077943]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2001-08-24</value>
+      <value>2001-08-24</value>
+      <value>OTO</value>
+      <value>7938812</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1316188</value>
+      <value>220.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-07-03</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-07-16 14:32:21.022193]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2001-08-24</value>
+      <value>2001-08-24</value>
+      <value>OTO</value>
+      <value>7938816</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317065</value>
+      <value>220.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2001-07-03</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-07-16 14:36:21.891767]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2003-05-24</value>
+      <value>2003-05-24</value>
+      <value>OTO</value>
+      <value>7938987</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1316188</value>
+      <value>669.60</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2003-06-30</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>3</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2003-07-09 10:30:11.450775]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2003-05-24</value>
+      <value>2003-05-24</value>
+      <value>OTO</value>
+      <value>7938990</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317065</value>
+      <value>669.60</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2003-06-30</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>3</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2003-07-09 10:33:27.06245]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2003-05-24</value>
+      <value>2003-05-24</value>
+      <value>OTO</value>
+      <value>7938993</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>1317812</value>
+      <value>668.70</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2003-06-30</value>
+      <value><![CDATA[(MASKED) VERIFIED BY COURT ORDER]]></value>
+      <value>3</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SKM04053</value>
+      <value><![CDATA[2003-07-09 10:36:50.357014]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

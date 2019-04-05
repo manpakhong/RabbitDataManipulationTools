@@ -1,0 +1,1858 @@
+<dataset>
+  <table name="TPY_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>TXN_DATE</column>
+    <column>PAY_TYPE</column>
+    <column>PAY_MTHD</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>PAY_RSU_STS</column>
+    <column>PAY_DATE</column>
+    <column>GRT_TYPE</column>
+    <column>RSON_CODE</column>
+    <column>PURPOSE_CODE</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>PAY_AMT</column>
+    <column>VT_CASE_KEY</column>
+    <column>ORG_PAY_FR_DATE</column>
+    <column>ORG_PAY_TO_DATE</column>
+    <column>DN_NUM</column>
+    <column>CUR_IMG_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:25.975]]></value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>14415.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:25.975694]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.003]]></value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>2017-01-16</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.003829]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.003001]]></value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.00383]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.003002]]></value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>14415.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.003831]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.054002]]></value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>2017-01-16</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.054305]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.054003]]></value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.054306]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.054004]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>15495.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.054307]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.076004]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>2017-01-16</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.076584]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.076005]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.076587]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.076006]]></value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>28815.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.076589]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.100006]]></value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>2017-01-16</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.100809]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.100007]]></value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.10081]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.100008]]></value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.100811]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.100009]]></value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>16280.80</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.100812]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.145009]]></value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value>2017-01-16</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.145093]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.14501]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>15244.30</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.145094]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.16801]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value>2017-01-16</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.30</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.168391]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-11 17:46:26.168011]]></value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value>2017-01-16</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-16</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>1748.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-11 17:46:26.168392]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.274]]></value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>6221.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.274157]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.278]]></value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.27816]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.278001]]></value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.278161]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.278002]]></value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>6221.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.278162]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.282002]]></value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.282165]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.282003]]></value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.282166]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.282004]]></value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>6221.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.282167]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.285004]]></value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.28517]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.285005]]></value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.285171]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.285006]]></value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>7233.70</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.285172]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.288006]]></value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value>2017-01-18</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.30</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.288175]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.288007]]></value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.288176]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.288008]]></value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>9708.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.288177]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.291008]]></value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.29118]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.291009]]></value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.291181]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.29101]]></value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>10828.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.291182]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.29301]]></value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.294185]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.294011]]></value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.294186]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.294012]]></value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>26098.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.294187]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.296012]]></value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.20</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.29619]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.296013]]></value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.296191]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.296014]]></value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>15818.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.296192]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.299014]]></value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.299195]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.299015]]></value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.300196]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.300016]]></value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>11633.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.300197]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.312016]]></value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.312209]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.312017]]></value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.31221]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.312018]]></value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>11633.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.312211]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.315018]]></value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.315214]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.315019]]></value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.315215]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.31602]]></value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>11628.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.316216]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.32002]]></value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>2017-01-18</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.320219]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.320021]]></value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.32022]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.320022]]></value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>11628.60</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.320221]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.323022]]></value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>2017-01-18</value>
+      <value>S+</value>
+      <value>BP</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.323224]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.323023]]></value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.323225]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.323024]]></value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>10780.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.323226]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.327024]]></value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.327229]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.327025]]></value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.32723]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.327026]]></value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>10780.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.327231]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.330026]]></value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.330234]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.330027]]></value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.330235]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.330028]]></value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>10780.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.330236]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.334028]]></value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value>2017-01-18</value>
+      <value>S-</value>
+      <value>BP</value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>SPL</value>
+      <value><![CDATA[  ]]></value>
+      <value>P</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>0.40</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.334239]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value><![CDATA[2017-01-13 17:54:34.334029]]></value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value>2017-01-18</value>
+      <value>PA</value>
+      <value>BP</value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value><![CDATA[  ]]></value>
+      <value>2017-01-18</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>R</value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>2356.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[            ]]></value>
+      <value>Y</value>
+      <value>NBPCONSC</value>
+      <value><![CDATA[2017-01-13 17:54:34.33424]]></value>
+      <value>000000</value>
+    </row>
+  </table>
+</dataset>

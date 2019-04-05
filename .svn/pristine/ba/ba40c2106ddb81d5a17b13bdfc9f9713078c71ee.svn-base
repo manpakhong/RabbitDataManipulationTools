@@ -1,0 +1,68 @@
+<dataset>
+  <table name="TCC_XREF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CUST_ROLE</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_VER_IND</column>
+    <column>RSHP_RMK</column>
+    <column>FPN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>APPL_IND</column>
+    <column>LIV_IND</column>
+    <column>DEP_IND</column>
+    <column>FIN_DEP_CODE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>755427</value>
+      <value>AP</value>
+      <value>AP</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-02-17 10:14:47.320725]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>36500</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN02015</value>
+      <value><![CDATA[2005-05-26 11:40:28.867721]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

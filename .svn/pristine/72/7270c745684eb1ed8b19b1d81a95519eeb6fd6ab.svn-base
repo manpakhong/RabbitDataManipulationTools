@@ -1,0 +1,19 @@
+<dataset>
+  <table name="TPY_AP_RTN">
+    <column>PROC_DATE</column>
+    <column>CASE_KEY</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>AP_AMT</column>
+    <column>AP_RTN_TYPE</column>
+    <column>REJ_CODE</column>
+    <column>MNL_INP</column>
+    <column>PAY_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>PAY_CODE</column>
+  </table>
+</dataset>

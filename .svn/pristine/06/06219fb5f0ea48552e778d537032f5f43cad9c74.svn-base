@@ -1,0 +1,184 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value>DISABILITY</value>
+      <value>2000-11-24</value>
+      <value>2000-12-12</value>
+      <value>2001-02-23</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04045</value>
+      <value><![CDATA[2001-01-16 15:36:10.634084]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value>DISABILITY</value>
+      <value>2002-12-17</value>
+      <value>2002-12-18</value>
+      <value>2004-12-16</value>
+      <value><![CDATA[50D       ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[HN02127293(N)/MED/QEH                                                 ]]></value>
+      <value>SKM04053</value>
+      <value><![CDATA[2002-12-24 11:11:06.41268]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value>DISABILITY</value>
+      <value>2015-08-25</value>
+      <value>2015-09-08</value>
+      <value>2016-08-24</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04115</value>
+      <value><![CDATA[2015-09-15 10:00:10.475656]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2015-09-08</value>
+      <value>2015-09-08</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04115</value>
+      <value><![CDATA[2015-09-15 10:00:10.479955]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2000-11-24</value>
+      <value>2000-12-12</value>
+      <value>2001-02-23</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04045</value>
+      <value><![CDATA[2001-01-16 15:36:10.737969]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2001-03-27</value>
+      <value>2001-03-27</value>
+      <value>2001-06-26</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[OT-99-19982                                                           ]]></value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-04-04 12:24:29.077538]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2002-12-17</value>
+      <value>2002-12-18</value>
+      <value>2004-12-16</value>
+      <value><![CDATA[LIMITED   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[HN02127293(N)/MED/QEH                                                 ]]></value>
+      <value>SKM04053</value>
+      <value><![CDATA[2002-12-24 11:11:06.464262]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>DISABILITY</value>
+      <value>2001-09-05</value>
+      <value>2001-09-07</value>
+      <value>2002-01-04</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[HN01095522(S)/O&T/QEH                                                 ]]></value>
+      <value>SKM04053</value>
+      <value><![CDATA[2001-09-11 16:52:48.370996]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>DISABILITY</value>
+      <value>2015-08-25</value>
+      <value>2015-10-29</value>
+      <value>2016-02-24</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04115</value>
+      <value><![CDATA[2015-11-09 09:45:44.575096]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>DISABILITY</value>
+      <value>2016-02-25</value>
+      <value>2016-01-08</value>
+      <value>2016-08-24</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04115</value>
+      <value><![CDATA[2016-01-14 17:03:29.317602]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2016-02-25</value>
+      <value>2016-01-08</value>
+      <value>2016-08-24</value>
+      <value>INCAPACITY</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04115</value>
+      <value><![CDATA[2016-01-14 17:03:29.322226]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1317812</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2010-11-06</value>
+      <value>1111-11-11</value>
+      <value>2011-01-14</value>
+      <value><![CDATA[PREGNANT  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>SKM04085</value>
+      <value><![CDATA[2011-01-31 18:57:45.061429]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

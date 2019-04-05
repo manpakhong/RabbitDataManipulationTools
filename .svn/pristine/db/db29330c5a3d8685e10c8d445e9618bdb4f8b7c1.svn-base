@@ -1,0 +1,79 @@
+<dataset>
+  <table name="TMS_CUST_HIST">
+    <column>CASE_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>CRE_TS</column>
+    <column>CUST_STS</column>
+    <column>EFF_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[ G318272            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1999-03-09 09:47:20.0]]></value>
+      <value>AP</value>
+      <value>1999-03-08</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[ R730033            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1999-06-09 09:27:21.6]]></value>
+      <value>SI</value>
+      <value>1999-06-09</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[ R730033            ]]></value>
+      <value>I</value>
+      <value><![CDATA[2000-05-31 10:16:34.6]]></value>
+      <value>SE</value>
+      <value>2000-05-31</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2354921T            ]]></value>
+      <value>C</value>
+      <value><![CDATA[1999-03-09 09:49:27.2]]></value>
+      <value>ME</value>
+      <value>1999-03-09</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2364336T            ]]></value>
+      <value>C</value>
+      <value><![CDATA[1999-03-09 09:50:09.5]]></value>
+      <value>ME</value>
+      <value>1999-03-09</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2382592T            ]]></value>
+      <value>C</value>
+      <value><![CDATA[1999-03-09 09:48:46.8]]></value>
+      <value>ME</value>
+      <value>1999-03-09</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

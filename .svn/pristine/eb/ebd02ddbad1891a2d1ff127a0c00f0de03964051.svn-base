@@ -1,0 +1,16 @@
+<dataset>
+  <table name="TMS_RR_INC_LIST">
+    <column>CASE_KEY</column>
+    <column>FOR_AR_I</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ORIGINAL_RENT</column>
+    <column>REDUCED_RENT</column>
+    <column>PARTIAL_IND</column>
+    <column>EXPORTED_IND</column>
+    <column>UPD_BY_SWD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

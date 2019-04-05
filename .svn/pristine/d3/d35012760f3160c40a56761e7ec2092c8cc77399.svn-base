@@ -1,0 +1,299 @@
+<dataset>
+  <table name="TCC_SCH_YR">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2000-09-01</value>
+      <value>2001-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2001-09-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2003-09-01</value>
+      <value>2004-08-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2004-09-01</value>
+      <value>2005-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2005-09-01</value>
+      <value>2006-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2006-09-01</value>
+      <value>2007-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2009-09-01</value>
+      <value>2010-03-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2011-09-01</value>
+      <value>2012-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>2011-09-01</value>
+      <value>2012-03-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2011-09-01</value>
+      <value>2012-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2013-09-01</value>
+      <value>2014-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2014-09-01</value>
+      <value>2015-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2014-09-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2015-09-01</value>
+      <value>2016-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2015-09-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+  </table>
+</dataset>

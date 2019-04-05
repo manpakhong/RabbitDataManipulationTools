@@ -1,0 +1,182 @@
+2016-06-27 10:58:04 INFO  main org.hibernate.Version - HHH000412: Hibernate Core {5.0.6.Final}
+2016-06-27 10:58:04 INFO  main org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-06-27 10:58:04 INFO  main org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-06-27 10:58:04 INFO  main org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2016-06-27 10:58:06 WARN  main org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-06-27 10:58:06 INFO  main org.hibernate.orm.connections - HHH10001005: using driver [com.ibm.db2.jcc.DB2Driver] at URL [jdbc:db2://172.18.16.106:60012/PRDDBDEV:currentSchema=PRDDBS1;progressiveStreaming=2;]
+2016-06-27 10:58:06 INFO  main org.hibernate.orm.connections - HHH10001001: Connection properties: {user=pdodev04, password=****}
+2016-06-27 10:58:06 INFO  main org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+2016-06-27 10:58:06 INFO  main org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-06-27 10:58:07 INFO  main org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.DB2Dialect
+2016-06-27 10:58:12 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PInsLafis begin, Current date:2016-06-27T10:58:12.132
+2016-06-27 10:58:47 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Is_HSBC_Account begin, Current date:2016-06-27T10:58:47.651
+2016-06-27 10:58:47 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - BANK_CODE=024
+2016-06-27 10:58:47 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Is_HSBC_Account finally
+2016-06-27 10:58:47 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Is_HSBC_Account(return): iCaseKey=4468919, iRc=32015
+2016-06-27 10:58:51 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - iCaseKey=4468919, sPu=ABD, sGrtType=CSA, sHandleNoti=Y
+2016-06-27 10:58:51 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - dAssPerdStrDate=Sun Mar 01 00:00:00 CST 2015, dAssPerdEndDate=Mon Feb 29 23:59:59 CST 2016, dPaymentExpDate=Mon Jun 27 23:59:59 CST 2016, iPayDay=7
+2016-06-27 10:58:51 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sOpCode=AP, sUserPU=, sUserID=test1, sUserPost=SSA2_ABDFU, tCreTs=2016-06-27 10:57:55.886
+2016-06-27 10:58:57 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Read Case Info 
+
+2016-06-27 10:58:58 WARN  main org.hibernate.orm.connections - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2016-06-27 10:58:58 INFO  main org.hibernate.orm.connections - HHH10001005: using driver [com.ibm.db2.jcc.DB2Driver] at URL [jdbc:db2://172.18.16.106:60012/PRDDBDEV:currentSchema=PRDDBS1;progressiveStreaming=2;]
+2016-06-27 10:58:58 INFO  main org.hibernate.orm.connections - HHH10001001: Connection properties: {user=pdodev04, password=****}
+2016-06-27 10:58:58 INFO  main org.hibernate.orm.connections - HHH10001003: Autocommit mode: false
+2016-06-27 10:58:58 INFO  main org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-06-27 10:58:58 INFO  main org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.DB2Dialect
+2016-06-27 10:59:00 INFO  main hksarg.swd.csss.database.HibernateUtil - session established!
+2016-06-27 10:59:15 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - tcsCssa: sProcUnit=WTS, sSchmType=C, iSerNum=47433, dLastPayDate=2016-10-30
+2016-06-27 10:59:15 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - bUrgChgBA=true
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - calcCutoffDate begin, Current date:2016-06-27T10:59:16.500
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Checking for Cutoff : Mon Jun 27 10:59:16 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - isHoliday begin, Current date:2016-06-27T10:59:16.590
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Mon Jun 27 10:59:16 CST 2016 isHolidayFlag=0
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - isHoliday finally
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Mon Jun 27 10:59:16 CST 2016 : 1059 requires 1 working days offset.
+
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - dCutoff2=Tue Jun 28 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - isHoliday begin, Current date:2016-06-27T10:59:16.635
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Tue Jun 28 00:00:00 CST 2016 isHolidayFlag=0
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - isHoliday finally
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Result cutoff day is Mon Jun 27 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - Result cutoff day is Tue Jun 28 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - calcCutoffDate finally
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Perform change of bank account: dStrDate=
+Tue Jun 28 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - chgOfAccRecPayDateIsEmptyDate.size()=1
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Cut Off Date =Tue Jun 28 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - dToday =Mon Jun 27 00:00:00 CST 2016
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Bank Code =024
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Brn Code =255
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Acc =999930668
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - SECOND rs4.size()=1
+2016-06-27 10:59:16 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - 1: dLastPayDate=2016-10-30, sOldBankCode=024, sOldBrnCode=255, sOldAccNum=999930668, sOldAccName=(MASKED) OLD ACCOUNT NAME                                             , sNewBankCode=024, sNewAccName=(MASKED) NEW ACCOUNT NAME                                             
+2016-06-27 10:59:22 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - tpyHistwithTxnDtAftCutOffDt.size()=0
+2016-06-27 10:59:23 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - No record found in TPY_HIST: iCaseKey=4468919
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - deleteUrgentChangeOfBankAccount: 1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Delete old Payment Instructions: step 1
+
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Delete based on Pending and E, H, Q
+
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Acting on all Pending Payment Instruction
+
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.database.HibernateUtil - session established!
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.database.CsssQuery - flush all session objects
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.database.HibernateUtil - session established!
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.cmm.common.SystemHighKeyService - High Value retrieved for CQ/ : 29532
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - findCommitmentRec begin, Current date:2016-06-27T10:59:28.601, iPayDay=7
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - findCommitmentRec :pComms.isEmpty 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - findCommitmentRec: node.sGrt=, node.iYear=0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - findCommitmentRec: !bFound sGrt=CSA, iYear=2016, iPayDay=7, dt=07/03/2016
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - declare cursor for all payment instruction 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=A, sFrDate=01/09/2015, sToDate=30/09/2015, sPayInstrInd=N, dPayAmt=105.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2= , sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=A, sToDate=30/09/2015, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=105.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= A
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=A, sFrDate=01/10/2015, sToDate=31/10/2015, sPayInstrInd=N, dPayAmt=17784.66
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2= , sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=A, sToDate=31/10/2015, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=17784.66
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= A
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=A, sFrDate=01/11/2015, sToDate=30/11/2015, sPayInstrInd=N, dPayAmt=6991.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2= , sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=A, sToDate=30/11/2015, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=6991.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= A
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=N, sFrDate=01/12/2015, sToDate=31/12/2015, sPayInstrInd=N, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2=A, sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=N, sToDate=31/12/2015, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= N
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=N, sFrDate=01/01/2016, sToDate=31/01/2016, sPayInstrInd=N, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2=A, sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=N, sToDate=31/01/2016, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= N
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PI :sPayType=N, sFrDate=01/02/2016, sToDate=29/02/2016, sPayInstrInd=N, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG generate subimprest has to use the updated PayType : sPendSimpAmtArr[0]=                                                       , sPendSimpDateArr[0]=                                                       
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - disable checking of the flag, use individual part to issue cheque: sOpCode=AP
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 2.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.1
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.3
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG 3.4
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - Handle Cheque Payment : sPayMode2=A, sPayMode3= , sPayMode4= , sPayMode5= 
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - DEBUG END Handle Cheque Payment sPayInstrInd=N, sPayType=N, sToDate=29/02/2016, sCommEffStrDate=, dLastUpdTs=null, dPayAmt=9125.0
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sRecSts=A, sUpdPIInd=N, sUpdPIPayType= N
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - sPendSimpAmtArr=[Ljava.lang.String;@c8dc1ef, dAuthSimpAmt=[Ljava.math.BigDecimal;@21f4f5d4, sSimpReqInd=[Ljava.lang.String;@45488836
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - delete old rec tpyPayInstr
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - saveOrUpdate tpyPayInstr OK
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - saveComms: iKey - 4468919, sDate - 27/06/2016, sFU -  ABD, sUID - test1, sPost - SSA2_ABDFU, sCreTs 2016-06-27 10:57:55.886
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - pComms size: 2
+2016-06-27 10:59:28 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - node.sGrt: , node.iYear: 0
+2016-06-27 10:59:33 INFO  main hksarg.swd.csss.csa.common.CSA_MiscUtils - node.sGrt: CSA, node.iYear: 2016
+2016-06-27 10:59:37 INFO  main hksarg.swd.csss.csa.common.CSA_InsLafis - PInsLafis finally
+2016-06-27 11:00:12 INFO  main org.hibernate.Version - HHH000412: Hibernate Core {5.0.6.Final}
+2016-06-27 11:00:12 INFO  main org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2016-06-27 11:00:12 INFO  main org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+2016-06-27 11:00:13 INFO  main org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}

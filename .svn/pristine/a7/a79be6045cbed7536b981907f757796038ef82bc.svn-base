@@ -1,0 +1,19 @@
+<dataset>
+  <table name="TMS_PURGE_LIST">
+    <column>CASE_KEY</column>
+    <column>SCHM_TYPE</column>
+    <column>PROC_UNIT</column>
+    <column>SER_NUM</column>
+    <column>PURGE_STS</column>
+    <column>PURGE_DATE</column>
+    <column>CRE_DATE</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>DATE_CLS</column>
+    <column>PAY_STS</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

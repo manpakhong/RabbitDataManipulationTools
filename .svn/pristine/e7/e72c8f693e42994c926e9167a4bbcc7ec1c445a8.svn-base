@@ -1,0 +1,58 @@
+package hksarg.swd.csss.csa.flowtest.daos;
+
+import java.util.List;
+
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Criterion;
+import org.hibernate.criterion.Restrictions;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+
+public class TuaUserPostDao extends HibernateBaseDao {
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	public TuaUserPostDao() {
+	}
+
+	public List<TuaUserPost> getTuaUserPostList(String loginId){
+		List<TuaUserPost> tuaUserPostListRtn = null;
+		Session sess = null;
+		Transaction tran = null;
+		try{
+			sessionFactory.openSession();
+			sess = sessionFactory.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			Criteria criteria = sess.createCriteria(TuaUserPost.class);
+			Criterion loginCriterion = Restrictions.eq("id.loginId", loginId);
+			
+			criteria.add(loginCriterion);
+			@SuppressWarnings("unchecked")
+			List<TuaUserPost> tuaUserPostList = criteria.list();
+			if (tuaUserPostList != null && !tuaUserPostList.isEmpty()) {
+//				for (Object obj : tuaUserPostList) {
+//					TuaUserPost tuaUserPost = (TuaUserPost) obj;
+//				}
+				tuaUserPostListRtn = tuaUserPostList;
+			}
+
+			tran.commit();
+		} catch (Exception e){
+			tran.rollback();
+			logger.error(className + ".getTuaUserPostList() - loginId=" + loginId, e);
+		} finally{
+			if (sess != null && sess.isOpen()){
+				sess.close();
+			}
+			sess = null;
+		}
+		return tuaUserPostListRtn;
+	}
+	
+}

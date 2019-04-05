@@ -1,0 +1,178 @@
+<dataset>
+  <table name="TCC_XREF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CUST_ROLE</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_VER_IND</column>
+    <column>RSHP_RMK</column>
+    <column>FPN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>APPL_IND</column>
+    <column>LIV_IND</column>
+    <column>DEP_IND</column>
+    <column>FIN_DEP_CODE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>MB</value>
+      <value>HU</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-04-27 10:03:42.059971]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1116659</value>
+      <value>AP</value>
+      <value>AP</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-04-08 11:15:58.034169]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 15:01:56.313158]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-05-27 19:15:23.785215]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-05-29 17:55:18.337045]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2011-10-07 14:39:48.327189]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>MB</value>
+      <value>SO</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK05030</value>
+      <value><![CDATA[2012-06-01 16:19:11.466993]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

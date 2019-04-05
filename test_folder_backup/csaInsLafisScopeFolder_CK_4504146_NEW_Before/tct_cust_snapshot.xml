@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>540613</value>
+      <value><![CDATA[ D9149717           ]]></value>
+      <value>I</value>
+      <value><![CDATA[YEONG                         ]]></value>
+      <value><![CDATA[DIHUAN                        ]]></value>
+      <value><![CDATA[楊             ]]></value>
+      <value><![CDATA[第煥          ]]></value>
+      <value><![CDATA[27991               ]]></value>
+      <value><![CDATA[4574135621          ]]></value>
+      <value>M</value>
+      <value>1932-10-24</value>
+      <value>2015-10-19</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>KCW03123</value>
+      <value><![CDATA[2015-10-29 16:17:04.00732]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

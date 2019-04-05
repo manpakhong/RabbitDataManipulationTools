@@ -1,0 +1,98 @@
+<dataset>
+  <table name="TCS_LTS_DTL">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>STR_DATE</column>
+    <column>MNL_OVR</column>
+    <column>ELIG_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2010-11-01</value>
+      <value>2010-11-30</value>
+      <value>2009-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2009-10-09 09:52:59.885481]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2011-11-01</value>
+      <value>2011-11-30</value>
+      <value>2010-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2010-10-27 15:50:36.936576]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2012-11-01</value>
+      <value>2012-11-30</value>
+      <value>2011-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2010-10-27 15:50:36.936576]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2013-11-01</value>
+      <value>2013-11-30</value>
+      <value>2012-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2010-10-27 15:50:36.936576]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2014-11-01</value>
+      <value>2014-11-30</value>
+      <value>2013-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2014-10-23 10:25:08.511688]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value>2014-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2015-12-10 16:03:44.468425]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>A</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>2015-10-17</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2015-11-12 15:55:02.920337]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

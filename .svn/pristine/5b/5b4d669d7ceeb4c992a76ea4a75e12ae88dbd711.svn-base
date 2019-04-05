@@ -1,0 +1,257 @@
+<dataset>
+  <table name="TAS_ELG_STS">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>CUST_STS</column>
+    <column>TO_DATE</column>
+    <column>RSON_CODE</column>
+    <column>SFS_CODE</column>
+    <column>NEL_CODE</column>
+    <column>CRE_DATE</column>
+    <column>RMK</column>
+    <column>SPS_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>1998-07-15</value>
+      <value>ABU</value>
+      <value>2000-12-14</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04020</value>
+      <value><![CDATA[2001-07-26 10:14:28.412604]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2001-07-09</value>
+      <value>ABU</value>
+      <value>2002-04-23</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-05-28 09:38:27.697227]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2002-09-30</value>
+      <value>TDA</value>
+      <value>2002-12-29</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-09-30 16:28:55.649641]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2002-12-30</value>
+      <value>ABU</value>
+      <value>2003-04-30</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2003-06-02 14:10:37.188542]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2003-11-03</value>
+      <value>ABU</value>
+      <value>2003-12-02</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2003-12-19 16:01:20.408142]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2003-12-19</value>
+      <value>ABU</value>
+      <value>2004-04-17</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2004-05-03 16:29:54.450173]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2004-05-03</value>
+      <value>ABU</value>
+      <value>2004-12-31</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>2004-05-03</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-05-09 11:43:23.352883]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2005-05-09</value>
+      <value>ABU</value>
+      <value>2007-10-31</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>2005-05-09</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>SPK04052</value>
+      <value><![CDATA[2007-10-12 10:49:26.142979]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2007-11-01</value>
+      <value>NEL</value>
+      <value>2008-05-22</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[OT ]]></value>
+      <value>2007-10-12</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 15:08:50.123699]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>2008-05-23</value>
+      <value>ABU</value>
+      <value>2019-04-12</value>
+      <value><![CDATA[   ]]></value>
+      <value>CW</value>
+      <value><![CDATA[   ]]></value>
+      <value>2008-04-24</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 15:09:33.11461]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>2005-06-04</value>
+      <value>STU</value>
+      <value>2011-08-31</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2005-07-22</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 15:13:00.377431]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>2005-07-04</value>
+      <value>ABU</value>
+      <value>2005-08-11</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>2005-07-22</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-08-17 10:41:03.972831]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>2005-08-12</value>
+      <value>STU</value>
+      <value>2009-11-17</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2005-08-17</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 15:11:37.005985]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2858038</value>
+      <value>2006-08-29</value>
+      <value>NEL</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[R7 ]]></value>
+      <value>2006-09-14</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2006-09-14 10:47:28.259362]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

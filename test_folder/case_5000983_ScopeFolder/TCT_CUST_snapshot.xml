@@ -1,0 +1,200 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4001140</value>
+      <value><![CDATA[OK0100011           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SUN                           ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[新             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[24501               ]]></value>
+      <value>M</value>
+      <value>1953-08-08</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-16 16:04:05.431]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001141</value>
+      <value><![CDATA[OK010002A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[LOE                           ]]></value>
+      <value><![CDATA[MEI                           ]]></value>
+      <value><![CDATA[盧             ]]></value>
+      <value><![CDATA[耰             ]]></value>
+      <value><![CDATA[41511               ]]></value>
+      <value><![CDATA[50991               ]]></value>
+      <value>F</value>
+      <value>1955-05-06</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:13:00.35]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001142</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[73111               ]]></value>
+      <value>M</value>
+      <value>1976-04-03</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001143</value>
+      <value><![CDATA[ O                  ]]></value>
+      <value>Z</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[FOO                           ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[孚             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[13181               ]]></value>
+      <value>M</value>
+      <value>2006-06-06</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.703]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001144</value>
+      <value><![CDATA[ O                  ]]></value>
+      <value>Z</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[FUN                           ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[芬             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[53581               ]]></value>
+      <value>F</value>
+      <value>2008-02-09</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.703]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001145</value>
+      <value><![CDATA[ O                  ]]></value>
+      <value>Z</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[FONG                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[芳             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[53641               ]]></value>
+      <value>F</value>
+      <value>2010-04-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.703]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001146</value>
+      <value><![CDATA[OK0100070           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHAN                          ]]></value>
+      <value><![CDATA[YUK FONG                      ]]></value>
+      <value><![CDATA[陳             ]]></value>
+      <value><![CDATA[玉芳          ]]></value>
+      <value><![CDATA[71151               ]]></value>
+      <value><![CDATA[3768153641          ]]></value>
+      <value>F</value>
+      <value>1977-05-05</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.703]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001147</value>
+      <value><![CDATA[OK0100089           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[TAK                           ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[德             ]]></value>
+      <value><![CDATA[78061               ]]></value>
+      <value><![CDATA[17951               ]]></value>
+      <value>M</value>
+      <value>1997-09-09</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.703]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

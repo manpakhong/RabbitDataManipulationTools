@@ -1,0 +1,50 @@
+<dataset>
+  <table name="TAS_SHR_RES">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>INP_FMT</column>
+    <column>ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>A</value>
+      <value>1998-12-18</value>
+      <value>1999-01-17</value>
+      <value>OTR</value>
+      <value>A</value>
+      <value>426.00</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>A</value>
+      <value>1999-08-18</value>
+      <value>1999-09-17</value>
+      <value>OTR</value>
+      <value>A</value>
+      <value>702.00</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>A</value>
+      <value>1999-09-18</value>
+      <value>1999-10-17</value>
+      <value>OTR</value>
+      <value>A</value>
+      <value>186.00</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

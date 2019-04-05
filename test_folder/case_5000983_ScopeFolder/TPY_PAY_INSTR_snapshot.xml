@@ -1,0 +1,1082 @@
+<dataset>
+  <table name="TPY_PAY_INSTR">
+    <column>CASE_KEY</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_STS</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>PAY_ARGM</column>
+    <column>PAY_NUM</column>
+    <column>RSON_CODE</column>
+    <column>PAY_ACC_NAME1</column>
+    <column>PAY_BANK_CODE1</column>
+    <column>PAY_BRN_CODE1</column>
+    <column>PAY_ACC_NUM1</column>
+    <column>PAY_MODE2</column>
+    <column>PAY_BANK_SEQ2</column>
+    <column>PAY_ACC_NAME2</column>
+    <column>PAY_BANK_CODE2</column>
+    <column>PAY_BRN_CODE2</column>
+    <column>PAY_ACC_NUM2</column>
+    <column>ID_NUM2</column>
+    <column>ID_TYPE2</column>
+    <column>PURPOSE2</column>
+    <column>OTH_PURPOSE2</column>
+    <column>BANK_PAY_AMT2</column>
+    <column>PAY_MODE3</column>
+    <column>PAY_BANK_SEQ3</column>
+    <column>PAY_ACC_NAME3</column>
+    <column>PAY_BANK_CODE3</column>
+    <column>PAY_BRN_CODE3</column>
+    <column>PAY_ACC_NUM3</column>
+    <column>ID_NUM3</column>
+    <column>ID_TYPE3</column>
+    <column>PURPOSE3</column>
+    <column>OTH_PURPOSE3</column>
+    <column>BANK_PAY_AMT3</column>
+    <column>PAY_MODE4</column>
+    <column>PAY_BANK_SEQ4</column>
+    <column>PAY_ACC_NAME4</column>
+    <column>PAY_BANK_CODE4</column>
+    <column>PAY_BRN_CODE4</column>
+    <column>PAY_ACC_NUM4</column>
+    <column>ID_NUM4</column>
+    <column>ID_TYPE4</column>
+    <column>PURPOSE4</column>
+    <column>OTH_PURPOSE4</column>
+    <column>BANK_PAY_AMT4</column>
+    <column>PAY_MODE5</column>
+    <column>PAY_BANK_SEQ5</column>
+    <column>PAY_ACC_NAME5</column>
+    <column>PAY_BANK_CODE5</column>
+    <column>PAY_BRN_CODE5</column>
+    <column>PAY_ACC_NUM5</column>
+    <column>ID_NUM5</column>
+    <column>ID_TYPE5</column>
+    <column>PURPOSE5</column>
+    <column>OTH_PURPOSE5</column>
+    <column>BANK_PAY_AMT5</column>
+    <column>SIMP_REQ_IND</column>
+    <column>AUTH_SIMP_AMT</column>
+    <column>PEND_SIMP_AMT_ARR</column>
+    <column>PEND_SIMP_DATE_ARR</column>
+    <column>PAY_SLIP_GEN_DATE</column>
+    <column>PAY_TAPE_GEN_DATE</column>
+    <column>TOT_ASS_AMT</column>
+    <column>PAY_INSTR_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>P</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>A</value>
+      <value>0</value>
+      <value>RE</value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>160.87</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>P</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>A</value>
+      <value>0</value>
+      <value>RE</value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>726.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>P</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>A</value>
+      <value>0</value>
+      <value>RE</value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>726.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>P</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>A</value>
+      <value>0</value>
+      <value>RE</value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>726.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-02-01</value>
+      <value>2017-02-28</value>
+      <value>A</value>
+      <value>2017-02-01</value>
+      <value>2017-02-28</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8577.40</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-02-01</value>
+      <value>2017-02-28</value>
+      <value>P</value>
+      <value>2017-02-01</value>
+      <value>2017-02-28</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>9303.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-03-01</value>
+      <value>2017-03-31</value>
+      <value>A</value>
+      <value>2017-03-01</value>
+      <value>2017-03-31</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8577.40</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-03-01</value>
+      <value>2017-03-31</value>
+      <value>P</value>
+      <value>2017-03-01</value>
+      <value>2017-03-31</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>9303.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-04-01</value>
+      <value>2017-04-30</value>
+      <value>A</value>
+      <value>2017-04-01</value>
+      <value>2017-04-30</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8577.40</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-04-01</value>
+      <value>2017-04-30</value>
+      <value>P</value>
+      <value>2017-04-01</value>
+      <value>2017-04-30</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>9303.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-05-01</value>
+      <value>2017-05-31</value>
+      <value>A</value>
+      <value>2017-05-01</value>
+      <value>2017-05-31</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8577.40</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-05-01</value>
+      <value>2017-05-31</value>
+      <value>P</value>
+      <value>2017-05-01</value>
+      <value>2017-05-31</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>9303.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>A</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>12762.40</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>P</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[WONG SUN                                                              ]]></value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>2356.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>13488.40</value>
+      <value>N</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

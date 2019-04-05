@@ -1,0 +1,182 @@
+<dataset>
+  <table name="TCC_EMP_INCM">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>FR_DATE</column>
+    <column>EMP_SEQ_NUM</column>
+    <column>TO_DATE</column>
+    <column>FST_PAY_DATE</column>
+    <column>EARN_TYPE</column>
+    <column>EARN_AMT</column>
+    <column>FST_MTH_DISREGDAMT</column>
+    <column>LAST_UPD_TS</column>
+    <column>MPF_DED_AMT</column>
+    <column>OTH_DED_AMT</column>
+    <column>LAST_PAY_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>7923412</value>
+      <value>2001-12-01</value>
+      <value>7923411</value>
+      <value>2001-12-31</value>
+      <value>2001-12-06</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>940.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2002-01-18 16:11:56.139663]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2001-12-06</value>
+      <value>LCK03020</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>7923415</value>
+      <value>2001-12-01</value>
+      <value>7923414</value>
+      <value>2001-12-31</value>
+      <value>2001-12-11</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>1350.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2002-01-18 16:11:33.208188]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2001-12-11</value>
+      <value>LCK03020</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>7923417</value>
+      <value>2002-01-01</value>
+      <value>7923416</value>
+      <value>2002-01-31</value>
+      <value>2002-01-06</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>940.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2002-01-18 16:13:08.969824]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2002-01-06</value>
+      <value>LCK03020</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>7923419</value>
+      <value>2002-01-01</value>
+      <value>7923418</value>
+      <value>2002-01-31</value>
+      <value>2002-01-11</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>450.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2002-01-18 16:14:29.821164]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2002-01-11</value>
+      <value>LCK03020</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>785576</value>
+      <value>7923486</value>
+      <value>2003-10-01</value>
+      <value>7923476</value>
+      <value>2003-11-30</value>
+      <value>2003-11-10</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>3000.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2003-11-12 14:34:18.177128]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2003-12-10</value>
+      <value>LCK04078</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>7924250</value>
+      <value>2015-01-01</value>
+      <value>7924249</value>
+      <value>2015-01-31</value>
+      <value>2015-01-19</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>1260.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2015-03-03 09:27:01.490615]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2015-01-19</value>
+      <value>LCK03090</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>7924262</value>
+      <value>2015-02-01</value>
+      <value>7924261</value>
+      <value>2015-02-28</value>
+      <value>2015-02-03</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>2240.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2015-03-03 09:26:46.268842]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2015-02-03</value>
+      <value>LCK03090</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>7924275</value>
+      <value>2015-03-01</value>
+      <value>7924274</value>
+      <value>2015-03-31</value>
+      <value>2015-03-06</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>560.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2015-03-18 15:39:57.021693]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2015-03-06</value>
+      <value>LCK03090</value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>7924311</value>
+      <value>2015-06-01</value>
+      <value>7924310</value>
+      <value>2015-09-30</value>
+      <value>2015-06-15</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>632.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2015-11-16 10:16:35.722355]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2015-09-15</value>
+      <value>LCK04142</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

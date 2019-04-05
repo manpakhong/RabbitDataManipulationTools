@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TDM_TD_RAW">
+    <column>TDM_TD_RAW_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>CUST_KEY</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>NAME</column>
+    <column>REG_NUM</column>
+    <column>DATE_OWN</column>
+    <column>LIC_UP_TO_DATE</column>
+    <column>MANUFACTURER</column>
+    <column>YR_MANU</column>
+    <column>COLOUR</column>
+    <column>BODY_TYPE</column>
+    <column>COO</column>
+    <column>VEH_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

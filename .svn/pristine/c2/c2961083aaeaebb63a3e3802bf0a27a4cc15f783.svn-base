@@ -1,0 +1,342 @@
+<dataset>
+  <table name="TAS_ELG_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>1998-06-15</value>
+      <value>2000-12-14</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[1998-06-16 12:10:52.9]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2001-07-09</value>
+      <value>2001-08-31</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2001-10-17 11:37:08.841932]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2001-09-01</value>
+      <value>2002-03-31</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2002-05-31 12:07:27.917684]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2002-04-01</value>
+      <value>2002-04-23</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2002-05-31 12:07:28.249111]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2002-09-30</value>
+      <value>2002-11-30</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2002-12-24 14:04:13.595573]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2002-12-01</value>
+      <value>2003-04-30</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2003-06-02 14:25:44.389528]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2003-11-03</value>
+      <value>2003-11-30</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2003-12-24 18:01:09.933285]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2003-12-01</value>
+      <value>2003-12-02</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2003-12-24 18:01:10.177245]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2003-12-19</value>
+      <value>2004-03-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2004-05-05 10:21:12.348687]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2004-04-01</value>
+      <value>2004-04-17</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2004-05-05 10:21:12.702548]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2004-05-03</value>
+      <value>2004-05-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2004-06-04 14:05:24.696022]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2005-05-09</value>
+      <value>2005-05-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-07-27 14:50:43.26736]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2005-06-01</value>
+      <value>2005-06-30</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-08-18 09:58:24.550007]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2005-06-04</value>
+      <value>2005-06-30</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-08-18 09:58:24.579254]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2005-07-01</value>
+      <value>2005-08-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-10-14 11:47:58.029038]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2005-07-01</value>
+      <value>2005-08-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-10-14 11:47:58.070776]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2005-07-04</value>
+      <value>2005-08-31</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2005-10-14 11:47:58.093768]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2005-09-01</value>
+      <value>2006-02-28</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2006-04-24 11:19:05.313992]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2005-09-01</value>
+      <value>2006-02-28</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2006-04-24 11:19:05.377627]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2005-09-01</value>
+      <value>2006-02-28</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2006-04-24 11:19:05.401568]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2006-03-01</value>
+      <value>2006-12-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2006-04-24 11:19:05.793261]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2006-03-01</value>
+      <value>2006-12-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2007-02-01 16:01:10.602968]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2006-03-01</value>
+      <value>2006-12-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2007-02-01 16:01:10.646073]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2007-01-01</value>
+      <value>2007-01-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2007-06-01 14:33:40.556025]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2007-01-01</value>
+      <value>2007-01-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2007-06-01 14:33:40.602373]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2007-01-01</value>
+      <value>2007-01-31</value>
+      <value>KCY05020</value>
+      <value><![CDATA[2007-06-01 14:33:40.623941]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2007-02-01</value>
+      <value>2007-03-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:27.350773]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2007-02-01</value>
+      <value>2007-03-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:27.417381]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2007-02-01</value>
+      <value>2007-03-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:27.455135]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2007-04-01</value>
+      <value>2007-10-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:33.434178]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>A</value>
+      <value>2008-05-23</value>
+      <value>2008-08-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:33.434178]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>A</value>
+      <value>2007-04-01</value>
+      <value>2008-08-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:33.434178]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>A</value>
+      <value>2007-04-01</value>
+      <value>2008-08-31</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-02-27 16:29:33.434178]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

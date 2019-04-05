@@ -1,0 +1,101 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ U7847383           ]]></value>
+      <value>3831529</value>
+      <value/>
+      <value>TSW04128</value>
+      <value><![CDATA[2016-03-30 11:57:01.744809]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ R997970A           ]]></value>
+      <value>1181009</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A7296668           ]]></value>
+      <value>2008141</value>
+      <value/>
+      <value>YLW06008</value>
+      <value><![CDATA[2010-01-08 14:25:58.803124]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ R1988874           ]]></value>
+      <value>1159810</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A7296668           ]]></value>
+      <value>2008141</value>
+      <value/>
+      <value>YLE04008</value>
+      <value><![CDATA[2000-10-18 11:01:48.41991]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A0666060           ]]></value>
+      <value>3180871</value>
+      <value/>
+      <value>YLW03091</value>
+      <value><![CDATA[2010-01-07 12:20:52.142019]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A3939572           ]]></value>
+      <value>1400822</value>
+      <value/>
+      <value>YLW06008</value>
+      <value><![CDATA[2010-01-08 14:24:52.847738]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A3939572           ]]></value>
+      <value>1400822</value>
+      <value/>
+      <value><![CDATA[PATCHID ]]></value>
+      <value><![CDATA[2003-03-28 19:49:57.811029]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ U3045673           ]]></value>
+      <value>3608024</value>
+      <value/>
+      <value>TSW04098</value>
+      <value><![CDATA[2014-02-07 16:30:48.507399]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ U3045673           ]]></value>
+      <value>3608024</value>
+      <value/>
+      <value>TSW05027</value>
+      <value><![CDATA[2014-05-21 15:31:49.302684]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

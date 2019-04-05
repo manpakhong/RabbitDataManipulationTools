@@ -1,0 +1,146 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-01-13 11:34:03.9]]></value>
+      <value>1999-01-12</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[LCK02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-01-13 11:39:09.1]]></value>
+      <value>1999-01-13</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>LE</value>
+      <value>1</value>
+      <value><![CDATA[LCK02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-01-13 11:40:42.30015]]></value>
+      <value>1999-01-13</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[LCK02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-02-05 17:31:55.159812]]></value>
+      <value>1999-02-05</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK06001    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-04-20 11:47:42.125943]]></value>
+      <value>1999-04-20</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK05009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-08-02 15:23:37.208098]]></value>
+      <value>1999-08-02</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK05002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[1999-08-02 15:23:43.047845]]></value>
+      <value>1999-08-02</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK05002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value><![CDATA[2000-04-07 11:57:42.4]]></value>
+      <value>2000-04-06</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23489</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>4</value>
+      <value><![CDATA[LCK02012    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

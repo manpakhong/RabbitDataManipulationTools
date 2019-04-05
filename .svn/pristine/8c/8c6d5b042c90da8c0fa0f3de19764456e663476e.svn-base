@@ -1,0 +1,26 @@
+<dataset>
+  <table name="TPY_SIMP">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>PAY_FR_DATE</column>
+    <column>PAY_TO_DATE</column>
+    <column>SIMP_TYPE</column>
+    <column>REC_TYPE</column>
+    <column>REC_STS</column>
+    <column>SCHD_DATE</column>
+    <column>ACTL_PAY_DATE</column>
+    <column>ACTL_FR_DATE</column>
+    <column>ACTL_TO_DATE</column>
+    <column>PAY_PROC_IND</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>ORG_SIMP_AMT</column>
+    <column>VOU_NUM</column>
+    <column>VOU_PRT_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

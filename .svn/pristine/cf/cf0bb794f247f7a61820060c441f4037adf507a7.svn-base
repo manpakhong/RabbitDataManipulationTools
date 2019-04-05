@@ -1,0 +1,29 @@
+<dataset>
+  <table name="TCS_CLEIC_INC">
+    <column>CASE_KEY</column>
+    <column>INC_DATE</column>
+    <column>INC_TIME</column>
+    <column>LOC</column>
+    <column>RPT_NUM</column>
+    <column>FPN</column>
+    <column>OFFENCE_CODE</column>
+    <column>OFFENCE_OD</column>
+    <column>PLCE_STN</column>
+    <column>DATE_RPT</column>
+    <column>DATE_FST_RPT_SEND1</column>
+    <column>DATE_FST_RPT1</column>
+    <column>DATE_FST_RPT_RCV1</column>
+    <column>DATE_FST_RPT_SEND2</column>
+    <column>DATE_FST_RPT2</column>
+    <column>DATE_FST_RPT_RCV2</column>
+    <column>DATE_FST_RPT_SEND3</column>
+    <column>DATE_FST_RPT3</column>
+    <column>DATE_FST_RPT_RCV3</column>
+    <column>DATE_FST_RPT_SEND4</column>
+    <column>DATE_FST_RPT4</column>
+    <column>DATE_FST_RPT_RCV4</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

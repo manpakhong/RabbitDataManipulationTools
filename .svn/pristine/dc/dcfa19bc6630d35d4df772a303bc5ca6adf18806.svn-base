@@ -1,0 +1,31 @@
+<dataset>
+  <table name="TPY_RPY_DTL">
+    <column>CASE_KEY</column>
+    <column>REPAY_MTHD</column>
+    <column>EFF_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>CRE_TS</column>
+    <column>REF_NUM</column>
+    <column>SUB_REF_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ISS_DATE</column>
+    <column>BU_DATE</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>RCVR_AMT</column>
+    <column>CASE_KEY_VT_FR</column>
+    <column>ISS_RMD_IND</column>
+    <column>CAN_IND</column>
+    <column>LAST_FIN_YR</column>
+    <column>DN_GEN_IND</column>
+    <column>DATE_FST_RMD</column>
+    <column>DATE_SEC_RMD</column>
+    <column>STLM_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>EC_NUM</column>
+    <column>EC_SER_NUM</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

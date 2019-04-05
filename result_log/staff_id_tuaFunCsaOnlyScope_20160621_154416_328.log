@@ -1,0 +1,5 @@
+Scope Name: tuaFunCsaOnlyScope
+Thread id:1, Job id:20160621_154406_488, (Tue Jun 21 15:44:06 CST 2016 - Tue Jun 21 15:44:13 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+value (table=TUA_FUN_ACCS_CTL, row=0, col=CAT_ID) expected:<CSA[/PSA]   > but was:<CSA[    ]   >
+row count (table=TUA_FUN) expected:<9[34]> but was:<9[46]>

@@ -1,0 +1,107 @@
+<dataset>
+  <table name="TCT_CUST_DTL">
+    <column>CUST_KEY</column>
+    <column>MARITAL_STS</column>
+    <column>DIALECT</column>
+    <column>DIALECT_OD</column>
+    <column>POB</column>
+    <column>POB_OD</column>
+    <column>COO</column>
+    <column>COO_OD</column>
+    <column>ID_ISS_DATE</column>
+    <column>DATE_FST_ISS</column>
+    <column>HIGH_EDU_LVL</column>
+    <column>SP_IND</column>
+    <column>DATE_FST_ARRV</column>
+    <column>BUR_GNT_IND</column>
+    <column>FIT_MAKE_STMT_IND</column>
+    <column>RES_APPRV_IND_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1003599</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2005-06-25</value>
+      <value>1980-05-01</value>
+      <value>NS</value>
+      <value>0</value>
+      <value>1980-05-01</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value>N</value>
+      <value>SPK04106</value>
+      <value><![CDATA[2016-06-10 18:33:08.583207]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2719044</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2005-06-03</value>
+      <value>2005-06-03</value>
+      <value>PR</value>
+      <value>0</value>
+      <value>2005-05-31</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 16:26:52.994554]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2719046</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2005-06-03</value>
+      <value>2005-06-03</value>
+      <value>SL</value>
+      <value>0</value>
+      <value>2005-05-31</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SPK04071</value>
+      <value><![CDATA[2008-04-24 16:27:18.085259]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2858038</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2006-09-07</value>
+      <value>2006-09-07</value>
+      <value>NS</value>
+      <value>0</value>
+      <value>2006-08-29</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>KCY04035</value>
+      <value><![CDATA[2006-09-14 10:46:34.624523]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

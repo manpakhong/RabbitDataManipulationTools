@@ -1,0 +1,58 @@
+<dataset>
+  <table name="TCC_INST_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>INST_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>REMARKS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>1998-07-27</value>
+      <value>2012-03-01</value>
+      <value><![CDATA[05SE004   ]]></value>
+      <value>7861236</value>
+      <value>CWN</value>
+      <value><![CDATA[SE ]]></value>
+      <value/>
+      <value>CWN03125</value>
+      <value><![CDATA[2012-04-20 19:13:15.375201]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2012-03-01</value>
+      <value>2013-10-29</value>
+      <value><![CDATA[05PI026   ]]></value>
+      <value>7861451</value>
+      <value>CWN</value>
+      <value><![CDATA[PI ]]></value>
+      <value/>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:43:01.781615]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-10-29</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[05PI022   ]]></value>
+      <value>7861543</value>
+      <value>CWN</value>
+      <value><![CDATA[PI ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:41:47.018243]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

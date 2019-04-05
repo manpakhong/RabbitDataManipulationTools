@@ -1,0 +1,35 @@
+<dataset>
+  <table name="scas_property">
+    <column>id</column>
+    <column>property_code</column>
+    <column>desc_eng</column>
+    <column>desc_chi</column>
+    <column>access_label</column>
+    <column>created_by</column>
+    <column>created_date</column>
+    <column>updated_by</column>
+    <column>updated_date</column>
+    <row>
+      <value>1</value>
+      <value>GL</value>
+      <value><![CDATA[Grand Lisboa (GL)]]></value>
+      <value>&#20013;&#25991;&#21517;</value>
+      <value>32</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>2</value>
+      <value>GLP</value>
+      <value><![CDATA[Grand Lisboa Place]]></value>
+      <value>&#26032;&#33889;&#20140;&#23067;&#27138;&#22580;</value>
+      <value>LBL</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+  </table>
+</dataset>

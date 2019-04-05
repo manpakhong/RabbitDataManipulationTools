@@ -1,0 +1,128 @@
+<dataset>
+  <table name="TMS_OTH_APPR_ITEM">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_CATLG</column>
+    <column>CRE_DATE</column>
+    <column>REC_STS</column>
+    <column>REQ_OFFR</column>
+    <column>APPR_ITEM_DESC</column>
+    <column>APPR_OFFR_RANK</column>
+    <column>APPR_OFFR</column>
+    <column>APPR_DATE</column>
+    <column>RMK</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>REQ_OFFR_POST</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+    <column>APPR_OFFR_POST</column>
+    <column>APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>7770034</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2003-12-16</value>
+      <value>A</value>
+      <value>YTM05022</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>YTM06007</value>
+      <value>2003-12-16</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>YTM06007</value>
+      <value><![CDATA[2003-12-16 10:01:13.130268]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>7770061</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2004-03-20</value>
+      <value>A</value>
+      <value>YTM05022</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>YTM06007</value>
+      <value>2004-03-20</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>YTM06007</value>
+      <value><![CDATA[2004-03-20 12:21:09.185091]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>7770239</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2008-11-27</value>
+      <value>A</value>
+      <value>YTM03094</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>YTM06007</value>
+      <value>2008-11-27</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>YTM06007</value>
+      <value><![CDATA[2008-11-27 12:49:20.127772]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>7770303</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2009-07-02</value>
+      <value>A</value>
+      <value>YTM03094</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>YTM06008</value>
+      <value>2009-07-06</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>YTM06008</value>
+      <value><![CDATA[2009-07-06 13:44:49.547079]]></value>
+      <value/>
+      <value/>
+      <value>S_YTsFU</value>
+      <value>lowm</value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>7770626</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2011-10-27</value>
+      <value>A</value>
+      <value>YTM03094</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>SS</value>
+      <value>SSY07016</value>
+      <value>2011-11-02</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>YTM06008</value>
+      <value><![CDATA[2011-11-02 09:53:31.249383]]></value>
+      <value/>
+      <value/>
+      <value>SSSO[SSP_YTM]</value>
+      <value>puifrankiewy</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

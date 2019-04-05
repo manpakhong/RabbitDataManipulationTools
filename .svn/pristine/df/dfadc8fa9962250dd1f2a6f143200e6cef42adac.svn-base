@@ -1,0 +1,26 @@
+<dataset>
+  <table name="TPY_RCVR_DTL_WF">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>STS_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>GRT_TYPE</column>
+    <column>SYS_GEN_IND</column>
+    <column>PEND_DEL_IND</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>RCVR_AMT</column>
+    <column>CLSS_CODE</column>
+    <column>DATE_REC_OP</column>
+    <column>OPAY_RSON_CODE</column>
+    <column>OPAY_RSON_OD</column>
+    <column>ICAS_MA</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>EC_NUM</column>
+    <column>EC_SER_NUM</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

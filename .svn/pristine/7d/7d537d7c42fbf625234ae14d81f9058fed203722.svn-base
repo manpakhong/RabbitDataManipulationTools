@@ -1,0 +1,11 @@
+tcsTpDtl_snapshot.xml;tcsAddr_snapshot.xml;tctResAddr_snapshot.xml;tpyPayInstr_snapshot.xml;tctCust_snapshot.xml;tccXref_snapshot.xml;tpyPaySlip_snapshot.xml
+TCS_TP_DTL;TCS_ADDR;TCT_RES_ADDR;TPY_PAY_INSTR;TCT_CUST;TCC_XREF;TPY_PAY_SLIP
+csaChgDhpScopeFolder
+csaChgDhpScope
+select * from dbaprd.tcs_tp_dtl where case_key = 1305
+select * from dbaprd.tcs_addr where case_key = 1305
+select * from dbaprd.tct_res_addr where cust_key = 129289
+select * from dbaprd.tpy_pay_instr where case_key = 1305
+select * from dbaprd.tct_cust where cust_key = 129289
+select * from dbaprd.tcc_xref where case_key = 1305
+select * from dbaprd.tpy_pay_slip where case_key = 1305

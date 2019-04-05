@@ -1,0 +1,21 @@
+<dataset>
+  <table name="TPY_MNL_ADJ">
+    <column>CASE_KEY</column>
+    <column>GRT_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_STS</column>
+    <column>RSON_CODE</column>
+    <column>PAY_AMT</column>
+    <column>RMK</column>
+    <column>RAT_OFFR1</column>
+    <column>RAT_OFFR2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>RAT_OFFR1_POST</column>
+    <column>RAT_OFFR1_LOGIN_ID</column>
+    <column>RAT_OFFR2_POST</column>
+    <column>RAT_OFFR2_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

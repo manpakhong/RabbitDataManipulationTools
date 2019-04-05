@@ -1,0 +1,12 @@
+tua_fun_accs_ctl_snapshot.xml;tua_fun_snapshot.xml
+TUA_FUN_ACCS_CTL;TUA_FUN
+tuaFunCsaOnlyScopeFolder
+tuaFunCsaOnlyScope
+select * from PRDDBS1.TUA_FUN_ACCS_CTL where cat_id like 'CSA%'
+select * from PRDDBS1.TUA_FUN
+-----------------------------------------------------------------------------------------------
+select * from PRDDBS1.TUA_FUN_ACCS_CTL where cat_id like 'CSA%'
+select * from PRDDBS1.TUA_FUN
+...................................................................................
+-BLANK-
+-BLANK-

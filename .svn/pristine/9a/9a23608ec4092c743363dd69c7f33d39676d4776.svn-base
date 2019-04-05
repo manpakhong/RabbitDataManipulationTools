@@ -1,0 +1,107 @@
+<dataset>
+  <table name="TCC_MTR_REFL">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REF_DATE</column>
+    <column>LTR_PRT_DATE</column>
+    <column>PD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2012-01-31</value>
+      <value>2012-10-31</value>
+      <value>2012-03-29</value>
+      <value>2012-03-29</value>
+      <value>N</value>
+      <value>CACGEMT2</value>
+      <value><![CDATA[2012-03-29 21:26:30.250844]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2012-11-01</value>
+      <value>2013-10-31</value>
+      <value>2012-10-25</value>
+      <value>2012-10-25</value>
+      <value>N</value>
+      <value>CACGEMT2</value>
+      <value><![CDATA[2012-10-25 22:31:52.738554]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2013-09-01</value>
+      <value>2014-10-31</value>
+      <value>2013-09-17</value>
+      <value>2013-09-17</value>
+      <value>N</value>
+      <value>CACGEMT2</value>
+      <value><![CDATA[2013-09-17 21:55:59.727588]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2014-09-01</value>
+      <value>2015-01-30</value>
+      <value>2014-10-21</value>
+      <value>2014-10-21</value>
+      <value>N</value>
+      <value>CACGEMT2</value>
+      <value><![CDATA[2014-10-21 21:54:29.296342]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2015-01-01</value>
+      <value>2015-10-31</value>
+      <value>2015-01-21</value>
+      <value>2015-01-21</value>
+      <value>Y</value>
+      <value>CACGEMT2</value>
+      <value><![CDATA[2015-01-21 21:54:03.782207]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value>2015-08-01</value>
+      <value>2016-10-31</value>
+      <value>2015-10-23</value>
+      <value>9999-02-02</value>
+      <value>Y</value>
+      <value>CACRMMTR</value>
+      <value><![CDATA[2015-10-23 21:37:10.294861]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TCS_CTB_INCM">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FST_RECV_DATE</column>
+    <column>CONTR_NAME</column>
+    <column>LAST_RECV_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>TREAT_TYPE</column>
+    <column>CONTR_RSHP_CODE</column>
+    <column>CONTR_AMT</column>
+    <column>ADDR</column>
+    <column>TEL_NUM</column>
+    <column>SRC_VERI</column>
+    <column>DATE_VERI</column>
+    <column>FPN</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

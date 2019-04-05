@@ -1,0 +1,4 @@
+Scope Name: scmsScope
+Thread id:1, Job id:20161014_170004_268, (Fri Oct 14 17:00:04 CST 2016 - Fri Oct 14 17:00:10 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+row count (table=scas_property) expected:<[2]> but was:<[0]>

@@ -1,0 +1,35 @@
+<dataset>
+  <table name="TCS_TP_DTL">
+    <column>CASE_KEY</column>
+    <column>TP_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>RSHP_CODE</column>
+    <column>CUST_KEY</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>TEL_NUM</column>
+    <column>PRIM_FAX_NUM</column>
+    <column>REP_NAME</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>INCRP_CODE</column>
+    <column>BUR_GNT_IND</column>
+    <column>AUTH_ISS_IND</column>
+    <column>DATE_ISS</column>
+    <column>DATE_RTN</column>
+    <column>FPN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

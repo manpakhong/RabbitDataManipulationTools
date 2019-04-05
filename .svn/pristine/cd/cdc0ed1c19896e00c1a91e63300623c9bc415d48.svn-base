@@ -1,0 +1,18 @@
+package hksarg.swd.cssa.csa.common;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+import org.junit.runners.Suite.SuiteClasses;
+
+@RunWith(Suite.class)
+@SuiteClasses({ Csa_InsLafis_4418959_AU2_TpyPayInstrEorHorQDelete_Test.class, 
+	Csa_InsLafis_4468919_AU2_Test.class,
+	Csa_InsLafis_4468919_authMethods_Test.class, Csa_InsLafis_4468919_cutMethods_Test.class,
+	Csa_InsLafis_4504146_Test.class, Csa_InsLafis_4513198_Test.class,
+	CSA_ChgDhp2_Test.class, CSA_ChgDhpTest.class, Csa_InsLafis_4418959_AU_Test.class,
+		Csa_InsLafis_4468919_AP_Test.class,
+		Csa_InsLafis_4468919_AU_Test.class, CSA_ManualAdj_4513198_R_Test.class,
+		CSA_ManualAdj_4513198_SubImprest_Test.class, CSA_MiscUtilsTest.class })
+public class AllTests {
+
+}

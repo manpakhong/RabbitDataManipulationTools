@@ -1,0 +1,56 @@
+<dataset>
+  <table name="TPY_PAY_AUTH">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_TYPE</column>
+    <column>AUTO_REVN_IND</column>
+    <column>RSON_CODE</column>
+    <column>RSON_OD</column>
+    <column>PAY_DAY</column>
+    <column>CALDR_MTH_IND</column>
+    <column>PAY_MTH_STR_DAY</column>
+    <column>LANG_TYPE</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>PAID_CAN_IND</column>
+    <column>PAY_UPD_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>A</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>0</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value/>
+      <value/>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

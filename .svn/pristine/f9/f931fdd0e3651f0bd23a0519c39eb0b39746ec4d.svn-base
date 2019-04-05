@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>1998-10-27</value>
+      <value>1111-11-11</value>
+      <value>1999-06-03</value>
+      <value>C</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.518787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2001-09-14</value>
+      <value>1111-11-11</value>
+      <value>2001-10-09</value>
+      <value>C</value>
+      <value>SSP06003</value>
+      <value><![CDATA[2001-10-09 18:15:13.107853]]></value>
+      <value><![CDATA[2001-09-14 10:25:22.863912]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2001-11-30</value>
+      <value>2001-12-30</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 09:43:51.521427]]></value>
+      <value><![CDATA[2001-12-05 16:43:45.216756]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

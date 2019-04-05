@@ -1,0 +1,180 @@
+<dataset>
+  <table name="TCC_ASSET">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>EFF_DATE</column>
+    <column>CUR_IND</column>
+    <column>AMT_CASH</column>
+    <column>DATE_CASH</column>
+    <column>BANK_NUM</column>
+    <column>BANK_CODE1</column>
+    <column>BRN_CODE1</column>
+    <column>ACC_NUM1</column>
+    <column>BAL1</column>
+    <column>BAL_DATE1</column>
+    <column>CHK_ACC_DATE1</column>
+    <column>BANK_CODE2</column>
+    <column>BRN_CODE2</column>
+    <column>ACC_NUM2</column>
+    <column>BAL2</column>
+    <column>BAL_DATE2</column>
+    <column>CHK_ACC_DATE2</column>
+    <column>BANK_CODE3</column>
+    <column>BRN_CODE3</column>
+    <column>ACC_NUM3</column>
+    <column>BAL3</column>
+    <column>BAL_DATE3</column>
+    <column>CHK_ACC_DATE3</column>
+    <column>BANK_CODE4</column>
+    <column>BRN_CODE4</column>
+    <column>ACC_NUM4</column>
+    <column>BAL4</column>
+    <column>BAL_DATE4</column>
+    <column>CHK_ACC_DATE4</column>
+    <column>BANK_CODE5</column>
+    <column>BRN_CODE5</column>
+    <column>ACC_NUM5</column>
+    <column>BAL5</column>
+    <column>BAL_DATE5</column>
+    <column>CHK_ACC_DATE5</column>
+    <column>BANK_CODE6</column>
+    <column>BRN_CODE6</column>
+    <column>ACC_NUM6</column>
+    <column>BAL6</column>
+    <column>BAL_DATE6</column>
+    <column>CHK_ACC_DATE6</column>
+    <column>BANK_CODE7</column>
+    <column>BRN_CODE7</column>
+    <column>ACC_NUM7</column>
+    <column>BAL7</column>
+    <column>BAL_DATE7</column>
+    <column>CHK_ACC_DATE7</column>
+    <column>BANK_CODE8</column>
+    <column>BRN_CODE8</column>
+    <column>ACC_NUM8</column>
+    <column>BAL8</column>
+    <column>BAL_DATE8</column>
+    <column>CHK_ACC_DATE8</column>
+    <column>INV_AMT</column>
+    <column>DATE_INV</column>
+    <column>ASS_VAL_INV</column>
+    <column>INV_RMK_OFFC</column>
+    <column>INS_ASSET_AMT</column>
+    <column>DATE_INS_ASSET</column>
+    <column>ASS_VAL_INS</column>
+    <column>INS_RMK_OFFC</column>
+    <column>POSSN_AMT</column>
+    <column>DATE_VAL_POSSN</column>
+    <column>ASS_VAL_POSSN</column>
+    <column>POSSN_RMK_OFFC</column>
+    <column>AMT_PPTY</column>
+    <column>DATE_PPTY</column>
+    <column>ASS_VAL_PPTY</column>
+    <column>PPTY_RMK_OFFC</column>
+    <column>MPF_ASSET_AMT</column>
+    <column>DATE_MPF_ASSET</column>
+    <column>ASS_VAL_MPF</column>
+    <column>MPF_RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>OTH_ASSET_DESC</column>
+    <column>OTH_ASSET_AMT</column>
+    <column>DATE_OTH_ASSET</column>
+    <column>ASS_VAL_OTH_ASSET</column>
+    <column>OTH_RMK_OFFC</column>
+    <column>RMK_OFFC</column>
+    <column>FPN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>4001140</value>
+      <value>2015-05-09</value>
+      <value>Y</value>
+      <value>800.00</value>
+      <value>2015-05-09</value>
+      <value>1</value>
+      <value>012</value>
+      <value>123</value>
+      <value><![CDATA[456789   ]]></value>
+      <value>2000.00</value>
+      <value>2015-04-30</value>
+      <value>2015-05-09</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-10 16:30:23.377]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

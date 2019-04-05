@@ -1,0 +1,522 @@
+<dataset>
+  <table name="TCS_HSE_EXP">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>LANG_TYPE</column>
+    <column>ACCOM_TYPE</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>AREA_CODE</column>
+    <column>RGN_CODE</column>
+    <column>HSE_CODE</column>
+    <column>INST_CODE</column>
+    <column>RSON_CODE_HSE</column>
+    <column>RSON_OD_HSE</column>
+    <column>OWN_TYPE</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>RENT</column>
+    <column>INC_WC_IND</column>
+    <column>INC_WCIR_IND</column>
+    <column>GOVT_RENT</column>
+    <column>LIC_FEE</column>
+    <column>LAND_TAX</column>
+    <column>LAND_RENT</column>
+    <column>PMT_FEE</column>
+    <column>MORT_PAY</column>
+    <column>PPTY_TAX</column>
+    <column>RATES</column>
+    <column>MGT_FEE</column>
+    <column>ANTE_FEE</column>
+    <column>OTH_ITEM_DESC</column>
+    <column>OTH_ITEM_AMT</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>PRO_RENT_IND</column>
+    <column>PRO_RENT_NUM</column>
+    <column>PRO_RENT_DEN</column>
+    <column>ACT_RENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>2012-05-01</value>
+      <value>2014-09-30</value>
+      <value>7924082</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>5500.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>8</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-28 11:30:47.203809]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2014-10-01</value>
+      <value>9999-01-01</value>
+      <value>7924233</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>6000.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>12</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-28 11:44:59.378935]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2003-05-22</value>
+      <value>2003-08-31</value>
+      <value>7923442</value>
+      <value>E</value>
+      <value>PPF</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[888 X]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>S</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>W</value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04006</value>
+      <value><![CDATA[2003-10-29 10:30:18.297815]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2003-09-01</value>
+      <value>2004-04-30</value>
+      <value>7923475</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[888 X]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U07</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1800.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-04-27 14:28:36.099552]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2004-05-01</value>
+      <value>2006-04-30</value>
+      <value>7923537</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>4300.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:50:40.453481]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2006-05-01</value>
+      <value>2008-04-30</value>
+      <value>7923660</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>4600.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-20 10:17:23.876388]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2008-05-01</value>
+      <value>2009-05-31</value>
+      <value>7923770</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>4800.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2009-05-29 12:32:28.76023]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2009-06-01</value>
+      <value>2009-10-31</value>
+      <value>7923825</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>5000.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>8</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:47:06.896746]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2009-11-01</value>
+      <value>2012-04-30</value>
+      <value>7923872</value>
+      <value>E</value>
+      <value>PRR</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>5000.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2004-04-27</value>
+      <value>8</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2012-06-01 11:38:18.82117]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

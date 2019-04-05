@@ -1,0 +1,42 @@
+<dataset>
+  <table name="TAS_ELG_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4504146</value>
+      <value>540613</value>
+      <value>A</value>
+      <value>2015-08-03</value>
+      <value>2015-09-30</value>
+      <value>KCW05036</value>
+      <value><![CDATA[2015-10-23 12:03:35.304058]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4504146</value>
+      <value>540613</value>
+      <value>A</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>KCW05036</value>
+      <value><![CDATA[2015-10-27 12:31:55.685491]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4504146</value>
+      <value>540613</value>
+      <value>P</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>KCW03123</value>
+      <value><![CDATA[2015-10-29 18:03:27.644502]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

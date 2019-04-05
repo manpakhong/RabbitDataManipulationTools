@@ -1,0 +1,14 @@
+<dataset>
+  <table name="TPY_AR_RPT_WF">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_STS</column>
+    <column>EXCP_IND</column>
+    <column>DISCR_RENT_IND</column>
+    <column>HOME_CHRG_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

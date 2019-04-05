@@ -1,0 +1,25 @@
+<dataset>
+  <table name="TDM_INVT_RSLT">
+    <column>TDM_INVT_RSLT_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>RESULT_CODE</column>
+    <column>PEND_RSON</column>
+    <column>OP_CAUSE</column>
+    <column>OP_CAUSE_RMK</column>
+    <column>OP_SINCE_APPL_IND</column>
+    <column>OP_DUR</column>
+    <column>OP_DUR_MTH</column>
+    <column>OP_DEPT_ERR_AMT</column>
+    <column>OP_MISU_AMT</column>
+    <column>OP_ASWA_AMT</column>
+    <column>UPAY_AMT</column>
+    <column>RPY_PLAN_DRT_IND</column>
+    <column>SELF_WDL_IND</column>
+    <column>CASE_COMPLETED</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>CUST_KEY</column>
+    <column>REMARK</column>
+  </table>
+</dataset>

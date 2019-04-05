@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TAS_MTH_ENT_WF">
+    <column>CASE_KEY</column>
+    <column>RPT_CRT_TS</column>
+    <column>KEY_TAG</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>KEY_DESC</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ENTITLEMENT_AMT</column>
+    <column>PAID_SLIP_AMT</column>
+    <column>OVER_PAY_AMT</column>
+    <column>ADD_PAY_AMT</column>
+    <column>INVOKED_BY</column>
+    <column>LAST_UPD_TS</column>
+    <column>AUTO_REVN_IND</column>
+  </table>
+</dataset>

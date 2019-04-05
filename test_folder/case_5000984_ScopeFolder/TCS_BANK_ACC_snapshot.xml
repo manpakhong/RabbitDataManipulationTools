@@ -1,0 +1,41 @@
+<dataset>
+  <table name="TCS_BANK_ACC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ACC_NAME</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>PURPOSE_CODE</column>
+    <column>PURPOSE_OD</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>1</value>
+      <value><![CDATA[WONG SHUN                                                             ]]></value>
+      <value>012</value>
+      <value>211</value>
+      <value><![CDATA[159357   ]]></value>
+      <value><![CDATA[P  ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:39:23.313507]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>130</value>
+      <value><![CDATA[HK Housing Authority-DRP From SWD                                     ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:57:05.439]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

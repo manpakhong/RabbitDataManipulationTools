@@ -1,0 +1,52 @@
+<dataset>
+  <table name="TCS_ADDR">
+    <column>CASE_KEY</column>
+    <column>ADDR_TYPE</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>POSTAL_CODE</column>
+    <column>TEL_NUM</column>
+    <column>TEL_NUM2</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>CHRG_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1305</value>
+      <value>R</value>
+      <value>E</value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[469 CASTLE PEAK ROAD                                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>U07</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[          dd    ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>LCK</value>
+      <value><![CDATA[PI ]]></value>
+      <value><![CDATA[10PI018   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>LCK03077</value>
+      <value><![CDATA[2009-08-07 11:25:09.40623]]></value>
+      <value>533580</value>
+    </row>
+  </table>
+</dataset>

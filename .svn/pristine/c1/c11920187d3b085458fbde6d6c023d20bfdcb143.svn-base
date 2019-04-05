@@ -1,0 +1,210 @@
+<dataset>
+  <table name="TCS_INST_EXP">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY_ARR</column>
+    <column>CUST_KEY</column>
+    <column>CUST_KEY2</column>
+    <column>ACCOM_TYPE</column>
+    <column>PROC_UNIT</column>
+    <column>INST_CODE</column>
+    <column>CHG_TYPE</column>
+    <column>INC_WC_IND</column>
+    <column>INC_WCIR_IND</column>
+    <column>CHRG_AMT</column>
+    <column>RENT_AMT</column>
+    <column>RCPT_CHK_IND</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RMK_OFFC</column>
+    <column>AUTO_REVN_IND</column>
+    <column>OVR_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>1998-07-27</value>
+      <value>2012-01-31</value>
+      <value>7861236</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[SE ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05SE004   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>E</value>
+      <value><![CDATA[ ]]></value>
+      <value>2555.00</value>
+      <value>1505.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value/>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03108</value>
+      <value><![CDATA[2012-02-22 15:29:41.560007]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2012-02-01</value>
+      <value>2012-02-29</value>
+      <value>7861444</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[SE ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05SE004   ]]></value>
+      <value><![CDATA[A  ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>2555.00</value>
+      <value>1345.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value/>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03125</value>
+      <value><![CDATA[2012-04-20 19:12:27.37749]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2012-03-01</value>
+      <value>2013-01-31</value>
+      <value>7861450</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[PI ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05PI026   ]]></value>
+      <value><![CDATA[A  ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>2820.00</value>
+      <value>1345.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value/>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03127</value>
+      <value><![CDATA[2013-04-18 12:17:48.039633]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-02-01</value>
+      <value>2013-03-31</value>
+      <value>7861506</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[PI ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05PI026   ]]></value>
+      <value><![CDATA[A  ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>2820.00</value>
+      <value>1415.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value/>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03127</value>
+      <value><![CDATA[2013-04-18 12:18:07.814256]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-04-01</value>
+      <value>2013-10-28</value>
+      <value>7861507</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[PI ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05PI026   ]]></value>
+      <value><![CDATA[A  ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>2820.00</value>
+      <value>1465.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value/>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:43:23.56034]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-10-29</value>
+      <value>2014-02-28</value>
+      <value>7861544</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[PI ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05PI022   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>3760.00</value>
+      <value>1440.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value><![CDATA[(MASKED) T/C CONFIRMED With STAFF OF Customer's Home院舍]]></value>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:44:01.934613]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-03-01</value>
+      <value>9999-01-01</value>
+      <value>7861545</value>
+      <value>67863</value>
+      <value>67863</value>
+      <value>0</value>
+      <value><![CDATA[PI ]]></value>
+      <value>CWN</value>
+      <value><![CDATA[05PI022   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>3665.00</value>
+      <value>1535.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value><![CDATA[(MASKED) T/C CONFIRMED With STAFF OF Customer's Home院舍]]></value>
+      <value>N</value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:44:27.390978]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="../FRW" default="install_frw" name="FRW">
+	<property name="build.compiler" value="extJavac" />
+
+	<!-- extlib -->
+	<property name="ext_lib" location="${basedir}/libs" />
+	
+	<!-- frw -->
+	<property name="frw_src" location="../FRW/src" />
+	<property name="frw_build" location="../FRW/bin/classes" />
+	<property name="frw_eclipse_build" location="../FRW/build/classes" />
+	<property name="frw_dist" location="../FRW/dist" />
+	<property name="frw_maven_dist" location="../FRW/dist" />
+	<property name="frw_resource" location="../FRW/resources" />
+
+
+	<!-- frw jars -->
+	<property name="frw_jasperreportlib" location="../FRW/jasperreportlib" />
+	<property name="frw_lib" location="../FRW/lib" />
+	<property name="frw_springlib" location="../FRW/springlib v4.2" />
+	<property name="frw_hibernatelib" location="../FRW/hibernate5.0" />
+	<property name="frw_jbosslib" location="../CssaFlowTest/jbosslib" />
+
+	<!-- cssaFlowTest jar -->
+	<property name="cssaflowtest_target" location="${basedir}/target" />
+	<property name="cssaflowtest_flowTestNewDb" location="${basedir}/source/flowTestNewDb" />
+	<property name="cssaflowtest_flowTestOldDb" location="${basedir}/source/flowTestOldDb" />
+	<property name="cssaflowtest_properties" location="${basedir}/properties" />
+	<property name="cssaflowTest_config" location="${basedir}/config" />
+	<property name="cssaflowTest_icons" location="${basedir}/icons" />
+	<!-- com -->
+	<property name="com_src" location="../COM/src" />
+	<property name="com_build" location="../COM/build/classes" />
+	<property name="com_eclipse_build" location="../COM/bin" />
+	<property name="com_dist" location="../COM/dist" />
+
+	<!-- com jars -->
+	<property name="com_jasperreportlib" location="../COM/jasperreportlib" />
+	<property name="com_lib" location="../COM/lib" />
+	<property name="com_springlib" location="../COM/springlib" />
+	<property name="com_hibernatelib" location="../COM/hibernate5.0" />
+	<property name="com_jbosslib" location="../CssaFlowTest/jbosslib" />
+
+
+	<property environment="env" />
+	<property name="debuglevel" value="source,lines,vars" />
+	<property name="target" value="1.8" />
+	<property name="source" value="1.8" />
+
+
+	<path id="COM_LIBS">
+		<fileset dir="${com_hibernatelib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${com_springlib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${com_lib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${com_jbosslib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<path id="FRW_LIBS">
+		<fileset dir="${frw_hibernatelib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${frw_jasperreportlib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${frw_lib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${frw_springlib}">
+			<include name="**/*.jar" />
+		</fileset>
+		<fileset dir="${frw_jbosslib}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<path id="FRW.classpath">
+		<path refid="FRW_LIBS" />
+		<dirset dir="${com_build}" />
+		<pathelement location="{frw_build}" />
+	</path>
+
+	<path id="COM.classpath">
+		<path refid="COM_LIBS" />
+		<dirset dir="${frw_eclipse_build}" />
+		<pathelement location="{frw_eclipse_build}" />
+		<pathelement location="{com_build}" />
+	</path>
+
+	<target name="compile_com" depends="install_ms_jdbc" description="compile the source com">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<echo>${com_src}</echo>
+		<delete dir="${com_build}" />
+		<mkdir dir="${com_build}" />
+		<javac includeantruntime="true" srcdir="${com_src}" destdir="${com_build}" debug="on">
+			<include name="hksarg/swd/csss/general/utils/**" />
+			<classpath refid="COM.classpath" />
+		</javac>
+	</target>
+
+	<target name="compile_frw" depends="compile_com" description="compile the source frw">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<echo>${frw_src}</echo>
+		<delete dir="${frw_build}" />
+		<mkdir dir="${frw_build}" />
+		<javac includeantruntime="false" srcdir="${frw_src}" destdir="${frw_build}" debug="on">
+			<include name="hksarg/swd/csss/audit/**" />
+			<include name="hksarg/swd/csss/bean/**" />
+			<!--
+			<include name="hksarg/swd/csss/controller/**" />
+			-->
+			<include name="hksarg/swd/csss/database/**" />
+			<exclude name="hksarg/swd/csss/database/testing/TestCase.java" />
+			<include name="hksarg/swd/csss/designer/utils/**" />
+			<exclude name="hksarg/swd/csss/designer/database/testing/TestCase.java" />
+			<include name="hksarg/swd/csss/event/**" />
+			<include name="hksarg/swd/csss/interceptor/**" />
+			<include name="hksarg/swd/csss/intray/vo/**" />
+			<include name="hksarg/swd/csss/json/**" />
+			<include name="hksarg/swd/csss/listener/**" />
+			<include name="hksarg/swd/csss/mail/**" />
+			<include name="hksarg/swd/csss/model/**" />
+			<include name="hksarg/swd/csss/object/repository/**" />
+			<include name="hksarg/swd/csss/screen/**" />
+			<include name="hksarg/swd/csss/security/**" />
+			<include name="hksarg/swd/csss/security/filter/**" />
+			<include name="hksarg/swd/csss/session/**" />
+			<include name="hksarg/swd/csss/utils/**" />
+			<exclude name="hksarg/swd/csss/utils/TestCase.java" />
+			<include name="hksarg/swd/dao/**" />
+			<include name="hksarg/swd/hdo/**" />
+
+
+			<classpath refid="FRW.classpath" />
+
+		</javac>
+		<!--
+		<copy todir="${frw_build}">
+		    <fileset dir="${frw_src}"
+		             includes="**/*.xml,**/*.properties,**/*.txt,**/*.ico" />
+		</copy>
+		-->
+	</target>
+
+	<target name="dist_frw" depends="compile_frw" description="generate the distribution">
+		<!-- Create the distribution directory -->
+		<!-- Remove the temporary files -->
+		<delete dir="${frw_dist}" />
+		<mkdir dir="${frw_dist}" />
+		<!-- Put everything in ${build} into the jar file -->
+
+		<jar jarfile="${frw_dist}/frw.jar">
+			<fileset dir="${frw_build}">
+				<include name="**" />
+			</fileset>
+			<fileset dir="${frw_resource}">
+				<include name="**" />
+			</fileset>
+		</jar>
+	</target>
+	<target name="install_ms_jdbc" description="deploy msjdbc to maven repository">
+		<exec executable="cmd.exe">
+			<arg value="/c" />
+			<arg value="mvn.cmd" />
+			<arg value="-X" />
+			<arg value="org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file" />
+			<arg value="-Dfile=${ext_lib}/sqljdbc4.jar" />
+			<arg value="-DgroupId=com.microsoft.sqlserver" />
+			<arg value="-DartifactId=sqljdbc4" />
+			<arg value="-Dversion=4.0" />
+			<arg value="-Dpackaging=jar" />
+			<arg value="-DgeneratePOM=true" />
+		</exec>
+		<!--
+		<copy todir="${build}">
+		   <fileset dir="${env.JBOSS_HOME}/config" includes="**/*.properties"/>
+		</copy>		-->
+	</target>
+	<target name="install_frw" depends="dist_frw" description="deploy frw to maven repository">
+		<exec executable="cmd.exe">
+			<arg value="/c" />
+			<arg value="mvn.cmd" />
+			<arg value="-X" />
+			<arg value="org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file" />
+			<arg value="-Dfile=${frw_maven_dist}/Frw.jar" />
+			<arg value="-DgroupId=hksarg.swd.csss" />
+			<arg value="-DartifactId=Frw" />
+			<arg value="-Dversion=1.0" />
+			<arg value="-Dpackaging=jar" />
+			<arg value="-DgeneratePOM=true" />
+		</exec>
+		<!--
+		<copy todir="${build}">
+		   <fileset dir="${env.JBOSS_HOME}/config" includes="**/*.properties"/>
+		</copy>		-->
+	</target>
+	<target name="copy_jar">
+
+		<echo message="copy jar-source: ${cssaflowtest_target}/cssatesting-jar-with-dependencies.jar" />
+		<echo message="copy jar-target_1: ${cssaflowtest_flowTestNewDb}/cssatesting-jar-with-dependencies.jar" />
+		<copy file="${cssaflowtest_target}/cssatesting-jar-with-dependencies.jar" tofile="${cssaflowtest_flowTestNewDb}/cssatesting-jar-with-dependencies.jar" overwrite="true" />
+		<echo message="copy jar-target_2: ${cssaflowtest_flowTestOldDb}/cssatesting-jar-with-dependencies.jar" />
+		<copy file="${cssaflowtest_target}/cssatesting-jar-with-dependencies.jar" tofile="${cssaflowtest_flowTestOldDb}/cssatesting-jar-with-dependencies.jar" overwrite="true" />
+
+		<echo message="copy sys.properties-target_1: ${cssaflowtest_properties}/sys.properties" />
+		<copy file="${cssaflowtest_properties}/sys.properties" tofile="${cssaflowtest_flowTestNewDb}/sys.properties" overwrite="true" />
+		<echo message="copy sys.properties-target_2: ${cssaflowtest_properties}/sys.properties" />
+		<copy file="${cssaflowtest_properties}/sys.properties" tofile="${cssaflowtest_flowTestOldDb}/sys.properties" overwrite="true" />
+
+
+		<echo message="copy log4j.properties-target_1: ${cssaflowTest_config}/log4j.properties" />
+		<copy file="${cssaflowTest_config}/log4j.properties" tofile="${cssaflowtest_flowTestNewDb}/log4j.properties" overwrite="true" />
+		<echo message="copy log4j.properties-target_2: ${cssaflowTest_config}/log4j.properties" />
+		<copy file="${cssaflowTest_config}/log4j.properties" tofile="${cssaflowtest_flowTestOldDb}/log4j.properties" overwrite="true" />
+
+
+		<echo message="copy checknewdbdrive-target_1: ${cssaflowTest_config}/checknewdbdrive" />
+		<copy file="${cssaflowTest_config}/checknewdbdrive" tofile="${cssaflowtest_flowTestNewDb}/checknewdbdrive" overwrite="true" />
+		<echo message="copy checkolddbdrive-target_2: ${cssaflowTest_config}/checkolddbdrive" />
+		<copy file="${cssaflowTest_config}/checkolddbdrive" tofile="${cssaflowtest_flowTestOldDb}/checkolddbdrive" overwrite="true" />
+
+		<echo message="copy runFlowTestNew.bat-target_1: ${cssaflowTest_config}/runFlowTestNew.bat" />
+		<copy file="${cssaflowTest_config}/runFlowTestNew.bat" tofile="${cssaflowtest_flowTestNewDb}/runFlowTestNew.bat" overwrite="true" />
+		<echo message="copy runFlowTestOld.bat-target_2: ${cssaflowTest_config}/runFlowTestOld.bat" />
+		<copy file="${cssaflowTest_config}/runFlowTestOld.bat" tofile="${cssaflowtest_flowTestOldDb}/runFlowTestOld.bat" overwrite="true" />
+
+		<mkdir dir="${cssaflowtest_flowTestNewDb}/icons" />
+		<mkdir dir="${cssaflowtest_flowTestOldDb}/icons" />
+		<echo message="copy icons/*.*-target_1: ${cssaflowTest_icons}/**" />
+		  <copy todir="${cssaflowtest_flowTestNewDb}/icons">
+		    <fileset dir="${cssaflowTest_icons}">
+		      <include name="**/*.png"/>
+		    </fileset>
+		  </copy>
+
+		<echo message="copy icons/*.*-target_2: ${cssaflowTest_icons}/**" />
+		  <copy todir="${cssaflowtest_flowTestOldDb}/icons">
+		    <fileset dir="${cssaflowTest_icons}">
+		      <include name="**/*.png"/>
+		    </fileset>
+		  </copy>
+
+		
+	</target>
+</project>

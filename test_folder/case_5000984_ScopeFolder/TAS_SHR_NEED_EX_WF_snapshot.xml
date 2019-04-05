@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TAS_SHR_NEED_EX_WF">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_CODE</column>
+    <column>INP_FMT</column>
+    <column>ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

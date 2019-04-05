@@ -1,0 +1,45 @@
+<dataset>
+  <table name="TDM_EDB_RAW">
+    <column>TDM_EDB_RAW_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>CUST_KEY</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>MTCH_LVL</column>
+    <column>ENG_NAME_EDB</column>
+    <column>CHN_NAME_EDB</column>
+    <column>ID_TYPE_EDB</column>
+    <column>ID_NUM_EDB</column>
+    <column>SEX_EDB</column>
+    <column>DOB_EDB</column>
+    <column>PAR_ENG_NAME_EDB</column>
+    <column>PAR_CHN_NAME_EDB</column>
+    <column>SCRN_NUM_1</column>
+    <column>ENG_SCH_NAME_1</column>
+    <column>CHN_SCH_NAME_1</column>
+    <column>DATE_ADM_1</column>
+    <column>DATE_DISCHG_1</column>
+    <column>REP_IND_1</column>
+    <column>SCRN_NUM_2</column>
+    <column>ENG_SCH_NAME_2</column>
+    <column>CHN_SCH_NAME_2</column>
+    <column>DATE_ADM_2</column>
+    <column>DATE_DISCHG_2</column>
+    <column>REP_IND_2</column>
+    <column>SCRN_NUM_3</column>
+    <column>ENG_SCH_NAME_3</column>
+    <column>CHN_SCH_NAME_3</column>
+    <column>DATE_ADM_3</column>
+    <column>DATE_DISCHG_3</column>
+    <column>REP_IND_3</column>
+    <column>SCH_REMAIN_CNT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>INST_PERD_MISMATCH</column>
+  </table>
+</dataset>

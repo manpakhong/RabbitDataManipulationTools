@@ -1,0 +1,2290 @@
+<dataset>
+  <table name="TCS_HSE_EXP">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>LANG_TYPE</column>
+    <column>ACCOM_TYPE</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>AREA_CODE</column>
+    <column>RGN_CODE</column>
+    <column>HSE_CODE</column>
+    <column>INST_CODE</column>
+    <column>RSON_CODE_HSE</column>
+    <column>RSON_OD_HSE</column>
+    <column>OWN_TYPE</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>RENT</column>
+    <column>INC_WC_IND</column>
+    <column>INC_WCIR_IND</column>
+    <column>GOVT_RENT</column>
+    <column>LIC_FEE</column>
+    <column>LAND_TAX</column>
+    <column>LAND_RENT</column>
+    <column>PMT_FEE</column>
+    <column>MORT_PAY</column>
+    <column>PPTY_TAX</column>
+    <column>RATES</column>
+    <column>MGT_FEE</column>
+    <column>ANTE_FEE</column>
+    <column>OTH_ITEM_DESC</column>
+    <column>OTH_ITEM_AMT</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>PRO_RENT_IND</column>
+    <column>PRO_RENT_NUM</column>
+    <column>PRO_RENT_DEN</column>
+    <column>ACT_RENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>2011-08-01</value>
+      <value>2011-09-30</value>
+      <value>7916719</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:51:45.759396]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2011-10-01</value>
+      <value>2012-03-31</value>
+      <value>7916720</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1091.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:51:45.779539]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2013-04-01</value>
+      <value>2013-07-31</value>
+      <value>7916745</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1179.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2013-07-13 18:24:13.794133]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2012-07-01</value>
+      <value>2012-09-30</value>
+      <value>7916755</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-06-16 22:33:18.698845]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2012-10-01</value>
+      <value>2013-03-31</value>
+      <value>7916756</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1199.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-09-08 18:14:58.111759]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2014-04-01</value>
+      <value>2014-07-31</value>
+      <value>7916789</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1161.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-07-19 13:24:17.984892]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2013-08-01</value>
+      <value>2013-09-30</value>
+      <value>7916802</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2013-07-13 18:24:13.799455]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2013-10-01</value>
+      <value>2014-03-31</value>
+      <value>7916803</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1179.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04093</value>
+      <value><![CDATA[2014-01-16 11:08:08.058686]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2014-10-01</value>
+      <value>2015-03-31</value>
+      <value>7916836</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1543.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-03-21 15:31:58.627952]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2014-08-01</value>
+      <value>2014-08-31</value>
+      <value>7916856</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-07-19 13:24:17.997168]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2014-09-01</value>
+      <value>2014-09-30</value>
+      <value>7916857</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1301.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-08-16 17:28:11.019161]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2015-04-01</value>
+      <value>2015-07-31</value>
+      <value>7916881</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1293.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:12.787185]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2015-10-01</value>
+      <value>2016-03-31</value>
+      <value>7916882</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1543.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:14.256913]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>7916901</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:12.787974]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>7916902</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1293.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:12.788677]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2016-04-01</value>
+      <value>2016-08-31</value>
+      <value>7916932</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1286.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:14.257574]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2016-09-01</value>
+      <value>9999-01-01</value>
+      <value>7916933</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1543.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:14.260414]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2001-01-12</value>
+      <value>2001-10-31</value>
+      <value>7916182</value>
+      <value>E</value>
+      <value>PRB</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[888 X]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>N01</value>
+      <value>1</value>
+      <value>F</value>
+      <value><![CDATA[          ]]></value>
+      <value>FR</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2002-09-05 09:22:18.492654]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2002-07-22</value>
+      <value>2005-01-31</value>
+      <value>7916243</value>
+      <value>E</value>
+      <value>PRB</value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[888 X]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[MASKED- CENTRAL DEVELOPMENT BUILDING                                    ]]></value>
+      <value><![CDATA[9000-9999 TESTING ROAD SOUTH,CENTRAL                                    ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>N01</value>
+      <value>1</value>
+      <value>F</value>
+      <value><![CDATA[          ]]></value>
+      <value>FR</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>3</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2005-05-24 14:54:57.001816]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2005-02-01</value>
+      <value>2005-10-31</value>
+      <value>7916400</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1380.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>4</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2005-12-21 11:45:50.244934]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2005-11-01</value>
+      <value>2006-03-31</value>
+      <value>7916439</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1380.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>4</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2006-05-29 11:46:19.870803]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2006-04-01</value>
+      <value>2006-08-31</value>
+      <value>7916457</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1380.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2006-11-28 16:02:44.941775]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2006-09-01</value>
+      <value>2007-01-31</value>
+      <value>7916476</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1380.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>RRSAREV3</value>
+      <value><![CDATA[2006-12-23 20:25:24.874522]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-02-01</value>
+      <value>2007-02-28</value>
+      <value>7916484</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2007-01-15 12:42:49.448205]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-03-01</value>
+      <value>2007-03-31</value>
+      <value>7916492</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1380.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.808666]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-04-01</value>
+      <value>2007-07-31</value>
+      <value>7916541</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1242.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.828312]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-08-01</value>
+      <value>2007-09-30</value>
+      <value>7916542</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1081.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.846752]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-10-01</value>
+      <value>2007-10-31</value>
+      <value>7916543</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1219.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.872938]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2007-11-01</value>
+      <value>2007-12-31</value>
+      <value>7916525</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1219.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.888908]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2008-01-01</value>
+      <value>2008-03-31</value>
+      <value>7916544</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1081.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:18:31.907329]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2008-04-01</value>
+      <value>2008-07-31</value>
+      <value>7916545</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1067.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2008-06-26 11:27:38.766999]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2008-08-01</value>
+      <value>2008-08-31</value>
+      <value>7916569</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2008-06-26 11:27:55.666173]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2008-09-01</value>
+      <value>2008-10-31</value>
+      <value>7916570</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-07-27 00:34:36.741258]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2008-11-01</value>
+      <value>2009-03-31</value>
+      <value>7916577</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1067.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-07-27 00:34:36.754545]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2009-04-01</value>
+      <value>2009-07-31</value>
+      <value>7916614</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1072.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-20 23:53:10.313885]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2009-08-01</value>
+      <value>2009-09-30</value>
+      <value>7916631</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-20 23:53:10.328306]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2009-10-01</value>
+      <value>2010-03-31</value>
+      <value>7916546</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1072.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-27 19:12:08.613153]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2010-04-01</value>
+      <value>2010-06-30</value>
+      <value>7916632</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1064.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-06-05 22:56:56.834935]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2010-07-01</value>
+      <value>2010-08-31</value>
+      <value>7916677</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-06-05 22:56:56.840516]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2010-09-01</value>
+      <value>2010-09-30</value>
+      <value>7916678</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-08-21 19:41:26.132767]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2010-10-01</value>
+      <value>2011-03-31</value>
+      <value>7916683</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1121.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2011-02-28 16:24:45.9648]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2011-04-01</value>
+      <value>2011-07-31</value>
+      <value>7916667</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1091.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:51:45.741482]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2012-04-01</value>
+      <value>2012-06-30</value>
+      <value>7916712</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE SHUN HOUSE                                                          ]]></value>
+      <value><![CDATA[YUE WAN ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>P06</value>
+      <value>1</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1072.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-06-16 22:33:18.691297]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

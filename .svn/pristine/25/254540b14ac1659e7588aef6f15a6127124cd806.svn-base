@@ -1,0 +1,174 @@
+<dataset>
+  <table name="TMS_TXF_REC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>TXF_TYPE</column>
+    <column>TXF_STS</column>
+    <column>NEW_PROC_UNIT</column>
+    <column>NEW_SCHM_TYPE</column>
+    <column>NEW_SER_NUM</column>
+    <column>NEW_ASSG_OFFR</column>
+    <column>NEW_APPR_OFFR</column>
+    <column>NEW_APPR_DATE</column>
+    <column>NEW_CASE_NAT</column>
+    <column>NEW_GRT_TYPE</column>
+    <column>PREV_PROC_UNIT</column>
+    <column>PREV_SCHM_TYPE</column>
+    <column>PREV_SER_NUM</column>
+    <column>PREV_ASSG_OFFR</column>
+    <column>PREV_APPR_OFFR</column>
+    <column>PREV_APPR_DATE</column>
+    <column>PREV_CASE_NAT</column>
+    <column>PREV_GRT_TYPE</column>
+    <column>CASE_STS</column>
+    <column>CASE_STS_PCSSA</column>
+    <column>FAMLY_IND</column>
+    <column>STB_IND</column>
+    <column>REQ_OFFR</column>
+    <column>REQ_DATE</column>
+    <column>SRCH_IND</column>
+    <column>REC_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>NEW_ASSG_OFFR_POST</column>
+    <column>NEW_APPR_OFFR_POST</column>
+    <column>PREV_ASSG_OFFR_POST</column>
+    <column>PREV_APPR_OFFR_POST</column>
+    <column>REQ_OFFR_POST</column>
+    <column>LAST_UPD_POST</column>
+    <column>NEW_ASSG_OFFR_LOGIN_ID</column>
+    <column>NEW_APPR_OFFR_LOGIN_ID</column>
+    <column>PREV_ASSG_OFFR_LOGIN_ID</column>
+    <column>PREV_APPR_OFFR_LOGIN_ID</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+    <row>
+      <value>1089432</value>
+      <value>6243654</value>
+      <value><![CDATA[ ]]></value>
+      <value>A</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[        ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>30815</value>
+      <value><![CDATA[A6      ]]></value>
+      <value>SSP05006</value>
+      <value>1997-11-25</value>
+      <value>UT</value>
+      <value>CSA</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value>C</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>6250739</value>
+      <value><![CDATA[ ]]></value>
+      <value>A</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[        ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value><![CDATA[A6      ]]></value>
+      <value>LCK05008</value>
+      <value>1999-01-04</value>
+      <value>UT</value>
+      <value>CSA</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value>C</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>7769967</value>
+      <value>N</value>
+      <value>A</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value><![CDATA[        ]]></value>
+      <value>YTM02004</value>
+      <value>2001-05-09</value>
+      <value>UT</value>
+      <value>CSA</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value><![CDATA[A6      ]]></value>
+      <value>LCK02009</value>
+      <value>2001-05-03</value>
+      <value>UT</value>
+      <value>CSA</value>
+      <value>C</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>LCK02009</value>
+      <value>2001-05-03</value>
+      <value>N</value>
+      <value>O</value>
+      <value>YTM02004</value>
+      <value><![CDATA[2001-05-09 10:52:12.774836]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,2122 @@
+<dataset>
+  <table name="TCC_SCH_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCH_NAME</column>
+    <column>SCH_TYPE</column>
+    <column>SCH_RGN</column>
+    <column>CLS</column>
+    <column>REP_IND</column>
+    <column>SCH_TYPE_IND</column>
+    <column>HDAY_SESS</column>
+    <column>RSON_CODE_FDAY_SCH</column>
+    <column>RSON_OD_FDAY_SCH</column>
+    <column>SCH_HR_WEEK</column>
+    <column>FULL_TIME_IND</column>
+    <column>MTH_SCH_FEE</column>
+    <column>TONG_FEE</column>
+    <column>FEE_REM_AMT</column>
+    <column>SFAA_APPL_IND</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_RTN</column>
+    <column>FPN</column>
+    <column>DATE_RCPT</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>PEVS_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>CSSS_SCH_FR_DATE</column>
+    <column>CSSS_SCH_TO_DATE</column>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2015-09-01</value>
+      <value>2016-06-30</value>
+      <value>2015-09-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[212865    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>12</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-26 11:16:53.545659]]></value>
+      <value/>
+      <value>2015-09-01</value>
+      <value>2016-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:24:41.464907]]></value>
+      <value/>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:26:07.521747]]></value>
+      <value/>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[510971    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P3</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 16:57:56.304153]]></value>
+      <value/>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[510971    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P3</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 16:58:08.363136]]></value>
+      <value/>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:26:58.460587]]></value>
+      <value/>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:27:09.029635]]></value>
+      <value/>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[510971    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P5</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:28:24.76342]]></value>
+      <value/>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[510971    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P4</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:28:55.401084]]></value>
+      <value/>
+      <value>2001-12-01</value>
+      <value>2002-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2003-11-12 14:22:07.098565]]></value>
+      <value/>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P6</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2003-11-12 14:23:00.815091]]></value>
+      <value/>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2003-11-12 14:23:41.648268]]></value>
+      <value/>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2003-11-12 14:24:19.907503]]></value>
+      <value/>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 10:59:28.015676]]></value>
+      <value/>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 11:00:37.023834]]></value>
+      <value/>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P6</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 11:01:19.963288]]></value>
+      <value/>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P6</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 11:01:32.979036]]></value>
+      <value/>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[317403    ]]></value>
+      <value><![CDATA[KG ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>K1</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>1180.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-11-09 11:04:17.476634]]></value>
+      <value/>
+      <value>2004-09-01</value>
+      <value>2005-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>532.00</value>
+      <value>29.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2005-10-31 10:55:52.73856]]></value>
+      <value/>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2005-10-31 10:57:14.700386]]></value>
+      <value/>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170372    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2005-10-31 10:58:57.972535]]></value>
+      <value/>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170852    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2005-11-01 09:52:23.250843]]></value>
+      <value/>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[317403    ]]></value>
+      <value><![CDATA[KG ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>K2</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>1250.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2005-10-31 11:01:16.222341]]></value>
+      <value/>
+      <value>2005-09-01</value>
+      <value>2006-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2006-09-01</value>
+      <value>2006-09-30</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>810.00</value>
+      <value>50.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:35:21.729958]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2006-10-01</value>
+      <value>2007-03-31</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[310042    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>810.00</value>
+      <value>40.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:35:43.501343]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:37:23.967719]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170372    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:38:12.648029]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170852    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:38:55.360933]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[317403    ]]></value>
+      <value><![CDATA[KG ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>K3</value>
+      <value>N</value>
+      <value>H</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>1325.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:40:16.303584]]></value>
+      <value/>
+      <value>2006-09-01</value>
+      <value>2007-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>602.00</value>
+      <value>29.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2007-09-17 16:51:07.447396]]></value>
+      <value/>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170852    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2007-05-17 08:54:25.154929]]></value>
+      <value/>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2007-05-17 10:57:33.890053]]></value>
+      <value/>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F6</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>987.00</value>
+      <value>29.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:25:03.651177]]></value>
+      <value/>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1346125</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F7</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:25:16.86727]]></value>
+      <value/>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[313076    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-20 11:06:39.754531]]></value>
+      <value/>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170372    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-13 17:19:27.609716]]></value>
+      <value/>
+      <value>2007-09-01</value>
+      <value>2008-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170372    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-13 17:19:46.38613]]></value>
+      <value/>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170852    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-13 17:20:19.800714]]></value>
+      <value/>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-13 17:20:50.717699]]></value>
+      <value/>
+      <value>2008-09-01</value>
+      <value>2009-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2010-04-01</value>
+      <value>2010-04-30</value>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170372    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>100.00</value>
+      <value>145.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:33:43.763238]]></value>
+      <value/>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2009-09-01</value>
+      <value>2010-04-30</value>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[170852    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2002-01-18</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:34:29.305854]]></value>
+      <value/>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2010-05-01</value>
+      <value>2010-05-31</value>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P3</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>150.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:38:58.007278]]></value>
+      <value/>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2009-09-01</value>
+      <value>2010-04-30</value>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[MCSSSP    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F5</value>
+      <value>Y</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>1980.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8</value>
+      <value>2002-01-18</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 14:34:56.244513]]></value>
+      <value/>
+      <value>2009-09-01</value>
+      <value>2010-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2011-06-01</value>
+      <value>2011-06-30</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>300.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>10</value>
+      <value>2004-11-09</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2011-06-09 10:16:11.996152]]></value>
+      <value/>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1355418</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[HKTVTC    ]]></value>
+      <value><![CDATA[VT ]]></value>
+      <value><![CDATA[KWUN TONG]]></value>
+      <value>OT</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>2980.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8</value>
+      <value>2002-01-18</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-08-25 15:21:58.022404]]></value>
+      <value/>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363663</value>
+      <value>2010-09-01</value>
+      <value>2010-12-31</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[HKTVTC    ]]></value>
+      <value><![CDATA[VT ]]></value>
+      <value><![CDATA[KWUN TONG]]></value>
+      <value>OT</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>2380.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>10</value>
+      <value>2002-01-18</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2011-06-10 10:24:35.400602]]></value>
+      <value/>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>1363662</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[HKTVTC    ]]></value>
+      <value><![CDATA[VT ]]></value>
+      <value><![CDATA[KWUN TONG]]></value>
+      <value>OT</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>25</value>
+      <value>F</value>
+      <value>2380.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8</value>
+      <value>2002-01-18</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-08-25 15:24:56.712595]]></value>
+      <value/>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2011-09-01</value>
+      <value>2012-06-30</value>
+      <value>2011-09-01</value>
+      <value>2012-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P5</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2011-06-07 12:35:37.635938]]></value>
+      <value/>
+      <value>2011-09-01</value>
+      <value>2012-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[LCKCPS    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>P6</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2012-06-01 11:33:39.716532]]></value>
+      <value/>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[212865    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>12</value>
+      <value>2004-11-09</value>
+      <value>Y</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-12-11 14:51:37.232679]]></value>
+      <value/>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2014-09-01</value>
+      <value>2015-06-30</value>
+      <value>2014-09-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[212865    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F2</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>12</value>
+      <value>2004-11-09</value>
+      <value>Y</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-05-23 15:04:05.767219]]></value>
+      <value/>
+      <value>2014-09-01</value>
+      <value>2015-06-30</value>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2203578</value>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[212865    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[SHAM SHUI PO]]></value>
+      <value>F4</value>
+      <value>N</value>
+      <value>F</value>
+      <value>P</value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value>F</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>12</value>
+      <value>2004-11-09</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04142</value>
+      <value><![CDATA[2015-11-16 10:26:40.656201]]></value>
+      <value/>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,252 @@
+<dataset>
+  <table name="TAS_ASS_RESULT">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>TOT_ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value>16992.30</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-11 11:53:31.702]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value>18636.80</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-11 11:53:31.702]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>31171.60</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>17851.60</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>12119.24</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>12541.19</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2015-11-01</value>
+      <value>2016-01-31</value>
+      <value>13136.40</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-02-01</value>
+      <value>2016-03-31</value>
+      <value>13984.60</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-04-01</value>
+      <value>2016-05-31</value>
+      <value>13989.40</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>18174.40</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>28454.20</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>13184.20</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>12064.20</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value>9589.70</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2016-11-01</value>
+      <value>2017-05-31</value>
+      <value>8577.40</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>A</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>12762.40</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:14:54.088]]></value>
+      <value>SSOII3_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>12541.19</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2015-11-01</value>
+      <value>2016-01-31</value>
+      <value>13136.40</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>13984.60</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>12559.60</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2016-04-01</value>
+      <value>2016-05-31</value>
+      <value>12564.40</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>18334.87</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-05-31</value>
+      <value>9303.40</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>P</value>
+      <value>2017-06-01</value>
+      <value>2017-06-30</value>
+      <value>13488.40</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:17:41.222181]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

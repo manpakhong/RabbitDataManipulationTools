@@ -1,0 +1,650 @@
+<dataset>
+  <table name="TPY_RCVR_DTL">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>STS_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>GRT_TYPE</column>
+    <column>SYS_GEN_IND</column>
+    <column>PEND_DEL_IND</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>RCVR_AMT</column>
+    <column>CLSS_CODE</column>
+    <column>DATE_REC_OP</column>
+    <column>OPAY_RSON_CODE</column>
+    <column>OPAY_RSON_OD</column>
+    <column>ICAS_MA</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>EC_NUM</column>
+    <column>EC_SER_NUM</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>7009093</value>
+      <value>S</value>
+      <value>2013-04-01</value>
+      <value>2013-04-30</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>148.90</value>
+      <value>148.90</value>
+      <value><![CDATA[N ]]></value>
+      <value>2013-05-13</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2013-04-01</value>
+      <value>2013-04-30</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2013-05-28 23:09:49.774763]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7009094</value>
+      <value>S</value>
+      <value>2013-05-01</value>
+      <value>2013-05-31</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>148.90</value>
+      <value>148.90</value>
+      <value><![CDATA[N ]]></value>
+      <value>2013-05-13</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2013-05-01</value>
+      <value>2013-05-31</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2013-05-28 23:09:49.766169]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008128</value>
+      <value>S</value>
+      <value>2001-03-18</value>
+      <value>2001-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>102.00</value>
+      <value>102.00</value>
+      <value><![CDATA[C ]]></value>
+      <value>2001-04-03</value>
+      <value><![CDATA[RC ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2001-03-18</value>
+      <value>2001-04-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2001-04-12 00:06:17.434093]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008182</value>
+      <value>S</value>
+      <value>2001-12-18</value>
+      <value>2002-01-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>192.32</value>
+      <value>192.32</value>
+      <value><![CDATA[N ]]></value>
+      <value>2002-04-04</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2001-12-18</value>
+      <value>2002-01-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2002-06-13 22:47:43.451338]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008183</value>
+      <value>S</value>
+      <value>2002-01-18</value>
+      <value>2002-02-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>426.00</value>
+      <value>426.00</value>
+      <value><![CDATA[N ]]></value>
+      <value>2002-04-04</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2002-01-18</value>
+      <value>2002-02-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2002-06-13 22:47:43.44683]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008184</value>
+      <value>S</value>
+      <value>2002-02-18</value>
+      <value>2002-03-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>426.00</value>
+      <value>426.00</value>
+      <value><![CDATA[N ]]></value>
+      <value>2002-04-04</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2002-02-18</value>
+      <value>2002-03-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2002-05-15 01:32:12.767567]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008185</value>
+      <value>S</value>
+      <value>2002-03-18</value>
+      <value>2002-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>414.65</value>
+      <value>414.65</value>
+      <value><![CDATA[N ]]></value>
+      <value>2002-04-04</value>
+      <value><![CDATA[OT ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2002-03-18</value>
+      <value>2002-04-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2002-04-16 00:30:36.2993]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008237</value>
+      <value>S</value>
+      <value>2003-03-18</value>
+      <value>2003-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>43.87</value>
+      <value>43.87</value>
+      <value><![CDATA[C ]]></value>
+      <value>2003-04-11</value>
+      <value><![CDATA[P  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2003-03-18</value>
+      <value>2003-04-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2003-04-12 18:43:51.126673]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008404</value>
+      <value>S</value>
+      <value>2006-01-18</value>
+      <value>2006-02-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>2191.77</value>
+      <value>2191.77</value>
+      <value><![CDATA[C ]]></value>
+      <value>2006-01-24</value>
+      <value><![CDATA[P  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2006-01-18</value>
+      <value>2006-02-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2006-04-11 22:53:53.400982]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008596</value>
+      <value>D</value>
+      <value>2007-03-18</value>
+      <value>2007-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>47.16</value>
+      <value>0.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-03-18</value>
+      <value>2007-04-17</value>
+      <value><![CDATA[PL25245 ]]></value>
+      <value><![CDATA[2016-03-20 12:32:45.412389]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008597</value>
+      <value>D</value>
+      <value>2007-04-18</value>
+      <value>2007-05-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>0.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-04-18</value>
+      <value>2007-05-17</value>
+      <value><![CDATA[PL25245 ]]></value>
+      <value><![CDATA[2016-03-20 12:32:45.412389]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008598</value>
+      <value>D</value>
+      <value>2007-05-18</value>
+      <value>2007-06-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>0.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-05-18</value>
+      <value>2007-06-17</value>
+      <value><![CDATA[PL25245 ]]></value>
+      <value><![CDATA[2016-03-20 12:32:45.412389]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008599</value>
+      <value>D</value>
+      <value>2007-06-18</value>
+      <value>2007-07-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>0.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-06-18</value>
+      <value>2007-07-17</value>
+      <value><![CDATA[PL25245 ]]></value>
+      <value><![CDATA[2016-03-20 12:32:45.412389]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008600</value>
+      <value>D</value>
+      <value>2007-07-18</value>
+      <value>2007-08-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>149.61</value>
+      <value>82.63</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-07-18</value>
+      <value>2007-08-17</value>
+      <value><![CDATA[PL25245 ]]></value>
+      <value><![CDATA[2016-03-20 12:46:57.725676]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008601</value>
+      <value>S</value>
+      <value>2007-08-18</value>
+      <value>2007-09-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>202.00</value>
+      <value>202.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-08-18</value>
+      <value>2007-09-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.981966]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008602</value>
+      <value>S</value>
+      <value>2007-09-18</value>
+      <value>2007-10-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>153.27</value>
+      <value>153.27</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-09-18</value>
+      <value>2007-10-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.948442]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008603</value>
+      <value>S</value>
+      <value>2007-12-18</value>
+      <value>2008-01-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>47.16</value>
+      <value>47.16</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-12-18</value>
+      <value>2008-01-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.932391]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008604</value>
+      <value>S</value>
+      <value>2008-01-18</value>
+      <value>2008-02-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>86.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2008-01-18</value>
+      <value>2008-02-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.917037]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008605</value>
+      <value>S</value>
+      <value>2008-02-18</value>
+      <value>2008-03-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>86.00</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2008-02-18</value>
+      <value>2008-03-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.900499]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008606</value>
+      <value>S</value>
+      <value>2008-03-18</value>
+      <value>2008-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>90.94</value>
+      <value>90.94</value>
+      <value>HD</value>
+      <value>2008-03-21</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2008-03-18</value>
+      <value>2008-04-17</value>
+      <value>ARAUPRP3</value>
+      <value><![CDATA[2008-03-23 00:01:44.867233]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008608</value>
+      <value>S</value>
+      <value>2007-03-18</value>
+      <value>2007-04-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>47.16</value>
+      <value>47.16</value>
+      <value>HD</value>
+      <value>2008-04-03</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-03-18</value>
+      <value>2007-04-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2008-04-12 00:11:02.947881]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008609</value>
+      <value>S</value>
+      <value>2007-04-18</value>
+      <value>2007-05-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>86.00</value>
+      <value>HD</value>
+      <value>2008-04-03</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-04-18</value>
+      <value>2007-05-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2008-04-12 00:11:02.944056]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008610</value>
+      <value>S</value>
+      <value>2007-05-18</value>
+      <value>2007-06-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>86.00</value>
+      <value>HD</value>
+      <value>2008-04-03</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-05-18</value>
+      <value>2007-06-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2008-04-12 00:11:02.9403]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008611</value>
+      <value>S</value>
+      <value>2007-06-18</value>
+      <value>2007-07-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>86.00</value>
+      <value>86.00</value>
+      <value>HD</value>
+      <value>2008-04-03</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-06-18</value>
+      <value>2007-07-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2008-04-12 00:11:02.9357]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008612</value>
+      <value>S</value>
+      <value>2007-07-18</value>
+      <value>2007-08-17</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>66.98</value>
+      <value>66.98</value>
+      <value>HD</value>
+      <value>2008-04-03</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2007-07-18</value>
+      <value>2007-08-17</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2008-04-12 00:11:02.891108]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>7008824</value>
+      <value>S</value>
+      <value>2010-06-01</value>
+      <value>2010-06-30</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>1756.80</value>
+      <value>1756.80</value>
+      <value><![CDATA[C ]]></value>
+      <value>2010-05-28</value>
+      <value><![CDATA[D  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2010-06-01</value>
+      <value>2010-06-30</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2010-05-29 01:13:43.459944]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

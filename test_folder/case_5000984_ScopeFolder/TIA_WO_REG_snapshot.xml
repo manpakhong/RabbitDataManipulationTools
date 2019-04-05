@@ -1,0 +1,41 @@
+<dataset>
+  <table name="TIA_WO_REG">
+    <column>WO_REG_KEY</column>
+    <column>CASE_KEY</column>
+    <column>RCVR_SEQ_NUM</column>
+    <column>WO_SEQ_NUM</column>
+    <column>AMOUNT_OP</column>
+    <column>OP_RECOVER</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>CURR_PROC_STS</column>
+    <column>CURR_PROC_OFFR</column>
+    <column>PROC_STS_DATE</column>
+    <column>FLD_RCV_DATE</column>
+    <column>WO_RCV_DATE</column>
+    <column>WO_RSLT_DECN</column>
+    <column>WO_RSLT_DATE</column>
+    <column>WO_RSLT_APPR_BY</column>
+    <column>WO_RSLT_APPR_REF</column>
+    <column>WO_RSLT_RMK</column>
+    <column>RTN_FLD_DATE</column>
+    <column>AUD_TO_PU</column>
+    <column>AUD_ISS_DATE</column>
+    <column>AUD_DUE_DATE</column>
+    <column>AUD_RMD_DATE</column>
+    <column>AUD_RPLY_DATE</column>
+    <column>AUD_RMK</column>
+    <column>AUD_STS</column>
+    <column>CHK_PROC</column>
+    <column>CHK_PROC_RSLT</column>
+    <column>CHK_PROC_RMK</column>
+    <column>CHK_COMPL_DATE</column>
+    <column>CHK_BY_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ADJUST_AMT</column>
+    <column>ADJUST_RMK</column>
+  </table>
+</dataset>

@@ -1,0 +1,29 @@
+<dataset>
+  <table name="TCC_SPL_CASE_CUST_WF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PAY_ARGM</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_STS_PCSSA</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>ASSG_OFFR</column>
+    <column>REJ_IND</column>
+    <column>REJ_CODE</column>
+    <column>RATE</column>
+    <column>RTE_CODE</column>
+    <column>LAST_UPD_POST</column>
+    <column>SPMT_ID</column>
+  </table>
+</dataset>

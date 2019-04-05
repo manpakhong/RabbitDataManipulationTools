@@ -1,0 +1,482 @@
+<dataset>
+  <table name="TMS_IN_OUT_DOC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>FLOW_IND</column>
+    <column>CATLG</column>
+    <column>SUBJECT</column>
+    <column>FPN</column>
+    <column>ISS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ATT_DESC_ID</column>
+    <column>GEN_FROM</column>
+    <column>ACT_IND</column>
+    <row>
+      <value>1228417</value>
+      <value>7897752</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>7</value>
+      <value>2016-04-01</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 11:13:59.073496]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897253</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 11:06:46.011924]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897255</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[ENQUIRY NOTE                                                                                        ]]></value>
+      <value>2</value>
+      <value>2001-11-30</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:36:57.009138]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897256</value>
+      <value>0</value>
+      <value>O</value>
+      <value>UPT</value>
+      <value><![CDATA[MEMO TO EA/CO                                                                                       ]]></value>
+      <value>2</value>
+      <value>2001-11-30</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:37:15.093439]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897257</value>
+      <value>0</value>
+      <value>I</value>
+      <value>UPT</value>
+      <value><![CDATA[MEMO FROM EA/CO                                                                                     ]]></value>
+      <value>2</value>
+      <value>2001-11-30</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:37:27.378259]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897258</value>
+      <value>0</value>
+      <value>I</value>
+      <value>UPT</value>
+      <value><![CDATA[MEMO FROM EA/CO                                                                                     ]]></value>
+      <value>2</value>
+      <value>2002-01-04</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:37:34.722805]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897259</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[SEND FOR SHEET                                                                                      ]]></value>
+      <value>2</value>
+      <value>2002-01-19</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:38:11.80835]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897260</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[MARRIED CERTIFICATE                                                                                 ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:38:27.462263]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897261</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[HKIC & BANK BOOK                                                                                    ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:38:41.197556]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897262</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[RENT CARD                                                                                           ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:38:49.368149]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897263</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[ABSENCE RECORD                                                                                      ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:39:06.222547]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897264</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[ANNEX I(C)                                                                                          ]]></value>
+      <value>2</value>
+      <value>2002-01-28</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:39:21.409893]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897286</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>3</value>
+      <value>2002-12-23</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 10:50:37.391059]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897303</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2003-11-12</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 10:58:20.852049]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897305</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2003-11-12</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 11:07:05.087898]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897328</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2004-11-26</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-26 12:04:11.095075]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897347</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2005-10-29</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 10:07:07.168888]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897355</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>5</value>
+      <value>2005-12-29</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-12-29 09:19:54.952987]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897511</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2010-10-26</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-26 14:24:11.511298]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897474</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2009-10-06</value>
+      <value>LCK04105</value>
+      <value><![CDATA[2009-10-06 12:17:32.630766]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897616</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>7</value>
+      <value>2014-06-12</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 11:32:50.314005]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897617</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[DECL BY SOMEBODY OTHER THAN APPLICANT                                                               ]]></value>
+      <value>7</value>
+      <value>2014-06-12</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 11:34:18.138163]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897648</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>7</value>
+      <value>2014-10-14</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-14 09:55:27.418052]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897707</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>7</value>
+      <value>2015-10-26</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-10-26 11:03:19.380484]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897716</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>7</value>
+      <value>2015-12-09</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-09 11:25:19.840808]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897726</value>
+      <value>754250</value>
+      <value>O</value>
+      <value>REF</value>
+      <value><![CDATA[REF LETTER TO DESIGNATED DENTAL CLINIC                                                              ]]></value>
+      <value>7</value>
+      <value>2015-12-17</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-17 09:39:06.854053]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897730</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>7</value>
+      <value>2015-12-31</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-31 11:35:21.393276]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897750</value>
+      <value>754250</value>
+      <value>O</value>
+      <value>REF</value>
+      <value><![CDATA[REF LETTER TO DESIGNATED DENTAL CLINIC                                                              ]]></value>
+      <value>7</value>
+      <value>2016-03-29</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-03-29 10:31:21.400874]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897244</value>
+      <value>754250</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[NOTIFICATION OF THE CLOSURE OF A CASE                                                               ]]></value>
+      <value>1</value>
+      <value>2001-10-08</value>
+      <value>SSP04046</value>
+      <value><![CDATA[2001-10-08 11:49:20.335081]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

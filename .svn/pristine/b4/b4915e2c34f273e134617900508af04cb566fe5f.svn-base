@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <salary id="1" user_id="1" salary="5560" last_updated_date="2016-05-09 09:20:59.0"/>
+  <salary id="2" user_id="2" salary="5570" last_updated_date="2016-05-09 09:21:10.0"/>
+  <salary id="3" user_id="3" salary="12300" last_updated_date="2016-05-09 09:21:20.0"/>
+</dataset>

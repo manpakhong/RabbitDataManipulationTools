@@ -1,0 +1,112 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1003599</value>
+      <value><![CDATA[ J2037731           ]]></value>
+      <value>I</value>
+      <value><![CDATA[TJIONG                        ]]></value>
+      <value><![CDATA[TUNG FAI                      ]]></value>
+      <value><![CDATA[張             ]]></value>
+      <value><![CDATA[冬暉          ]]></value>
+      <value><![CDATA[17281               ]]></value>
+      <value><![CDATA[0392125471          ]]></value>
+      <value>M</value>
+      <value>1959-04-13</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SPK04106</value>
+      <value><![CDATA[2016-06-10 18:33:08.578752]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2719044</value>
+      <value><![CDATA[ T5135901           ]]></value>
+      <value>I</value>
+      <value><![CDATA[TJIONG                        ]]></value>
+      <value><![CDATA[JISUN                         ]]></value>
+      <value><![CDATA[張             ]]></value>
+      <value><![CDATA[繼孫          ]]></value>
+      <value><![CDATA[17281               ]]></value>
+      <value><![CDATA[4949113271          ]]></value>
+      <value>F</value>
+      <value>1990-02-14</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SPK03080</value>
+      <value><![CDATA[2009-02-27 14:26:23.083756]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2719046</value>
+      <value><![CDATA[ T5135308           ]]></value>
+      <value>I</value>
+      <value><![CDATA[TJIONG                        ]]></value>
+      <value><![CDATA[SHIN FAN                      ]]></value>
+      <value><![CDATA[張             ]]></value>
+      <value><![CDATA[善奮          ]]></value>
+      <value><![CDATA[17281               ]]></value>
+      <value><![CDATA[0810111641          ]]></value>
+      <value>M</value>
+      <value>1987-11-18</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SPK03080</value>
+      <value><![CDATA[2009-02-27 14:26:23.099395]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2858038</value>
+      <value><![CDATA[ T6795751           ]]></value>
+      <value>I</value>
+      <value><![CDATA[TSOY                          ]]></value>
+      <value><![CDATA[TSU LUN                       ]]></value>
+      <value><![CDATA[蔡             ]]></value>
+      <value><![CDATA[鑄倫          ]]></value>
+      <value><![CDATA[55911               ]]></value>
+      <value><![CDATA[6999102431          ]]></value>
+      <value>F</value>
+      <value>1966-07-13</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>KCY04035</value>
+      <value><![CDATA[2006-09-14 10:46:34.611101]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

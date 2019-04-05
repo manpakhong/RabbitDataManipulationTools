@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCC_XREF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CUST_ROLE</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_VER_IND</column>
+    <column>RSHP_RMK</column>
+    <column>FPN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>APPL_IND</column>
+    <column>LIV_IND</column>
+    <column>DEP_IND</column>
+    <column>FIN_DEP_CODE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>AP</value>
+      <value>AP</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>mocarriemt</value>
+      <value><![CDATA[2016-11-22 16:32:44.133176]]></value>
+      <value>SSA1_YTsFU</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,110 @@
+<dataset>
+  <table name="TPY_PAY_AUTH">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_TYPE</column>
+    <column>AUTO_REVN_IND</column>
+    <column>RSON_CODE</column>
+    <column>RSON_OD</column>
+    <column>PAY_DAY</column>
+    <column>CALDR_MTH_IND</column>
+    <column>PAY_MTH_STR_DAY</column>
+    <column>LANG_TYPE</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>PAID_CAN_IND</column>
+    <column>PAY_UPD_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4504146</value>
+      <value>A</value>
+      <value>2015-08-03</value>
+      <value>2015-09-30</value>
+      <value>A</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>10</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value>KCW03108</value>
+      <value>2015-09-07</value>
+      <value>KCW05035</value>
+      <value>2015-09-07</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>KCW05036</value>
+      <value><![CDATA[2015-10-23 12:03:35.411481]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>4504146</value>
+      <value>A</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>R</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>10</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value>KCW03123</value>
+      <value>2015-10-22</value>
+      <value>KCW05036</value>
+      <value>2015-10-23</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>KCW05036</value>
+      <value><![CDATA[2015-10-27 12:31:55.685896]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>4504146</value>
+      <value>P</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>R</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>10</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value>KCW03123</value>
+      <value>2015-10-29</value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>KCW03123</value>
+      <value><![CDATA[2015-10-29 18:03:28.006344]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

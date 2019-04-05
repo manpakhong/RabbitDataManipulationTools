@@ -1,0 +1,12 @@
+<dataset>
+  <table name="TCS_SSA_OTH_ASST">
+    <column>CASE_KEY</column>
+    <column>APP_ASS</column>
+    <column>SPS_ASS</column>
+    <column>MEM_ASS</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,114 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>10610.00</value>
+      <value>2007-07-16</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value><![CDATA[LUNG CANCER]]></value>
+      <value>OA</value>
+      <value>1998-12-19</value>
+      <value>1998-12-19</value>
+      <value>1111-11-11</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:31:10.279708]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>1275380</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value>ST</value>
+      <value>1998-12-19</value>
+      <value>1998-12-19</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2004-10-19</value>
+      <value>2004-10-19</value>
+      <value>1111-11-11</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2015-11-17 11:51:52.450758]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2014-01-13</value>
+      <value>2011-03-25</value>
+      <value>1111-11-11</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-03-06 17:37:38.460025]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2012-03-01</value>
+      <value>2012-01-31</value>
+      <value>1111-11-11</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:30:30.725834]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2012-01-31</value>
+      <value>2012-01-31</value>
+      <value>1111-11-11</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:29:51.767137]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

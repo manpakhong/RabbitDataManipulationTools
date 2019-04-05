@@ -1,0 +1,38 @@
+<dataset>
+  <table name="TCC_SIA_MASTER">
+    <column>SCH_YR</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SDL_RUN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>APP_ID_NUM</column>
+    <column>APP_ID_TYPE</column>
+    <column>APP_ENG_SURNAME</column>
+    <column>APP_ENG_OTH_NAME</column>
+    <column>SPU_ID_NUM</column>
+    <column>SPU_ID_TYPE</column>
+    <column>SPU_ENG_SURNAME</column>
+    <column>SPU_ENG_OTH_NAME</column>
+    <column>STD_ID_NUM</column>
+    <column>STD_ID_TYPE</column>
+    <column>STD_ENG_SURNAME</column>
+    <column>STD_ENG_OTH_NAME</column>
+    <column>STD_DOB</column>
+    <column>EX1_ISSUE_DATE</column>
+    <column>EX1_RATE_PCT</column>
+    <column>CEILING_AMT</column>
+    <column>OPR_PROG_NAME</column>
+    <column>OPR_MATCH_INFO</column>
+    <column>OPR_APP_REF</column>
+    <column>OPR_AMT</column>
+    <column>OPR_VALUE_DATE</column>
+    <column>SIA_ASST_LVL</column>
+    <column>SWD_PAY_DATE</column>
+    <column>SWD_INTSUB_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

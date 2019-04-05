@@ -1,0 +1,122 @@
+<dataset>
+  <table name="TPY_RCVR_DTL">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>STS_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>GRT_TYPE</column>
+    <column>SYS_GEN_IND</column>
+    <column>PEND_DEL_IND</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>RCVR_AMT</column>
+    <column>CLSS_CODE</column>
+    <column>DATE_REC_OP</column>
+    <column>OPAY_RSON_CODE</column>
+    <column>OPAY_RSON_OD</column>
+    <column>ICAS_MA</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>EC_NUM</column>
+    <column>EC_SER_NUM</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>7861553</value>
+      <value>S</value>
+      <value>2013-09-01</value>
+      <value>2013-09-30</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>214.67</value>
+      <value>214.67</value>
+      <value><![CDATA[C ]]></value>
+      <value>2014-03-19</value>
+      <value><![CDATA[H  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2013-09-01</value>
+      <value>2013-09-30</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2014-03-19 22:53:45.106066]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>7861554</value>
+      <value>S</value>
+      <value>2013-11-01</value>
+      <value>2013-11-30</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>40.00</value>
+      <value>40.00</value>
+      <value><![CDATA[C ]]></value>
+      <value>2014-03-19</value>
+      <value><![CDATA[H  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2013-11-01</value>
+      <value>2013-11-30</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2014-03-19 22:53:45.104426]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>7861555</value>
+      <value>S</value>
+      <value>2014-01-01</value>
+      <value>2014-01-31</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>40.00</value>
+      <value>40.00</value>
+      <value><![CDATA[C ]]></value>
+      <value>2014-03-19</value>
+      <value><![CDATA[H  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2014-01-01</value>
+      <value>2014-01-31</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2014-03-19 22:53:45.102384]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>7861713</value>
+      <value>S</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>CSA</value>
+      <value>S</value>
+      <value>N</value>
+      <value>2326.61</value>
+      <value>2326.61</value>
+      <value><![CDATA[C ]]></value>
+      <value>2016-02-22</value>
+      <value><![CDATA[H  ]]></value>
+      <value><![CDATA[                                   ]]></value>
+      <value>N</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2016-04-13 22:26:50.355824]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

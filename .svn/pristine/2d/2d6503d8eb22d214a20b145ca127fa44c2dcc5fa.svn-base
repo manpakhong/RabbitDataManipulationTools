@@ -1,0 +1,13 @@
+<dataset>
+  <table name="TMS_DHP_MIS_RC">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>DHP_RGN</column>
+    <column>DHP_INST</column>
+    <column>DHP_LOC</column>
+    <column>DHP_SUB_LOC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

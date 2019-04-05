@@ -1,0 +1,25 @@
+<dataset>
+  <table name="TPY_STOP_PAY">
+    <column>CASE_KEY</column>
+    <column>STOP_PAY_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GEN_IND</column>
+    <column>REVL_PAY_DATE</column>
+    <column>REVL_PROC_IND</column>
+    <column>STOP_PAY_IND</column>
+    <column>RSON_CODE</column>
+    <column>RSON_OD</column>
+    <column>TR_IND</column>
+    <column>TR_FR_DATE</column>
+    <column>TR_TO_DATE</column>
+    <column>TR_BANK_CODE</column>
+    <column>TR_BRN_CODE</column>
+    <column>TR_ACC_NUM</column>
+    <column>DTH_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

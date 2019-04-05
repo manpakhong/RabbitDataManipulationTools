@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TCS_COMP_REHOUSE">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>DATE_REQ</column>
+    <column>DATE_APPL</column>
+    <column>DATE_REF</column>
+    <column>DATE_RSU</column>
+    <column>RSU</column>
+    <column>DATE_REF_SEND</column>
+    <column>DATE_RTN_REF</column>
+    <column>FPN</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

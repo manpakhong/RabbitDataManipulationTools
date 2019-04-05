@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TDM_KEY">
+    <column>TDM_KEY_ID</column>
+    <column>TDM_BATCH_ID</column>
+    <column>MATCHED_CASEFILE</column>
+    <column>CASE_KEY</column>
+    <column>SCHEME_TYPE</column>
+    <column>PROC_UNIT</column>
+    <column>DONE_BEFORE_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>PARENT_CASE</column>
+  </table>
+</dataset>

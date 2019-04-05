@@ -1,0 +1,9 @@
+tms_enq_note_snapshot.xml
+TMS_ENQ_NOTE
+enquiryNoteScopeFolder
+enquiryNoteScope
+select * from prddbs1.TMS_ENQ_NOTE where proc_unit = 'LCK' and ser_num= 190
+-----------------------------------------------------------------------------------------------
+select * from prddbs1.TMS_ENQ_NOTE where proc_unit = 'LCK' and ser_num= 190
+...................................................................................
+-BLANK-

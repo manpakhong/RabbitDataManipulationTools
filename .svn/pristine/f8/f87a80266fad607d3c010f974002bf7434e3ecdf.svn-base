@@ -1,0 +1,222 @@
+<dataset>
+  <table name="TCC_SPL_PAY">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PAY_STS</column>
+    <column>REJ_CODE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>SEQ_NUM</column>
+    <column>PAY_DATE</column>
+    <column>PAY_MTHD</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>PAY_AMT</column>
+    <column>RCVR_DATE</column>
+    <column>RCVR_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200801</value>
+      <value>2008-06-13</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1345.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 09:45:59.406459]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200802</value>
+      <value>2008-09-04</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1560.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL444   ]]></value>
+      <value><![CDATA[2009-01-11 17:21:06.54397]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200802</value>
+      <value>2008-09-04</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1560.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL444   ]]></value>
+      <value><![CDATA[2009-01-11 17:21:06.541053]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200701</value>
+      <value>2007-06-28</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1310.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 12:33:59.031034]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200801</value>
+      <value>2008-06-13</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1495.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 09:45:59.402583]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200801</value>
+      <value>2008-06-13</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1495.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 09:45:59.399162]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719046</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200701</value>
+      <value>2007-06-28</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1455.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 12:33:59.0379]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2719044</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200701</value>
+      <value>2007-06-28</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1455.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL494   ]]></value>
+      <value><![CDATA[2009-05-24 12:33:59.034176]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>1003599</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value>SPK</value>
+      <value>C</value>
+      <value>41852</value>
+      <value>200802</value>
+      <value>2008-09-04</value>
+      <value>BP</value>
+      <value>043</value>
+      <value>511</value>
+      <value><![CDATA[99994991 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT NAME                                                 ]]></value>
+      <value>1405.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value><![CDATA[EL444   ]]></value>
+      <value><![CDATA[2009-01-11 17:21:06.537292]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,114 @@
+<dataset>
+  <table name="TCC_EMP_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>EXP_WK_TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>CUR_EMP_IND</column>
+    <column>EMP_NAT</column>
+    <column>EMP_NAME</column>
+    <column>COMP_NAME</column>
+    <column>EMP_ADDR</column>
+    <column>EMP_TEL_NUM</column>
+    <column>EMP_FAX_NUM</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>POST_TTL</column>
+    <column>COM_WK_DATE</column>
+    <column>FST_MTH_DISREGD</column>
+    <column>TO_DATE</column>
+    <column>WK_DAY</column>
+    <column>WK_HOUR</column>
+    <column>EARN_TOT</column>
+    <column>AVG_EARN_AMT</column>
+    <column>PAY_DAY_PATN</column>
+    <column>PAY_DAY1</column>
+    <column>PAY_DAY2</column>
+    <column>FREE_MEAL_IND</column>
+    <column>MEAL_RGLR</column>
+    <column>MEAL_NUM</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PATN</column>
+    <column>TRVL_IND</column>
+    <column>TRVL_SEQ_NUM</column>
+    <column>TERM_IND</column>
+    <column>DATE_TERM</column>
+    <column>LAST_PAID_DATE</column>
+    <column>LAST_PAID_AMT</column>
+    <column>PAY_LIEU_DATE</column>
+    <column>PAY_LIEU_AMT</column>
+    <column>RET_BEN_DATE</column>
+    <column>RET_BEN_AMT</column>
+    <column>RET_BEN_TYPE</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_RTN</column>
+    <column>FPN</column>
+    <column>RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>754250</value>
+      <value>2001-07-01</value>
+      <value>2001-07-01</value>
+      <value>7897249</value>
+      <value>N</value>
+      <value>C</value>
+      <value><![CDATA[EMPLOYER OF 754250                                                              ]]></value>
+      <value><![CDATA[COMPANY XXX OF 754250                                                           ]]></value>
+      <value><![CDATA[EMPLOYER ADDR OF 754250]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[CB ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[CONSTRUCTION LABOURER                                       ]]></value>
+      <value>1979-07-01</value>
+      <value>N</value>
+      <value>2001-07-01</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>Y</value>
+      <value>2001-07-01</value>
+      <value>2001-08-21</value>
+      <value>12000.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>2002-01-28</value>
+      <value><![CDATA[(MASKED) CONFIRMED BY XXXXX]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value/>
+      <value>0</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 09:36:39.781081]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

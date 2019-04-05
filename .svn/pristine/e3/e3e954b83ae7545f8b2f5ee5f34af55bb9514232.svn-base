@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TSF_PART_LIST">
+    <column>PART_LIST_KEY</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SERVICE_CAT</column>
+    <column>SERIAL_NUM</column>
+    <column>DATE_GEN</column>
+    <column>DATE_REFER</column>
+    <column>DOB_YOUNGEST_CHILD</column>
+    <column>DATE_ENROLL_CAT_I</column>
+    <column>STATUS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

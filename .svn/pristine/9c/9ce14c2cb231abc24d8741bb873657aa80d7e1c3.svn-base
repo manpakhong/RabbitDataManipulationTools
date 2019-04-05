@@ -1,0 +1,9 @@
+user_snapshot.xml;salary_snapshot.xml
+user;salary
+usersalaryScopeFullFolder
+usersalaryFullScope
+select * from user
+select * from salary
+-----------------------------------------------------------------------------------------------
+select * from user
+select * from salary

@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>2000-07-26</value>
+      <value>1111-11-11</value>
+      <value>2000-08-17</value>
+      <value>C</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.518787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2001-01-12</value>
+      <value>2001-01-12</value>
+      <value>2001-11-06</value>
+      <value>C</value>
+      <value>WCI05028</value>
+      <value><![CDATA[2001-11-06 11:30:58.286447]]></value>
+      <value><![CDATA[2001-01-15 09:33:33.84202]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>2002-07-22</value>
+      <value>2002-07-22</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2002-09-09 18:30:02.782474]]></value>
+      <value><![CDATA[2002-07-22 11:40:47.538444]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

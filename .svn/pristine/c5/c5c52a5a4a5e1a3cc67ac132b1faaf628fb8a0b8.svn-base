@@ -1,0 +1,38 @@
+<dataset>
+  <table name="TCS_POSTAL_REVW">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>FIT_FOR_POSTAL_REVW</column>
+    <column>NXT_RND_REVW</column>
+    <column>BU_BEF60_EXP_DATE</column>
+    <column>BU_ON_EXP_DATE</column>
+    <column>BU_AFT60_EXP_DATE</column>
+    <column>DATE_GEN_LETTER</column>
+    <column>EVT_RMK_GEN_LETTER</column>
+    <column>ONLINE_UPD_UID</column>
+    <column>ONLINE_UPD_TS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ONLINE_UPD_POST</column>
+    <column>ONLINE_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[2010-05-06 17:48:17.346371]]></value>
+      <value>N</value>
+      <value>F</value>
+      <value>2013-10-01</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>2013-10-01</value>
+      <value>N/A</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-06-30 11:25:26.60891]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-06-30 11:25:26.60891]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

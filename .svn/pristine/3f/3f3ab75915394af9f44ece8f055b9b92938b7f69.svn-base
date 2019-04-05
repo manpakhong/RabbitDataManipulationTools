@@ -1,0 +1,30 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>3646541</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2014-06-12</value>
+      <value>2014-07-10</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[FULL-TIME ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-07-17 17:23:59.460575]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

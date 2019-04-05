@@ -1,0 +1,138 @@
+<dataset>
+  <table name="TAS_ELG_STS">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>CUST_STS</column>
+    <column>TO_DATE</column>
+    <column>RSON_CODE</column>
+    <column>SFS_CODE</column>
+    <column>NEL_CODE</column>
+    <column>CRE_DATE</column>
+    <column>RMK</column>
+    <column>SPS_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2007-07-19</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2007-07-06</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-06 14:04:33.07022]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>1275380</value>
+      <value>2000-03-24</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-11-02 10:11:14.293108]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value>2010-03-10</value>
+      <value>NEL</value>
+      <value>2014-01-12</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[W7 ]]></value>
+      <value>2010-04-15</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-03-06 17:41:38.488637]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value>2014-01-13</value>
+      <value>SPA</value>
+      <value>2018-12-31</value>
+      <value><![CDATA[W  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2014-02-27</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-10-23 11:54:13.221915]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2012-01-31</value>
+      <value>ABU</value>
+      <value>2012-03-18</value>
+      <value><![CDATA[   ]]></value>
+      <value>JS</value>
+      <value><![CDATA[   ]]></value>
+      <value>2012-03-10</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-15 15:03:06.704267]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2012-03-19</value>
+      <value>STU</value>
+      <value>2015-08-31</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2012-03-15</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-08-21 13:41:14.175443]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2015-09-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-08-21</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-10-14 10:49:49.323783]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

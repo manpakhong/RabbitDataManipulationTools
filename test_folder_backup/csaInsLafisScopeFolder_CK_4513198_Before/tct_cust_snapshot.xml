@@ -1,0 +1,68 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>3394267</value>
+      <value><![CDATA[ G028294            ]]></value>
+      <value>I</value>
+      <value><![CDATA[TJIONG                        ]]></value>
+      <value><![CDATA[LI YING                       ]]></value>
+      <value>&#24373;</value>
+      <value>&#20432;&#29801;</value>
+      <value><![CDATA[17281               ]]></value>
+      <value><![CDATA[0196138531          ]]></value>
+      <value>M</value>
+      <value>1959-12-09</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:19:17.53841]]></value>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>3773920</value>
+      <value><![CDATA[ R279303            ]]></value>
+      <value>I</value>
+      <value><![CDATA[BOON                          ]]></value>
+      <value><![CDATA[FUN BUN                       ]]></value>
+      <value>&#28331;</value>
+      <value>&#22894;&#24428;</value>
+      <value><![CDATA[33061               ]]></value>
+      <value><![CDATA[1164117551          ]]></value>
+      <value>F</value>
+      <value>1961-08-08</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:19:17.53988]]></value>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

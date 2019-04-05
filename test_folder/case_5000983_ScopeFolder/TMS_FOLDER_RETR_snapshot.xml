@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TMS_FOLDER_RETR">
+    <column>FOLDER_RETR_ID</column>
+    <column>REQ_DATE</column>
+    <column>REQ_FR</column>
+    <column>CASE_KEY</column>
+    <column>FPN</column>
+    <column>IS_ALL_PHY_FILE</column>
+    <column>REQ_OFFR_POST</column>
+    <column>APPR_OFFR_POST</column>
+    <column>APPR_DATE</column>
+    <column>REQ_STS</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>SRC_LOC</column>
+    <column>RETR_STS</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+    <column>APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>CHECK_OUT_DATE</column>
+  </table>
+</dataset>

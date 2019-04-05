@@ -1,0 +1,26 @@
+<dataset>
+  <table name="TMS_WARN_MSG">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>CRE_TS_ASS_PROF</column>
+    <column>CUST_KEY</column>
+    <column>ITEM_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>CATLG</column>
+    <column>REC_STS</column>
+    <column>AMT</column>
+    <column>LMT_AMT</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

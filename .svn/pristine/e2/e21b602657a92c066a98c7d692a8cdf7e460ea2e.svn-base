@@ -1,0 +1,418 @@
+<dataset>
+  <table name="TMS_IN_OUT_DOC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>FLOW_IND</column>
+    <column>CATLG</column>
+    <column>SUBJECT</column>
+    <column>FPN</column>
+    <column>ISS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ATT_DESC_ID</column>
+    <column>GEN_FROM</column>
+    <column>ACT_IND</column>
+    <row>
+      <value>1171420</value>
+      <value>7845361</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>3</value>
+      <value>2002-09-30</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-09-30 15:42:49.081361]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845370</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>3</value>
+      <value>2002-10-02</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-10-02 10:09:35.003378]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845371</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>3</value>
+      <value>2002-10-02</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-10-02 10:11:35.53246]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845377</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>4</value>
+      <value>2002-10-03</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2002-10-03 09:31:43.971726]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845392</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2002-12-09</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2002-12-09 16:27:54.004094]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845395</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2002-12-16</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2002-12-16 10:26:48.12722]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845415</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[DATA MATCHING WITH CSD-APRIL 03                                                                     ]]></value>
+      <value>5</value>
+      <value>2003-06-02</value>
+      <value>KCY05019</value>
+      <value><![CDATA[2003-06-02 12:51:48.943408]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845426</value>
+      <value>0</value>
+      <value>I</value>
+      <value>OTH</value>
+      <value><![CDATA[DATA MATCHING WITH CSD-AUG 03                                                                       ]]></value>
+      <value>5</value>
+      <value>2003-09-24</value>
+      <value>KCY05019</value>
+      <value><![CDATA[2003-09-24 15:41:52.969716]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845435</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>6</value>
+      <value>2003-11-17</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2003-11-17 16:04:34.124335]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845442</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>6</value>
+      <value>2003-11-19</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2003-11-19 12:20:14.607955]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845450</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>6</value>
+      <value>2003-12-19</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2003-12-19 15:52:53.161031]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845479</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>6</value>
+      <value>2004-05-03</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2004-05-03 12:25:40.16549]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845508</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>9</value>
+      <value>2005-05-13</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-05-13 11:16:17.519002]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845521</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>9</value>
+      <value>2005-07-20</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-07-20 16:26:25.893584]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845536</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>9</value>
+      <value>2005-07-27</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-07-27 15:42:30.048267]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845593</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPOINTMENT LETTER TO CSSA/SSA APPLICANT                                                            ]]></value>
+      <value>11</value>
+      <value>2006-09-07</value>
+      <value>KCY04035</value>
+      <value><![CDATA[2006-09-07 14:18:32.142207]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845633</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>13</value>
+      <value>2007-06-01</value>
+      <value>KCY04047</value>
+      <value><![CDATA[2007-06-01 12:50:14.104176]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845668</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[MEMO TO EAT IC TO FOLLOW-UP                                                                         ]]></value>
+      <value>14</value>
+      <value>2007-10-12</value>
+      <value>SPK04052</value>
+      <value><![CDATA[2007-10-12 10:42:30.014954]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845673</value>
+      <value>2719046</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[INFORMATION MATERIALS ON CSSA SCHEME                                                                ]]></value>
+      <value>14</value>
+      <value>2007-10-12</value>
+      <value>SPK04052</value>
+      <value><![CDATA[2007-10-12 11:18:18.393208]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845674</value>
+      <value>2719046</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>14</value>
+      <value>2007-10-12</value>
+      <value>SPK04052</value>
+      <value><![CDATA[2007-10-12 11:20:44.11554]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845798</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM (FOR CSSA)                                                                  ]]></value>
+      <value>16</value>
+      <value>2016-06-10</value>
+      <value>SPK04106</value>
+      <value><![CDATA[2016-06-10 18:34:30.155148]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845800</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[NOTIFICATION ON  CLOSING OF A CASE                                                                  ]]></value>
+      <value>16</value>
+      <value>2016-06-21</value>
+      <value>SPK04111</value>
+      <value><![CDATA[2016-06-21 10:38:23.62868]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845304</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>2</value>
+      <value>2001-07-26</value>
+      <value>KCY04020</value>
+      <value><![CDATA[2001-07-26 09:41:21.847939]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845321</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>3</value>
+      <value>2001-10-17</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2001-10-17 10:51:31.167535]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>7845327</value>
+      <value>1003599</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>3</value>
+      <value>2001-10-17</value>
+      <value>KCY04017</value>
+      <value><![CDATA[2001-10-17 12:21:20.176462]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

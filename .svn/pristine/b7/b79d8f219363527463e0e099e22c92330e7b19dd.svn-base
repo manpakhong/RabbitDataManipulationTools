@@ -1,0 +1,13 @@
+<dataset>
+  <table name="TMS_HA_IN_WF">
+    <column>CASE_KEY</column>
+    <column>HKID</column>
+    <column>ENG_NAME</column>
+    <column>HOSPITAL_NAME</column>
+    <column>ADMISSION_DATE</column>
+    <column>DISCHARGE_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

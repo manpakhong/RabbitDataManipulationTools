@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TAS_INELG_PERD">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1211652</value>
+      <value>2002-03-31</value>
+      <value>2010-01-04</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>YLW03091</value>
+      <value><![CDATA[2010-01-07 12:17:44.337116]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

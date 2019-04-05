@@ -1,0 +1,44 @@
+<dataset>
+  <table name="TMS_RR_INC_LIST">
+    <column>CASE_KEY</column>
+    <column>FOR_AR_I</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ORIGINAL_RENT</column>
+    <column>REDUCED_RENT</column>
+    <column>PARTIAL_IND</column>
+    <column>EXPORTED_IND</column>
+    <column>UPD_BY_SWD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>N</value>
+      <value>2007-03-01</value>
+      <value>2007-03-31</value>
+      <value>0.00</value>
+      <value>1100.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>N</value>
+      <value>RRSIMPLT</value>
+      <value><![CDATA[2006-12-23 08:35:07.30203]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>Y</value>
+      <value>2007-02-01</value>
+      <value>2007-02-28</value>
+      <value>1100.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>N</value>
+      <value>RRSIMPLT</value>
+      <value><![CDATA[2006-12-23 08:20:47.7077]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

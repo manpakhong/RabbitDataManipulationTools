@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>1997-10-28</value>
+      <value>1111-11-11</value>
+      <value>1998-12-31</value>
+      <value>C</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.518787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>2001-05-07</value>
+      <value>2001-06-07</value>
+      <value>2005-01-03</value>
+      <value>C</value>
+      <value>YTM05026</value>
+      <value><![CDATA[2005-01-03 14:39:07.708712]]></value>
+      <value><![CDATA[2001-05-09 10:53:53.815482]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>2005-12-19</value>
+      <value>2006-01-19</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>YTM04066</value>
+      <value><![CDATA[2006-01-18 10:42:00.953838]]></value>
+      <value><![CDATA[2005-12-19 14:25:13.915002]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

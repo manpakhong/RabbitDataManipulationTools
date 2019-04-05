@@ -1,0 +1,33 @@
+<dataset>
+  <table name="TDR_CI">
+    <column>TDR_CI_ID</column>
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>START_RECOVERY_DATE</column>
+    <column>SPECIAL_TASK</column>
+    <column>TRANSFER_IN_DATE</column>
+    <column>ASSIGNED_DRO</column>
+    <column>ASSIGNMENT_DATE</column>
+    <column>STATUS</column>
+    <column>ADD_TIME</column>
+    <column>ADD_BY</column>
+    <column>ADD_LOGIN_ID</column>
+    <column>UPD_TIME</column>
+    <column>UPD_BY</column>
+    <column>UPD_LOGIN_ID</column>
+    <column>CHK_TIME</column>
+    <column>CHK_BY</column>
+    <column>CHK_LOGIN_ID</column>
+    <column>WITH_DATA</column>
+    <column>SCREEN_CHK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>LAST_UPD_TS</column>
+    <column>LTS_PROC_UNIT</column>
+    <column>LTS_SCHM_TYPE</column>
+    <column>LTS_SER_NUM</column>
+    <column>NATURE</column>
+  </table>
+</dataset>

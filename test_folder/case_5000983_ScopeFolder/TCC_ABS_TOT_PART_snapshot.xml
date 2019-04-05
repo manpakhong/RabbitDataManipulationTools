@@ -1,0 +1,32 @@
+<dataset>
+  <table name="TCC_ABS_TOT_PART">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>YR_FR_DATE</column>
+    <column>YR_TO_DATE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>DOMICILE</column>
+    <column>RES_REQ</column>
+    <column>ADDN_ALW_LMT</column>
+    <column>RES_DAY</column>
+    <column>ABS_DAY_CURR_YR</column>
+    <column>YR_ABS_ENT</column>
+    <column>LAST_UPD_DATE</column>
+    <column>LAST_ABS_CAL_DATE</column>
+    <column>LAST_CUM_ABS_CT</column>
+    <column>ACTL_ABS_CNT</column>
+    <column>MAX_ABS_ADDN_ALW</column>
+    <column>EXCEED_LMT_DAY</column>
+    <column>PRT_DATE</column>
+    <column>DATE_EXCD_LMT</column>
+    <column>ABNORM_ABS_IND</column>
+    <column>CONSV_DEP</column>
+    <column>CONSV_ARR</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>CRE_REF_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

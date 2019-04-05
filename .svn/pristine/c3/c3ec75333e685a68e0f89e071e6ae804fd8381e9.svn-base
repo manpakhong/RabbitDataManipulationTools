@@ -1,0 +1,110 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>785576</value>
+      <value>V</value>
+      <value><![CDATA[J2932221122         ]]></value>
+      <value>2001-10-20</value>
+      <value>2011-10-20</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:07:03.477974]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1355418</value>
+      <value>B</value>
+      <value><![CDATA[914285977           ]]></value>
+      <value>2001-05-02</value>
+      <value>2006-05-07</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:12:01.056177]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1363663</value>
+      <value>V</value>
+      <value><![CDATA[J2533976422         ]]></value>
+      <value>2000-09-14</value>
+      <value>2003-09-14</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:09:12.548678]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1363663</value>
+      <value>B</value>
+      <value><![CDATA[914285970           ]]></value>
+      <value>2001-05-02</value>
+      <value>2006-05-02</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:11:11.43082]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1116659</value>
+      <value>P</value>
+      <value><![CDATA[J974507             ]]></value>
+      <value>2000-05-17</value>
+      <value>2002-05-17</value>
+      <value><![CDATA[REPUBLIK INDONESIA]]></value>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:08:04.194418]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1363662</value>
+      <value>V</value>
+      <value><![CDATA[J2533976222         ]]></value>
+      <value>2000-09-14</value>
+      <value>2003-09-14</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:08:46.456197]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1363662</value>
+      <value>B</value>
+      <value><![CDATA[914285979           ]]></value>
+      <value>2001-05-02</value>
+      <value>2006-05-02</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:10:33.210841]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1346125</value>
+      <value>B</value>
+      <value><![CDATA[914285902           ]]></value>
+      <value>2001-05-02</value>
+      <value>2006-05-08</value>
+      <value/>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 15:13:13.596172]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,9 @@
+tpy_pay_instr
+TPY_PAY_INSTR
+newPayInstructionScopeFolder
+newPayInstructionScope
+select * from prddbs1.tpy_pay_instr where case_key = '871324' order by case_key, grt_type, pay_type, fr_date, to_date, rec_sts
+-----------------------------------------------------------------------------------------------
+select * from prddbs1.tpy_pay_instr where case_key = '871324' order by case_key, grt_type, pay_type, fr_date, to_date, rec_sts
+...................................................................................
+LAST_UPD_LOGIN_ID,LAST_UPD_TS,LAST_UPD_POST

@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TMS_ERB_WF">
+    <column>HKID</column>
+    <column>TRNEE_NME</column>
+    <column>CRS_NME_CHN</column>
+    <column>CRS_NME_ENG</column>
+    <column>CRS_CD</column>
+    <column>CLS_NUM</column>
+    <column>COMM_DATE</column>
+    <column>CLS_DATE</column>
+    <column>RETRN_AMT</column>
+    <column>TRN_BDY_CHN</column>
+    <column>TRN_BDY_ENG</column>
+    <column>PAY_DATE</column>
+    <column>RTRN_AMT_SGN</column>
+    <column>UPD_IND</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>CASE_KEY</column>
+  </table>
+</dataset>

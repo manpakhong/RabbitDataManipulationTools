@@ -1,0 +1,29 @@
+<dataset>
+  <table name="TSF_FORM">
+    <column>SERIAL_NUM</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROJ_CODE</column>
+    <column>FROM_TITLE</column>
+    <column>FROM_PROJ_NUM</column>
+    <column>FROM_REF</column>
+    <column>FROM_FILE_REF</column>
+    <column>FROM_TEL_NUM</column>
+    <column>FROM_FAX_NUM</column>
+    <column>FROM_DATE</column>
+    <column>TO_TITLE</column>
+    <column>TO_ATTN</column>
+    <column>SWD_CASE_REF</column>
+    <column>TO_TEL_NUM</column>
+    <column>TO_FAX_NUM</column>
+    <column>TO_DATE</column>
+    <column>TOTAL_PAGES</column>
+    <column>NGO_SENDER_NAME_POST</column>
+    <column>NGO_SENDER_NAME</column>
+    <column>NGO_SENDER_POST</column>
+    <column>NGO_SENDER_TEL_NO</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,38 @@
+<dataset>
+  <table name="TCS_WC">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>WATER_SHR_NUM</column>
+    <column>WATER_NUM</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>2016-07-01</value>
+      <value>9999-01-01</value>
+      <value>126</value>
+      <value>Y</value>
+      <value/>
+      <value>6</value>
+      <value>6</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>1</value>
+      <value>O</value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 16:48:36.533]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

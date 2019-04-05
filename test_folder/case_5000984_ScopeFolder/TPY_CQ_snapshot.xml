@@ -1,0 +1,28 @@
+<dataset>
+  <table name="TPY_CQ">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>SCHD_DATE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>PAY_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_RSON_CODE</column>
+    <column>PAY_MTHD</column>
+    <column>PAY_DATE</column>
+    <column>PAY_AMT</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>PAYEE_NAME</column>
+    <column>PAYEE_ID_NUM</column>
+    <column>PAYEE_ID_TYPE</column>
+    <column>CQ_NO</column>
+    <column>REV_IND</column>
+    <column>PAY_STS</column>
+    <column>ACT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

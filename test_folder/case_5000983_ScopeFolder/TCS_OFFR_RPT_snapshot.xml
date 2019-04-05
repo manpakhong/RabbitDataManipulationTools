@@ -1,0 +1,96 @@
+<dataset>
+  <table name="TCS_OFFR_RPT">
+    <column>CASE_KEY</column>
+    <column>OFFR_RPT_IND</column>
+    <column>CRE_TS</column>
+    <column>PR_IND</column>
+    <column>RPT_DESC</column>
+    <column>DATE_RPT</column>
+    <column>CLS_REQ_IND</column>
+    <column>CLS_RSON_CODE</column>
+    <column>CLS_RSON_OD</column>
+    <column>REVT_CSSA</column>
+    <column>DATE_REDPTN</column>
+    <column>REC_ACT_IND</column>
+    <column>STP_PAY_IND</column>
+    <column>STP_PAY_FR_DATE</column>
+    <column>REV_PAY_IND</column>
+    <column>RPT_OFFR_UID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>RPT_OFFR_POST</column>
+    <column>RPT_OFFR_LOGIN_ID</column>
+    <row>
+      <value>5000983</value>
+      <value>Y</value>
+      <value><![CDATA[2017-01-09 15:22:55.638046]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[<u><strong>Demo Case</strong></u><br />
+<br />
+This is a <em>demo</em> case for testing purpose.]]></value>
+      <value>2017-01-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-11 11:13:24.69432]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>Y</value>
+      <value><![CDATA[2017-01-12 12:50:55.523]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[Out of course review on 10.10.2015.]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-12 16:12:26.20586]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>Y</value>
+      <value><![CDATA[2017-01-16 16:04:05.431]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[Case review on 18.06.2016 to split case.]]></value>
+      <value>2017-01-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 12:11:48.036933]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,177 @@
+<dataset>
+  <table name="TCT_RES_ADDR">
+    <column>CUST_KEY</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>POSTAL_CODE</column>
+    <column>TEL_NUM</column>
+    <column>TEL_NUM2</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>CHRG_TYPE</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4001142</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:54:22.040251]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001143</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:26:18.495905]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001144</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:26:18.495905]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001145</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:26:18.495905]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001146</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:31:14.977576]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>4001147</value>
+      <value>E</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>2</value>
+      <value>S09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value>SME</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:32:39.480386]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

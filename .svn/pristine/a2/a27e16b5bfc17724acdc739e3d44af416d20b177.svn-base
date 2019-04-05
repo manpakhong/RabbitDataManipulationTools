@@ -1,0 +1,110 @@
+<dataset>
+  <table name="TCC_HOSP">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>INST_TEL_NUM</column>
+    <column>DATE_ADM</column>
+    <column>DATE_DISCHG</column>
+    <column>BUY_PLACE_IND</column>
+    <column>RMK_OFFC</column>
+    <column>TXF_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2000-11-02</value>
+      <value>2001-01-04</value>
+      <value>7916582</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[10HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 19:16:04.397686]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2001-01-29</value>
+      <value>2001-03-09</value>
+      <value>7916615</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[10HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-03-15 09:00:55.154702]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2002-05-22</value>
+      <value>2002-05-29</value>
+      <value>7916700</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[10HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>N</value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-05-30 10:14:25.988442]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2007-04-22</value>
+      <value>2007-05-15</value>
+      <value>7917017</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[10HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-05-17 11:59:45.350677]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>2007-06-25</value>
+      <value>9999-01-01</value>
+      <value>7917041</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[10HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-05 12:55:39.893537]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

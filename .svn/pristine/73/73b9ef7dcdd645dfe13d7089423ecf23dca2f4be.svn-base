@@ -1,0 +1,290 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-09-17 10:30:59.3]]></value>
+      <value>1998-09-17</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[YLE02006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-09-17 10:31:17.5]]></value>
+      <value>1998-09-17</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>UT</value>
+      <value>1</value>
+      <value><![CDATA[YLE02006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-09-17 12:54:13.062759]]></value>
+      <value>1998-09-17</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[YLE02006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-09-25 15:49:10.392887]]></value>
+      <value>1998-09-25</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE06003    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-10-13 17:32:36.742925]]></value>
+      <value>1998-10-13</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1998-12-23 10:41:05.839845]]></value>
+      <value>1998-12-23</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-02-24 15:45:16.431104]]></value>
+      <value>1999-02-24</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-03-22 16:37:44.638047]]></value>
+      <value>1999-03-22</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-03-22 16:37:51.298753]]></value>
+      <value>1999-03-22</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-03-29 10:55:04.4]]></value>
+      <value>1999-03-29</value>
+      <value>TPS</value>
+      <value>C</value>
+      <value>31866</value>
+      <value>2</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[TPS02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-05-03 11:00:40.365174]]></value>
+      <value>1999-05-03</value>
+      <value>TPS</value>
+      <value>C</value>
+      <value>31866</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[TPS05009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-08-26 12:25:58.914619]]></value>
+      <value>1999-08-26</value>
+      <value>TPS</value>
+      <value>C</value>
+      <value>31866</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[TPS04018    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-09-24 17:30:49.84983]]></value>
+      <value>1999-09-24</value>
+      <value>TPS</value>
+      <value>C</value>
+      <value>31866</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[TPS04018    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-10-07 14:39:14.696132]]></value>
+      <value>1999-10-07</value>
+      <value>TPS</value>
+      <value>C</value>
+      <value>31866</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[TPS04018    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[1999-10-20 10:51:15.6]]></value>
+      <value>1999-10-20</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>2</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE02013    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[2000-09-15 11:03:29.531371]]></value>
+      <value>2000-09-15</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05020    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value><![CDATA[2000-09-15 11:03:44.431815]]></value>
+      <value>2000-09-15</value>
+      <value>YLE</value>
+      <value>C</value>
+      <value>33238</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[YLE05020    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

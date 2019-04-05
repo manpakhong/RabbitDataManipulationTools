@@ -1,0 +1,626 @@
+<dataset>
+  <table name="TPY_RPY_HDR">
+    <column>CASE_KEY</column>
+    <column>REPAY_MTHD</column>
+    <column>EFF_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>REC_STS</column>
+    <column>EXIST_REC_IND</column>
+    <column>CASE_KEY_VT_FR</column>
+    <column>VT_PROC_IND</column>
+    <column>TP_IND</column>
+    <column>INSTLM_AMT</column>
+    <column>RCVR_AMT</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>NEXT_DN_SUB_NUM</column>
+    <column>DN_NUM</column>
+    <column>TAPE_GEN_IND</column>
+    <column>TAPE_GEN_DATE</column>
+    <column>TAPE_RSLT_IND</column>
+    <column>MNL_RETR_REF_NUM</column>
+    <column>REF_NUM</column>
+    <column>PAY_TYPE</column>
+    <column>BANK_NAME</column>
+    <column>RCV_AMT</column>
+    <column>DATE_RCPT</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>LANG_TYPE</column>
+    <column>ROOM</column>
+    <column>FLOOR</column>
+    <column>BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>TTL</column>
+    <column>NEXT_ISS_DATE</column>
+    <column>DN_CAN_REQ_DATE</column>
+    <column>DN_CAN_FIN_DATE</column>
+    <column>REJ_RSON</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>STLM_DATE</column>
+    <column>CLSS_CODE</column>
+    <column>SRC_RFND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>RGN_CODE</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2010-05-27</value>
+      <value>7923884</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>300.00</value>
+      <value>2194.70</value>
+      <value>2194.70</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>E</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[POON FOON                     ]]></value>
+      <value>1</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2011-01-04</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2011-01-04 23:07:41.251833]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2011-07-01</value>
+      <value>7923983</value>
+      <value>T</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>1000.00</value>
+      <value>4000.00</value>
+      <value>21000.00</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>E</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[YOUQI                         ]]></value>
+      <value>1</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2011-10-03</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2011-10-07 16:24:43.364366]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2011-10-07</value>
+      <value>7924026</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>1000.00</value>
+      <value>10669.32</value>
+      <value>10669.32</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>E</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[JING WU                       ]]></value>
+      <value>1</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2012-09-04</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2012-09-04 23:20:47.292719]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2013-01-08</value>
+      <value>7924122</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>400.00</value>
+      <value>2760.94</value>
+      <value>2760.94</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KIU HA ALISON                 ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2013-08-06</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2013-08-07 01:26:40.386499]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2015-02-06</value>
+      <value>7924258</value>
+      <value>T</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>229.90</value>
+      <value>0.00</value>
+      <value>229.90</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[FAN LUNG                      ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>LCK03090</value>
+      <value><![CDATA[2015-03-03 09:33:02.48426]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2015-03-03</value>
+      <value>7924265</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>284.35</value>
+      <value>284.35</value>
+      <value>284.35</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[HAR ON                        ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2015-03-05</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2015-03-05 23:25:36.524738]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>DE</value>
+      <value>2015-03-23</value>
+      <value>7924279</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>15.10</value>
+      <value>15.10</value>
+      <value>15.10</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[LUI TIM                       ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2015-04-02</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2015-04-02 20:37:42.683625]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>PA</value>
+      <value>2010-05-27</value>
+      <value>7923883</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>235.80</value>
+      <value>235.80</value>
+      <value>235.80</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KUN FUI                       ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2010-06-01</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2010-06-01 23:21:29.644514]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>PA</value>
+      <value>2011-06-14</value>
+      <value>7923987</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>1283.30</value>
+      <value>1283.30</value>
+      <value>1283.30</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[YIN HOP                       ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2011-06-14</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2011-06-14 23:13:33.12417]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>PA</value>
+      <value>2011-10-07</value>
+      <value>7924025</value>
+      <value>S</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>6330.68</value>
+      <value>6330.68</value>
+      <value>6330.68</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[HO GAM                        ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2011-10-07</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>NBPEXTRP</value>
+      <value><![CDATA[2011-10-08 00:16:02.034619]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>PA</value>
+      <value>2012-06-01</value>
+      <value>7924087</value>
+      <value>T</value>
+      <value>N</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>12.20</value>
+      <value>0.00</value>
+      <value>12.20</value>
+      <value>0</value>
+      <value><![CDATA[            ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KUEN HONG                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-01-08 12:43:38.051244]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

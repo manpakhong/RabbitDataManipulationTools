@@ -1,0 +1,34 @@
+<dataset>
+  <table name="TPY_INSTLM_INFO">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ENG_SUR_NAME</column>
+    <column>ENG_OTHNAME</column>
+    <column>APPR_DATE</column>
+    <column>AMT_TO_BE_RCVR</column>
+    <column>INSTLM_AMT</column>
+    <column>NUM_INSTLM</column>
+    <column>DATE_FST_DUE</column>
+    <column>REPAY_MTHD</column>
+    <column>APPR_RANK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>7845730</value>
+      <value><![CDATA[TJIONG                        ]]></value>
+      <value><![CDATA[TUNG FAI                      ]]></value>
+      <value>2008-04-28</value>
+      <value>650.37</value>
+      <value>326.00</value>
+      <value>2</value>
+      <value>2008-04-28</value>
+      <value>DE</value>
+      <value><![CDATA[O2 ]]></value>
+      <value>SPK05017</value>
+      <value><![CDATA[2008-04-28 11:08:04.45657]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

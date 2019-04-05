@@ -1,0 +1,187 @@
+<dataset>
+  <table name="TCS_DISCR">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>DISCR_CATLG</column>
+    <column>DISCR_TYPE</column>
+    <column>DISCR_STS</column>
+    <column>DISCR_ORG_AMT</column>
+    <column>DISCR_AMT</column>
+    <column>DISCR_RANK</column>
+    <column>DISCR_REQ_OFF</column>
+    <column>DISCR_REQ_DATE</column>
+    <column>DISCR_APPR_OFFR</column>
+    <column>DISCR_DATE</column>
+    <column>DISCR_RSON</column>
+    <column>DISCR_OTH_RSON</column>
+    <column>INP_DESC1</column>
+    <column>INP_DESC2</column>
+    <column>DISCR_RMK</column>
+    <column>DISCR_OFFR_RMK</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>YR_ABS_STR_DATE</column>
+    <column>YR_ABS_END_DATE</column>
+    <column>BASIC_ALW</column>
+    <column>MAX_ALW</column>
+    <column>TOT_ABS_DAY</column>
+    <column>ABS_DAY_APPR</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>DISCR_APPR_OFFR_POST</column>
+    <column>DISCR_APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>DISCR_REQ_OFF_POST</column>
+    <column>DISCR_REQ_OFF_LOGIN_ID</column>
+    <row>
+      <value>5000983</value>
+      <value>159</value>
+      <value>4001143</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>780.00</value>
+      <value>500.00</value>
+      <value>O2</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value/>
+      <value/>
+      <value>2015-10-09</value>
+      <value>2015-10-09</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 09:52:00.804101]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>167</value>
+      <value>4001146</value>
+      <value>R</value>
+      <value><![CDATA[OYRR    ]]></value>
+      <value>A</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value/>
+      <value/>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 09:52:00.804101]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>168</value>
+      <value>4001147</value>
+      <value>R</value>
+      <value><![CDATA[OYRR    ]]></value>
+      <value>A</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Due to disability and financial genuine]]></value>
+      <value/>
+      <value>2015-10-10</value>
+      <value>2015-10-10</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 09:52:00.804101]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>183</value>
+      <value>4001145</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>450.00</value>
+      <value>500.00</value>
+      <value>O2</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-13</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-13</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value/>
+      <value/>
+      <value>2015-10-09</value>
+      <value>2015-10-09</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:11:07.2501]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+    </row>
+  </table>
+</dataset>

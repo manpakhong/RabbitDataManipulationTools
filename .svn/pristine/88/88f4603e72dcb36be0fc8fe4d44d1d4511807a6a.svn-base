@@ -1,0 +1,74 @@
+<dataset>
+  <table name="TMS_WARN_MSG">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>CRE_TS_ASS_PROF</column>
+    <column>CUST_KEY</column>
+    <column>ITEM_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>CATLG</column>
+    <column>REC_STS</column>
+    <column>AMT</column>
+    <column>LMT_AMT</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[2015-12-31 16:31:07.950246]]></value>
+      <value><![CDATA[2015-12-31 16:31:02.946277]]></value>
+      <value>754250</value>
+      <value>DTG</value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value>F</value>
+      <value>A</value>
+      <value>9960.00</value>
+      <value>0.00</value>
+      <value>LCK04133</value>
+      <value>2015-12-31</value>
+      <value>LCK05034</value>
+      <value>2016-01-04</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2016-01-04 15:36:07.828484]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[2016-04-01 12:10:52.249396]]></value>
+      <value><![CDATA[2016-04-01 12:10:44.384414]]></value>
+      <value>754250</value>
+      <value>DTG</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>F</value>
+      <value>A</value>
+      <value>4260.00</value>
+      <value>0.00</value>
+      <value>LCK04133</value>
+      <value>2016-04-01</value>
+      <value>LCK05034</value>
+      <value>2016-04-05</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2016-04-05 17:14:03.29876]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

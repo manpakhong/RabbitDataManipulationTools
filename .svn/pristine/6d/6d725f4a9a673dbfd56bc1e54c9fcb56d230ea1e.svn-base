@@ -1,0 +1,128 @@
+<dataset>
+  <table name="TCC_RESI_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>DATE_LAST_APPL</column>
+    <column>LAST_DATE_LAST_APPL</column>
+    <column>LAST_MTCH_END_DATE</column>
+    <column>LAST_MTCH_ELG_DATE</column>
+    <column>MTCH_DOE</column>
+    <column>PEND_MTCH_IND</column>
+    <column>MNL_MTCH_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>PREV_ELG_R1</column>
+    <column>PREV_ELG_R7</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>REOPEN_MTCH_IND</column>
+    <row>
+      <value>1249191</value>
+      <value>162096</value>
+      <value>1111-11-11</value>
+      <value>1998-12-19</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:31:12.618346]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>1275380</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-08-03 18:08:02.462529]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2004-10-19</value>
+      <value>2004-10-19</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2015-11-17 11:51:52.450887]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3206059</value>
+      <value>2010-03-10</value>
+      <value>2010-03-10</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>7917550</value>
+      <value>0</value>
+      <value>0</value>
+      <value>PREGTAPE</value>
+      <value><![CDATA[2016-06-30 20:43:56.858596]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2012-01-31</value>
+      <value>2012-01-31</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:30:30.802874]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380457</value>
+      <value>2012-01-31</value>
+      <value>2012-01-31</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:29:51.867633]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

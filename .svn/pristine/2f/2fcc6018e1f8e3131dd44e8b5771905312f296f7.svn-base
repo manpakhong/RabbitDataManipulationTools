@@ -1,0 +1,110 @@
+<dataset>
+  <table name="TMS_EXP_REV">
+    <column>CASE_KEY</column>
+    <column>CRE_DATE</column>
+    <column>CLSS_CODE</column>
+    <column>PROC_UNIT</column>
+    <column>GRT_TYPE</column>
+    <column>TOT_AMT</column>
+    <column>NO_OF_PAY</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>01</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>17917.60</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.638765]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>01</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>39.60</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.639147]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>01</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>0.80</value>
+      <value>0</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.639245]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>02</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>17917.60</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.639095]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>02</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>39.60</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.639194]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>02</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>0.80</value>
+      <value>0</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.639293]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>03</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>200.00</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.674548]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>2016-07-05</value>
+      <value>18</value>
+      <value>SKM</value>
+      <value>CSA</value>
+      <value>200.00</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-29 21:50:00.674599]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

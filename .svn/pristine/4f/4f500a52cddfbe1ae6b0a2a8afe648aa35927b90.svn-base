@@ -1,0 +1,119 @@
+<dataset>
+  <table name="TCS_PCSSA_DTL">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>CASE_STS</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>DATE_PAY_COMM</column>
+    <column>CLS_RSON_CODE</column>
+    <column>CLS_RSON_OD</column>
+    <column>LIV_PUB_HSE_IND</column>
+    <column>PUB_HSE_SURD_DATE</column>
+    <column>RENT_ALW_ELIG_IND</column>
+    <column>ISS_MW_DATE</column>
+    <column>SURNAME_CNCT_PSON</column>
+    <column>OTH_NAME_CNCT_PSON</column>
+    <column>SURNAME_CNCT_CHN</column>
+    <column>OTH_NAME_CNCT_CHN</column>
+    <column>RSHP_CODE_CNCT</column>
+    <column>RSHP_OD_CNCT</column>
+    <column>RES_ADDR1</column>
+    <column>RES_ADDR2</column>
+    <column>RES_ADDR3</column>
+    <column>RES_POSTAL_CODE</column>
+    <column>RES_TEL_NUM</column>
+    <column>CORR_ADDR1</column>
+    <column>CORR_ADDR2</column>
+    <column>CORR_ADDR3</column>
+    <column>CORR_POSTAL_CODE</column>
+    <column>CORR_TEL_NUM</column>
+    <column>REAPPL_IND</column>
+    <column>REVT_CSSA_IND</column>
+    <column>DATE_TERM</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>2001-06-15</value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>2001-06-16</value>
+      <value>1111-11-11</value>
+      <value>OT</value>
+      <value><![CDATA[(MASKED) CLOSURE REASON !]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KOK OI                        ]]></value>
+      <value><![CDATA[                ]]></value>
+      <value><![CDATA[壑皚          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>N</value>
+      <value>Y</value>
+      <value>2001-06-15</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>YTM05006</value>
+      <value><![CDATA[2001-06-16 09:36:48.12551]]></value>
+      <value><![CDATA[2001-06-15 09:53:16.399369]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>2011-10-07</value>
+      <value>A</value>
+      <value>2011-10-07</value>
+      <value>1111-11-11</value>
+      <value>2011-11-01</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KIRSTY MAN LING               ]]></value>
+      <value><![CDATA[某             ]]></value>
+      <value><![CDATA[文羚          ]]></value>
+      <value>NI</value>
+      <value/>
+      <value><![CDATA[CONTACT PERSON'S RESIDENTIAL ADDR. 1                                    ]]></value>
+      <value><![CDATA[中國廣東發展專責委員會可延年試驗大廈                  ]]></value>
+      <value><![CDATA[第１２３４期８８８８樓８８８Ｄ－Ｅ室                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[66666666      ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>2011-11-01</value>
+      <value>2011-10-20</value>
+      <value>mocarriemt</value>
+      <value><![CDATA[2016-11-22 16:32:44.133176]]></value>
+      <value><![CDATA[2011-10-07 10:24:38.246262]]></value>
+      <value>SSA1_YTsFU</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,106 @@
+<dataset>
+  <table name="TAS_IND_RES">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>INP_FMT</column>
+    <column>ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>DRE</value>
+      <value>A</value>
+      <value>2500.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>DRF</value>
+      <value>A</value>
+      <value>1.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>EAR</value>
+      <value>A</value>
+      <value>14500.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>EMB</value>
+      <value>P</value>
+      <value>24.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>EMM</value>
+      <value>P</value>
+      <value>24.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>MPF</value>
+      <value>A</value>
+      <value>725.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>P</value>
+      <value>2016-07-01</value>
+      <value>2017-06-30</value>
+      <value>NTE</value>
+      <value>A</value>
+      <value>11666.20</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:00:03.173782]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

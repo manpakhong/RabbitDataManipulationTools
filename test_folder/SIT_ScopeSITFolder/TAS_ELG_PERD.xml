@@ -1,0 +1,312 @@
+<dataset>
+  <table name="TAS_ELG_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>1997-10-28</value>
+      <value>1998-12-27</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[1997-10-28 16:03:11.2]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2001-06-07</value>
+      <value>2001-06-30</value>
+      <value>YTM06006</value>
+      <value><![CDATA[2001-06-07 10:11:51.117694]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2001-07-01</value>
+      <value>2002-04-30</value>
+      <value>YTM05022</value>
+      <value><![CDATA[2002-05-31 09:07:35.761562]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2002-05-01</value>
+      <value>2002-05-21</value>
+      <value>YTM05022</value>
+      <value><![CDATA[2002-05-31 09:07:36.126922]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2003-12-14</value>
+      <value>2004-01-31</value>
+      <value>YTM05022</value>
+      <value><![CDATA[2004-03-20 11:50:04.45548]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2004-02-01</value>
+      <value>2004-02-29</value>
+      <value>YTM05026</value>
+      <value><![CDATA[2004-07-05 14:09:26.478614]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2004-03-01</value>
+      <value>2004-11-30</value>
+      <value>YTM05026</value>
+      <value><![CDATA[2004-07-05 14:09:27.20331]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2004-12-01</value>
+      <value>2004-12-31</value>
+      <value>YTM05024</value>
+      <value><![CDATA[2004-12-07 17:26:40.465841]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2006-01-19</value>
+      <value>2006-11-30</value>
+      <value>YTM05027</value>
+      <value><![CDATA[2007-01-04 14:48:14.51348]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2006-12-01</value>
+      <value>2007-04-30</value>
+      <value>YTM05027</value>
+      <value><![CDATA[2007-05-12 11:27:34.567]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2007-05-01</value>
+      <value>2008-04-30</value>
+      <value>YTM05027</value>
+      <value><![CDATA[2007-05-12 11:27:35.035898]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2008-05-01</value>
+      <value>2008-08-31</value>
+      <value>YTM05027</value>
+      <value><![CDATA[2008-11-27 11:32:15.253812]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2008-09-01</value>
+      <value>2009-04-30</value>
+      <value>YTM05027</value>
+      <value><![CDATA[2008-11-27 11:32:16.014227]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2009-05-01</value>
+      <value>2009-06-30</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2009-07-13 17:54:54.563992]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2009-07-01</value>
+      <value>2009-07-31</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2009-07-13 17:54:54.182049]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2009-08-01</value>
+      <value>2009-10-31</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2009-11-04 15:25:35.063395]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2009-11-01</value>
+      <value>2009-11-30</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2009-11-04 15:25:35.500531]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2009-12-01</value>
+      <value>2010-03-31</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2010-04-19 16:51:40.473007]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2010-04-01</value>
+      <value>2010-04-30</value>
+      <value>YTM05031</value>
+      <value><![CDATA[2010-05-19 10:25:33.255176]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2010-05-01</value>
+      <value>2010-05-31</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 12:49:52.871116]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2010-06-01</value>
+      <value>2011-11-30</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 12:49:53.93466]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2011-12-01</value>
+      <value>2012-04-30</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 12:49:52.971246]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2012-05-01</value>
+      <value>2013-04-30</value>
+      <value>YTM05037</value>
+      <value><![CDATA[2012-12-14 16:40:13.834461]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2013-05-01</value>
+      <value>2014-04-30</value>
+      <value>YTM05041</value>
+      <value><![CDATA[2013-10-30 11:01:06.790572]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2014-05-01</value>
+      <value>2015-04-30</value>
+      <value>YTM05041</value>
+      <value><![CDATA[2013-10-30 11:01:07.513258]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2015-05-01</value>
+      <value>2016-04-30</value>
+      <value>YTM05041</value>
+      <value><![CDATA[2015-11-13 15:44:19.634645]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2016-05-01</value>
+      <value>2016-07-31</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 15:18:43.787759]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2016-08-01</value>
+      <value>2016-11-30</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 15:18:44.027399]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2016-12-01</value>
+      <value>2017-05-31</value>
+      <value>YTM05001</value>
+      <value><![CDATA[2016-11-24 15:18:43.846106]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>A</value>
+      <value>2017-06-01</value>
+      <value>2018-04-30</value>
+      <value>YTM05041</value>
+      <value><![CDATA[2015-11-13 15:44:19.661025]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

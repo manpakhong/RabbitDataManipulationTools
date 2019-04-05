@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TMS_MCT_WF">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>ASSG_OFFR</column>
+    <column>TGT_PROC_UNIT</column>
+    <column>TGT_ASSG_OFFR</column>
+    <column>TXF_SER_NUM</column>
+    <column>EXCP_IND</column>
+    <column>EXCP_DESC</column>
+    <column>ASSG_OFFR_POST</column>
+    <column>TGT_ASSG_OFFR_POST</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

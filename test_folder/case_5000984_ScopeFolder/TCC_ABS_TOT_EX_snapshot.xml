@@ -1,0 +1,14 @@
+<dataset>
+  <table name="TCC_ABS_TOT_EX">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>REMAIN_FR_DATE</column>
+    <column>REMAIN_DOMICILE</column>
+    <column>REMAIN_RES_DAY</column>
+    <column>REMAIN_RES_REQ</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

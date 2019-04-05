@@ -1,0 +1,658 @@
+<dataset>
+  <table name="TMS_IN_OUT_DOC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>FLOW_IND</column>
+    <column>CATLG</column>
+    <column>SUBJECT</column>
+    <column>FPN</column>
+    <column>ISS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ATT_DESC_ID</column>
+    <column>GEN_FROM</column>
+    <column>ACT_IND</column>
+    <row>
+      <value>1248764</value>
+      <value>7916780</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>6</value>
+      <value>2013-02-25</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2013-02-25 11:36:08.108232]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916781</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2013-02-25</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2013-02-25 11:37:07.944576]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916247</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>3</value>
+      <value>2002-09-09</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2002-09-09 10:29:48.752088]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916660</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2010-03-15</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2010-03-15 14:58:24.571329]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916617</value>
+      <value>755427</value>
+      <value>O</value>
+      <value>SYS</value>
+      <value><![CDATA[SUBIMPREST VOUCHER                                                                                  ]]></value>
+      <value>6</value>
+      <value>2009-03-27</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-03-27 14:04:42.326938]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916822</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2014-01-16</value>
+      <value>CWN04093</value>
+      <value><![CDATA[2014-01-16 11:13:25.099221]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916703</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2011-02-28</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2011-02-28 16:29:39.299317]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916738</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2012-02-16</value>
+      <value>CWN04078</value>
+      <value><![CDATA[2012-02-16 15:39:07.669268]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916826</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[RENT ALLOWANCE UNDER CSSA SCHEME                                                                    ]]></value>
+      <value>6</value>
+      <value>2014-01-20</value>
+      <value>CWN05033</value>
+      <value><![CDATA[2014-01-20 15:20:20.403535]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916265</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>3</value>
+      <value>2003-01-04</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2003-01-04 12:57:28.807106]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916848</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPOINTMENT LETTER TO CSSA APPLICANT                                                                ]]></value>
+      <value>6</value>
+      <value>2014-07-04</value>
+      <value>CWN04093</value>
+      <value><![CDATA[2014-07-04 14:05:45.248604]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916852</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2014-07-10</value>
+      <value>CWN04093</value>
+      <value><![CDATA[2014-07-10 10:33:35.718588]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916280</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>3</value>
+      <value>2003-06-16</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2003-06-16 11:07:32.998244]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916282</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM                                                                             ]]></value>
+      <value>3</value>
+      <value>2003-06-16</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2003-06-16 12:49:45.415424]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916307</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2003-12-03</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2003-12-03 12:22:51.38201]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916323</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2004-06-01</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-06-01 10:44:34.557496]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916336</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2004-11-30</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-11-30 09:59:03.067146]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916402</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2005-05-24</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2005-05-24 15:04:48.360766]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916440</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>4</value>
+      <value>2005-12-21</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2005-12-21 11:57:47.839652]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916458</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2006-05-29</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2006-05-29 11:51:32.674851]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916477</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2006-11-28</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2006-11-28 16:10:06.552176]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916486</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM (FOR CSSA)                                                                  ]]></value>
+      <value>5</value>
+      <value>2007-01-02</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2007-01-02 14:24:05.138783]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916506</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2007-05-23</value>
+      <value>CWN04055</value>
+      <value><![CDATA[2007-05-23 11:27:11.450712]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916571</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>5</value>
+      <value>2008-06-26</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2008-06-26 11:30:51.875486]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916600</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM (FOR CSSA)                                                                  ]]></value>
+      <value>6</value>
+      <value>2009-01-06</value>
+      <value>CWN03108</value>
+      <value><![CDATA[2009-01-06 09:50:41.169267]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916607</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2009-02-17</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-02-17 10:07:11.626367]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916608</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM (FOR CSSA)                                                                  ]]></value>
+      <value>6</value>
+      <value>2009-02-17</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-02-17 10:15:10.276672]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916904</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>6</value>
+      <value>2015-07-14</value>
+      <value>CWN04093</value>
+      <value><![CDATA[2015-07-14 11:41:02.502713]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916180</value>
+      <value>755427</value>
+      <value>I</value>
+      <value>REF</value>
+      <value><![CDATA[LETTER                                                                                              ]]></value>
+      <value>1</value>
+      <value>2001-01-15</value>
+      <value>WCI02012</value>
+      <value><![CDATA[2001-01-15 09:33:33.910178]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916184</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[IH ]]></value>
+      <value><![CDATA[MEDICAL ASSESSMENT FORM                                                                             ]]></value>
+      <value>1</value>
+      <value>2001-02-08</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 09:32:48.599553]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916185</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[MANDATE-LEGAL AID  REFUND DIVORCE MAIN.                                                             ]]></value>
+      <value>1</value>
+      <value>2001-02-08</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 09:47:06.805712]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916186</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>1</value>
+      <value>2001-02-08</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 10:02:19.237035]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916190</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[APPLICATION FORM                                                                                    ]]></value>
+      <value>1</value>
+      <value>2001-02-08</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 10:44:03.969091]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916192</value>
+      <value>755427</value>
+      <value>O</value>
+      <value>SCH</value>
+      <value><![CDATA[PROFORMA LETTER TO SCHOOLS (TA/TS/EFR)                                                              ]]></value>
+      <value>1</value>
+      <value>2001-02-12</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-12 12:14:08.680526]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916195</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[AUTH TO LEGAL AID RECOVER ARREARS                                                                   ]]></value>
+      <value>1</value>
+      <value>2001-02-17</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-17 12:20:55.256123]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916216</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[DECL BY SOMEBODY OTHER THAN APPLICANT                                                               ]]></value>
+      <value>1</value>
+      <value>2001-06-19</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-06-19 14:55:28.332974]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916218</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[COMPREHENSIVE REVIEW FORM                                                                           ]]></value>
+      <value>2</value>
+      <value>2001-06-20</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-06-20 11:41:18.383584]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916232</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value>SCH</value>
+      <value><![CDATA[PROFORMA LETTER TO SCHOOLS (TA/TS/EFR)                                                              ]]></value>
+      <value>2</value>
+      <value>2001-10-20</value>
+      <value>WCI04019</value>
+      <value><![CDATA[2001-10-20 10:49:23.243015]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916233</value>
+      <value>1210800</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[DECLARATION FORM BY APPLICANTS                                                                      ]]></value>
+      <value>2</value>
+      <value>2001-10-20</value>
+      <value>WCI04019</value>
+      <value><![CDATA[2001-10-20 11:01:22.366119]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>7916234</value>
+      <value>755427</value>
+      <value>O</value>
+      <value><![CDATA[A&R]]></value>
+      <value><![CDATA[SIMPLE REVIEW FORM                                                                                  ]]></value>
+      <value>2</value>
+      <value>2001-10-20</value>
+      <value>WCI04019</value>
+      <value><![CDATA[2001-10-20 11:15:56.615066]]></value>
+      <value/>
+      <value>0</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

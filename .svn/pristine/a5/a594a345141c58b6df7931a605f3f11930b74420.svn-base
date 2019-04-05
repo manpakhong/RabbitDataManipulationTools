@@ -1,0 +1,156 @@
+<dataset>
+  <table name="TCC_XREF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CUST_ROLE</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_VER_IND</column>
+    <column>RSHP_RMK</column>
+    <column>FPN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>APPL_IND</column>
+    <column>LIV_IND</column>
+    <column>DEP_IND</column>
+    <column>FIN_DEP_CODE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>896335</value>
+      <value>AP</value>
+      <value>AP</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04112</value>
+      <value><![CDATA[2012-08-17 10:24:31.499291]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>MB</value>
+      <value>WI</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04112</value>
+      <value><![CDATA[2013-02-06 09:11:42.020482]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1316188</value>
+      <value>MB</value>
+      <value>SO</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04115</value>
+      <value><![CDATA[2013-08-06 11:58:55.696486]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1317065</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04115</value>
+      <value><![CDATA[2013-08-06 11:59:39.390367]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1317812</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04115</value>
+      <value><![CDATA[2013-09-26 13:04:11.107699]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>3271418</value>
+      <value>MB</value>
+      <value>GD</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>SKM04085</value>
+      <value><![CDATA[2010-12-17 10:00:53.426623]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

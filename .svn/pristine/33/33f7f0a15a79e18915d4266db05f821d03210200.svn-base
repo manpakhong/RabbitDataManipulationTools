@@ -1,0 +1,62 @@
+<dataset>
+  <table name="TCC_MTR_REFL">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REF_DATE</column>
+    <column>LTR_PRT_DATE</column>
+    <column>PD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>2015-08-25</value>
+      <value>2016-02-24</value>
+      <value>2015-11-11</value>
+      <value>2015-11-11</value>
+      <value>N</value>
+      <value>CACGEMT3</value>
+      <value><![CDATA[2015-11-11 21:00:40.20795]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>2015-08-25</value>
+      <value>2016-03-31</value>
+      <value>2016-01-19</value>
+      <value>2016-01-19</value>
+      <value>N</value>
+      <value>CACGEMT3</value>
+      <value><![CDATA[2016-01-19 21:01:34.376915]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1193377</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>2015-08-25</value>
+      <value>2016-08-24</value>
+      <value>2016-03-04</value>
+      <value>2016-03-04</value>
+      <value>N</value>
+      <value>CACGEMT3</value>
+      <value><![CDATA[2016-03-04 21:00:40.781301]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

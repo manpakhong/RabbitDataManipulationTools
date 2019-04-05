@@ -1,0 +1,842 @@
+<dataset>
+  <table name="TCS_GRT_ADDN">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>ITEM_OD</column>
+    <column>ITEM_TYPE</column>
+    <column>ACTL_AMT</column>
+    <column>PCKLST</column>
+    <column>AMT1</column>
+    <column>AMT2</column>
+    <column>INT</column>
+    <column>DATE</column>
+    <column>IND1</column>
+    <column>IND2</column>
+    <column>MEAL_RGLR</column>
+    <column>MEAL_NUM</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PATN</column>
+    <column>BEG_EXP</column>
+    <column>BEG_RES</column>
+    <column>DATE_RCPT</column>
+    <column>RMK_OFFC</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>BEG_REQ_TP_IND</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>2001-10-08</value>
+      <value>2013-01-31</value>
+      <value>MSA</value>
+      <value>7861255</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>2</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-10 15:22:23.607821]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2001-10-08</value>
+      <value>2001-10-08</value>
+      <value>RAG</value>
+      <value>7861256</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1000.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2001-10-20</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03059</value>
+      <value><![CDATA[2001-11-06 12:56:24.885082]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2002-04-01</value>
+      <value>2002-04-30</value>
+      <value>HHA</value>
+      <value>7861281</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>75.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>2</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03059</value>
+      <value><![CDATA[2002-04-18 10:33:59.259777]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2006-06-30</value>
+      <value>2006-06-30</value>
+      <value>DTG</value>
+      <value>7861346</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>4150.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>2</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03090</value>
+      <value><![CDATA[2006-07-13 15:45:36.297312]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2010-01-31</value>
+      <value>2010-01-31</value>
+      <value>RAG</value>
+      <value>7861414</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1100.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>0</value>
+      <value>O</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03112</value>
+      <value><![CDATA[2010-06-07 16:08:45.250039]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2012-07-01</value>
+      <value>2013-10-31</value>
+      <value>EAA</value>
+      <value>7861459</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>0.00</value>
+      <value><![CDATA[6EA       ]]></value>
+      <value>0.00</value>
+      <value>40.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>0</value>
+      <value>O</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:56:57.214479]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-02-01</value>
+      <value>2014-01-31</value>
+      <value>MSA</value>
+      <value>7861494</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>4</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-17 09:45:19.572122]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-10-31</value>
+      <value>2013-10-31</value>
+      <value>DIG</value>
+      <value>7861548</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>843.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 14:17:20.436895]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2013-12-31</value>
+      <value>2013-12-31</value>
+      <value>DIG</value>
+      <value>7861549</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>3360.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 14:21:02.471372]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-02-01</value>
+      <value>2014-12-31</value>
+      <value>MSA</value>
+      <value>7861546</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:58:03.699597]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-02-28</value>
+      <value>2014-02-28</value>
+      <value>DIG</value>
+      <value>7861550</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>3360.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 14:21:26.317878]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-03-01</value>
+      <value>2014-08-31</value>
+      <value>DIA</value>
+      <value>7861551</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1680.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 14:22:39.010282]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-09-01</value>
+      <value>2015-03-31</value>
+      <value>DIA</value>
+      <value>7861587</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1680.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-04-13 11:15:30.00259]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-09-30</value>
+      <value>2014-09-30</value>
+      <value>DTG</value>
+      <value>7861601</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>575.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>6</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-11-12 10:59:01.610301]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2014-10-31</value>
+      <value>2014-10-31</value>
+      <value>DTG</value>
+      <value>7861602</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>375.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>0</value>
+      <value>O</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-11-12 10:59:31.99216]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-01-01</value>
+      <value>2015-06-30</value>
+      <value>MSA</value>
+      <value>7861614</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>6</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-04-13 11:15:14.202362]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-04-01</value>
+      <value>2015-08-31</value>
+      <value>DIA</value>
+      <value>7861633</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1890.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>6</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-04-13 11:16:11.51505]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-07-01</value>
+      <value>2015-12-31</value>
+      <value>MSA</value>
+      <value>7861644</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>6</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-06-09 09:39:11.732633]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-07-27</value>
+      <value>2015-07-27</value>
+      <value>RAG</value>
+      <value>7861655</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1380.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>0</value>
+      <value>O</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-07-27 11:27:30.345426]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-08-31</value>
+      <value>2015-08-31</value>
+      <value>RAG</value>
+      <value>7861677</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>260.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>7</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-09-11 10:04:24.00321]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-09-01</value>
+      <value>2015-10-31</value>
+      <value>DIA</value>
+      <value>7861666</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1890.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>7</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-11-09 11:46:28.390461]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2015-11-01</value>
+      <value>2016-08-31</value>
+      <value>DIA</value>
+      <value>7861686</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>2160.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>7</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-11-09 11:47:01.858746]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>2016-01-01</value>
+      <value>2016-06-30</value>
+      <value>MSA</value>
+      <value>7861694</value>
+      <value>67863</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>500.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 67863]]></value>
+      <value>7</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-12-14 15:19:58.186563]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

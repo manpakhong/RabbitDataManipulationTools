@@ -1,0 +1,30 @@
+<dataset>
+  <table name="TMS_OLA_CTRL">
+    <column>CASE_KEY</column>
+    <column>EXT_DATE</column>
+    <column>CASE_STS</column>
+    <column>PAY_EXPIRY_DATE</column>
+    <column>CASE_GRT_TYPE</column>
+    <column>INPAY_GRT_TYPE</column>
+    <column>AU_IND</column>
+    <column>LAST_NOA_PAY_DATE</column>
+    <column>DATE_APPL_ORG</column>
+    <column>DATE_ELIG_ORG</column>
+    <column>AP_ID_NUM</column>
+    <column>AP_DOB</column>
+    <column>AP_DATE_DTH</column>
+    <column>CONV_TYPE</column>
+    <column>CONV_RSON</column>
+    <column>LETTER_GEN_DATE</column>
+    <column>EXC_IND</column>
+    <column>CONV_DATE</column>
+    <column>DATE_APPL_REV</column>
+    <column>DATE_ELIG_REV</column>
+    <column>DATE_COMM_OALA</column>
+    <column>EXCP_CODE</column>
+    <column>IA_MOD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

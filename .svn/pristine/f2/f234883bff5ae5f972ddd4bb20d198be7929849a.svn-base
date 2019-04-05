@@ -1,0 +1,128 @@
+<dataset>
+  <table name="TMS_PHY_FILE_LOC">
+    <column>CASE_KEY</column>
+    <column>FPN</column>
+    <column>SRC_LOC</column>
+    <column>CRE_DATE</column>
+    <column>INXST_LOC</column>
+    <column>SEND_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>SPECIAL_LOC_IND</column>
+    <column>SPECIAL_REMARKS</column>
+    <column>IS_PHY_FOLDER</column>
+    <row>
+      <value>1211652</value>
+      <value>1</value>
+      <value>CCD</value>
+      <value>2003-03-28</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82034</value>
+      <value><![CDATA[2003-03-28 09:35:15.181379]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>2</value>
+      <value>CCD</value>
+      <value>2015-09-23</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82042</value>
+      <value><![CDATA[2015-09-23 12:09:34.34945]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>3</value>
+      <value>CCD</value>
+      <value>2011-01-12</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82044</value>
+      <value><![CDATA[2011-01-12 13:13:57.105326]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>4</value>
+      <value>CCD</value>
+      <value>2012-07-11</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82055</value>
+      <value><![CDATA[2012-07-11 11:28:40.464127]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>5</value>
+      <value>CCD</value>
+      <value>2014-12-10</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82062</value>
+      <value><![CDATA[2014-12-10 11:37:40.97355]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>6</value>
+      <value>CCD</value>
+      <value>2015-07-08</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>CCD82061</value>
+      <value><![CDATA[2015-07-08 14:39:40.987363]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>7</value>
+      <value>TSW</value>
+      <value>2014-12-09</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>TSW04128</value>
+      <value><![CDATA[2014-12-09 14:41:08.008778]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>8</value>
+      <value>TSW</value>
+      <value>2016-05-17</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>TSW04128</value>
+      <value><![CDATA[2016-05-17 10:45:30.163584]]></value>
+      <value/>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+  </table>
+</dataset>

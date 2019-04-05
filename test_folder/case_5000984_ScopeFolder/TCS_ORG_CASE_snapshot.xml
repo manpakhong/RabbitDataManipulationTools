@@ -1,0 +1,40 @@
+<dataset>
+  <table name="TCS_ORG_CASE">
+    <column>CASE_KEY</column>
+    <column>CASE_KEY_ORG</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>DATE_SPLIT</column>
+    <column>DATE_ELIG</column>
+    <column>LTS_STR_DATE1</column>
+    <column>LTS_FR_DATE1</column>
+    <column>LTS_REC_STS1</column>
+    <column>LTS_STR_DATE2</column>
+    <column>LTS_FR_DATE2</column>
+    <column>LTS_REC_STS2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>MTH_DISREGD</column>
+    <row>
+      <value>5000984</value>
+      <value>5000983</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50166</value>
+      <value>2017-01-17</value>
+      <value>2015-05-09</value>
+      <value>2015-05-09</value>
+      <value>2016-06-01</value>
+      <value>A</value>
+      <value>2016-05-09</value>
+      <value>2017-06-01</value>
+      <value>A</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 15:22:40.992]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

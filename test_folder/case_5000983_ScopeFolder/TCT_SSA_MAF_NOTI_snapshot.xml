@@ -1,0 +1,13 @@
+<dataset>
+  <table name="TCT_SSA_MAF_NOTI">
+    <column>CUST_KEY</column>
+    <column>DATE_MAF</column>
+    <column>CRE_TS</column>
+    <column>REQ_DATE</column>
+    <column>LTR_PRT_DATE</column>
+    <column>PROCESS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

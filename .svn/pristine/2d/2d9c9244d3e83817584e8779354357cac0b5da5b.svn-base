@@ -1,0 +1,487 @@
+<dataset>
+  <table name="TCT_CSSA_MAF">
+    <column>CUST_KEY</column>
+    <column>DATE_MAF</column>
+    <column>CRE_TS</column>
+    <column>MAF_REF</column>
+    <column>SCHM_TYPE</column>
+    <column>FR_DATE_ILL</column>
+    <column>TO_DATE_ILL</column>
+    <column>EFF_DATE_SEL_ILL</column>
+    <column>NAT_ILL</column>
+    <column>WORK_CAP</column>
+    <column>WORK_CAP_TYPE</column>
+    <column>LMT_WORK_MTH</column>
+    <column>PERM_INCAP_IND</column>
+    <column>XDIET_IND</column>
+    <column>XDIET_TYPE</column>
+    <column>XDIET_PERM_IND</column>
+    <column>XDIET_DUR</column>
+    <column>EFF_DATE_SEL_XDIET</column>
+    <column>FR_DATE_XDIET</column>
+    <column>TO_DATE_XDIET</column>
+    <column>DISABLE_DEG</column>
+    <column>DISABLE_NAME</column>
+    <column>HOSP_CODE_DISABLE</column>
+    <column>PHY_DISABLE_CODE</column>
+    <column>PHY_DISABLE_OD</column>
+    <column>MNTL_DISABLE_CODE</column>
+    <column>MNTL_DISABLE_OD</column>
+    <column>EFF_DATE_SEL</column>
+    <column>FR_DATE_DISABLE</column>
+    <column>TO_DATE_DISABLE</column>
+    <column>DISABLE_DUR_SEL</column>
+    <column>DISABLE_DUR</column>
+    <column>FIT_MAKE_STMT_IND</column>
+    <column>COMT</column>
+    <column>FREQ_ATTN_IND</column>
+    <column>CONST_ATTN_IND</column>
+    <column>DEAF_IND</column>
+    <column>OTH_DISABLE</column>
+    <column>DATE_MSW</column>
+    <column>SURNAME_MSW</column>
+    <column>OTH_NAME_MSW</column>
+    <column>SURNAME_MO</column>
+    <column>OTH_NAME_MO</column>
+    <column>RECOM_MO</column>
+    <column>FR_DATE_RECOM</column>
+    <column>TO_DATE_RECOM</column>
+    <column>HOSP_CODE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ISS_RMD_IND</column>
+    <row>
+      <value>67863</value>
+      <value>2001-10-06</value>
+      <value><![CDATA[2001-10-20 10:42:09.852973]]></value>
+      <value><![CDATA[MSS/PYNEH/A2054444(5)/2001                                            ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>N</value>
+      <value><![CDATA[                                          ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>F</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>0</value>
+      <value>Y</value>
+      <value><![CDATA[CUSTOMER IN NEED OF CPAP (MODEL : SOLO PLUS LX INT'L) PERMANENTLY W.E.F. 6/10/2001.
+MONTHLY RENT : $500, LUMP SUM PAID FOR ONCE ONLY : DEPOSIT :$1000, ACCESSORIES $1000]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2001-10-06</value>
+      <value><![CDATA[SOCIAL WORKER X                                             ]]></value>
+      <value><![CDATA[NAME XX                                                     ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[PYNE      ]]></value>
+      <value>CWN03059</value>
+      <value><![CDATA[2001-11-05 12:42:34.730341]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2013-04-03</value>
+      <value><![CDATA[2013-04-17 09:43:47.502732]]></value>
+      <value><![CDATA[13-50484(W)/MED/MSS/TWEH                                              ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>Y</value>
+      <value><![CDATA[D                                         ]]></value>
+      <value>N</value>
+      <value>12</value>
+      <value>F</value>
+      <value>2013-03-27</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[8                   ]]></value>
+      <value><![CDATA[IHD CCF                                                                                             ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>2013-03-27</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>24</value>
+      <value>Y</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2013-04-08</value>
+      <value><![CDATA[SOCIAL WORKER X                                             ]]></value>
+      <value><![CDATA[NAME XX                                                     ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[TWE       ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-17 09:43:46.982051]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2013-09-11</value>
+      <value><![CDATA[2013-10-11 12:12:38.395797]]></value>
+      <value><![CDATA[PYNEH 26173232                                                        ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>N</value>
+      <value><![CDATA[                                          ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>F</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[8                   ]]></value>
+      <value><![CDATA[HEART FAILURE                                                                                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>2013-09-10</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>24</value>
+      <value>Y</value>
+      <value><![CDATA[IN NEED OF DIAPERS W.E.F 10/09/2013 FOR PERMAMENTLY (S/N 12 / F004)]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2013-09-13</value>
+      <value><![CDATA[SOCIAL WORKER X                                             ]]></value>
+      <value><![CDATA[NAME XX                                                     ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[PYNE      ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-10-11 12:12:38.69772]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2013-09-27</value>
+      <value><![CDATA[2013-10-29 14:38:41.272132]]></value>
+      <value><![CDATA[13-50484(W)/MED/MSS/TWEH                                              ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>Y</value>
+      <value><![CDATA[D                                         ]]></value>
+      <value>N</value>
+      <value>12</value>
+      <value>F</value>
+      <value>2013-09-24</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2013-10-24</value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[TWE       ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-10-29 14:38:41.907668]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2014-10-14</value>
+      <value><![CDATA[2014-10-28 12:53:31.64118]]></value>
+      <value><![CDATA[CGAT (S/N 13 / F005                                                   ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>Y</value>
+      <value><![CDATA[D                                         ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>A</value>
+      <value>2014-09-24</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>0</value>
+      <value>0</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>1111-11-11</value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[RH        ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-10-28 12:53:32.261704]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2015-02-09</value>
+      <value><![CDATA[2015-02-18 14:29:44.218446]]></value>
+      <value><![CDATA[PYNEH 26173232                                                        ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>N</value>
+      <value><![CDATA[                                          ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>F</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>3</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[8                   ]]></value>
+      <value><![CDATA[HT/DM/CHF/IHD                                                                                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>2015-02-06</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>24</value>
+      <value>Y</value>
+      <value/>
+      <value>1</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2015-02-06</value>
+      <value><![CDATA[SOCIAL WORKER X                                             ]]></value>
+      <value><![CDATA[NAME XX                                                     ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[PYNE      ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-02-18 14:29:45.16618]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2015-08-18</value>
+      <value><![CDATA[2015-08-31 12:03:17.339772]]></value>
+      <value><![CDATA[CGAT (S/N 7 / F007)                                                   ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>N</value>
+      <value><![CDATA[                                          ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>F</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[IN NEED OF THICKENER W.E.F 14/08/2015 FOR 12 MONTHS (S/N 7 / F007)]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>1111-11-11</value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[RH        ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-08-31 12:03:18.783554]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>67863</value>
+      <value>2015-09-25</value>
+      <value><![CDATA[2015-11-09 11:38:32.191264]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>C</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value/>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>P</value>
+      <value>N</value>
+      <value><![CDATA[                                          ]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>F</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>F</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[IN NEED OF HOME OXYGEN CONCENTRATOR & PORTABLE OXYGEN DEVICE W.E.F 25/09/2015 FOR 12 MONTHS (S/N 11 / F007)
+
+
+
+
+
+
+]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value/>
+      <value>2015-09-25</value>
+      <value><![CDATA[SOCIAL WORKER X                                             ]]></value>
+      <value><![CDATA[NAME XX                                                     ]]></value>
+      <value><![CDATA[MEDICAL OFFICER Y                                           ]]></value>
+      <value><![CDATA[NAME YY                                                     ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[TWE       ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-11-09 11:35:42.367927]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

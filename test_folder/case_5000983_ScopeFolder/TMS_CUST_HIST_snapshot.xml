@@ -1,0 +1,13 @@
+<dataset>
+  <table name="TMS_CUST_HIST">
+    <column>CASE_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>CRE_TS</column>
+    <column>CUST_STS</column>
+    <column>EFF_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

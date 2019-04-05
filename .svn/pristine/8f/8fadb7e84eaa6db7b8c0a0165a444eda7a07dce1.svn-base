@@ -1,0 +1,227 @@
+<dataset>
+  <table name="TCT_RES_ADDR">
+    <column>CUST_KEY</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>POSTAL_CODE</column>
+    <column>TEL_NUM</column>
+    <column>TEL_NUM2</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>CHRG_TYPE</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>57835</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:01:06.659771]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>57836</value>
+      <value>E</value>
+      <value><![CDATA[     ]]></value>
+      <value>99</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[CARPARK BUILDING NO.2,                                                  ]]></value>
+      <value><![CDATA[YIU TUNG EST., PHASE 4, SHAUKEIWAN,                                     ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P09</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>CBY</value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[03SE001   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CBY03061</value>
+      <value><![CDATA[2011-09-19 15:05:13.411222]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>754938</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:33:00.085477]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2018961</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:36.532337]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1353500</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04070</value>
+      <value><![CDATA[2008-09-22 10:33:54.256632]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2232696</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:13.802201]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1301973</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:32:51.253833]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2960313</value>
+      <value>E</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[YUE ON HOUSE, YUE WAN ESTATE,                                           ]]></value>
+      <value><![CDATA[CHAI WAN                                                                ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>1</value>
+      <value>P06</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>05HE10</value>
+      <value>02</value>
+      <value>CWN</value>
+      <value><![CDATA[HE ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-08-23 10:32:42.076497]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

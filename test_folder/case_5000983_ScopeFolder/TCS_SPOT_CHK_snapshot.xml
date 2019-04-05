@@ -1,0 +1,24 @@
+<dataset>
+  <table name="TCS_SPOT_CHK">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>REVW_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>DATE_RCPT_SPOT_CHK</column>
+    <column>ADJ_REQ_IND</column>
+    <column>ADJ_REQ_CODE</column>
+    <column>ADJ_REQ_OD</column>
+    <column>CONT_ELIG_IND</column>
+    <column>OP_AMT</column>
+    <column>RPY_MTHD_CODE</column>
+    <column>RPY_MTHD_OD</column>
+    <column>RSU_TYPE_IND</column>
+    <column>DATE_REVW_POST</column>
+    <column>DATE_REVW_PU</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

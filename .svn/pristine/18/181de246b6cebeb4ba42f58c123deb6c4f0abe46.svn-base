@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TCS_PROF">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>7009292</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-27 22:34:53.005496]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

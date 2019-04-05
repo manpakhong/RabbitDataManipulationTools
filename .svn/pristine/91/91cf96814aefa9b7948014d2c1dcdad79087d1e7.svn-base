@@ -1,0 +1,34 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value><![CDATA[HEART FAILURE]]></value>
+      <value>OA</value>
+      <value>1998-08-01</value>
+      <value>1998-08-01</value>
+      <value>1111-11-11</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-10-08 16:06:24.494965]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

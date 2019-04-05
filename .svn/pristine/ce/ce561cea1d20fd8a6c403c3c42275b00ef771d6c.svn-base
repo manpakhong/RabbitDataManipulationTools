@@ -1,0 +1,38 @@
+<dataset>
+  <table name="TMS_EXP_REV">
+    <column>CASE_KEY</column>
+    <column>CRE_DATE</column>
+    <column>CLSS_CODE</column>
+    <column>PROC_UNIT</column>
+    <column>GRT_TYPE</column>
+    <column>TOT_AMT</column>
+    <column>NO_OF_PAY</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>2016-07-01</value>
+      <value>01</value>
+      <value>CWN</value>
+      <value>CSA</value>
+      <value>19188.50</value>
+      <value>1</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-27 22:34:53.012404]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2016-07-01</value>
+      <value>01</value>
+      <value>CWN</value>
+      <value>CSA</value>
+      <value>0.50</value>
+      <value>0</value>
+      <value>NBPGEPA3</value>
+      <value><![CDATA[2016-06-27 22:34:53.012523]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,34 @@
+<dataset>
+  <table name="TMS_ARA_REFUND">
+    <column>CASE_FILE_NO</column>
+    <column>HD_ADDR</column>
+    <column>AMT1</column>
+    <column>AMT2</column>
+    <column>AMT3</column>
+    <column>AMT4</column>
+    <column>CASE_KEY</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>ENG_ROOM</column>
+    <column>HD_TO_BE_RCVR</column>
+    <column>LAST_UPD_POST</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <row>
+      <value>SPK-C-041852</value>
+      <value><![CDATA[ECWN1 NH  314       ]]></value>
+      <value>322.00</value>
+      <value>483.00</value>
+      <value>396.00</value>
+      <value>0.00</value>
+      <value>1171420</value>
+      <value>14HE01</value>
+      <value>08</value>
+      <value><![CDATA[888 X]]></value>
+      <value>0.00</value>
+      <value/>
+      <value><![CDATA[2016-08-12 19:20:21.812389]]></value>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

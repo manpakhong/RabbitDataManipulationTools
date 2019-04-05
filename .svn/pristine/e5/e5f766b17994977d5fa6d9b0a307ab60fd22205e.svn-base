@@ -1,0 +1,130 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1998-07-27 10:03:40.4]]></value>
+      <value>1998-07-27</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[CWN02015    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1998-07-27 10:03:51.7]]></value>
+      <value>1998-07-27</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>OA</value>
+      <value>1</value>
+      <value><![CDATA[CWN02015    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1998-07-27 10:04:24.368741]]></value>
+      <value>1998-07-27</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[CWN02015    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1998-08-11 14:44:14.266238]]></value>
+      <value>1998-08-11</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[CWN05011    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1999-02-12 17:59:37.415882]]></value>
+      <value>1999-02-12</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[CWN05006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1999-05-10 15:28:55.863033]]></value>
+      <value>1999-05-10</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[CWN05010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[1999-12-15 14:33:19.276012]]></value>
+      <value>1999-12-15</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>23438</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[CWN05006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

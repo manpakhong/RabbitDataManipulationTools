@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TPY_BANK_WF">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>PAY_TYPE</column>
+    <column>SUB_IMPREST_IND</column>
+    <column>PAY_DATE</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>PAY_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

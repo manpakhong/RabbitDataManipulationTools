@@ -1,0 +1,23 @@
+<dataset>
+  <table name="TPY_DN_ISS_WF">
+    <column>CASE_KEY</column>
+    <column>DN_NUM</column>
+    <column>DN_SUB_NUM</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>ISS_DATE</column>
+    <column>ISS_BANK_NAME</column>
+    <column>DBTR_NAME</column>
+    <column>REF_NUM</column>
+    <column>RCV_AMT</column>
+    <column>INSTLM_AMT</column>
+    <column>TOT_AMT</column>
+    <column>DN_AMT</column>
+    <column>LUMP_SUM_IND</column>
+    <column>GRT_TYPE_ARR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

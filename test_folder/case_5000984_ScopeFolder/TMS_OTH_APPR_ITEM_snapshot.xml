@@ -1,0 +1,23 @@
+<dataset>
+  <table name="TMS_OTH_APPR_ITEM">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_CATLG</column>
+    <column>CRE_DATE</column>
+    <column>REC_STS</column>
+    <column>REQ_OFFR</column>
+    <column>APPR_ITEM_DESC</column>
+    <column>APPR_OFFR_RANK</column>
+    <column>APPR_OFFR</column>
+    <column>APPR_DATE</column>
+    <column>RMK</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>REQ_OFFR_POST</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+    <column>APPR_OFFR_POST</column>
+    <column>APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

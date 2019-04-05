@@ -1,0 +1,24 @@
+<dataset>
+  <table name="TDM_CR_RAW">
+    <column>TDM_CR_RAW_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>CUST_KEY</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>ENG_NAME_DIR</column>
+    <column>CHN_NAME_DIR</column>
+    <column>ADDR_DIR</column>
+    <column>APNT_DATE_DIR</column>
+    <column>COMP_NUM</column>
+    <column>COMP_ENG_NAME</column>
+    <column>COMP_CHN_NAME</column>
+    <column>REG_OFF_ADDR</column>
+    <column>DATE_INCORP</column>
+    <column>COMP_STS</column>
+    <column>DATE_DISS</column>
+    <column>DATE_CPB</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

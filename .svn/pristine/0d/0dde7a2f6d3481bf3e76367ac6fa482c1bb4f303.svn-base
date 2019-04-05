@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TSF_EXM_HIST">
+    <column>EXM_HIST_KEY</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SERIAL_NUM</column>
+    <column>SERVICE_CAT</column>
+    <column>DATE_NC</column>
+    <column>IND_NGO_ISSUE</column>
+    <column>NOT_REQUIRE_DESC</column>
+    <column>NOT_REQUIRE_FROM</column>
+    <column>NOT_REQUIRE_TO</column>
+    <column>NOT_REQUIRE_REASON</column>
+    <column>EXEMPT_DESC</column>
+    <column>EXEMPT_FROM</column>
+    <column>EXEMPT_TO</column>
+    <column>EXEMPT_REASON</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

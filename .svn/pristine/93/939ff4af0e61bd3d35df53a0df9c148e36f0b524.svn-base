@@ -1,0 +1,5 @@
+Scope Name: tuaFunScope
+Thread id:1, Job id:20160622_125702_419, (Wed Jun 22 12:57:02 CST 2016 - Wed Jun 22 12:57:09 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+row count (table=TUA_FUN) expected:<[1057]> but was:<[946]>
+row count (table=TUA_FUN_ACCS_CTL) expected:<3[3932]> but was:<3[1171]>

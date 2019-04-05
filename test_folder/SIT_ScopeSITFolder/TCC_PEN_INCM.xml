@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TCC_PEN_INCM">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FST_RCV_DATE</column>
+    <column>LAST_RCV_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>TREAT_TYPE</column>
+    <column>PENSION_AMT</column>
+    <column>RMK_OFFC</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>FPN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,74 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ T754972A           ]]></value>
+      <value>3206059</value>
+      <value/>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-04-15 09:27:41.466617]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ C6064165           ]]></value>
+      <value>162096</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ B3510730           ]]></value>
+      <value>1275380</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>3380455</value>
+      <value/>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-02-13 12:07:26.502339]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ O2940915           ]]></value>
+      <value>3380457</value>
+      <value/>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-02-13 12:08:04.971927]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>2653258</value>
+      <value/>
+      <value>TMN03045</value>
+      <value><![CDATA[2004-11-15 10:10:12.808446]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>2653258</value>
+      <value/>
+      <value>LCK05033</value>
+      <value><![CDATA[2015-11-17 11:51:52.43315]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

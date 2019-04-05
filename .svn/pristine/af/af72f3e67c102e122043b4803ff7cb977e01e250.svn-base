@@ -1,0 +1,38 @@
+<dataset>
+  <table name="TCC_TRV_EXP_REC">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>TRVL_TYPE</column>
+    <column>SEQ_NUM</column>
+    <column>TRIP_NUM</column>
+    <column>AMT1</column>
+    <column>RMK1</column>
+    <column>TRIP_NUM_MTH1</column>
+    <column>AMT2</column>
+    <column>RMK2</column>
+    <column>TRIP_NUM_MTH2</column>
+    <column>AMT3</column>
+    <column>RMK3</column>
+    <column>TRIP_NUM_MTH3</column>
+    <column>AMT4</column>
+    <column>RMK4</column>
+    <column>TRIP_NUM_MTH4</column>
+    <column>AMT5</column>
+    <column>RMK5</column>
+    <column>TRIP_NUM_MTH5</column>
+    <column>AMT6</column>
+    <column>RMK6</column>
+    <column>TRIP_NUM_MTH6</column>
+    <column>TOT_TRV_EXP</column>
+    <column>RMK_OFFC</column>
+    <column>SP_AMT1</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

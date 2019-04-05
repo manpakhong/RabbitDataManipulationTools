@@ -1,0 +1,8 @@
+connection_string=jdbc:db2://10.54.245.3:50000/PRDDB
+class_for_name=com.ibm.db2.jcc.DB2Driver
+host=10.54.245.3 
+port=50000
+schema=DBAPRD
+username=pdodev
+password=csss1234
+system_schema=SYSIBM

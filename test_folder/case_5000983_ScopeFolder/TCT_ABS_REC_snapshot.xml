@@ -1,0 +1,14 @@
+<dataset>
+  <table name="TCT_ABS_REC">
+    <column>CUST_KEY</column>
+    <column>ABS_TYPE</column>
+    <column>DEP_DATE</column>
+    <column>DEP_TIME</column>
+    <column>GEN_IND</column>
+    <column>CLR_TYPE</column>
+    <column>CAN_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

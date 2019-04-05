@@ -1,0 +1,21 @@
+<dataset>
+  <table name="TMS_FIT_REC">
+    <column>CASE_KEY</column>
+    <column>FIT_RND</column>
+    <column>CRE_TS</column>
+    <column>ACT_IND</column>
+    <column>FIT_STG</column>
+    <column>FIT_STG_RSON</column>
+    <column>FIT_STG_OTH</column>
+    <column>IR_FPN</column>
+    <column>IR_COMP_DATE</column>
+    <column>AR_FPN</column>
+    <column>AR_COMP_DATE</column>
+    <column>ICFC_DEC</column>
+    <column>COURT_RSLT</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

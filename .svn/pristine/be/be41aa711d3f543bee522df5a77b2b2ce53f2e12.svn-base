@@ -1,0 +1,335 @@
+<dataset>
+  <table name="TCS_DISCR">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>DISCR_CATLG</column>
+    <column>DISCR_TYPE</column>
+    <column>DISCR_STS</column>
+    <column>DISCR_ORG_AMT</column>
+    <column>DISCR_AMT</column>
+    <column>DISCR_RANK</column>
+    <column>DISCR_REQ_OFF</column>
+    <column>DISCR_REQ_DATE</column>
+    <column>DISCR_APPR_OFFR</column>
+    <column>DISCR_DATE</column>
+    <column>DISCR_RSON</column>
+    <column>DISCR_OTH_RSON</column>
+    <column>INP_DESC1</column>
+    <column>INP_DESC2</column>
+    <column>DISCR_RMK</column>
+    <column>DISCR_OFFR_RMK</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>YR_ABS_STR_DATE</column>
+    <column>YR_ABS_END_DATE</column>
+    <column>BASIC_ALW</column>
+    <column>MAX_ALW</column>
+    <column>TOT_ABS_DAY</column>
+    <column>ABS_DAY_APPR</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>DISCR_APPR_OFFR_POST</column>
+    <column>DISCR_APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>DISCR_REQ_OFF_POST</column>
+    <column>DISCR_REQ_OFF_LOGIN_ID</column>
+    <row>
+      <value>1256557</value>
+      <value>7923681</value>
+      <value>1346125</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>180.00</value>
+      <value>180.00</value>
+      <value>O2</value>
+      <value>LCK04082</value>
+      <value>2006-11-16</value>
+      <value>LCK05022</value>
+      <value>2006-11-21</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1346125]]></value>
+      <value>2006-11-16</value>
+      <value>2006-11-16</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-21 10:50:35.887625]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923682</value>
+      <value>1363662</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>350.00</value>
+      <value>350.00</value>
+      <value>O2</value>
+      <value>LCK04082</value>
+      <value>2006-11-16</value>
+      <value>LCK05022</value>
+      <value>2006-11-21</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1363662]]></value>
+      <value>2006-11-16</value>
+      <value>2006-11-16</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-21 10:50:35.890205]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923683</value>
+      <value>1363663</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>350.00</value>
+      <value>350.00</value>
+      <value>O2</value>
+      <value>LCK04082</value>
+      <value>2006-11-16</value>
+      <value>LCK05022</value>
+      <value>2006-11-21</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1363663]]></value>
+      <value>2006-11-16</value>
+      <value>2006-11-16</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-21 10:50:35.892474]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923795</value>
+      <value>1363662</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>350.00</value>
+      <value>350.00</value>
+      <value>O2</value>
+      <value>LCK04100</value>
+      <value>2008-11-19</value>
+      <value>LCK05027</value>
+      <value>2008-11-20</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1363662]]></value>
+      <value>2008-11-01</value>
+      <value>2008-11-01</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2008-11-20 12:43:42.985492]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923800</value>
+      <value>1363663</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>350.00</value>
+      <value>350.00</value>
+      <value>O2</value>
+      <value>LCK04100</value>
+      <value>2008-11-19</value>
+      <value>LCK05027</value>
+      <value>2008-11-20</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1363663]]></value>
+      <value>2008-11-01</value>
+      <value>2008-11-01</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2008-11-20 12:43:42.989592]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923801</value>
+      <value>1346125</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>188.00</value>
+      <value>188.00</value>
+      <value>O2</value>
+      <value>LCK04100</value>
+      <value>2008-11-19</value>
+      <value>LCK05027</value>
+      <value>2008-11-20</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1346125]]></value>
+      <value>2008-11-01</value>
+      <value>2008-11-01</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2008-11-20 12:43:42.993387]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7923969</value>
+      <value>1355418</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>500.00</value>
+      <value>500.00</value>
+      <value>O2</value>
+      <value>LCK04100</value>
+      <value>2011-06-10</value>
+      <value>LCK05027</value>
+      <value>2011-06-14</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 1355418]]></value>
+      <value>2011-06-10</value>
+      <value>2011-06-10</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2011-06-14 16:09:42.885857]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>7924177</value>
+      <value>2203578</value>
+      <value>D</value>
+      <value><![CDATA[GLG     ]]></value>
+      <value>A</value>
+      <value>288.00</value>
+      <value>288.00</value>
+      <value>O2</value>
+      <value>LCK04100</value>
+      <value>2013-12-11</value>
+      <value>LCK04105</value>
+      <value>2013-12-12</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value><![CDATA[Please read officer report 報告 909-AAA-123]]></value>
+      <value><![CDATA[(MASKED) Please read officer discretion remark (評論 ) for customer 2203578]]></value>
+      <value>2013-12-11</value>
+      <value>2013-12-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>N</value>
+      <value>LCK04105</value>
+      <value><![CDATA[2013-12-12 15:17:33.746203]]></value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

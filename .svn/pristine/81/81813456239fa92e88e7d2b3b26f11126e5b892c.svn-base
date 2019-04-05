@@ -1,0 +1,100 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>DISABILITY</value>
+      <value>2013-03-27</value>
+      <value>2013-04-03</value>
+      <value>2013-09-09</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[13-50484(W)/MED/MSS/TWEH                                              ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-10-11 12:10:17.052232]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>DISABILITY</value>
+      <value>2013-09-10</value>
+      <value>2013-09-11</value>
+      <value>2015-02-05</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[PYNEH 26173232                                                        ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-02-18 14:28:05.274888]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>DISABILITY</value>
+      <value>2015-02-06</value>
+      <value>2015-02-09</value>
+      <value>2017-02-05</value>
+      <value><![CDATA[CA        ]]></value>
+      <value><![CDATA[P         ]]></value>
+      <value><![CDATA[PYNEH 26173232                                                        ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-02-18 14:29:48.780559]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2013-03-27</value>
+      <value>2013-04-03</value>
+      <value>2013-09-23</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[13-50484(W)/MED/MSS/TWEH                                              ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-10-29 14:35:40.325405]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2013-09-24</value>
+      <value>2013-09-27</value>
+      <value>2014-09-23</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[13-50484(W)/MED/MSS/TWEH                                              ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-10-29 14:38:46.319818]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value><![CDATA[SP_DIET   ]]></value>
+      <value>2014-09-24</value>
+      <value>2014-10-14</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[HIGHER    ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[CGAT (S/N 13 / F005                                                   ]]></value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-10-28 12:53:45.28929]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

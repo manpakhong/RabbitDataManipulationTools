@@ -1,0 +1,68 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>754250</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value><![CDATA[7806141511          ]]></value>
+      <value><![CDATA[2651144231          ]]></value>
+      <value>M</value>
+      <value>1949-10-17</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 12:05:41.94069]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3646541</value>
+      <value><![CDATA[ O4732961           ]]></value>
+      <value>I</value>
+      <value><![CDATA[JOU                           ]]></value>
+      <value><![CDATA[YIM YUNG                      ]]></value>
+      <value><![CDATA[周             ]]></value>
+      <value><![CDATA[灧蓉          ]]></value>
+      <value><![CDATA[07191               ]]></value>
+      <value><![CDATA[9878155541          ]]></value>
+      <value>F</value>
+      <value>1966-04-29</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 12:05:41.951167]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

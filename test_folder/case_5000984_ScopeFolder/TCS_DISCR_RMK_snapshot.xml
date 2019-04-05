@@ -1,0 +1,92 @@
+<dataset>
+  <table name="TCS_DISCR_RMK">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>RMK_SEQ_NUM</column>
+    <column>DISCR_RANK</column>
+    <column>DISCR_APPR_OFFR</column>
+    <column>DISCR_DATE</column>
+    <column>DISCR_OFFR_RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>DISCR_APPR_OFFR_POST</column>
+    <column>DISCR_APPR_OFFR_LOGIN_ID</column>
+    <column>CASE_SUBMITTED</column>
+    <row>
+      <value>5000984</value>
+      <value>109</value>
+      <value>1</value>
+      <value>O2</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[I approve the request for discretion of other assets for valuable possessions of $80,000.]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>127</value>
+      <value>1</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[The reason for discretion is acceptable, I recommend to SSSO for approval.]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>127</value>
+      <value>2</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[I approve]]></value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>128</value>
+      <value>1</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[Recommend to SSSO for approval of the OYRR discretion request.]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>128</value>
+      <value>2</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-19</value>
+      <value><![CDATA[I approve the discretion request]]></value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

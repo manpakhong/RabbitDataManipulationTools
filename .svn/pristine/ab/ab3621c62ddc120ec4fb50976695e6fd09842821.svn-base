@@ -1,0 +1,191 @@
+<dataset>
+  <table name="TCT_CUST_DTL">
+    <column>CUST_KEY</column>
+    <column>MARITAL_STS</column>
+    <column>DIALECT</column>
+    <column>DIALECT_OD</column>
+    <column>POB</column>
+    <column>POB_OD</column>
+    <column>COO</column>
+    <column>COO_OD</column>
+    <column>ID_ISS_DATE</column>
+    <column>DATE_FST_ISS</column>
+    <column>HIGH_EDU_LVL</column>
+    <column>SP_IND</column>
+    <column>DATE_FST_ARRV</column>
+    <column>BUR_GNT_IND</column>
+    <column>FIT_MAKE_STMT_IND</column>
+    <column>RES_APPRV_IND_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>57835</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>1980-01-01</value>
+      <value>1951-01-01</value>
+      <value>NS</value>
+      <value>0</value>
+      <value>1951-01-01</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value>N</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:01:06.796114]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>57836</value>
+      <value>W</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>1988-12-01</value>
+      <value>1967-03-01</value>
+      <value>NS</value>
+      <value>0</value>
+      <value>1951-01-01</value>
+      <value>Y</value>
+      <value>Y</value>
+      <value>N</value>
+      <value>CBY03061</value>
+      <value><![CDATA[2011-09-27 10:48:00.627167]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2232696</value>
+      <value>W</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2009-01-19</value>
+      <value>2002-01-09</value>
+      <value>PR</value>
+      <value>0</value>
+      <value>2002-01-05</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:13.850051]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>754938</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2004-11-08</value>
+      <value>1967-03-01</value>
+      <value>PR</value>
+      <value>0</value>
+      <value>1967-03-01</value>
+      <value>Y</value>
+      <value>Y</value>
+      <value>N</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 15:17:55.47745]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1301973</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>HK</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>1992-08-12</value>
+      <value>1992-08-12</value>
+      <value>NS</value>
+      <value>0</value>
+      <value>1992-08-12</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:32:51.295619]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2018961</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>HK</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2011-10-28</value>
+      <value>2000-11-07</value>
+      <value>PR</value>
+      <value>0</value>
+      <value>2000-10-14</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:36.672893]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1353500</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>HK</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2003-09-01</value>
+      <value>1992-09-21</value>
+      <value>SH</value>
+      <value>0</value>
+      <value>1992-08-12</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>N</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2008-09-22 10:33:54.31672]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2960313</value>
+      <value>S</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>HK</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2007-10-24</value>
+      <value>2007-10-24</value>
+      <value>KC</value>
+      <value>0</value>
+      <value>2007-10-06</value>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-08-23 10:32:42.163466]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

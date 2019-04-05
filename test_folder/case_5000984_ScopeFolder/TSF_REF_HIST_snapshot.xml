@@ -1,0 +1,26 @@
+<dataset>
+  <table name="TSF_REF_HIST">
+    <column>REF_HIST_KEY</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SERIAL_NUM</column>
+    <column>PROJ_CODE</column>
+    <column>CAT_REFERRED</column>
+    <column>DATE_REFERRAL</column>
+    <column>DATE_STATUS_CHANGE</column>
+    <column>DATE_COMP_INT_SPEC</column>
+    <column>TRANSFER_CASE_IND</column>
+    <column>CASE_NATURE</column>
+    <column>CASE_STS</column>
+    <column>CASE_STS_OTHER</column>
+    <column>IO_REMARKS</column>
+    <column>CAT_ENROLL</column>
+    <column>DATE_ENROLL</column>
+    <column>SER_NUM</column>
+    <column>DATE_CLOSE</column>
+    <column>SRC_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

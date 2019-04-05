@@ -1,0 +1,11 @@
+<dataset>
+  <table name="TCC_ERR_SKIP">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SYSTEM</column>
+    <column>BATCH_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

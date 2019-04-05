@@ -1,0 +1,35 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1211652</value>
+      <value>1998-09-17</value>
+      <value>1111-11-11</value>
+      <value>2002-05-10</value>
+      <value>C</value>
+      <value>YLE05021</value>
+      <value><![CDATA[2002-05-10 17:00:34.565058]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.518787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1211652</value>
+      <value>2010-01-05</value>
+      <value>2010-01-05</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>YLW06008</value>
+      <value><![CDATA[2010-01-29 11:30:55.712208]]></value>
+      <value><![CDATA[2010-01-07 12:14:17.662373]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

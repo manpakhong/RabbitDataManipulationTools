@@ -1,0 +1,178 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-06-16 12:10:52.9]]></value>
+      <value>1998-06-15</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[KCY02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-06-16 12:11:15.2]]></value>
+      <value>1998-06-16</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>UT</value>
+      <value>1</value>
+      <value><![CDATA[KCY02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-06-16 12:13:21.589893]]></value>
+      <value>1998-06-16</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[KCY02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-07-14 18:58:20.020483]]></value>
+      <value>1998-07-14</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY06001    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-08-11 17:07:06.992042]]></value>
+      <value>1998-08-11</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05011    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1998-11-13 17:13:10.930632]]></value>
+      <value>1998-11-13</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05011    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1999-05-19 17:32:28.464133]]></value>
+      <value>1999-05-19</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1999-11-19 15:03:50.663748]]></value>
+      <value>1999-11-19</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[1999-12-02 18:03:17.694829]]></value>
+      <value>1999-12-02</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value><![CDATA[2000-06-13 12:34:58.329514]]></value>
+      <value>2000-06-13</value>
+      <value>KCY</value>
+      <value>C</value>
+      <value>27207</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[KCY05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

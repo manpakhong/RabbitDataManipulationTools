@@ -1,0 +1,9 @@
+tpy_chg_of_acc_snapshot.xml
+TPY_CHG_OF_ACC
+csaInsLafisScopeFolder
+csaInsLafisScope
+select * FROM prddbs1.TPY_CHG_OF_ACC where case_key = 6649
+-----------------------------------------------------------------------------------------------
+select * FROM prddbs1.TPY_CHG_OF_ACC where case_key = 6649
+...................................................................................
+-BLANK-

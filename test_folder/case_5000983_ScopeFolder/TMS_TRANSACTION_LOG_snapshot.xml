@@ -1,0 +1,2235 @@
+<dataset>
+  <table name="TMS_TRANSACTION_LOG">
+    <column>TRANS_ID</column>
+    <column>LOGIN_ID</column>
+    <column>USER_POST</column>
+    <column>FUN_ID</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>TRANS_TS</column>
+    <column>PROC_STG</column>
+    <column>CASE_STS</column>
+    <row>
+      <value>159239</value>
+      <value>fokkaleong</value>
+      <value>SSA4_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 15:22:59.237]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159336</value>
+      <value>fokkaleong</value>
+      <value>SSA4_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 15:32:21.584]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159558</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:23:44.258]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159564</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:26:47.761]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159569</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:28:53.032]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159619</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:34:11.283]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159620</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:33:08.176]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159729</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:49:06.452]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159747</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:50:21.462]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159754</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:51:00.394]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159763</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:51:45.207]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>159768</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-09 16:52:11.323]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160309</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:24:39.423]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160531</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:43:34.287]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160556</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:46:08.859]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160569</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:46:49.236]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160628</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:54:06.058]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160630</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:54:55.48]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160642</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:56:15.183]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160647</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 14:56:58.65]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160738</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 15:13:10.773]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160752</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 15:15:55.319]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160764</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 15:18:21.886]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>160765</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 15:17:46.449]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161007</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 15:57:21.026]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161029</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:03:06.507]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161049</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:06:47.91]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161050</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:06:48.203]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161053</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:09:01.727]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161063</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:13:16.313]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161064</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:13:16.599]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161076</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:15:29.416]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161088</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:17:08.735]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161089</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:17:09.049]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161100</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:19:26.474]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161104</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:21:23.622]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161105</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:20:32.061]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161111</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:24:10.196]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161113</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:24:35.083]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161128</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0323000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:27:53.3]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161135</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0376000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:29:10.08]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161139</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0323000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:30:23.368]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161184</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0323000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:36:36.363]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161240</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:49:48.012]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161270</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-10 16:53:54.685]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161406</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 09:29:41.349]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161431</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 09:37:43.003]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161598</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:07:29.784]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161609</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:09:46.907]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161673</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:19:43.174]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161719</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:25:34.862]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161782</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:36:14.956]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161868</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:49:43.469]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161887</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:52:55.764]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161895</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0470000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:54:28.723]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161906</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0470000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 10:56:19.328]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>161992</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:13:35.554]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162016</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:17:00.504]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162017</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:17:02.609]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162041</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:19:39.905]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162057</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:21:06.164]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162116</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:34:46.77]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162163</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:41:01.528]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162164</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:41:02.204]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162219</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:48:30.859]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162222</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[NAV_CSSA  ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:48:24.699]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>162250</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0344003</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-11 11:53:42.563]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>N</value>
+    </row>
+    <row>
+      <value>164387</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0350002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 11:49:48.109]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164729</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 12:47:22.995]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164759</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 12:50:55.508]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164812</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 12:59:53.097]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164818</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 13:01:14.284]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164823</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:07:54.823]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164826</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:09:26.542]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164829</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0353000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:10:08.318]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164832</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:12:33.666]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164833</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:12:51.922]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164836</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:15:04.451]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164837</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:15:04.753]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164841</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:18:26.97]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164845</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:20:40.706]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164846</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:20:40.988]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164852</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:21:40.582]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164856</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:22:08.286]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164857</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:22:08.581]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>164949</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:37:16.601]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165083</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0336000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:52:41.191]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165102</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0336000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:54:37.761]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165130</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:57:52.048]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165147</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 14:59:44.207]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165158</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:00:34.476]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165192</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:03:49.743]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165193</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:04:10.516]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165194</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:04:10.962]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165196</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:04:34.666]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165200</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:04:48.45]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165201</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:04:48.949]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165232</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:05:59.499]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165253</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:09:08.012]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165277</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:14:15.666]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165292</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:17:25.636]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165397</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:31:31.517]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165413</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:33:40.58]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165460</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:38:55.238]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165498</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0327000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:42:00.487]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165548</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0329000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:49:20.371]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165580</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0329000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 15:51:17.596]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165684</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0330000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:01:45.102]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165766</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:12:26.2]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165789</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:14:30.756]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165821</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:18:13.623]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165825</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:18:35.622]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165827</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:18:36.042]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165835</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:19:22.958]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165848</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:20:44.987]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165849</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0303000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:20:45.383]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165898</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:25:43.061]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165899</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:25:43.359]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165931</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:30:15.957]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165938</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0345000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:31:53.504]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>165953</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0345002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:33:04.303]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166032</value>
+      <value>yipstellayy</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:41:53.415]]></value>
+      <value><![CDATA[SS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166042</value>
+      <value>yipstellayy</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>CAM0345000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:43:09.95]]></value>
+      <value><![CDATA[SS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166051</value>
+      <value>yipstellayy</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>CAM0345000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:43:36.873]]></value>
+      <value><![CDATA[SS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166066</value>
+      <value>yipstellayy</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>CAM0345002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:45:11.886]]></value>
+      <value><![CDATA[SS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166067</value>
+      <value>yipstellayy</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>CAM0345002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-12 16:45:13.076]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166285</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 08:38:17.917]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166286</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 08:51:52.557]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166287</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 08:52:26.642]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166288</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 08:51:06.598]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166401</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:28:55.663]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166407</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:29:29.493]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166408</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:31:00.317]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166409</value>
+      <value>kansukfun</value>
+      <value>SSSA16_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:31:00.611]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166477</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:42:41.267]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166509</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:46:25.265]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166538</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0345002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:52:03.204]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166562</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:57:11.612]]></value>
+      <value><![CDATA[AP ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166567</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 09:57:39.1]]></value>
+      <value><![CDATA[AP ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166589</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 10:01:00.585]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166590</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 10:01:02.11]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166609</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 10:03:36.351]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>166628</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 10:04:34.459]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167078</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 10:59:47.751]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167098</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:03:35.982]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167105</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0329000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:04:34.737]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167108</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:04:57.198]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167121</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:05:26.813]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167162</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:09:33.117]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167250</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>PAY0457000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:26:59.905]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167318</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:37:00.495]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167322</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:37:34.358]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167332</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 11:38:11.965]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167850</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>PAY0457000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 12:50:05.559]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167866</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 12:53:15.331]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167875</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>PAY0457000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 12:54:56.405]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167897</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 12:57:54.881]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167898</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 12:57:55.381]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167918</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:07:37.065]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167919</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[NAV_CSSA  ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:07:44.443]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167926</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0345000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:09:57.063]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167929</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0345002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:11:08.754]]></value>
+      <value><![CDATA[PA ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>167942</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>CAM0344003</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:14:55.594]]></value>
+      <value><![CDATA[AO ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>168041</value>
+      <value>kwongwaiming</value>
+      <value>SSOII3_LCKFU</value>
+      <value>PAY0457050</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-13 14:32:15.316]]></value>
+      <value><![CDATA[AO ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>170827</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-16 16:01:34.294]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>170837</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320006</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-16 16:04:05.422]]></value>
+      <value><![CDATA[AU ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171066</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0330000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-16 16:44:06.467]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171107</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0330000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-16 16:51:10.912]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171792</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:15:29.969]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171806</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:18:41.075]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171809</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:19:23.592]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171814</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:20:20.198]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171815</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:20:39.267]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171816</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:20:54.224]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171818</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:21:06.312]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171819</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:21:17.07]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171821</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0348000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:21:43.25]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171838</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:26:45.981]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171843</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:28:45.94]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171855</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0324000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:34:57.329]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171862</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0378000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 11:38:41.215]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171947</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:01:27.884]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171954</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0379000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:04:52.914]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171959</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0379000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:05:52.677]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171960</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0379000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:06:26.562]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171961</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0379000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:04:14.851]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171963</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0379000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:07:12.991]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171970</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:11:55.59]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171975</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:13:07.904]]></value>
+      <value><![CDATA[IV ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171976</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0344001</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:13:11.114]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171977</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:14:46.395]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171984</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:17:01.506]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>171991</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:17:48.775]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>172043</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0446000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 12:30:49.613]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>172390</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>PAY0457000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 14:40:50.928]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>172458</value>
+      <value>suensukping</value>
+      <value>SSOII1_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 15:04:34.554]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>172807</value>
+      <value>tangyiuwai</value>
+      <value>SSA10_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 16:09:28.357]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>173042</value>
+      <value>yuchungkei</value>
+      <value>SSA11_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-17 16:46:09.192]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>174171</value>
+      <value>tangyiuwai</value>
+      <value>SSA10_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-19 11:57:36.113]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>174362</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0320000</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-19 12:35:00.098]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>174439</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[          ]]></value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-19 12:47:25.616]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+    <row>
+      <value>174665</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>CAM0350002</value>
+      <value>5000983</value>
+      <value>0</value>
+      <value><![CDATA[2017-01-19 14:42:00.92]]></value>
+      <value><![CDATA[AS ]]></value>
+      <value>A</value>
+    </row>
+  </table>
+</dataset>

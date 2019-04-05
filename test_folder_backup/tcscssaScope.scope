@@ -1,0 +1,7 @@
+tcs_cssa_snapshot.xml
+TCS_CSSA
+tcscssaScopeFolder
+tcscssaScope
+select * from PRDDBS1.tcs_cssa where case_key = 34
+-----------------------------------------------------------------------------------------------
+select * from PRDDBS1.tcs_cssa where case_key = 34

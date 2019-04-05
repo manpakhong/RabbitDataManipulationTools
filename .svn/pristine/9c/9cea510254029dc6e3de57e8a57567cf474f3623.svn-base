@@ -1,0 +1,146 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1997-10-28 16:03:11.2]]></value>
+      <value>1997-10-28</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>30815</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[SSP02008    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1997-10-28 16:03:28.0]]></value>
+      <value>1997-10-28</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>30815</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>UT</value>
+      <value>1</value>
+      <value><![CDATA[SSP02008    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1997-10-28 16:04:30.306765]]></value>
+      <value>1997-10-28</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>30815</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[SSP02008    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1997-11-25 16:44:27.713768]]></value>
+      <value>1997-11-25</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>30815</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SSP05006    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1997-11-27 14:18:58.4]]></value>
+      <value>1997-11-27</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value>2</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1998-04-14 15:09:26.112131]]></value>
+      <value>1998-04-14</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK05008    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1998-10-27 09:40:41.594141]]></value>
+      <value>1998-10-27</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[LCK05001    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[1999-01-04 09:32:01.8]]></value>
+      <value>1998-12-31</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>20556</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>4</value>
+      <value><![CDATA[LCK02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

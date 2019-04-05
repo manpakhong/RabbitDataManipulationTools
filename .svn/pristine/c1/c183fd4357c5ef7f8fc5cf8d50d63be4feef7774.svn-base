@@ -1,0 +1,4 @@
+Scope Name: DemoChangePayDay_CK_1010619_BeforeChangeScope
+Thread id:1, Job id:20160621_154425_377, (Tue Jun 21 15:44:25 CST 2016 - Tue Jun 21 15:44:37 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+value (table=TMS_COMM, row=0, col=COMM_CRE_06) expected:<[]7920.00> but was:<[-]7920.00>

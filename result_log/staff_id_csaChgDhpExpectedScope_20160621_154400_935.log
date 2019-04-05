@@ -1,0 +1,5 @@
+Scope Name: csaChgDhpExpectedScope
+Thread id:1, Job id:20160621_154329_172, (Tue Jun 21 15:43:29 CST 2016 - Tue Jun 21 15:43:53 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+value (table=TCS_ADDR, row=0, col=TEL_NUM2) expected:<          [dd]    > but was:<          []    >
+value (table=TCT_RES_ADDR, row=0, col=ADDR1) expected:<...試大道９０００－９９９９號       [v]          > but was:<...試大道９０００－９９９９號       []          >

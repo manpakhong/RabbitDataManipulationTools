@@ -1,0 +1,39 @@
+<dataset>
+  <table name="TCS_DRP_DBWF_IMG">
+    <column>CASE_KEY</column>
+    <column>PAYMENT_DATE</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>AMT</column>
+    <column>CASE_FILE_NUM</column>
+    <column>SEQ_NUM_IN_FILE</column>
+    <column>DETAIL_REC_IMG</column>
+    <column>REV_IND</column>
+    <column>REV_REQ_BY</column>
+    <column>REV_REQ_TS</column>
+    <column>RJ_ON</column>
+    <column>RJ_CODE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>2016-07-06</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>928.00</value>
+      <value>LCK-C-023374</value>
+      <value>000944</value>
+      <value><![CDATA[1000944LCK-C-0233741140 2510HE0400928.00201607012016073101249191LCK0413703APIT754972A    HOUNG CHING LEE                                              MBIA0632220    HSUNG LIN TSZ                                                MBIO2940915    NHAN LAI TIT                                                 
+]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPDF2DB</value>
+      <value><![CDATA[2016-06-30 21:54:42.372614]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

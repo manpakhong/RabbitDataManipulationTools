@@ -1,0 +1,19 @@
+actor_snapshot.xml;film_snapshot.xml;film_actor_snapshot.xml;film_category_snapshot.xml;inventory_snapshot.xml;rental_snapshot.xml;language_snapshot.xml
+actor;film;film_actor;film_category;inventory;rental;language
+filmScopeFolder
+filmScope
+select * from actor where actor_id = 8
+SELECT f.film_id, f.title, f.description, f.language_id, f.original_language_id, f.rental_duration, f.rental_rate, f.LENGTH, f.replacement_cost, f.rating, f.special_features, f.last_update FROM film f inner join film_actor fa on fa.film_id = f.film_id where fa.actor_id = 8 
+select * from film_actor where actor_id = 8
+select * from film_category where film_id in (select film_id from film_actor where actor_id = 8)
+select * from inventory where film_id in (select film_id from film_actor where actor_id = 8)
+select * from rental where inventory_id in (select distinct i.inventory_id from inventory i inner join film_actor fa on i.film_id = fa.film_id)
+select * from language
+-----------------------------------------------------------------------------------------------
+select * from actor where actor_id = 8
+SELECT f.film_id, f.title, f.description, f.language_id, f.original_language_id, f.rental_duration, f.rental_rate, f.LENGTH, f.replacement_cost, f.rating, f.special_features, f.last_update FROM film f inner join film_actor fa on fa.film_id = f.film_id where fa.actor_id = 8 
+select * from film_actor where actor_id = 8
+select * from film_category where film_id in (select film_id from film_actor where actor_id = 8)
+select * from inventory where film_id in (select film_id from film_actor where actor_id = 8)
+select * from rental where inventory_id in (select distinct i.inventory_id from inventory i inner join film_actor fa on i.film_id = fa.film_id)
+select * from language

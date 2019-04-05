@@ -1,0 +1,114 @@
+<dataset>
+  <table name="TCC_EMP_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>EXP_WK_TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>CUR_EMP_IND</column>
+    <column>EMP_NAT</column>
+    <column>EMP_NAME</column>
+    <column>COMP_NAME</column>
+    <column>EMP_ADDR</column>
+    <column>EMP_TEL_NUM</column>
+    <column>EMP_FAX_NUM</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>POST_TTL</column>
+    <column>COM_WK_DATE</column>
+    <column>FST_MTH_DISREGD</column>
+    <column>TO_DATE</column>
+    <column>WK_DAY</column>
+    <column>WK_HOUR</column>
+    <column>EARN_TOT</column>
+    <column>AVG_EARN_AMT</column>
+    <column>PAY_DAY_PATN</column>
+    <column>PAY_DAY1</column>
+    <column>PAY_DAY2</column>
+    <column>FREE_MEAL_IND</column>
+    <column>MEAL_RGLR</column>
+    <column>MEAL_NUM</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PATN</column>
+    <column>TRVL_IND</column>
+    <column>TRVL_SEQ_NUM</column>
+    <column>TERM_IND</column>
+    <column>DATE_TERM</column>
+    <column>LAST_PAID_DATE</column>
+    <column>LAST_PAID_AMT</column>
+    <column>PAY_LIEU_DATE</column>
+    <column>PAY_LIEU_AMT</column>
+    <column>RET_BEN_DATE</column>
+    <column>RET_BEN_AMT</column>
+    <column>RET_BEN_TYPE</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_RTN</column>
+    <column>FPN</column>
+    <column>RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>2016-06-01</value>
+      <value>9999-01-01</value>
+      <value>123</value>
+      <value>Y</value>
+      <value>F</value>
+      <value><![CDATA[Nil                                                                             ]]></value>
+      <value><![CDATA[Tai Fat Restaurant                                                              ]]></value>
+      <value>Nil</value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[CO ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value><![CDATA[Cook                                                        ]]></value>
+      <value>2015-07-10</value>
+      <value>N</value>
+      <value>2016-06-30</value>
+      <value>24.00</value>
+      <value>196.00</value>
+      <value>13775.00</value>
+      <value>13775.00</value>
+      <value>M</value>
+      <value>30</value>
+      <value>0</value>
+      <value>Y</value>
+      <value>I</value>
+      <value>24</value>
+      <value>24</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>0.00</value>
+      <value/>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1</value>
+      <value/>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 16:42:21.156]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

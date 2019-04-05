@@ -1,0 +1,13 @@
+<dataset>
+  <table name="TMS_TRANSACTION_LOG">
+    <column>TRANS_ID</column>
+    <column>LOGIN_ID</column>
+    <column>USER_POST</column>
+    <column>FUN_ID</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>TRANS_TS</column>
+    <column>PROC_STG</column>
+    <column>CASE_STS</column>
+  </table>
+</dataset>

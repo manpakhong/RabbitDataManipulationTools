@@ -1,0 +1,10 @@
+<dataset>
+  <table name="TMS_RR_EXPIRECASE">
+    <column>CASE_KEY</column>
+    <column>FOR_AR_I</column>
+    <column>PAY_EXPIRY_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

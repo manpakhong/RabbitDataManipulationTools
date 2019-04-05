@@ -1,0 +1,50 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>754250</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value>UE</value>
+      <value>2001-12-30</value>
+      <value>1998-10-27</value>
+      <value>1111-11-11</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 09:58:17.149049]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>3646541</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2014-06-12</value>
+      <value>2014-06-12</value>
+      <value>1111-11-11</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 14:46:38.216476]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,10 @@
+<dataset>
+  <table name="TMS_STOR_PROC_WF">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>DATA</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

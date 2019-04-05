@@ -1,0 +1,92 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ G3182729           ]]></value>
+      <value>896335</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>C</value>
+      <value><![CDATA[2382592T            ]]></value>
+      <value>1316188</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ T4988161           ]]></value>
+      <value>1317065</value>
+      <value/>
+      <value>SKM05029</value>
+      <value><![CDATA[2003-04-01 11:38:44.580839]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>C</value>
+      <value><![CDATA[2354921T            ]]></value>
+      <value>1317065</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ R7300335           ]]></value>
+      <value>1193377</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>C</value>
+      <value><![CDATA[2364336T            ]]></value>
+      <value>1317812</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ T2288944           ]]></value>
+      <value>1316188</value>
+      <value/>
+      <value>SKM05019</value>
+      <value><![CDATA[2001-03-15 13:01:37.783338]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ U6696675           ]]></value>
+      <value>3271418</value>
+      <value/>
+      <value>SKM04085</value>
+      <value><![CDATA[2010-12-17 09:58:55.244226]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ T5604944           ]]></value>
+      <value>1317812</value>
+      <value/>
+      <value>SKM05029</value>
+      <value><![CDATA[2005-05-17 11:12:06.751193]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

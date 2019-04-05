@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <user id="1" user_name="mary" password="abcd" last_update_date="2016-05-09 09:18:25.0" remarks="test"/>
+  <user id="2" user_name="peter" password="cdef" last_update_date="2016-05-09 09:18:28.0"/>
+  <user id="3" user_name="mario" password="eeff" last_update_date="2016-05-09 09:18:40.0"/>
+</dataset>

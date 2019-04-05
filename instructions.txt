@@ -1,0 +1,20 @@
+1. extract rar to any usb, but don't put the program at any subfolder! (correct sample: f:\flowTestNewDb\)
+2. there are configurable system parameters:
+located at: 
+f:\flowTestNewDb\sys.properties, 
+f:\flowTestNewDb\mysql.db.properties, 
+f:\flowTestNewDb\mssql.db.properties,
+f:\flowTestNewDb\db2.db.properties
+2a. change database type: 
+sys.properties >> database_type=mssql
+2b. for restore data: (turn off delete before insert new data):
+sys.properties >>
+delete_statement_generate_button_enabled=false
+delete_then_restore_combo_action_enabled=false
+3. backup xml data location (default):
+sys.properties >>
+test_folder_root=./test_folder
+4. change database connection: 
+mssql - f:\flowTestNewDb\mssql.db.properties
+mysql - f:\flowTestNewDb\mysql.db.properties
+db2 - f:\flowTestNewDb\db2.db.properties

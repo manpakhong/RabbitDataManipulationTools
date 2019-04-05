@@ -1,0 +1,713 @@
+package hksarg.swd.cssa.csa.common;
+
+import static org.junit.Assert.fail;
+
+import java.sql.Connection;
+import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+
+import org.dbunit.IDatabaseTester;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Restrictions;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.FixMethodOrder;
+import org.junit.Test;
+import org.junit.runners.MethodSorters;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.common.CSA_InsLafis;
+import hksarg.swd.csss.csa.flowtest.bundles.DbProperties;
+import hksarg.swd.csss.csa.flowtest.factories.DbUtilsFactory;
+import hksarg.swd.csss.csa.flowtest.factories.PropertiesFactory;
+import hksarg.swd.csss.csa.flowtest.helpers.CaseTestHelper;
+import hksarg.swd.csss.csa.flowtest.models.dtos.CaptureScopeDto;
+import hksarg.swd.csss.csa.flowtest.services.CssaDataStubMgr;
+import hksarg.swd.csss.csa.flowtest.services.SnapshotMgr;
+import hksarg.swd.csss.csa.flowtest.utils.CalendarUtils;
+import hksarg.swd.csss.csa.flowtest.utils.DateUtils;
+import hksarg.swd.csss.csa.flowtest.utils.DbUtils;
+import hksarg.swd.csss.database.HibernateUtil;
+import hksarg.swd.csss.security.UserInfo;
+import hksarg.swd.csss.utils.ThreadLocalUtils;
+import hksarg.swd.hdo.TasAssResult;
+import hksarg.swd.hdo.TasElgPerd;
+import hksarg.swd.hdo.TasIndNeed;
+import hksarg.swd.hdo.TasIndRes;
+import hksarg.swd.hdo.TasShrNeed;
+import hksarg.swd.hdo.TcsLtsDtl;
+import hksarg.swd.hdo.TmsPayEst;
+import hksarg.swd.hdo.TpyNoti;
+import hksarg.swd.hdo.TpyPayAuth;
+import hksarg.swd.hdo.TpyPayInstr;
+import hksarg.swd.hdo.TpyRcvrDtl;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+public class Csa_InsLafis_4468919_authMethods_Test {
+	private final static Logger logger = LoggerFactory.getLogger(Csa_InsLafis_4468919_authMethods_Test.class);
+	private static String className = Csa_InsLafis_4468919_authMethods_Test.class.getName();
+	private static IDatabaseTester databaseTester;
+	private static SnapshotMgr snapshotMgr;
+	private static IDatabaseTester dbTester = null;
+	private static Integer caseKey;
+	private static List<Integer> custKeyList;
+	private static String loginId;
+	private static String procUnit;
+	private static String post;
+	private static String grtType;
+	private static String handleNoti;
+	private static Calendar assPerdStrCalendar;
+	private static Calendar assPendEndCalendar;
+	
+	private static Calendar frDateCalendar;
+	private static Calendar toDateCalendar;
+	
+	private static Calendar paymentExpireCalendar;
+	private static Calendar calToday;
+	private static int payDay;
+	private static String urgChgBa;
+	private static String opCode;
+	private static Timestamp creTs;
+	private static StringBuilder sValRet;
+	private static CaseTestHelper helper;
+	private static DbUtils dbUtils = null;
+	private static DbProperties dbProperties = null;
+
+	public Csa_InsLafis_4468919_authMethods_Test() {
+		init();
+	}
+
+	private void init() {
+		try {
+			helper = new CaseTestHelper();
+			caseKey = 4468919;
+			custKeyList = new ArrayList<Integer>();
+
+			Integer custKey1 = 3731257;
+			Integer custKey2 = 3735422;
+			Integer custKey3 = 3735424;
+
+			custKeyList.add(custKey1);
+			custKeyList.add(custKey2);
+			custKeyList.add(custKey3);
+
+			loginId = "test1";
+			post = "SSSA2_ABDFU";
+			procUnit = "ABD";
+			grtType = "CSA";
+			handleNoti = "Y";
+
+			assPerdStrCalendar = CalendarUtils.getMinHostCalendarToday();
+			assPerdStrCalendar.set(Calendar.YEAR, 2015);
+			assPerdStrCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPerdStrCalendar.set(Calendar.DAY_OF_MONTH, 29);
+
+			assPendEndCalendar = CalendarUtils.getMaxHostCalendarToday();
+			assPendEndCalendar.set(Calendar.YEAR, 2016);
+			assPendEndCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPendEndCalendar.set(Calendar.DAY_OF_MONTH, 29);
+			
+			paymentExpireCalendar = CalendarUtils.getMaxHostCalendarToday();
+			assPendEndCalendar.set(Calendar.YEAR, 2016);
+			assPendEndCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPendEndCalendar.set(Calendar.DAY_OF_MONTH, 29);
+
+
+			frDateCalendar = CalendarUtils.getMinHostCalendarToday();
+			frDateCalendar.set(Calendar.YEAR, 2015);
+			frDateCalendar.set(Calendar.MONTH, Calendar.MARCH);
+			frDateCalendar.set(Calendar.DAY_OF_MONTH, 1);
+
+			toDateCalendar = CalendarUtils.getMaxHostCalendarToday();
+			toDateCalendar.set(Calendar.YEAR, 2016);
+			toDateCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			toDateCalendar.set(Calendar.DAY_OF_MONTH, 29);
+			
+			
+			calToday = Calendar.getInstance();
+			payDay = 7;
+
+			urgChgBa = "Y";
+			opCode = "AU";
+			creTs = new Timestamp(calToday.getTime().getTime());
+			sValRet = new StringBuilder();
+
+			dbUtils = DbUtilsFactory.getInstanceOfDb2DbUtils();
+			dbProperties = PropertiesFactory.getInstanceOfDb2DbProperties();
+			dbTester = dbUtils.getJdbcDatabaseTester();
+			snapshotMgr = new SnapshotMgr();
+			databaseTester = dbUtils.getJdbcDatabaseTester();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@BeforeClass
+	public static void setUpClass() throws Exception {
+
+	}
+
+	@AfterClass
+	public static void tearDownClass() {
+		try {
+			databaseTester.getConnection().close();
+			databaseTester = null;
+		} catch (Exception e) {
+			logger.error(className + ".tearDownClass() -", e);
+		}
+	}
+
+	@Before
+	public void setUp() throws Exception {
+		try {
+
+			CaptureScopeDto captureScopeDto = snapshotMgr
+					.getCaptureScopeDtoFromScopeFileName("csaInsLafisScope_CK_4468919_NEW_authMethods_Bf.scope");
+			snapshotMgr.restoreXmlFiles(captureScopeDto);
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		// restore the original data snapshot from full data snapshot
+
+		// CaptureScopeDto captureScopeDto =
+		// snapshotMgr.getCaptureScopeDtoFromScopeFileName("csaInsLafisScope_CK_4468919_Before.scope");
+		// snapshotMgr.restoreXmlFiles(captureScopeDto);
+		// databaseTester.onTearDown();
+
+	}
+
+	private boolean runPInsLafis(Session sess) throws Exception {
+		boolean isDone = false;
+
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+		Connection conn = null;
+		try {
+			conn = dbUtils.getConnection();
+			conn.setSchema(dbProperties.getSchema());
+			UserInfo userInfo = cssaDataStubMgr.getUserInfo(loginId, procUnit);
+			userInfo.setConnection(conn);
+			ThreadLocalUtils.setUserInfo(userInfo);
+			CSA_InsLafis csaInsLafis = new CSA_InsLafis();
+			int[] retArr = csaInsLafis.PInsLafis(sess, userInfo, caseKey, procUnit, grtType, handleNoti,
+					assPerdStrCalendar.getTime(), assPendEndCalendar.getTime(), paymentExpireCalendar.getTime(), payDay,
+					urgChgBa, opCode, userInfo.getPriPost().getPuName(), creTs, sValRet);
+
+			isDone = true;
+		} catch (Exception e) {
+			conn.rollback();
+
+			logger.error(className + ".runCheckIfDhpAddressModified() -", e);
+			throw e;
+		} finally {
+
+		}
+		return isDone;
+	}
+
+	private void deleteTpyPayInstrList(List<TpyPayInstr> tpyPayInstrPreList, Session sess) {
+
+		try {
+
+			for (TpyPayInstr tpyPayInstr : tpyPayInstrPreList) {
+
+				List<TpyPayInstr> tpyPayInstrPostList2 = sess.createCriteria(TpyPayInstr.class)
+						.add(Restrictions.eq("id.caseKey", caseKey))
+						.add(Restrictions.eq("id.frDate", tpyPayInstr.getId().getFrDate()))
+						.add(Restrictions.eq("id.toDate", tpyPayInstr.getId().getToDate()))
+						.add(Restrictions.eq("id.grtType", tpyPayInstr.getId().getGrtType()))
+						.add(Restrictions.ne("id.payType", "M")).add(Restrictions.eq("id.recSts", "A")).list();
+				if (tpyPayInstrPostList2.size() != 0) {
+					TpyPayInstr tpyPayInstr2 = tpyPayInstrPostList2.get(0);
+					sess.delete(tpyPayInstr2);
+				} else {
+					logger.info(caseKey + "," + tpyPayInstr.getId().getFrDate() + "," + tpyPayInstr.getId().getToDate()
+							+ "," + tpyPayInstr.getId().getGrtType() + "," + tpyPayInstr.getId().getPayType() + ",A");
+				}
+
+			}
+
+		} catch (Exception e) {
+			logger.error(className + ".deleteTpyPayInstrList() -", e);
+		} finally {
+
+		}
+	}
+
+	private void deleteTmsPayEst(Session sess){
+		try{
+			List<TmsPayEst> tmsPayEstList = sess.createCriteria(TmsPayEst.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+			
+			if (tmsPayEstList.size() > 0){
+				for (TmsPayEst tmsPayEst: tmsPayEstList){
+					sess.delete(tmsPayEst);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTmsPayEst() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	
+	private void deleteTasElgPerdAuthorizedRecords(Session sess){
+		try{
+			List<TasElgPerd> tasElgPerdList = sess.createCriteria(TasElgPerd.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tasElgPerdList.size() > 0){
+				for (TasElgPerd tasElgPerd: tasElgPerdList){
+					sess.delete(tasElgPerd);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTasElgPerdAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTpyPayAuthAuthorizedRecords(Session sess){
+		try{
+			List<TpyPayAuth> tpyPayAuthList = sess.createCriteria(TpyPayAuth.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tpyPayAuthList.size() > 0){
+				for (TpyPayAuth tpyPayAuth: tpyPayAuthList){
+					sess.delete(tpyPayAuth);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTpyPayAuthAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTasIndNeedAuthorizedRecords(Session sess){
+		try{
+			List<TasIndNeed> tasIndNeedList = sess.createCriteria(TasIndNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tasIndNeedList.size() > 0){
+				for (TasIndNeed tasIndNeed: tasIndNeedList){
+					sess.delete(tasIndNeed);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTasIndNeedAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTasIndResAuthorizedRecords(Session sess){
+		try{
+			List<TasIndRes> tasIndResList = sess.createCriteria(TasIndRes.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tasIndResList.size() > 0){
+				for (TasIndRes tasIndRes: tasIndResList){
+					sess.delete(tasIndRes);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTasIndResAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTasShrNeedAuthorizedRecords(Session sess){
+		try{
+			List<TasShrNeed> tasShrNeedList = sess.createCriteria(TasShrNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tasShrNeedList.size() > 0){
+				for (TasShrNeed tasShrNeed: tasShrNeedList){
+					sess.delete(tasShrNeed);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTasShrNeedAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTcsLtsDtlAuthorizedRecords(Session sess){
+		try{
+			List<TcsLtsDtl> tcsLtsDtlList = sess.createCriteria(TcsLtsDtl.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tcsLtsDtlList.size() > 0){
+				for (TcsLtsDtl tcsLtsDtl: tcsLtsDtlList){
+					sess.delete(tcsLtsDtl);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTcsLtsDtlAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	
+	private void deleteTasAssResultAuthorizedRecords(Session sess){
+		try{
+			List<TasAssResult> tasAssResultList = sess.createCriteria(TasAssResult.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tasAssResultList.size() > 0){
+				for (TasAssResult tasAssResult: tasAssResultList){
+					sess.delete(tasAssResult);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTasAssResultAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTpyRcvrDtlAuthorizedRecords(Session sess){
+		try{
+			List<TpyRcvrDtl> tpyRcvrDtlList = sess.createCriteria(TpyRcvrDtl.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+			
+			if (tpyRcvrDtlList.size() > 0){
+				for (TpyRcvrDtl tpyRcvrDtl: tpyRcvrDtlList){
+					sess.delete(tpyRcvrDtl);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTpyRcvrDtlAuthorizedRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTpyNotiRecords(Session sess){
+		try{
+			List<TpyNoti> tpyNotiList = sess.createCriteria(TpyNoti.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+			
+			if (tpyNotiList.size() > 0){
+				for (TpyNoti tpyNoti: tpyNotiList){
+					sess.delete(tpyNoti);
+				}
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTpyNotiRecords() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	
+	private void deleteAllAuthorizedRecords(Session sess){
+		try{
+			deleteTasElgPerdAuthorizedRecords(sess);
+			deleteTpyPayAuthAuthorizedRecords(sess);
+			deleteTasIndNeedAuthorizedRecords(sess);
+			deleteTasIndResAuthorizedRecords(sess);
+			deleteTasShrNeedAuthorizedRecords(sess);
+			deleteTcsLtsDtlAuthorizedRecords(sess);
+			deleteTasAssResultAuthorizedRecords(sess);
+//			deleteTpyRcvrDtlAuthorizedRecords(sess);
+		} catch (Exception e){
+			logger.error(className + ".deleteAllAuthorizedRecord() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	private void deleteTpyNoti(Session sess){
+
+		try {
+			List<TpyNoti> tpyNotiList = sess.createCriteria(TpyNoti.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).list();
+
+			for (TpyNoti tpyNoti : tpyNotiList) {
+
+
+				sess.delete(tpyNoti);
+			}
+
+		} catch (Exception e) {
+			logger.error(className + ".deleteTpyPayInstrList() -", e);
+		} finally {
+
+		}
+	}
+	
+	@Test 
+	/*
+		cutEligibilityPeriod(), cutIndividualNeeds(), cutIndividualResources(),
+		cutSharedNeeds(), cutSharedNeedsEx(), cutSharedResources(), cutPaymentAuth(),
+		cutLts(), cutAssResult()
+	*/
+	public void testAuthMethods() {
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+
+		try {
+			SessionFactory sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			deleteTmsPayEst(sess);
+			deleteAllAuthorizedRecords(sess);
+			deleteTpyNoti(sess);
+			List<TpyPayAuth> tpyPayAuthList = sess.createCriteria(TpyPayAuth.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.list();
+
+			Assert.assertTrue(tpyPayAuthList.size() == 0);
+			
+			
+			
+			deleteTpyNotiRecords(sess);
+			List<TmsPayEst> tmsPayEstList = sess.createCriteria(TmsPayEst.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+			
+			Assert.assertTrue(tmsPayEstList.size() == 0);
+			
+			// verify before image
+			List<TasElgPerd> tasElgPerdList = sess.createCriteria(TasElgPerd.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasElgPerdList.size() == 3);
+
+			
+			List<TpyPayAuth> tpyPayAuthPList = sess.createCriteria(TpyPayAuth.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tpyPayAuthPList.size() == 2);
+			
+			
+			List<TasIndNeed> tasIndNeedList = sess.createCriteria(TasIndNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasIndNeedList.size() == 2);
+			
+			
+			List<TasIndRes> tasIndResList = sess.createCriteria(TasIndRes.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasIndResList.size() == 2);
+			
+
+			List<TasShrNeed> tasShrNeedList = sess.createCriteria(TasShrNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasShrNeedList.size() == 1);
+			
+			List<TcsLtsDtl> tcsLtsDtlList = sess.createCriteria(TcsLtsDtl.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tcsLtsDtlList.size() == 1);
+			
+			List<TasAssResult> tasAssResultList = sess.createCriteria(TasAssResult.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "P"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasAssResultList.size() == 1);
+			
+
+			
+			// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+			boolean isDone = runPInsLafis(sess);
+			if (!isDone) {
+				throw new Exception("runPInsLafis() - isDone=false");
+			}
+			// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+			
+			// verify after image
+			List<TasElgPerd> tasElgPerdResultList = sess.createCriteria(TasElgPerd.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasElgPerdResultList.size() == 3);
+
+			Calendar toDate1Calendar = CalendarUtils.getMinHostCalendarToday();
+			toDate1Calendar.set(Calendar.YEAR, 2015);
+			toDate1Calendar.set(Calendar.MONTH, Calendar.OCTOBER);
+			toDate1Calendar.set(Calendar.DAY_OF_MONTH, 31);
+			
+			Calendar toDate2Calendar = CalendarUtils.getMinHostCalendarToday();
+			toDate2Calendar.set(Calendar.YEAR, 2016);
+			toDate2Calendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			toDate2Calendar.set(Calendar.DAY_OF_MONTH, 29);
+			
+			
+			List<Calendar> verifyingCalendarList = new ArrayList<Calendar>();
+			verifyingCalendarList.add(toDate1Calendar);
+			verifyingCalendarList.add(toDate2Calendar);
+			
+
+			
+			for (TasElgPerd tasElgPerd: tasElgPerdResultList){
+				boolean isVerified = false;
+				Date toDate = tasElgPerd.getToDate();
+				for (Calendar caltoDateCalendar: verifyingCalendarList){
+					boolean findVerifiedRecords= DateUtils.areTheSameDate(toDate, caltoDateCalendar.getTime());
+					if (findVerifiedRecords){
+						isVerified = findVerifiedRecords;
+						break;
+					}
+				}
+				
+				
+				Assert.assertTrue(isVerified);
+				
+			}
+			
+			Assert.assertTrue(tasElgPerdResultList.size() == 3);
+			
+			List<TpyPayAuth> tpyPayAuthResultList = sess.createCriteria(TpyPayAuth.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tpyPayAuthResultList.size() == 1);
+			
+			toDate2Calendar = CalendarUtils.getMinHostCalendarToday();
+			toDate2Calendar.set(Calendar.YEAR, 2016);
+			toDate2Calendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			toDate2Calendar.set(Calendar.DAY_OF_MONTH, 29);
+		
+			boolean findVerifiedRecords= DateUtils.areTheSameDate(tpyPayAuthResultList.get(0).getToDate(), toDate2Calendar.getTime());
+			Assert.assertTrue(findVerifiedRecords);
+			
+			
+			List<TasIndNeed> tasIndNeedResultList = sess.createCriteria(TasIndNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasIndNeedResultList.size() == 0);
+			
+			
+			List<TasIndRes> tasIndResResultList = sess.createCriteria(TasIndRes.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasIndResResultList.size() == 0);
+			
+
+			List<TasShrNeed> tasShrNeedResultList = sess.createCriteria(TasShrNeed.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasShrNeedResultList.size() == 0);
+			
+			List<TcsLtsDtl> tcsLtsDtlResultList = sess.createCriteria(TcsLtsDtl.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tcsLtsDtlResultList.size() == 0);
+			
+			List<TasAssResult> tasAssResult_ResultList = sess.createCriteria(TasAssResult.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts", "A"))
+					.add(Restrictions.le("id.frDate", toDateCalendar.getTime()))
+					.add(Restrictions.ge("id.toDate", frDateCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tasAssResult_ResultList.size() == 0);
+			tran.commit();
+		}
+
+		catch (Exception e) {
+			logger.error(className + ".testTpyChgOfAcc() -", e);
+			fail("Exception - " + e.getMessage());
+
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+
+		}
+	}
+}

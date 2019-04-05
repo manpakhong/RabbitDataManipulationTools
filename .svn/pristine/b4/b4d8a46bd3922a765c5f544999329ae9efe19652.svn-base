@@ -1,0 +1,29 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ F4921352           ]]></value>
+      <value>755427</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A2261165           ]]></value>
+      <value>1210800</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

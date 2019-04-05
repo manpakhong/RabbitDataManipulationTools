@@ -1,0 +1,10 @@
+<dataset>
+  <table name="TMS_DHP_RTN_SP">
+    <column>SPMT_ID</column>
+    <column>CASE_KEY</column>
+    <column>PROC_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

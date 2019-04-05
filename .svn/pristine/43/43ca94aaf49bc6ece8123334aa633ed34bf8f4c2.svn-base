@@ -1,0 +1,9 @@
+scas_property_snapshot.xml
+scas_property
+scmsScopeFolder
+scmsScope
+select * from dbo.scas_property 
+-----------------------------------------------------------------------------------------------
+select * from dbo.scas_property 
+...................................................................................
+-BLANK-

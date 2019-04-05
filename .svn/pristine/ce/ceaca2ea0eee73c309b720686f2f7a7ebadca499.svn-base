@@ -1,0 +1,242 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-03-09 09:47:20.0]]></value>
+      <value>1999-03-08</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[SKM02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-03-09 09:47:38.9]]></value>
+      <value>1999-03-09</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>SP</value>
+      <value>1</value>
+      <value><![CDATA[SKM02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-03-09 09:48:02.043616]]></value>
+      <value>1999-03-09</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[SKM02009    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-03-26 17:47:18.515809]]></value>
+      <value>1999-03-26</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM06003    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-05-15 11:49:36.27356]]></value>
+      <value>1999-05-15</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-06-08 16:39:34.889531]]></value>
+      <value>1999-06-08</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-06-17 16:45:50.037582]]></value>
+      <value>1999-06-17</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-06-25 17:26:02.650272]]></value>
+      <value>1999-06-25</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05014    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-09-14 11:31:48.078765]]></value>
+      <value>1999-09-14</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05013    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[1999-09-30 08:26:19.943019]]></value>
+      <value>1999-09-30</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05013    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2000-03-21 15:27:23.057588]]></value>
+      <value>2000-03-21</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05019    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2000-04-18 18:10:46.283632]]></value>
+      <value>2000-04-18</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05019    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2000-06-02 17:16:12.516519]]></value>
+      <value>2000-06-02</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05019    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value><![CDATA[2000-09-12 17:28:02.176187]]></value>
+      <value>2000-09-12</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[SKM05019    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

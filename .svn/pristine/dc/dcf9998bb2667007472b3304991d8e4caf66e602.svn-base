@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TDM_WITS_RAW">
+    <column>TDM_WITS_RAW_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>CUST_KEY</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>NAME</column>
+    <column>WITS_HA_NO</column>
+    <column>CLM_MTH</column>
+    <column>WITS_GRT</column>
+    <column>MTH_EARN</column>
+    <column>MTH_EARN_AMT</column>
+    <column>POST</column>
+    <column>INDUSTRY</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

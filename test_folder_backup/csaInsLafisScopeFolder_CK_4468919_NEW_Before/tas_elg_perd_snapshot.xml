@@ -1,0 +1,102 @@
+<dataset>
+  <table name="TAS_ELG_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4468919</value>
+      <value>3731257</value>
+      <value>A</value>
+      <value>2015-03-12</value>
+      <value>2015-08-31</value>
+      <value>WTS06007</value>
+      <value><![CDATA[2015-04-29 15:25:20.960344]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3731257</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>WTS05051</value>
+      <value><![CDATA[2015-09-02 16:16:18.135571]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3731257</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2015-10-31</value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-28 15:34:02.281572]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735422</value>
+      <value>A</value>
+      <value>2015-03-12</value>
+      <value>2015-08-31</value>
+      <value>WTS06007</value>
+      <value><![CDATA[2015-04-29 15:25:20.960344]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735422</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>WTS05051</value>
+      <value><![CDATA[2015-09-02 16:16:18.135571]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735422</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-28 15:34:02.281702]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735424</value>
+      <value>A</value>
+      <value>2015-03-12</value>
+      <value>2015-08-31</value>
+      <value>WTS06007</value>
+      <value><![CDATA[2015-04-29 15:25:20.960344]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735424</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>WTS05051</value>
+      <value><![CDATA[2015-09-02 16:16:18.135571]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>3735424</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-28 15:34:02.281804]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

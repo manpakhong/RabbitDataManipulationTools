@@ -1,0 +1,54 @@
+<dataset>
+  <table name="TMS_REFUND_LIST">
+    <column>CASE_KEY</column>
+    <column>FOR_AR_I</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ESTATE_CODE</column>
+    <column>BLOCK_CODE</column>
+    <column>FLAT_ROOM</column>
+    <column>APPL_ID_NUM</column>
+    <column>APPL_ID_TYPE</column>
+    <column>APPL_ENG_SURNAME</column>
+    <column>APPL_ENG_OTH_NAME</column>
+    <column>OTH_MBR_ID_NUM</column>
+    <column>OTH_MBR_ID_TYPE</column>
+    <column>ACTUAL_RENT</column>
+    <column>RA_ORG_AMT</column>
+    <column>RA_AMT</column>
+    <column>PRO_RA_AMT</column>
+    <column>LOW_INCOME_IND</column>
+    <column>PROCESSED_IND</column>
+    <column>RENT_REMISSION_AMT</column>
+    <column>PAY_DAY</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>Y</value>
+      <value>2007-02-01</value>
+      <value>2007-02-28</value>
+      <value>05HE10</value>
+      <value>03</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[ F4921352           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHAN YU                       ]]></value>
+      <value><![CDATA[HONG FANG                     ]]></value>
+      <value><![CDATA[ A2261165                                                                                                                                                                                                                                       ]]></value>
+      <value><![CDATA[I           ]]></value>
+      <value>1380.00</value>
+      <value>1380.00</value>
+      <value>1380.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value>Y</value>
+      <value>0.00</value>
+      <value>10</value>
+      <value>RRSAREV3</value>
+      <value><![CDATA[2006-12-23 20:25:26.523664]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

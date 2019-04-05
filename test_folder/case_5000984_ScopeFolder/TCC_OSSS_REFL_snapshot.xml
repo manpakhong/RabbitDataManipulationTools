@@ -1,0 +1,21 @@
+<dataset>
+  <table name="TCC_OSSS_REFL">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REFERRER_ID</column>
+    <column>REFERRAL_DATE</column>
+    <column>CASE_NAT</column>
+    <column>COMMENCE_DATE</column>
+    <column>GEN_FILE_DATE</column>
+    <column>ONLINE_UPD_UID</column>
+    <column>ONLINE_UPD_TS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>REFERRER_POST</column>
+    <column>REFERRER_LOGIN_ID</column>
+  </table>
+</dataset>

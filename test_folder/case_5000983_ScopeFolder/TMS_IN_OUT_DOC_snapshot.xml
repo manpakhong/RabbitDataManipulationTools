@@ -1,0 +1,82 @@
+<dataset>
+  <table name="TMS_IN_OUT_DOC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>FLOW_IND</column>
+    <column>CATLG</column>
+    <column>SUBJECT</column>
+    <column>FPN</column>
+    <column>ISS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ATT_DESC_ID</column>
+    <column>GEN_FROM</column>
+    <column>ACT_IND</column>
+    <row>
+      <value>5000983</value>
+      <value>126</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[Notification of Successful Application                                                              ]]></value>
+      <value>0</value>
+      <value>2017-01-11</value>
+      <value>PYMGENOS</value>
+      <value><![CDATA[2017-01-11 17:36:24.426044]]></value>
+      <value>000000</value>
+      <value>20980</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>211</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[Notification of Revision of Assistance                                                              ]]></value>
+      <value>0</value>
+      <value>2017-01-13</value>
+      <value>PYMGENOS</value>
+      <value><![CDATA[2017-01-13 17:32:44.449033]]></value>
+      <value>000000</value>
+      <value>21558</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>212</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[Notification of Successful Application                                                              ]]></value>
+      <value>0</value>
+      <value>2017-01-13</value>
+      <value>PYMGENOS</value>
+      <value><![CDATA[2017-01-13 17:32:46.215045]]></value>
+      <value>000000</value>
+      <value>21561</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>213</value>
+      <value>0</value>
+      <value>O</value>
+      <value>OTH</value>
+      <value><![CDATA[Certificate of Comprehensive Social Security Assistance Recipients (for Medical Waivers)            ]]></value>
+      <value>0</value>
+      <value>2017-01-13</value>
+      <value>NOTMEDWR</value>
+      <value><![CDATA[2017-01-13 17:33:27.232138]]></value>
+      <value>000000</value>
+      <value>21577</value>
+      <value>S</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,244 @@
+<dataset>
+  <table name="TMS_CUST_HIST">
+    <column>CASE_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>CRE_TS</column>
+    <column>CUST_STS</column>
+    <column>EFF_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ C496390            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1994-03-11 00:32:19.785924]]></value>
+      <value>AP</value>
+      <value>1994-02-21</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ C496390            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-05-13 14:45:30.6]]></value>
+      <value>ME</value>
+      <value>1997-05-13</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ C496390            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-09-18 15:00:19.4]]></value>
+      <value>AP</value>
+      <value>1997-09-18</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ C496390            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1999-03-18 11:55:34.6]]></value>
+      <value>ME</value>
+      <value>1999-03-18</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ C496397            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1994-03-11 00:32:19.784285]]></value>
+      <value>MI</value>
+      <value>1994-02-21</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1994-07-26 08:51:10.3]]></value>
+      <value>ME</value>
+      <value>1994-07-26</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-03-20 10:59:57.9]]></value>
+      <value>MI</value>
+      <value>1997-03-20</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-05-13 14:45:30.6]]></value>
+      <value>AP</value>
+      <value>1997-05-13</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-09-18 15:00:19.4]]></value>
+      <value>ME</value>
+      <value>1997-09-18</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1998-09-25 16:55:19.8]]></value>
+      <value>MI</value>
+      <value>1998-09-25</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1998-12-17 11:48:53.3]]></value>
+      <value>ME</value>
+      <value>1998-12-17</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[ F431777            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1999-03-18 11:55:34.6]]></value>
+      <value>AP</value>
+      <value>1999-03-18</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[222222918079        ]]></value>
+      <value>O</value>
+      <value><![CDATA[1998-02-13 16:48:55.6]]></value>
+      <value>ME</value>
+      <value>1998-02-13</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[222222918079        ]]></value>
+      <value>O</value>
+      <value><![CDATA[1998-02-24 15:53:27.9]]></value>
+      <value>MI</value>
+      <value>1998-02-24</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[222222918079        ]]></value>
+      <value>O</value>
+      <value><![CDATA[1998-03-30 11:15:04.4]]></value>
+      <value>ME</value>
+      <value>1998-03-30</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[222222918079        ]]></value>
+      <value>O</value>
+      <value><![CDATA[1998-09-25 16:55:19.8]]></value>
+      <value>MI</value>
+      <value>1998-09-25</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>Z</value>
+      <value><![CDATA[1994-07-26 08:52:44.7]]></value>
+      <value>ME</value>
+      <value>1994-07-26</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>Z</value>
+      <value><![CDATA[1998-02-02 10:59:12.6]]></value>
+      <value>MI</value>
+      <value>1998-02-02</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>Z</value>
+      <value><![CDATA[1998-02-24 15:55:28.8]]></value>
+      <value>ME</value>
+      <value>1998-02-24</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>Z</value>
+      <value><![CDATA[1998-03-30 10:09:04.5]]></value>
+      <value>MI</value>
+      <value>1998-03-30</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>Z</value>
+      <value><![CDATA[2000-05-30 16:22:39.8]]></value>
+      <value>ME</value>
+      <value>2000-05-30</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

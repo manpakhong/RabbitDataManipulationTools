@@ -1,0 +1,52 @@
+<dataset>
+  <table name="TAS_ELG_PERD">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4513198</value>
+      <value>3394267</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>SMP06012</value>
+      <value><![CDATA[2015-09-29 17:52:27.366878]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4513198</value>
+      <value>3773920</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>SMP06012</value>
+      <value><![CDATA[2015-09-29 17:52:27.366878]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4513198</value>
+      <value>3394267</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:22:02.028195]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4513198</value>
+      <value>3773920</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:22:02.032602]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

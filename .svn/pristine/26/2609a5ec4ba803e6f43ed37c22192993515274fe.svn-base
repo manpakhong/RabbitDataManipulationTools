@@ -1,0 +1,2946 @@
+<dataset>
+  <table name="TCS_OFFR_RPT">
+    <column>CASE_KEY</column>
+    <column>OFFR_RPT_IND</column>
+    <column>CRE_TS</column>
+    <column>PR_IND</column>
+    <column>RPT_DESC</column>
+    <column>DATE_RPT</column>
+    <column>CLS_REQ_IND</column>
+    <column>CLS_RSON_CODE</column>
+    <column>CLS_RSON_OD</column>
+    <column>REVT_CSSA</column>
+    <column>DATE_REDPTN</column>
+    <column>REC_ACT_IND</column>
+    <column>STP_PAY_IND</column>
+    <column>STP_PAY_FR_DATE</column>
+    <column>REV_PAY_IND</column>
+    <column>RPT_OFFR_UID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>RPT_OFFR_POST</column>
+    <column>RPT_OFFR_LOGIN_ID</column>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2014-02-27 16:21:37.889785]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-02-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-02-27 16:46:25.495014]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2014-02-27 16:21:37.889785]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-03-07</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-03-07 14:32:12.873389]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2014-10-20 17:19:53.239382]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-10-21</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-10-21 10:18:40.73253]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2014-12-09 15:01:26.408636]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-12-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-12-12 09:35:04.156839]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-01-20 14:50:50.345012]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-01-21</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-01-21 10:22:34.576716]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2015-06-09 09:36:48.46088]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-06-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-06-09 09:45:28.701458]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2015-08-20 10:07:25.644545]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-08-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-08-20 10:10:57.34954]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-08-20 10:07:25.644545]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-08-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-08-21 14:04:54.204298]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2015-09-02 09:49:35.537574]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-10-14</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-10-14 10:56:30.662873]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-09-02 09:49:35.537574]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-10-23</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-10-23 11:44:08.106483]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2012-11-13 15:34:20.606054]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-11-13</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-11-13 16:28:40.782869]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-08-27 09:54:19.565968]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-08-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-08-27 09:56:56.378211]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2011-03-17 15:40:47.644756]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-03-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-03-17 16:05:32.044176]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2013-09-04 12:45:13.591292]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2013-09-04</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04097</value>
+      <value><![CDATA[2013-09-04 14:23:48.122371]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2001-01-11 19:57:16.183652]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-01-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-12 12:30:55.624233]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2001-01-29 09:26:16.397592]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-03-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-03-15 08:57:30.773698]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2001-03-30 12:03:39.341939]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-03-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-03-30 12:13:18.435409]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2001-05-25 09:47:24.524458]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-05-31</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-05-31 10:45:34.342089]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2001-11-09 09:33:56.443632]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-11-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-11-12 10:43:22.337684]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2000-12-06 16:36:16.977683]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2000-12-06</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2000-12-06 17:43:55.023182]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-01-05 12:37:28.544793]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-01-05</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03003</value>
+      <value><![CDATA[2001-01-05 14:53:49.258158]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-01-11 19:57:16.183652]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-01-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-01-19 12:05:10.128753]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-01-29 09:26:16.397592]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-03-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-03-15 09:06:29.309235]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-03-30 12:03:39.341939]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-03-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-04-02 09:36:54.274099]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-05-25 09:47:24.524458]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-06-01</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-06-01 17:45:44.830316]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-08-24 16:49:03.054314]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-08-24</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-08-24 16:56:30.02802]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-09-17 10:02:25.614506]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-09-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-09-17 10:14:23.338481]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-10-16 14:48:17.329758]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-10-16</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-10-16 14:57:03.003567]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2001-11-09 09:33:56.443632]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2001-11-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2001-11-13 08:55:12.301396]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2002-01-03 15:02:48.416808]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2002-01-03</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-01-04 09:01:49.930413]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2010-09-03 14:37:21.264153]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-09-03</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-09-03 14:58:07.18767]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2002-05-11 11:17:32.065207]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2002-05-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-07-02 13:58:23.239989]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2002-05-11 11:17:32.065207]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2002-05-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-05-30 10:19:45.277723]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2002-11-12 12:49:41.618148]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2002-11-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2003-01-07 10:51:07.643115]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2002-11-12 12:49:41.618148]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2002-12-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2002-12-09 11:01:10.527718]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2003-05-29 15:48:32.691252]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2003-05-29</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2003-05-29 16:04:15.283341]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2003-05-29 15:48:32.691252]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2003-05-29</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03005</value>
+      <value><![CDATA[2003-05-29 16:04:44.689595]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2003-10-21 15:36:24.618404]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2003-10-22</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03010</value>
+      <value><![CDATA[2003-10-22 12:00:01.037695]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2003-10-21 15:36:24.618404]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2003-11-07</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03010</value>
+      <value><![CDATA[2003-11-07 12:35:40.352939]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-04-15 09:24:01.384098]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-04-16</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-04-16 09:26:19.172125]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-05-10 11:03:22.980231]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-05-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-05-10 11:13:31.476076]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2008-10-27 12:28:51.493181]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-10-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-10-27 12:30:11.323202]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2004-03-26 15:20:20.522088]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-03-26</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03001</value>
+      <value><![CDATA[2004-03-26 16:57:17.116372]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2004-03-26 15:20:20.522088]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-03-26</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03001</value>
+      <value><![CDATA[2004-03-26 16:57:57.364718]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2004-10-11 10:52:40.916045]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-10-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03001</value>
+      <value><![CDATA[2004-10-11 11:30:36.186437]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2004-10-11 10:52:40.916045]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-10-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03001</value>
+      <value><![CDATA[2004-10-11 12:02:49.342137]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2004-11-15 09:38:17.469744]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-11-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2004-11-15 10:32:08.089372]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2004-11-15 09:38:17.469744]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2004-11-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2004-11-15 10:52:38.335389]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2005-04-19 10:55:06.93067]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-05-06</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-05-06 10:43:24.433455]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2005-04-19 10:55:06.93067]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-05-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-05-11 14:28:59.23023]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2005-05-19 16:04:17.785763]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-05-19</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-05-19 16:06:09.35021]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2005-11-02 09:54:31.567098]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-11-02</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-11-02 10:02:00.774104]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2005-11-02 09:54:31.567098]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-11-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN04028</value>
+      <value><![CDATA[2005-11-10 09:41:26.246149]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2005-11-24 17:11:39.189972]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2005-11-24</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2006-01-12 11:16:17.366605]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2005-11-24 17:11:39.189972]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-01-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2006-01-12 10:57:08.023506]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2006-01-19 10:16:52.701287]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-01-19</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2006-01-19 10:30:40.572117]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-01-19 10:16:52.701287]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-01-19</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>TMN03045</value>
+      <value><![CDATA[2006-01-19 10:49:34.567079]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2006-02-13 11:49:45.25855]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-02-13</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-02-13 12:14:48.058569]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-02-13 11:49:45.25855]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-02-13</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-02-13 12:26:09.004612]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-03-20 10:45:15.871585]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-03-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-03-20 11:04:52.17348]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2006-05-08 14:12:34.115477]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-05-08</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-05-08 14:43:18.008413]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-05-08 14:12:34.115477]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-05-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-05-12 14:32:21.433058]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-05-17 11:14:02.044224]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-05-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-05-17 11:17:52.798044]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2006-07-12 09:40:08.480825]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-07-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-07-12 09:50:03.539195]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-07-12 09:40:08.480825]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-07-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-07-15 11:53:11.368198]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-08-09 15:35:35.613507]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-08-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-08-09 15:46:22.871322]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-06-25 12:08:05.368543]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-06-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04097</value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-06-27 12:18:31.300649]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-05-28 11:43:10.218993]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-05-28</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03106</value>
+      <value>LCK03106</value>
+      <value><![CDATA[2015-05-28 11:43:27.296935]]></value>
+      <value/>
+      <value>SSA8_LCKFU</value>
+      <value>lamloksonls</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-07-22 19:04:34.867469]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-07-22</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04134</value>
+      <value>LCK04134</value>
+      <value><![CDATA[2015-07-22 19:05:04.120553]]></value>
+      <value/>
+      <value>SSSA11_LCKFU</value>
+      <value>yimwaikwan</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2016-06-28 11:28:33.131341]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2016-06-28</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2016-06-28 11:30:46.070155]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2014-10-20 17:19:53.239382]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-10-21</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2014-10-21 16:24:32.964629]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-11-17 10:21:21.728176]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-11-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-11-17 10:41:26.445665]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2015-06-09 09:36:48.46088]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2015-06-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04137</value>
+      <value>LCK04137</value>
+      <value><![CDATA[2015-06-11 11:11:14.700696]]></value>
+      <value/>
+      <value>SSSA8_LCKFU</value>
+      <value>fanyiukwok</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2014-07-09 12:21:40.450011]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2014-07-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03088</value>
+      <value>LCK03088</value>
+      <value><![CDATA[2014-07-09 12:21:55.976759]]></value>
+      <value/>
+      <value>SSA2_SSPFU</value>
+      <value>cheungkitshan</value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-03-30 17:43:26.380613]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-03-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK05028</value>
+      <value>LCK05028</value>
+      <value><![CDATA[2012-03-30 17:45:13.469252]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2006-10-31 08:57:11.223176]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-10-31</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-10-31 09:38:51.168518]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2006-10-31 08:57:11.223176]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2006-11-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2006-11-10 16:51:09.927753]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-02-13 11:55:52.295272]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-02-13</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-02-13 12:05:08.420104]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2007-04-11 12:13:41.402172]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-04-21</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-04-21 09:44:40.339078]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-04-11 12:13:41.402172]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-04-26</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-04-26 12:47:24.926447]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-05-17 11:59:06.314647]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-05-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-05-17 12:02:24.90344]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-07-05 12:11:05.386516]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-05</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-05 12:18:33.616151]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2007-07-05 12:21:16.447627]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-05</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-05 14:42:27.646262]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-07-05 12:21:16.447627]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-06</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-06 14:01:18.706495]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-07-16 15:55:18.731833]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-16</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-16 15:59:11.707418]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2007-07-24 11:08:09.008941]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-24</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-24 11:23:34.090653]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-07-24 11:08:09.008941]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-07-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-07-27 15:48:15.244414]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-10-26 18:46:34.75942]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-10-26</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04067</value>
+      <value><![CDATA[2007-10-26 18:51:17.114627]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2007-10-29 09:37:02.462259]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-10-29</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2007-10-29 09:58:57.951221]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2007-10-29 09:37:02.462259]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2007-10-31</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2007-10-31 11:34:08.859696]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2008-04-28 09:50:56.545632]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-04-28</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-04-28 09:54:30.126607]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2008-04-28 09:50:56.545632]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-04-28</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-04-28 12:04:20.372473]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2008-06-02 11:18:02.068269]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-06-02</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-06-02 11:25:35.530991]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2008-10-17 12:12:52.397261]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-10-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-10-17 12:18:11.145376]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2008-10-17 12:12:52.397261]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2008-10-17</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2008-10-27 10:07:02.634182]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-01-06 15:45:37.673756]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-01-06</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03082</value>
+      <value>LCK03082</value>
+      <value><![CDATA[2009-01-06 15:49:09.560516]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2009-03-23 17:18:56.233627]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-03-23</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-03-23 17:43:25.684281]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-03-23 17:18:56.233627]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-03-30</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-03-30 09:54:30.127534]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-04-27 10:32:23.794337]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-04-27</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-04-27 10:49:23.110996]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2009-09-04 15:25:26.552687]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-09-04</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-09-04 15:46:51.858334]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-09-04 15:25:26.552687]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-09-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-09-09 10:05:34.08076]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-09-23 17:19:47.238774]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-09-23</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-09-23 17:31:30.517428]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2009-10-20 16:14:50.849066]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-10-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-10-20 19:04:01.098473]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2009-10-20 16:14:50.849066]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2009-10-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2009-10-20 19:03:43.813172]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2010-04-15 09:24:01.384098]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-04-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-04-15 09:54:19.801422]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2010-07-07 15:50:05.700505]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-07-07</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-07-07 15:59:24.717836]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-07-07 15:50:05.700505]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-07-07</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-07-07 17:35:37.443841]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-09-03 14:37:21.264153]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-09-06</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-09-06 14:38:17.180487]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-10-02 08:35:48.094841]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-10-02</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-10-02 08:38:35.029937]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-10-15 09:21:38.36988]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-10-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-10-15 09:26:59.954521]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2010-11-12 17:22:00.252049]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-11-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-11-12 17:22:17.390309]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2010-11-12 17:22:00.252049]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2010-12-15</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2010-12-15 12:29:01.45669]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2011-02-18 14:48:04.32844]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-02-18</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-02-18 15:30:23.441537]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2011-02-18 14:48:04.32844]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-03-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-03-15 09:29:38.710155]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2011-03-17 15:40:47.644756]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-03-24</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-03-24 12:14:39.384582]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2011-04-20 09:47:06.522622]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-04-20</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-04-20 10:04:52.562637]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2011-05-31 18:46:04.756475]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-11-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-11-10 16:37:16.822632]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2011-05-31 18:46:04.756475]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2011-11-10</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2011-11-10 16:48:16.079555]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2012-02-13 12:05:19.351904]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-03-12</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-15 15:07:34.286384]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-13 12:05:19.351904]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-03-22</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03071</value>
+      <value>LCK03071</value>
+      <value><![CDATA[2012-03-22 11:35:01.749228]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-05-31 14:41:44.290425]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-05-31</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04097</value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-05-31 14:51:50.906727]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2012-06-25 12:08:05.368543]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-06-25</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-06-25 16:38:10.917717]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-08-21 12:03:17.339721]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-08-21</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04097</value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-10-25 14:51:08.451445]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>N</value>
+      <value><![CDATA[2012-08-21 12:03:17.339721]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-10-04</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-10-04 11:58:35.618236]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2012-11-13 15:34:20.606054]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2012-11-13</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04097</value>
+      <value>LCK04097</value>
+      <value><![CDATA[2012-11-13 16:46:36.259782]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2013-04-09 13:07:06.72267]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2013-04-09</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK03074</value>
+      <value>LCK03074</value>
+      <value><![CDATA[2013-04-09 13:07:51.054975]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>Y</value>
+      <value><![CDATA[2013-09-04 12:45:13.591292]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>2013-09-04</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04097</value>
+      <value>LCK04097</value>
+      <value><![CDATA[2013-09-11 11:05:15.817725]]></value>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

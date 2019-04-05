@@ -1,0 +1,24 @@
+<dataset>
+  <table name="TMS_CUST_HIST">
+    <column>CASE_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>CRE_TS</column>
+    <column>CUST_STS</column>
+    <column>EFF_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value><![CDATA[ G670037            ]]></value>
+      <value>I</value>
+      <value><![CDATA[1997-10-28 16:03:11.2]]></value>
+      <value>AP</value>
+      <value>1997-10-28</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

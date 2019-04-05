@@ -1,0 +1,34 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>882277</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>2011-11-01</value>
+      <value>DB</value>
+      <value>DEPRESSION</value>
+      <value>UE</value>
+      <value>2001-06-07</value>
+      <value>1997-10-28</value>
+      <value>2011-10-20</value>
+      <value>mocarriemt</value>
+      <value><![CDATA[2016-11-22 17:24:15.045954]]></value>
+      <value>SSA1_YTsFU</value>
+    </row>
+  </table>
+</dataset>

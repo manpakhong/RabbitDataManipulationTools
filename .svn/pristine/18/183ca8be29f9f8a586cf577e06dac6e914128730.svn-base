@@ -1,0 +1,110 @@
+<dataset>
+  <table name="TPY_PAY_INSTR_SP">
+    <column>SPMT_ID</column>
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_ARGM</column>
+    <column>PAY_AMT</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>ACC_NAME</column>
+    <column>FILE_SEGMENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>8</value>
+      <value>1089432</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>3415.00</value>
+      <value>012</value>
+      <value>581</value>
+      <value><![CDATA[99994671 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER NAME                                          ]]></value>
+      <value>1</value>
+      <value>ASWGENPY</value>
+      <value><![CDATA[2012-06-23 14:59:33.717012]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>18</value>
+      <value>1089432</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>3550.00</value>
+      <value>012</value>
+      <value>581</value>
+      <value><![CDATA[99994671 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER NAME                                          ]]></value>
+      <value>1</value>
+      <value>ASWGENPY</value>
+      <value><![CDATA[2013-07-20 00:56:32.020208]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>32</value>
+      <value>1089432</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>3695.00</value>
+      <value>012</value>
+      <value>581</value>
+      <value><![CDATA[99994671 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER NAME                                          ]]></value>
+      <value>1</value>
+      <value>ASWGENPY</value>
+      <value><![CDATA[2014-08-02 11:26:15.171928]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>41</value>
+      <value>1089432</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>7740.00</value>
+      <value>012</value>
+      <value>581</value>
+      <value><![CDATA[99994671 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER NAME                                          ]]></value>
+      <value>1</value>
+      <value>ASWGENPY</value>
+      <value><![CDATA[2015-07-18 15:05:20.030626]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>52</value>
+      <value>1089432</value>
+      <value>YTM</value>
+      <value>C</value>
+      <value>34991</value>
+      <value>CSA</value>
+      <value>A</value>
+      <value>4040.00</value>
+      <value>012</value>
+      <value>581</value>
+      <value><![CDATA[99994671 ]]></value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER NAME                                          ]]></value>
+      <value>1</value>
+      <value>ASWGENPY</value>
+      <value><![CDATA[2016-06-02 00:38:40.749343]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

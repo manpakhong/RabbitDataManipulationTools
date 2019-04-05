@@ -1,0 +1,40 @@
+<dataset>
+  <table name="TIA_OP_REG">
+    <column>OP_REG_KEY</column>
+    <column>CASE_KEY</column>
+    <column>RCVR_SEQ_NUM</column>
+    <column>FROM_SEQ_NUM</column>
+    <column>TO_SEQ_NUM</column>
+    <column>AMOUNT_OP</column>
+    <column>BATCH_NO</column>
+    <column>SEL_CASE_IND</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>CURR_PROC_STS</column>
+    <column>CURR_PROC_OFFR</column>
+    <column>PROC_STS_DATE</column>
+    <column>REQ_FLD_DATE</column>
+    <column>REQ_FLD_DUE_DATE</column>
+    <column>FLD_RCV_DATE</column>
+    <column>RTN_FLD_DATE</column>
+    <column>COMPL_DATE</column>
+    <column>AUD_TO_PU</column>
+    <column>AUD_ISS_DATE</column>
+    <column>AUD_DUE_DATE</column>
+    <column>AUD_RMD_DATE</column>
+    <column>AUD_RPLY_DATE</column>
+    <column>AUD_RMK</column>
+    <column>AUD_STS</column>
+    <column>CHK_PROC</column>
+    <column>CHK_PROC_RSLT</column>
+    <column>CHK_PROC_RMK</column>
+    <column>CHK_COMPL_DATE</column>
+    <column>CHK_BY_OFFR</column>
+    <column>RAN_CHK_RSLT</column>
+    <column>RAN_CHK_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

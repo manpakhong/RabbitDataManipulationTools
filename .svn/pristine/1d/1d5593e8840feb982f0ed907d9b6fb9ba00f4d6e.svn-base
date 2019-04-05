@@ -1,0 +1,182 @@
+<dataset>
+  <table name="TCS_WC">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>WATER_SHR_NUM</column>
+    <column>WATER_NUM</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>2003-05-22</value>
+      <value>2003-08-31</value>
+      <value>7923442</value>
+      <value>Y</value>
+      <value/>
+      <value>10</value>
+      <value>7</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04006</value>
+      <value><![CDATA[2003-10-29 10:30:18.301232]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2003-09-01</value>
+      <value>2004-04-30</value>
+      <value>7923475</value>
+      <value><![CDATA[ ]]></value>
+      <value>785576,1116659,1346125,1355418,1363662,1363663,2203578</value>
+      <value>10</value>
+      <value>7</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-04-27 14:28:36.128783]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2004-05-01</value>
+      <value>2006-04-30</value>
+      <value>7923537</value>
+      <value><![CDATA[ ]]></value>
+      <value>1116659,1346125,1355418,1363662,1363663,2203578</value>
+      <value>6</value>
+      <value>6</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04082</value>
+      <value><![CDATA[2006-11-06 10:50:40.478933]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2006-05-01</value>
+      <value>2008-04-30</value>
+      <value>7923660</value>
+      <value><![CDATA[ ]]></value>
+      <value>1116659,1346125,1355418,1363662,1363663,2203578</value>
+      <value>6</value>
+      <value>6</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04082</value>
+      <value><![CDATA[2008-05-20 10:17:23.919735]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2008-05-01</value>
+      <value>2009-05-31</value>
+      <value>7923770</value>
+      <value><![CDATA[ ]]></value>
+      <value>1116659,1346125,1355418,1363662,1363663,2203578</value>
+      <value>6</value>
+      <value>6</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04100</value>
+      <value><![CDATA[2009-05-29 12:32:28.779173]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2009-06-01</value>
+      <value>2009-10-31</value>
+      <value>7923825</value>
+      <value><![CDATA[ ]]></value>
+      <value>1116659,1346125,1355418,1363662,1363663,2203578</value>
+      <value>6</value>
+      <value>6</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04100</value>
+      <value><![CDATA[2010-05-27 12:47:06.919028]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2009-11-01</value>
+      <value>2012-04-30</value>
+      <value>7923872</value>
+      <value><![CDATA[ ]]></value>
+      <value>1116659,1355418,1363662,1363663,2203578</value>
+      <value>5</value>
+      <value>5</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04100</value>
+      <value><![CDATA[2012-06-01 11:38:18.827023]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2012-05-01</value>
+      <value>2014-09-30</value>
+      <value>7924082</value>
+      <value>Y</value>
+      <value/>
+      <value>3</value>
+      <value>7</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-28 11:30:47.253717]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2014-10-01</value>
+      <value>9999-01-01</value>
+      <value>7924233</value>
+      <value>Y</value>
+      <value/>
+      <value>3</value>
+      <value>7</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-11-28 11:44:59.385338]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

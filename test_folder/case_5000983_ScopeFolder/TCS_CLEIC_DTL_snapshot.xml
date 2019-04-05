@@ -1,0 +1,33 @@
+<dataset>
+  <table name="TCS_CLEIC_DTL">
+    <column>CASE_KEY</column>
+    <column>CLSS_CASE_I_CODE</column>
+    <column>CLSS_CRM_I_CODE</column>
+    <column>CLSS_CRM_I_OD</column>
+    <column>CLSS_CASE_F_CODE</column>
+    <column>CLSS_CRM_F_CODE</column>
+    <column>CLSS_CRM_F_OD</column>
+    <column>HEAR_BRD_OPT_IND</column>
+    <column>DATE_REF</column>
+    <column>SRC_REF</column>
+    <column>FPN</column>
+    <column>CLM_CL</column>
+    <column>CLM_EMP_COMP</column>
+    <column>COMP_ORD</column>
+    <column>VTM_AGE</column>
+    <column>LIV_STS</column>
+    <column>EMP_STS</column>
+    <column>ACT_STS</column>
+    <column>EARN_ROLE</column>
+    <column>WK_EXPNCE</column>
+    <column>CRM_REC</column>
+    <column>TRIAD_BKGD</column>
+    <column>GRUDGE_OTH</column>
+    <column>VTM_CORR_ADDR_IND</column>
+    <column>APPL_CORR_ADDR_IND</column>
+    <column>AGN_CORR_ADDR_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

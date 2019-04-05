@@ -1,0 +1,98 @@
+package hksarg.swd.csss.csa.flowtest.daos;
+
+import java.util.List;
+
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Criterion;
+import org.hibernate.criterion.LogicalExpression;
+import org.hibernate.criterion.Restrictions;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.hdo.TuaPostPu;
+
+public class TuaPostPuDao extends HibernateBaseDao {
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	public TuaPostPuDao() {
+
+	}
+	
+
+	
+	public TuaPostPu getTuaPostPu(String post, String procUnit){
+		TuaPostPu tuaPostPu = null;
+		try{
+			List<TuaPostPu> tuaPostPuList = getTuaPostPuList(post, procUnit);
+			if (tuaPostPuList != null && !tuaPostPuList.isEmpty()){
+				if (tuaPostPuList.size() > 1){
+					if (logger.isWarnEnabled()){
+						logger.warn(className + ".getTuaPostPu() - tuaPostPuList.size() > 1, post=" + post + ",procUnit=" + procUnit);
+					}
+				}
+				
+				tuaPostPu = tuaPostPuList.get(0);
+			}
+		} catch (Exception e){
+			logger.error(className + ".getTuaPostPu() - post=" + post + ",procUnit=" + procUnit, e);
+			throw e;
+		}
+		return tuaPostPu;
+	}
+	
+	public List<TuaPostPu> getTuaPostPuList(String post){
+		List<TuaPostPu> tuaPostPuList = null;
+		try{
+			tuaPostPuList = getTuaPostPuList(post, null);
+		} catch (Exception e){
+			logger.error(className + ".getTuaPostPuList() - post=" + post, e);
+			throw e;
+		}
+		return tuaPostPuList;
+	}
+	
+	public List<TuaPostPu> getTuaPostPuList(String post, String procUnit){
+		List<TuaPostPu> tuaPostPuListRtn = null;
+		Session sess = null;
+		Transaction tran = null;
+		try{
+			sessionFactory.openSession();
+			sess = sessionFactory.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			Criteria criteria = sess.createCriteria(TuaPostPu.class);
+			Criterion postCriterion = Restrictions.eq("id.post", post);
+			if (procUnit != null){
+				Criterion procUnitCriterion = Restrictions.eq("id.procUnit", procUnit);
+				LogicalExpression andCriterias = Restrictions.and(postCriterion, procUnitCriterion);
+				criteria.add(andCriterias);
+			} else {
+				criteria.add(postCriterion);
+			}
+			
+			@SuppressWarnings("unchecked")
+			List<TuaPostPu> tuaPostPuList = criteria.list();
+			if (tuaPostPuList != null && !tuaPostPuList.isEmpty()) {
+//				for (Object obj : tuaUserPostList) {
+//					TuaUserPost tuaUserPost = (TuaUserPost) obj;
+//				}
+				tuaPostPuListRtn = tuaPostPuList;
+			}
+
+			tran.commit();
+		} catch (Exception e){
+			tran.rollback();
+			logger.error(className + ".getTuaPostPuList() - post=" + post + ",procUnit=" + procUnit, e);
+			throw e;
+		} finally{
+			if (sess != null && sess.isOpen()){
+				sess.close();
+			}
+			sess = null;
+		}
+		return tuaPostPuListRtn;
+	}
+}

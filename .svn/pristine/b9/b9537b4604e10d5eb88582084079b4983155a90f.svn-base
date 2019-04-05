@@ -1,0 +1,178 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1363663</value>
+      <value><![CDATA[ A5108309           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[YAU LUM                       ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[有霖          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[2589172071          ]]></value>
+      <value>F</value>
+      <value>1993-04-03</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04142</value>
+      <value><![CDATA[2015-11-26 16:58:04.502263]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>785576</value>
+      <value><![CDATA[ F1180874           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[NOO SHING                     ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[奴勝          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[1167105241          ]]></value>
+      <value>M</value>
+      <value>1956-08-24</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04078</value>
+      <value><![CDATA[2004-04-08 11:27:17.513278]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1116659</value>
+      <value><![CDATA[ M0865023           ]]></value>
+      <value>I</value>
+      <value><![CDATA[LEE YUNG                      ]]></value>
+      <value><![CDATA[CHAN KUT                      ]]></value>
+      <value><![CDATA[李容          ]]></value>
+      <value><![CDATA[燦吉          ]]></value>
+      <value><![CDATA[2621113691          ]]></value>
+      <value><![CDATA[3605106791          ]]></value>
+      <value>F</value>
+      <value>1964-09-25</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04142</value>
+      <value><![CDATA[2015-11-26 16:58:04.498997]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1355418</value>
+      <value><![CDATA[ A8195970           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[HIN MANG                      ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[顯猛          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[7359137181          ]]></value>
+      <value>F</value>
+      <value>1992-02-05</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04110</value>
+      <value><![CDATA[2013-01-08 11:54:41.141805]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1346125</value>
+      <value><![CDATA[ A4528584           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[HOK SUM                       ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[學心          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[1331118001          ]]></value>
+      <value>F</value>
+      <value>1990-09-29</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04100</value>
+      <value><![CDATA[2009-09-30 12:39:51.693001]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1363662</value>
+      <value><![CDATA[ A5108376           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[SHAN CHING                    ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[山晴          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[1472125321          ]]></value>
+      <value>F</value>
+      <value>1993-04-03</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04100</value>
+      <value><![CDATA[2013-05-29 17:50:26.844503]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2203578</value>
+      <value><![CDATA[ A9780389           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHOON                         ]]></value>
+      <value><![CDATA[NGUN YUN                      ]]></value>
+      <value><![CDATA[秦             ]]></value>
+      <value><![CDATA[曖恩          ]]></value>
+      <value><![CDATA[44401               ]]></value>
+      <value><![CDATA[8524118691          ]]></value>
+      <value>M</value>
+      <value>2001-02-24</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>LCK04142</value>
+      <value><![CDATA[2015-11-26 16:58:04.493706]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

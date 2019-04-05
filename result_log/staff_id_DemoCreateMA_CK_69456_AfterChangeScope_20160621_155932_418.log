@@ -1,0 +1,4 @@
+Scope Name: DemoCreateMA_CK_69456_AfterChangeScope
+Thread id:1, Job id:20160621_155622_819, (Tue Jun 21 15:56:13 CST 2016 - Tue Jun 21 15:58:17 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-206, SQLSTATE=42703, SQLERRMC=AS, DRIVER=4.18.60

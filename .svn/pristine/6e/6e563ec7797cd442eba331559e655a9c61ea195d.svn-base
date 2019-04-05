@@ -1,0 +1,101 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ C4963901           ]]></value>
+      <value>57836</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ C4963979           ]]></value>
+      <value>57835</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ F4317773           ]]></value>
+      <value>754938</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A8583288           ]]></value>
+      <value>1353500</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A746658A           ]]></value>
+      <value>2018961</value>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2000-11-09 10:06:45.417082]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>O</value>
+      <value><![CDATA[222222918079        ]]></value>
+      <value>1301973</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ T2739199           ]]></value>
+      <value>2232696</value>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-04-04 11:52:52.506429]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A8583288           ]]></value>
+      <value>1353500</value>
+      <value/>
+      <value>CWN05019</value>
+      <value><![CDATA[2006-09-07 16:47:23.846933]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ U4603092           ]]></value>
+      <value>2960313</value>
+      <value/>
+      <value>CWN04070</value>
+      <value><![CDATA[2007-10-29 15:24:25.719431]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A746658A           ]]></value>
+      <value>2018961</value>
+      <value/>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:36.536325]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,67 @@
+package hksarg.swd.csss.csa.flowtest.daos;
+
+import java.util.List;
+
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Criterion;
+import org.hibernate.criterion.Restrictions;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.hdo.TcsCssa;
+import hksarg.swd.hdo.TuaUserInfo;
+
+public class TuaUserInfoDao extends HibernateBaseDao{
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	public TuaUserInfoDao() {
+		
+	}
+	
+	public TuaUserInfo getTuaUserInfo(String loginId){
+		TuaUserInfo tuaUserInfoRtn = null;
+		Session sess = null;
+		Transaction tran = null;
+		try{
+			sessionFactory.openSession();
+			sess = sessionFactory.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			Criteria criteria = sess.createCriteria(TuaUserInfo.class);
+			Criterion loginCriterion = Restrictions.eq("loginId", loginId);
+			
+			criteria.add(loginCriterion);
+			@SuppressWarnings("unchecked")
+			List<TuaUserInfo> tuaUserInfoList = criteria.list();
+//			if (tuaUserInfoList != null && !tuaUserInfoList.isEmpty()) {
+//				for (Object obj : tuaUserInfoList) {
+//					TuaUserInfo tuaUserInfo = (TuaUserInfo) obj;
+//					tuaUserInfoList.add(tuaUserInfo);
+//				}
+//			}
+			
+			if (tuaUserInfoList != null && !tuaUserInfoList.isEmpty()){
+				if (tuaUserInfoList.size() > 1){
+					System.out.println(className + ".getTuaUserInfo() - tuaUserInfoList is larger than 1!, loginId=" + loginId);
+				}
+				tuaUserInfoRtn = tuaUserInfoList.get(0);
+				
+			}
+			
+			
+			tran.commit();
+		} catch (Exception e){
+			tran.rollback();
+			logger.error(className + ".getTuaUserInfo() - loginId=" + loginId , e);
+		} finally{
+			if (sess != null && sess.isOpen()){
+				sess.close();
+			}
+			sess = null;
+		}
+		return tuaUserInfoRtn;
+	}
+}

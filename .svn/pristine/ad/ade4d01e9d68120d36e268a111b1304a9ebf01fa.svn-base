@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TMS_CASE_LOG">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>OBJ_OPER</column>
+    <column>SCRN_ID</column>
+    <column>CASE_STS</column>
+    <column>PROC_STG</column>
+    <column>AFT_IMG</column>
+    <column>MACH_ID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

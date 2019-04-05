@@ -1,0 +1,72 @@
+<dataset>
+  <table name="TCS_GRT_ADDN">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>ITEM_OD</column>
+    <column>ITEM_TYPE</column>
+    <column>ACTL_AMT</column>
+    <column>PCKLST</column>
+    <column>AMT1</column>
+    <column>AMT2</column>
+    <column>INT</column>
+    <column>DATE</column>
+    <column>IND1</column>
+    <column>IND2</column>
+    <column>MEAL_RGLR</column>
+    <column>MEAL_NUM</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PATN</column>
+    <column>BEG_EXP</column>
+    <column>BEG_RES</column>
+    <column>DATE_RCPT</column>
+    <column>RMK_OFFC</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>BEG_REQ_TP_IND</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>2009-07-02</value>
+      <value>2009-07-02</value>
+      <value>RAG</value>
+      <value>7770296</value>
+      <value>882277</value>
+      <value/>
+      <value><![CDATA[OE ]]></value>
+      <value>1171.00</value>
+      <value><![CDATA[          ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[OFFICER REMARK for 客戶: 882277]]></value>
+      <value>6</value>
+      <value>Y</value>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>YTM03094</value>
+      <value><![CDATA[2009-07-02 17:21:03.259852]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TCC_MTR_REFL">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REF_DATE</column>
+    <column>LTR_PRT_DATE</column>
+    <column>PD_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TPY_AR_PD_WF">
+    <column>CASE_KEY</column>
+    <column>PAY_DAY</column>
+    <column>AR_BAT_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SER_NUM</column>
+    <column>CASE_STS</column>
+    <column>PAY_STS</column>
+    <column>PAY_EXPIRY_DATE</column>
+    <column>ASSG_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASSG_OFFR_POST</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

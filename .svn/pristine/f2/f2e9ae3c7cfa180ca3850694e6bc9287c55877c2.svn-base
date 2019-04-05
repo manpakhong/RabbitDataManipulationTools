@@ -1,0 +1,114 @@
+<dataset>
+  <table name="TCC_HLTH_PROF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>HLTH_TYPE</column>
+    <column>FR_DATE</column>
+    <column>DATE_MAF</column>
+    <column>TO_DATE</column>
+    <column>HLTH_VALUE</column>
+    <column>HLTH_NAT</column>
+    <column>MAF_REF</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>1998-03-01</value>
+      <value>1998-01-27</value>
+      <value>2001-02-28</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[DK 276/90                                                             ]]></value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-08 08:43:04.08303]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>2001-03-01</value>
+      <value>2001-02-20</value>
+      <value>2003-02-28</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[DK 276/90                                                             ]]></value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-28 10:14:38.077271]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>2003-03-01</value>
+      <value>2003-10-22</value>
+      <value>2005-02-28</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>WCI04026</value>
+      <value><![CDATA[2003-10-27 15:44:48.104139]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>2005-03-01</value>
+      <value>2004-12-16</value>
+      <value>2007-02-28</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-12-21 17:00:23.298277]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>2007-03-01</value>
+      <value>2007-01-08</value>
+      <value>2009-02-28</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M,R       ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CWN04074</value>
+      <value><![CDATA[2008-06-25 19:02:52.037398]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>DISABILITY</value>
+      <value>2009-03-01</value>
+      <value>2009-03-07</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[100D      ]]></value>
+      <value><![CDATA[M         ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-03-27 09:44:15.541763]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value><![CDATA[WORK_CAP  ]]></value>
+      <value>2009-03-01</value>
+      <value>2009-03-07</value>
+      <value>9999-01-01</value>
+      <value>INCAPACITY</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-03-27 09:44:15.593201]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

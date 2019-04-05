@@ -1,0 +1,65 @@
+<dataset>
+  <table name="TCT_CUST_DTL">
+    <column>CUST_KEY</column>
+    <column>MARITAL_STS</column>
+    <column>DIALECT</column>
+    <column>DIALECT_OD</column>
+    <column>POB</column>
+    <column>POB_OD</column>
+    <column>COO</column>
+    <column>COO_OD</column>
+    <column>ID_ISS_DATE</column>
+    <column>DATE_FST_ISS</column>
+    <column>HIGH_EDU_LVL</column>
+    <column>SP_IND</column>
+    <column>DATE_FST_ARRV</column>
+    <column>BUR_GNT_IND</column>
+    <column>FIT_MAKE_STMT_IND</column>
+    <column>RES_APPRV_IND_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>3394267</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>HK</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2004-09-11</value>
+      <value>1968-08-01</value>
+      <value>SL</value>
+      <value>0</value>
+      <value>1959-12-09</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value>N</value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-09-14 15:52:00.539235]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3773920</value>
+      <value>M</value>
+      <value>CT</value>
+      <value><![CDATA[                              ]]></value>
+      <value>ML</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>CH</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value>2004-06-02</value>
+      <value>1991-05-01</value>
+      <value>PR</value>
+      <value>0</value>
+      <value>1991-05-01</value>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value>N</value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-09-14 15:50:48.9886]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,16 @@
+<dataset>
+  <table name="TMS_TXN_LOG">
+    <column>TXN_TYPE</column>
+    <column>TXN_TS</column>
+    <column>LOGIN_ID</column>
+    <column>PROC_UNIT</column>
+    <column>CASE_KEY</column>
+    <column>GRT_TYPE</column>
+    <column>TXN_AFT_IMG</column>
+    <column>TXN_BEF_IMG</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>POST</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TCS_DISCR_RMK">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>RMK_SEQ_NUM</column>
+    <column>DISCR_RANK</column>
+    <column>DISCR_APPR_OFFR</column>
+    <column>DISCR_DATE</column>
+    <column>DISCR_OFFR_RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>DISCR_APPR_OFFR_POST</column>
+    <column>DISCR_APPR_OFFR_LOGIN_ID</column>
+    <column>CASE_SUBMITTED</column>
+  </table>
+</dataset>

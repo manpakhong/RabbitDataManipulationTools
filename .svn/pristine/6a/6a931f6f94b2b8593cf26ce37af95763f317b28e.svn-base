@@ -1,0 +1,158 @@
+<dataset>
+  <table name="TCS_LTS_DTL">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>STR_DATE</column>
+    <column>MNL_OVR</column>
+    <column>ELIG_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>1999-12-19</value>
+      <value>2000-01-18</value>
+      <value>1998-12-19</value>
+      <value>M</value>
+      <value>1</value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2000-12-19</value>
+      <value>2001-01-18</value>
+      <value>1999-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>SSP05019</value>
+      <value><![CDATA[2001-01-19 17:59:20.794181]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2001-12-19</value>
+      <value>2002-01-18</value>
+      <value>2000-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>TMN05003</value>
+      <value><![CDATA[2002-07-05 11:51:44.25037]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2002-12-19</value>
+      <value>2003-01-18</value>
+      <value>2001-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>TMN05003</value>
+      <value><![CDATA[2003-01-07 11:40:29.889578]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2003-12-19</value>
+      <value>2004-01-18</value>
+      <value>2002-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>TMN05003</value>
+      <value><![CDATA[2003-11-07 12:57:25.165574]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2004-12-19</value>
+      <value>2005-01-18</value>
+      <value>2003-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>TMN05014</value>
+      <value><![CDATA[2004-11-18 15:22:57.339455]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2005-12-19</value>
+      <value>2006-01-18</value>
+      <value>2004-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>TMN06003</value>
+      <value><![CDATA[2006-01-12 14:57:37.245163]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2006-12-19</value>
+      <value>2007-01-18</value>
+      <value>2005-12-19</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-11 09:39:26.243616]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2013-02-01</value>
+      <value>2013-02-28</value>
+      <value>2012-01-31</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK04115</value>
+      <value><![CDATA[2012-11-16 12:04:16.45947]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2014-02-01</value>
+      <value>2014-02-28</value>
+      <value>2013-01-31</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK04100</value>
+      <value><![CDATA[2014-03-07 15:43:02.430053]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2015-02-01</value>
+      <value>2015-02-28</value>
+      <value>2014-01-31</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2015-07-24 11:10:31.087499]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>A</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>2015-01-31</value>
+      <value>S</value>
+      <value>1</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2015-10-23 12:52:18.127304]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

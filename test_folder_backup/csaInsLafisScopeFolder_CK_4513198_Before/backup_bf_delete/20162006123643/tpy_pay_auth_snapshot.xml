@@ -1,0 +1,83 @@
+<dataset>
+  <table name="TPY_PAY_AUTH">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_TYPE</column>
+    <column>AUTO_REVN_IND</column>
+    <column>RSON_CODE</column>
+    <column>RSON_OD</column>
+    <column>PAY_DAY</column>
+    <column>CALDR_MTH_IND</column>
+    <column>PAY_MTH_STR_DAY</column>
+    <column>LANG_TYPE</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>PAID_CAN_IND</column>
+    <column>PAY_UPD_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4513198</value>
+      <value>A</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>A</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>7</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value>SMP04084</value>
+      <value>2015-09-29</value>
+      <value>SMP06012</value>
+      <value>2015-09-29</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>SMP06012</value>
+      <value><![CDATA[2015-09-29 17:52:27.368661]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>4513198</value>
+      <value>P</value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>R</value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>7</value>
+      <value>Y</value>
+      <value>1</value>
+      <value>E</value>
+      <value>SMP04084</value>
+      <value>2015-10-29</value>
+      <value><![CDATA[        ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:22:02.357589]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

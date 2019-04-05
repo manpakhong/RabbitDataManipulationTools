@@ -1,0 +1,308 @@
+<dataset>
+  <table name="TCC_HOSP">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>INST_TEL_NUM</column>
+    <column>DATE_ADM</column>
+    <column>DATE_DISCHG</column>
+    <column>BUY_PLACE_IND</column>
+    <column>RMK_OFFC</column>
+    <column>TXF_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2001-08-14</value>
+      <value>2001-10-06</value>
+      <value>7861259</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>N</value>
+      <value>CWN03059</value>
+      <value><![CDATA[2001-10-23 14:21:01.224656]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-02-06</value>
+      <value>2013-02-08</value>
+      <value>7861495</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-17 09:49:03.026956]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-03-07</value>
+      <value>2013-03-10</value>
+      <value>7861496</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-17 09:49:18.060839]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-03-10</value>
+      <value>2013-04-07</value>
+      <value>7861497</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2013-04-17 09:52:42.044419]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-09-09</value>
+      <value>2013-09-11</value>
+      <value>7861522</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:35:30.212074]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2013-09-11</value>
+      <value>2013-10-15</value>
+      <value>7861523</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2014-03-19 12:35:46.014821]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-02-03</value>
+      <value>2015-02-09</value>
+      <value>7861625</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-02-18 14:56:25.831203]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-06-11</value>
+      <value>2015-06-19</value>
+      <value>7861656</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-07-27 11:28:12.31437]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-06-19</value>
+      <value>2015-06-24</value>
+      <value>7861657</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-07-27 11:28:40.626402]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-07-04</value>
+      <value>2015-07-10</value>
+      <value>7861658</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-07-27 11:29:12.839166]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-07-10</value>
+      <value>2015-07-22</value>
+      <value>7861659</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>CWN03101</value>
+      <value><![CDATA[2015-07-27 11:29:31.329368]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-09-13</value>
+      <value>2015-09-14</value>
+      <value>7861707</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>DMT71103</value>
+      <value><![CDATA[2016-02-22 15:01:44.846673]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-09-14</value>
+      <value>2015-09-30</value>
+      <value>7861708</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>DMT71103</value>
+      <value><![CDATA[2016-02-22 15:02:14.605787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-09-30</value>
+      <value>2015-10-09</value>
+      <value>7861709</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>DMT71103</value>
+      <value><![CDATA[2016-02-22 15:02:29.90603]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-10-09</value>
+      <value>2015-10-26</value>
+      <value>7861710</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[27HP006   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>Y</value>
+      <value>DMT71103</value>
+      <value><![CDATA[2016-02-22 15:02:50.459366]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value>67863</value>
+      <value>2015-11-11</value>
+      <value>2015-11-23</value>
+      <value>7861711</value>
+      <value><![CDATA[HP ]]></value>
+      <value><![CDATA[05HP001   ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>N</value>
+      <value>DMT71103</value>
+      <value><![CDATA[2016-02-22 15:03:07.790443]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

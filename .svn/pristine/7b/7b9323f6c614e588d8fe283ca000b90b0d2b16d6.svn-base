@@ -1,0 +1,322 @@
+package hksarg.swd.cssa.csa.common;
+
+import static hksarg.swd.csss.csa.common.CSA_Consts.SQL_RC_OK;
+import static hksarg.swd.csss.csa.common.CSA_Consts.SQL_RET_OK;
+import static org.junit.Assert.fail;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+
+import org.dbunit.IDatabaseTester;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Restrictions;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.common.CSA_ManualAdj;
+import hksarg.swd.csss.csa.flowtest.bundles.DbProperties;
+import hksarg.swd.csss.csa.flowtest.factories.DbUtilsFactory;
+import hksarg.swd.csss.csa.flowtest.factories.PropertiesFactory;
+import hksarg.swd.csss.csa.flowtest.helpers.CaseTestHelper;
+import hksarg.swd.csss.csa.flowtest.models.dtos.CaptureScopeDto;
+import hksarg.swd.csss.csa.flowtest.services.CssaDataStubMgr;
+import hksarg.swd.csss.csa.flowtest.services.SnapshotMgr;
+import hksarg.swd.csss.csa.flowtest.utils.CalendarUtils;
+import hksarg.swd.csss.csa.flowtest.utils.DbUtils;
+import hksarg.swd.csss.database.HibernateUtil;
+import hksarg.swd.csss.security.UserInfo;
+import hksarg.swd.csss.utils.ThreadLocalUtils;
+import hksarg.swd.hdo.TpyMnlAdj;
+import hksarg.swd.hdo.TpyPayInstr;
+import hksarg.swd.hdo.TpySimp;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+
+public class CSA_ManualAdj_4513198_SubImprest_Test {
+	private final static Logger logger = LoggerFactory.getLogger(CSA_ManualAdj_4513198_SubImprest_Test.class);
+	private static String className = CSA_ManualAdj_4513198_SubImprest_Test.class.getName();
+
+	private static IDatabaseTester databaseTester;
+	private static SnapshotMgr snapshotMgr;
+	private static IDatabaseTester dbTester = null;
+	private static Integer caseKey;
+	private static List<Integer> custKeyList;
+	private static String loginId;
+	private static String procUnit;
+	private static String post;
+	private static String grtType;
+	private static String handleNoti;
+	private static Calendar assPerdStrCalendar;
+	private static Calendar assPendEndCalendar;
+	private static Calendar paymentExpireCalendar;
+	private static Calendar calToday;
+	private static int payDay;
+	private static String urgChgBa;
+	private static String opCode;
+	private static Timestamp creTs;
+	private static StringBuilder sValRet;
+	private static CaseTestHelper helper;
+	private static DbUtils dbUtils = null;
+	private static DbProperties dbProperties = null;
+	private static Calendar frCalendar = null;
+	private void init() {
+		try {
+			helper = new CaseTestHelper();
+			caseKey = 4513198;
+			custKeyList = new ArrayList<Integer>();
+
+			Integer custKey1 = 3394267;
+			 Integer custKey2 = 3773920;
+			// Integer custKey3 = 3735424;
+
+			custKeyList.add(custKey1);
+			 custKeyList.add(custKey2);
+			// custKeyList.add(custKey3);
+
+			loginId = "test1";
+			post = "SSSA2_ABDFU";
+			procUnit = "ABD";
+			grtType = "CSA";
+			handleNoti = "Y";
+
+			frCalendar = CalendarUtils.getMinHostCalendarToday();
+			frCalendar.set(Calendar.YEAR, 2016);
+			frCalendar.set(Calendar.MONTH, Calendar.MAY);
+			frCalendar.set(Calendar.DAY_OF_MONTH, 1);
+
+			calToday = Calendar.getInstance();
+			payDay = 7;
+
+			urgChgBa = "Y";
+			opCode = "AU";
+			creTs = new Timestamp(calToday.getTime().getTime());
+			sValRet = new StringBuilder();
+
+			dbUtils = DbUtilsFactory.getInstanceOfDb2DbUtils();
+			dbProperties = PropertiesFactory.getInstanceOfDb2DbProperties();
+			dbTester = dbUtils.getJdbcDatabaseTester();
+			snapshotMgr = new SnapshotMgr();
+			databaseTester = dbUtils.getJdbcDatabaseTester();
+		} catch (Exception e) {
+			logger.error(className + ".init() - ", e);
+		}
+	}
+
+	@BeforeClass
+	public static void setUpBeforeClass() throws Exception {
+	}
+
+	@AfterClass
+	public static void tearDownAfterClass() throws Exception {
+	}
+
+	@Before
+	public void setUp() throws Exception {
+		init();
+		CaptureScopeDto captureScopeDto = snapshotMgr
+				.getCaptureScopeDtoFromScopeFileName("csaManualAdj_CK_4513198_Reject_Scope.scope");
+		snapshotMgr.restoreXmlFiles(captureScopeDto);
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+	
+	private void deleteTpySimp(Session sess) throws Exception{
+		List<TpySimp> tpySimpList = sess.createCriteria(TpySimp.class).add(Restrictions.eq("id.caseKey", caseKey))
+				.list();
+
+		if (tpySimpList != null) {
+			for (TpySimp tpySimp : tpySimpList) {
+				sess.delete(tpySimp);
+			}
+		}
+	}
+	
+	private void deleteTpyMnlAdj(Session sess) throws Exception {
+		try {
+			List<TpyMnlAdj> tpyMnlAdjList = sess.createCriteria(TpyMnlAdj.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+
+			if (tpyMnlAdjList != null) {
+				for (TpyMnlAdj tpyMnlAdj : tpyMnlAdjList) {
+					sess.delete(tpyMnlAdj);
+				}
+			}
+		} catch (Exception e) {
+			logger.error(className + ".deleteTpyMnlAdj() - ", e);
+		}
+	}
+
+	
+	private void restoreTest5635Error(){
+		try{
+			CaptureScopeDto captureScopeDto = snapshotMgr
+					.getCaptureScopeDtoFromScopeFileName("csaManualAdjScope.scope");
+			snapshotMgr.restoreXmlFiles(captureScopeDto);
+		} catch (Exception e){
+			logger.error(className + ".restoreTest5635Error() - ", e);
+		}
+	}
+	
+	private void deleteTpyPayInstrRecStsAwP(Session sess)  throws Exception{
+		try {
+
+			
+			List<TpyPayInstr> tpyPayInstrList = sess.createCriteria(TpyPayInstr.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts",  "A")).add(Restrictions.eqOrIsNull("id.frDate", frCalendar.getTime()))
+					.list();
+
+			if (tpyPayInstrList != null) {
+				for (TpyPayInstr tpyPayInstr : tpyPayInstrList) {
+					sess.delete(tpyPayInstr);
+				}
+			}
+		} catch (Exception e) {
+			logger.error(className + ".deletetpyPayInstrRecStsP() - ", e);
+		}
+	}
+	
+	private void deleteTpyPayInstrRecStsP(Session sess)  throws Exception{
+		try {
+			List<TpyPayInstr> tpyPayInstrList = sess.createCriteria(TpyPayInstr.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts",  "P"))
+					.list();
+
+			if (tpyPayInstrList != null) {
+				for (TpyPayInstr tpyPayInstr : tpyPayInstrList) {
+					sess.delete(tpyPayInstr);
+				}
+			}
+		} catch (Exception e) {
+			logger.error(className + ".deletetpyPayInstrRecStsP() - ", e);
+		}
+	}
+	
+	
+	
+	@Test
+	public final void testSubImprest() {
+		boolean isDone = false;
+		Session sess = null;
+		Transaction tran = null;
+		// UserTransaction ut =
+		// DatabaseConnectionFactory.createUserTransaction();
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+		Connection conn = null;
+		try {
+			
+			
+			UserInfo userInfo = cssaDataStubMgr.getUserInfo(loginId, procUnit);
+
+			conn = dbUtils.getConnection();
+			conn.setSchema(dbProperties.getSchema());
+			// conn.setCatalog(dbProperties.getSchema());
+			userInfo.setConnection(dbUtils.getConnection());
+			
+			// SessionFactory sf = HibernateUtilStub.getSessionFactory();
+			// sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+
+//			deleteTpyMnlAdj(sess);
+			deleteTpyPayInstrRecStsAwP(sess);
+			deleteTpySimp(sess);
+//			tran.commit();
+//			
+//			sess = HibernateUtil.getCurrentSession();
+//			tran = sess.getTransaction();
+//			tran.begin();
+			
+			List<TpyMnlAdj> tpyMnlAdjList = sess.createCriteria(TpyMnlAdj.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+
+			Assert.assertTrue(tpyMnlAdjList.size() == 1);
+
+			
+			
+			List<TpySimp> tpySimpList = sess.createCriteria(TpySimp.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+			Assert.assertTrue(tpySimpList.size() == 0);
+			
+			
+			List<TpyPayInstr> tpyPayInstrList =  sess.createCriteria(TpyPayInstr.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.eq("id.recSts",  "A")).add(Restrictions.eqOrIsNull("id.frDate", frCalendar.getTime()))
+					.list();
+			
+			Assert.assertTrue(tpyPayInstrList.size() == 0);
+			
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+
+			conn = dbUtils.getConnection();
+			conn.setSchema(dbProperties.getSchema());
+			// conn.setCatalog(dbProperties.getSchema());
+			userInfo.setConnection(dbUtils.getConnection());
+			ThreadLocalUtils.setUserInfo(userInfo);
+			String fileName = "pComms_4513198";
+			CSA_ManualAdj lCSAManualAdj = new CSA_ManualAdj();
+
+//			SerializeUtils<List<CommitmentRec>> serializeUtils = new SerializeUtils<List<CommitmentRec>>();
+//			List<CommitmentRec> pComms = serializeUtils.deserializeObject(fileName);
+			int[] retArr = { SQL_RET_OK, SQL_RC_OK };
+			StringBuilder sb = new StringBuilder();
+
+			Timestamp ts = new Timestamp(new Date().getTime());
+
+			retArr = lCSAManualAdj.PManualAdj(sess, userInfo, caseKey, userInfo.getLoggedInPost().getPuName(), "A",
+					userInfo.getLoginId(), userInfo.getLoggedInPost().getPostName(), ts);
+			
+
+			
+			List<TpySimp> tpySimpResultList = sess.createCriteria(TpySimp.class).add(Restrictions.eq("id.caseKey", caseKey))
+					.list();
+
+			Assert.assertTrue(tpySimpResultList.size() > 0);
+
+			
+			tran.commit();
+			conn.commit();
+
+
+
+		} catch (Exception e) {
+			fail("Exception - " + e.getMessage());
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+			if (conn != null) {
+				try {
+					if (!conn.isClosed()) {
+						conn.close();
+						conn = null;
+					}
+				} catch (SQLException e) {
+					fail("Exception - " + e.getMessage());
+				}
+			}
+		}
+	}
+	
+
+}

@@ -1,0 +1,41 @@
+<dataset>
+  <table name="TCS_BANK_ACC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ACC_NAME</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>PURPOSE_CODE</column>
+    <column>PURPOSE_OD</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4468919</value>
+      <value>1</value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER                                               ]]></value>
+      <value>024</value>
+      <value>237</value>
+      <value>999982668</value>
+      <value><![CDATA[P  ]]></value>
+      <value><![CDATA[                                                  ]]></value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-26 11:20:04.850534]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>4468919</value>
+      <value>121</value>
+      <value><![CDATA[(MASKED) ACCOUNT HOLDER                                               ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>WTS04082</value>
+      <value><![CDATA[2015-04-29 12:22:50.972936]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

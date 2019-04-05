@@ -1,0 +1,12 @@
+<dataset>
+  <table name="TMI_TCE_ASS_SLC">
+    <column>CASE_KEY</column>
+    <column>ASS_SEQ_NUM</column>
+    <column>SL_FR_DATE</column>
+    <column>SL_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>SEQ_NUM</column>
+  </table>
+</dataset>

@@ -1,0 +1,56 @@
+<dataset>
+  <table name="TCC_EMP_INCM">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>FR_DATE</column>
+    <column>EMP_SEQ_NUM</column>
+    <column>TO_DATE</column>
+    <column>FST_PAY_DATE</column>
+    <column>EARN_TYPE</column>
+    <column>EARN_AMT</column>
+    <column>FST_MTH_DISREGDAMT</column>
+    <column>LAST_UPD_TS</column>
+    <column>MPF_DED_AMT</column>
+    <column>OTH_DED_AMT</column>
+    <column>LAST_PAY_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>124</value>
+      <value>2016-06-01</value>
+      <value>123</value>
+      <value>2016-06-30</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>14500.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2017-01-17 16:42:21.156]]></value>
+      <value>725.00</value>
+      <value>0.00</value>
+      <value>2016-06-30</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>4001142</value>
+      <value>125</value>
+      <value>2016-07-01</value>
+      <value>123</value>
+      <value>9999-01-31</value>
+      <value>2016-07-30</value>
+      <value><![CDATA[PE                                 ]]></value>
+      <value>14500.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2017-01-17 16:42:21.156]]></value>
+      <value>725.00</value>
+      <value>0.00</value>
+      <value>9999-01-01</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

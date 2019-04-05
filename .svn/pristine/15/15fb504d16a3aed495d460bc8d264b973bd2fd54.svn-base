@@ -1,0 +1,102 @@
+<dataset>
+  <table name="TCS_ADDR">
+    <column>CASE_KEY</column>
+    <column>ADDR_TYPE</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>AREA_CODE</column>
+    <column>POSTAL_CODE</column>
+    <column>TEL_NUM</column>
+    <column>TEL_NUM2</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>PROC_UNIT</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>CHRG_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1089432</value>
+      <value>A</value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[香港中環測試大道９０００－９９９９號                                    ]]></value>
+      <value><![CDATA[中國香港發展專責委員會可持續試驗大廈                                    ]]></value>
+      <value><![CDATA[第１２３４期８８８８樓８８８Ｄ－Ｅ室                                    ]]></value>
+      <value>X</value>
+      <value>Z01</value>
+      <value><![CDATA[523683    ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>YTM</value>
+      <value><![CDATA[NI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>YTM03113</value>
+      <value><![CDATA[2014-11-25 12:09:15.658271]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>P</value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[香港中環測試大道９０００－９９９９號                                    ]]></value>
+      <value><![CDATA[中國香港發展專責委員會可持續試驗大廈                                    ]]></value>
+      <value><![CDATA[第１２３４期８８８８樓８８８Ｄ－Ｅ室                                    ]]></value>
+      <value>2</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>YTM03094</value>
+      <value><![CDATA[2008-11-27 10:36:50.445942]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1089432</value>
+      <value>R</value>
+      <value>C</value>
+      <value><![CDATA[     ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[香港中環測試大道９０００－９９９９號                                    ]]></value>
+      <value><![CDATA[中國香港發展專責委員會可持續試驗大廈                                    ]]></value>
+      <value><![CDATA[第１２３４期８８８８樓８８８Ｄ－Ｅ室                                    ]]></value>
+      <value>2</value>
+      <value>W05</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[11111111      ]]></value>
+      <value><![CDATA[              ]]></value>
+      <value><![CDATA[      ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>YTM</value>
+      <value>PRR</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>YTM03113</value>
+      <value><![CDATA[2015-11-11 14:53:09.443236]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

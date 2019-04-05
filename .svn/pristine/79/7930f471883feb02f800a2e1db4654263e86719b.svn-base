@@ -1,0 +1,202 @@
+<dataset>
+  <table name="TCC_SCH_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCH_NAME</column>
+    <column>SCH_TYPE</column>
+    <column>SCH_RGN</column>
+    <column>CLS</column>
+    <column>REP_IND</column>
+    <column>SCH_TYPE_IND</column>
+    <column>HDAY_SESS</column>
+    <column>RSON_CODE_FDAY_SCH</column>
+    <column>RSON_OD_FDAY_SCH</column>
+    <column>SCH_HR_WEEK</column>
+    <column>FULL_TIME_IND</column>
+    <column>MTH_SCH_FEE</column>
+    <column>TONG_FEE</column>
+    <column>FEE_REM_AMT</column>
+    <column>SFAA_APPL_IND</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_RTN</column>
+    <column>FPN</column>
+    <column>DATE_RCPT</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>PEVS_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>CSSS_SCH_FR_DATE</column>
+    <column>CSSS_SCH_TO_DATE</column>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>2001-01-01</value>
+      <value>2001-06-30</value>
+      <value>2001-01-01</value>
+      <value>2001-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[250481    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[WAN CHAI]]></value>
+      <value>P3</value>
+      <value>N</value>
+      <value>F</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>A</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>2001-02-12</value>
+      <value>2001-02-19</value>
+      <value>0</value>
+      <value>2001-02-08</value>
+      <value>O</value>
+      <value/>
+      <value>0</value>
+      <value>N</value>
+      <value>WCI04010</value>
+      <value><![CDATA[2001-02-19 09:51:47.421335]]></value>
+      <value/>
+      <value>2001-01-01</value>
+      <value>2001-06-30</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>2001-09-01</value>
+      <value>2002-06-30</value>
+      <value>2001-09-01</value>
+      <value>2002-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[250481    ]]></value>
+      <value><![CDATA[PR ]]></value>
+      <value><![CDATA[WAN CHAI]]></value>
+      <value>P4</value>
+      <value>N</value>
+      <value>F</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2001-02-08</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>WCI04019</value>
+      <value><![CDATA[2001-10-20 10:48:43.434085]]></value>
+      <value/>
+      <value>2001-09-01</value>
+      <value>2002-06-30</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[250481    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[WAN CHAI]]></value>
+      <value>F1</value>
+      <value>N</value>
+      <value>F</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2001-02-08</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2002-09-05 09:36:29.995816]]></value>
+      <value/>
+      <value>2002-09-01</value>
+      <value>2003-06-30</value>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[250481    ]]></value>
+      <value><![CDATA[SE ]]></value>
+      <value><![CDATA[WAN CHAI]]></value>
+      <value>F1</value>
+      <value>Y</value>
+      <value>F</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value/>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>N</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>2001-02-08</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>0</value>
+      <value>N</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2003-12-03 12:26:13.086232]]></value>
+      <value/>
+      <value>2003-09-01</value>
+      <value>2004-06-30</value>
+    </row>
+  </table>
+</dataset>

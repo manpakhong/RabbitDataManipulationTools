@@ -1,0 +1,34 @@
+<dataset>
+  <table name="TCS_GDS_DTL">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>REQ_GDS_SWCH_DATE</column>
+    <column>REQ_OOSA</column>
+    <column>SYS_OOSA</column>
+    <column>DATE_APPL_SSA</column>
+    <column>REQ_SSA_SWCH_DATE</column>
+    <column>AU_FR_DATE</column>
+    <column>AU_TO_DATE</column>
+    <column>CASE_STS</column>
+    <column>LIV_PUB_HSE_IND</column>
+    <column>PUB_HSE_SURD_DATE</column>
+    <column>SURNAME_CNCT_PSON</column>
+    <column>OTH_NAME_CNCT_PSON</column>
+    <column>SURNAME_CNCT_CHN</column>
+    <column>OTH_NAME_CNCT_CHN</column>
+    <column>RSHP_CODE_CNCT</column>
+    <column>RES_ADDR1</column>
+    <column>RES_ADDR2</column>
+    <column>RES_ADDR3</column>
+    <column>RES_POSTAL_CODE</column>
+    <column>RES_TEL_NUM</column>
+    <column>CORR_ADDR1</column>
+    <column>CORR_ADDR2</column>
+    <column>CORR_ADDR3</column>
+    <column>CORR_POSTAL_CODE</column>
+    <column>CORR_TEL_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

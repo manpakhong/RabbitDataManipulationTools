@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <film_category film_id="47" category_id="9" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="115" category_id="1" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="158" category_id="12" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="179" category_id="7" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="195" category_id="14" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="205" category_id="1" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="255" category_id="12" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="263" category_id="15" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="321" category_id="13" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="396" category_id="7" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="458" category_id="8" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="523" category_id="4" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="532" category_id="15" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="554" category_id="4" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="752" category_id="12" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="769" category_id="9" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="771" category_id="7" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="859" category_id="2" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="895" category_id="4" last_update="2006-02-15 05:07:09.0"/>
+  <film_category film_id="936" category_id="12" last_update="2006-02-15 05:07:09.0"/>
+</dataset>

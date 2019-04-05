@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TMS_RR_RENT_B4_RH">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>RENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>2005-11-18</value>
+      <value>9999-01-01</value>
+      <value>994.00</value>
+      <value>RRSAREV3</value>
+      <value><![CDATA[2006-12-24 02:08:31.735269]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

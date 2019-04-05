@@ -1,0 +1,19 @@
+<dataset>
+  <table name="TAS_ELG_STS">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>CUST_STS</column>
+    <column>TO_DATE</column>
+    <column>RSON_CODE</column>
+    <column>SFS_CODE</column>
+    <column>NEL_CODE</column>
+    <column>CRE_DATE</column>
+    <column>RMK</column>
+    <column>SPS_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,65 @@
+<dataset>
+  <table name="TMS_OTH_APPR_ITEM">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_CATLG</column>
+    <column>CRE_DATE</column>
+    <column>REC_STS</column>
+    <column>REQ_OFFR</column>
+    <column>APPR_ITEM_DESC</column>
+    <column>APPR_OFFR_RANK</column>
+    <column>APPR_OFFR</column>
+    <column>APPR_DATE</column>
+    <column>RMK</column>
+    <column>LATEST_BAT_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>REQ_OFFR_POST</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+    <column>APPR_OFFR_POST</column>
+    <column>APPR_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>7939574</value>
+      <value><![CDATA[REPPLAN ]]></value>
+      <value>2010-09-08</value>
+      <value>A</value>
+      <value>SKM03084</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>SKM06006</value>
+      <value>2010-09-09</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>SKM06006</value>
+      <value><![CDATA[2010-09-09 11:34:50.229834]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>7939992</value>
+      <value>OTHERAPP</value>
+      <value>2013-07-08</value>
+      <value>A</value>
+      <value>SKM04115</value>
+      <value><![CDATA[(MASKED) I.D. WAIVER]]></value>
+      <value>O1</value>
+      <value>SKM06007</value>
+      <value>2013-07-08</value>
+      <value><![CDATA[(MASKED) REMARKS]]></value>
+      <value>N</value>
+      <value>SKM06007</value>
+      <value><![CDATA[2013-07-08 18:09:53.006455]]></value>
+      <value>SSSA12_SKMFU</value>
+      <value>leungtaichuen</value>
+      <value>S_SKMFU</value>
+      <value>makelsaantonialc</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

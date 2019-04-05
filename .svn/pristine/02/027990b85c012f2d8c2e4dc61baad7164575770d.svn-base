@@ -1,0 +1,386 @@
+<dataset>
+  <table name="TMS_WARN_MSG">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>CRE_TS_ASS_PROF</column>
+    <column>CUST_KEY</column>
+    <column>ITEM_CODE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>CATLG</column>
+    <column>REC_STS</column>
+    <column>AMT</column>
+    <column>LMT_AMT</column>
+    <column>ASS_OFFR</column>
+    <column>ASS_DATE</column>
+    <column>AUTH_OFFR</column>
+    <column>AUTH_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2006-07-13 15:47:57.081808]]></value>
+      <value><![CDATA[2006-07-13 15:47:45.686499]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2006-06-01</value>
+      <value>2006-06-30</value>
+      <value>E</value>
+      <value>A</value>
+      <value>8195.00</value>
+      <value>7750.00</value>
+      <value>CWN03090</value>
+      <value>2006-07-13</value>
+      <value>CWN05018</value>
+      <value>2006-07-13</value>
+      <value>CWN05018</value>
+      <value><![CDATA[2006-07-13 16:44:20.732305]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2014-03-19 15:23:51.706065]]></value>
+      <value><![CDATA[2014-03-19 15:22:59.537903]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2013-12-01</value>
+      <value>2013-12-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>10045.00</value>
+      <value>9572.00</value>
+      <value>CWN03101</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2014-03-19 16:05:08.871994]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2014-03-19 15:23:52.187359]]></value>
+      <value><![CDATA[2014-03-19 15:22:59.537903]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2014-02-01</value>
+      <value>2014-02-28</value>
+      <value>E</value>
+      <value>A</value>
+      <value>10240.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2014-03-19 16:05:08.871994]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2014-03-19 15:23:52.20117]]></value>
+      <value><![CDATA[2014-03-19 15:22:59.537903]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2014-08-01</value>
+      <value>2014-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>10565.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2014-03-19 16:05:08.871994]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2014-03-19 15:23:52.235994]]></value>
+      <value><![CDATA[2014-03-19 15:22:59.537903]]></value>
+      <value>67863</value>
+      <value>DIG</value>
+      <value>2014-02-01</value>
+      <value>2014-02-28</value>
+      <value>F</value>
+      <value>A</value>
+      <value>3360.00</value>
+      <value>0.00</value>
+      <value>CWN03101</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value>2014-03-19</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2014-03-19 16:05:08.871994]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2014-11-12 11:26:35.935343]]></value>
+      <value><![CDATA[2014-11-12 11:26:19.117938]]></value>
+      <value>67863</value>
+      <value>DTG</value>
+      <value>2014-10-01</value>
+      <value>2014-10-31</value>
+      <value>F</value>
+      <value>A</value>
+      <value>375.00</value>
+      <value>0.00</value>
+      <value>CWN03101</value>
+      <value>2014-11-12</value>
+      <value>CWN05036</value>
+      <value>2014-11-13</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2014-11-13 14:39:31.739277]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-02-23 10:13:28.517462]]></value>
+      <value><![CDATA[2015-02-23 10:12:49.676893]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>11620.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2015-02-23</value>
+      <value>CWN05036</value>
+      <value>2015-02-23</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-02-23 16:01:17.831447]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-04-13 11:29:49.29729]]></value>
+      <value><![CDATA[2015-04-13 11:29:37.137786]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-04-01</value>
+      <value>2015-06-30</value>
+      <value>E</value>
+      <value>A</value>
+      <value>10420.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2015-04-13</value>
+      <value>CWN05036</value>
+      <value>2015-04-13</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-04-13 12:23:44.378793]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-04-13 11:29:49.309596]]></value>
+      <value><![CDATA[2015-04-13 11:29:37.137786]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>11830.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2015-04-13</value>
+      <value>CWN05036</value>
+      <value>2015-04-13</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-04-13 12:23:44.378793]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-06-09 09:45:56.129388]]></value>
+      <value><![CDATA[2015-06-09 09:45:52.515208]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>10420.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2015-06-09</value>
+      <value>CWN05036</value>
+      <value>2015-06-10</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-06-10 10:09:00.967513]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-06-09 09:45:56.307667]]></value>
+      <value><![CDATA[2015-06-09 09:45:52.515208]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>12330.00</value>
+      <value>10231.00</value>
+      <value>CWN03101</value>
+      <value>2015-06-09</value>
+      <value>CWN05036</value>
+      <value>2015-06-10</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-06-10 10:09:00.967513]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-07-27 11:47:44.385263]]></value>
+      <value><![CDATA[2015-07-27 11:47:33.245356]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>12060.00</value>
+      <value>11081.00</value>
+      <value>CWN03101</value>
+      <value>2015-07-27</value>
+      <value>CWN05036</value>
+      <value>2015-07-27</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-07-27 14:22:02.153063]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-09-11 10:08:32.015908]]></value>
+      <value><![CDATA[2015-09-11 10:08:23.650333]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>12940.00</value>
+      <value>11081.00</value>
+      <value>CWN03101</value>
+      <value>2015-09-11</value>
+      <value>CWN05036</value>
+      <value>2015-09-11</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-09-11 11:05:48.602341]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-09-11 10:08:32.035245]]></value>
+      <value><![CDATA[2015-09-11 10:08:23.650333]]></value>
+      <value>67863</value>
+      <value>RAG</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>F</value>
+      <value>A</value>
+      <value>260.00</value>
+      <value>0.00</value>
+      <value>CWN03101</value>
+      <value>2015-09-11</value>
+      <value>CWN05036</value>
+      <value>2015-09-11</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-09-11 11:05:48.602341]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+    <row>
+      <value>1188900</value>
+      <value><![CDATA[2015-12-14 16:37:30.287703]]></value>
+      <value><![CDATA[2015-12-14 16:37:24.984398]]></value>
+      <value>0</value>
+      <value><![CDATA[   ]]></value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>E</value>
+      <value>A</value>
+      <value>12450.00</value>
+      <value>11081.00</value>
+      <value>CWN03101</value>
+      <value>2015-12-14</value>
+      <value>CWN05036</value>
+      <value>2015-12-15</value>
+      <value>CWN05036</value>
+      <value><![CDATA[2015-12-15 10:34:03.454212]]></value>
+      <value>SSA2_CWFU</value>
+      <value>choicheefat</value>
+      <value>SSOII3_CWFU</value>
+      <value>chaujackymf</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

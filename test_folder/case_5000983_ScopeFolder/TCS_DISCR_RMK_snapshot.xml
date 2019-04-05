@@ -1,0 +1,77 @@
+<dataset>
+  <table name="TCS_DISCR_RMK">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>RMK_SEQ_NUM</column>
+    <column>DISCR_RANK</column>
+    <column>DISCR_APPR_OFFR</column>
+    <column>DISCR_DATE</column>
+    <column>DISCR_OFFR_RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>DISCR_APPR_OFFR_POST</column>
+    <column>DISCR_APPR_OFFR_LOGIN_ID</column>
+    <column>CASE_SUBMITTED</column>
+    <row>
+      <value>5000983</value>
+      <value>159</value>
+      <value>1</value>
+      <value>O2</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[Discretion accepted]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-12 16:33:20.836191]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>167</value>
+      <value>1</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[I accept]]></value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-12 16:45:11.893485]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>168</value>
+      <value>1</value>
+      <value>SS</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-12</value>
+      <value><![CDATA[I accept]]></value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-12 16:45:11.893485]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>Y</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>183</value>
+      <value>1</value>
+      <value>O2</value>
+      <value><![CDATA[        ]]></value>
+      <value>2017-01-13</value>
+      <value><![CDATA[I approve the discretion]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-13 14:11:07.2501]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>Y</value>
+    </row>
+  </table>
+</dataset>

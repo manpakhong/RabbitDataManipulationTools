@@ -1,0 +1,50 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>754250</value>
+      <value>V</value>
+      <value><![CDATA[J2365300724         ]]></value>
+      <value>2010-01-08</value>
+      <value>2020-01-08</value>
+      <value/>
+      <value/>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-14 09:52:13.099631]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3646541</value>
+      <value>D</value>
+      <value><![CDATA[F22862849           ]]></value>
+      <value>2012-12-20</value>
+      <value>2019-12-20</value>
+      <value/>
+      <value/>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 11:01:12.611673]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3646541</value>
+      <value>V</value>
+      <value><![CDATA[J32228829           ]]></value>
+      <value>2013-01-12</value>
+      <value>2023-01-11</value>
+      <value/>
+      <value/>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-24 17:50:16.998968]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

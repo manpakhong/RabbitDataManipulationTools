@@ -1,0 +1,56 @@
+package hksarg.swd.csss.csa.flowtest.helpers;
+
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.flowtest.daos.TuaPostPuDao;
+import hksarg.swd.csss.csa.flowtest.daos.TuaUserInfoDao;
+import hksarg.swd.csss.csa.flowtest.daos.TuaUserPostDao;
+import hksarg.swd.hdo.TuaPostPu;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+
+public class CssaDataStubMgrHelper {
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	private TuaUserInfoDao tuaUserInfoDao;
+	private TuaUserPostDao tuaUserPostDao;
+	private TuaPostPuDao tuaPostPuDao;
+	public CssaDataStubMgrHelper() {
+		tuaUserInfoDao = new TuaUserInfoDao();
+		tuaUserPostDao = new TuaUserPostDao();
+		tuaPostPuDao = new TuaPostPuDao();
+	}
+	public TuaPostPu getTuaPostPu(String post, String procUnit){
+		TuaPostPu tuaPostPu = null;
+		try{
+			tuaPostPu = tuaPostPuDao.getTuaPostPu(post, procUnit);
+		} catch(Exception e){
+			logger.error(className + ".getTuaPostPu() - post=" + post + ",procUnit=" + procUnit, e);
+		}
+		return tuaPostPu;
+	}
+	
+	public TuaUserInfo getTuaUserInfo(String loginId){
+		TuaUserInfo tuaUserInfo = null;
+		try{
+			tuaUserInfo = tuaUserInfoDao.getTuaUserInfo(loginId);
+		} catch(Exception e){
+			logger.error(className + ".getTuaUserInfo() - loginId=" + loginId, e);
+		}
+		return tuaUserInfo;
+		
+	}
+	
+	public List<TuaUserPost> getTuaUserPostList(String loginId){
+		List<TuaUserPost> tuaUserPostList = null;
+		try{
+			tuaUserPostList = tuaUserPostDao.getTuaUserPostList(loginId);
+		} catch (Exception e){
+			e.printStackTrace();
+		}
+		return tuaUserPostList;
+	}
+}

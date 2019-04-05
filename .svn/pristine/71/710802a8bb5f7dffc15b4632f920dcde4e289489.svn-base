@@ -1,0 +1,80 @@
+<dataset>
+  <table name="TCS_OTH_RES">
+    <column>CASE_KEY</column>
+    <column>FST_RCV_DATE</column>
+    <column>LAST_RCV_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_OD</column>
+    <column>ITEM_TYPE</column>
+    <column>TREAT_TYPE</column>
+    <column>CUST_KEY</column>
+    <column>RES_AMT</column>
+    <column>FREQ_TYPE</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PER_MTH</column>
+    <column>MEAL_PATN</column>
+    <column>FST_MTH_DISREGD</column>
+    <column>PART_DISREGD</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>FPN</column>
+    <column>RMK_OFFR</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>2001-02-19</value>
+      <value>2001-02-19</value>
+      <value>RDP</value>
+      <value>7916620</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>0</value>
+      <value>2200.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value>0</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>SSP03030</value>
+      <value><![CDATA[2001-03-30 11:32:43.482609]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2005-12-19</value>
+      <value>2005-12-19</value>
+      <value>RDP</value>
+      <value>7916904</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>0</value>
+      <value>690.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value>4</value>
+      <value/>
+      <value>0</value>
+      <value>TMN03045</value>
+      <value><![CDATA[2006-01-24 16:09:26.746708]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

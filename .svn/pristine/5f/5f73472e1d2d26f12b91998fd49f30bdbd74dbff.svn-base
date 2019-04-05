@@ -1,0 +1,17 @@
+<dataset>
+  <table name="TPY_WRITE_OFF">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>WRITE_OFF_TYPE</column>
+    <column>ICAS_IND</column>
+    <column>REC_STS</column>
+    <column>WRITE_OFF_AMT</column>
+    <column>WRITE_OFF_CLSS</column>
+    <column>RECOM_DATE</column>
+    <column>APPR_DATE</column>
+    <column>CAN_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

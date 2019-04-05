@@ -1,0 +1,85 @@
+package hksarg.swd.csss.csa.flowtest.services;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.flowtest.helpers.CssaDataStubMgrHelper;
+import hksarg.swd.csss.security.PostInfo;
+import hksarg.swd.csss.security.UserInfo;
+import hksarg.swd.hdo.TuaPostPu;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+
+public class CssaDataStubMgr {
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String className = this.getClass().getName();
+	public static final String TUA_USER_POST_TYPE_PRI = "PRI";
+	public static final String TUA_USER_POST_TYPE_SEC = "SEC";
+	private CssaDataStubMgrHelper helper;
+
+	public CssaDataStubMgr() {
+		helper = new CssaDataStubMgrHelper();
+	}
+
+	public UserInfo getUserInfo(String loginId, String procUnit){
+		UserInfo userInfo = null;
+		TuaUserInfo tuaUserInfo  = null;
+		List<TuaUserPost> tuaUserPostList = null;
+		try{
+			tuaUserInfo = helper.getTuaUserInfo(loginId);
+			if (tuaUserInfo != null){
+				userInfo = new UserInfo();
+				userInfo.setChineseName(tuaUserInfo.getChnOthName());
+				userInfo.setGender(tuaUserInfo.getGender());
+				userInfo.setFullName(tuaUserInfo.getChnSurname());
+				userInfo.setLoginId(tuaUserInfo.getLoginId());
+			
+			}
+			
+			tuaUserPostList = helper.getTuaUserPostList(loginId);
+			
+			List<PostInfo> actingPostInfoList = null;
+			int countActingPost = 0;
+			
+			if (tuaUserPostList != null && !tuaUserPostList.isEmpty()){
+				for (TuaUserPost tuaUserPost: tuaUserPostList){
+					PostInfo postInfo = new PostInfo();
+					String postType = tuaUserPost.getPostType();
+					String post = tuaUserPost.getId().getPost();
+					
+					postInfo.setPostName(tuaUserPost.getId().getPost());
+										
+					TuaPostPu tuaPostPu = helper.getTuaPostPu(post, procUnit);
+					if (tuaPostPu != null){
+						postInfo.setPuName(tuaPostPu.getId().getProcUnit());
+					}
+					
+					postInfo.setPuName("");
+					postInfo.setRankId(postInfo.getRankId());
+					
+					if (postType.equals(TUA_USER_POST_TYPE_PRI)){
+						postInfo.setPri(true);
+						userInfo.setPriPost(postInfo);
+						userInfo.setLoggedInPost(postInfo);
+					} else if (postType.equals(TUA_USER_POST_TYPE_SEC)){
+						postInfo.setPri(false);
+						if (countActingPost == 0){
+							actingPostInfoList = new ArrayList<PostInfo>();
+						}
+						actingPostInfoList.add(postInfo);
+					}
+				}
+			}
+			userInfo.setActingPosts(actingPostInfoList);
+		} catch (Exception e){
+			logger.error(className + ".getUserInfo() - loginId=" + loginId + ",procUnit=" + procUnit, e);
+		}
+		return userInfo;
+	}
+	
+
+	
+}

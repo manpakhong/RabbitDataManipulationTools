@@ -1,0 +1,79 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>1998-06-15</value>
+      <value>1998-07-15</value>
+      <value>2000-12-19</value>
+      <value>C</value>
+      <value>KCY05013</value>
+      <value><![CDATA[2000-12-19 10:02:43.849901]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.478149]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2001-07-09</value>
+      <value>2001-07-09</value>
+      <value>2003-09-30</value>
+      <value>C</value>
+      <value>KCY05018</value>
+      <value><![CDATA[2003-09-30 16:17:56.533741]]></value>
+      <value><![CDATA[2001-07-09 10:41:48.404553]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2003-10-03</value>
+      <value>2003-11-03</value>
+      <value>2004-08-05</value>
+      <value>C</value>
+      <value>KCY05021</value>
+      <value><![CDATA[2004-08-05 18:32:24.022384]]></value>
+      <value><![CDATA[2003-10-03 14:57:51.601655]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2005-03-24</value>
+      <value>2005-05-09</value>
+      <value>2008-09-01</value>
+      <value>C</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2008-09-01 16:34:00.334747]]></value>
+      <value><![CDATA[2005-03-24 16:38:55.895536]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2009-02-27</value>
+      <value>1111-11-11</value>
+      <value>2009-03-18</value>
+      <value>C</value>
+      <value>SPK05017</value>
+      <value><![CDATA[2009-03-18 10:32:20.199225]]></value>
+      <value><![CDATA[2009-02-27 11:53:46.420482]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2016-06-08</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>SPK04106</value>
+      <value><![CDATA[2016-06-10 18:31:14.397752]]></value>
+      <value><![CDATA[2016-06-10 18:30:09.605719]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

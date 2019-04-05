@@ -1,0 +1,23 @@
+<dataset>
+  <table name="TCS_ACCD_INFO">
+    <column>CASE_KEY</column>
+    <column>DATE_ACCD</column>
+    <column>TIME_ACCD</column>
+    <column>RGN_ACCD_CODE</column>
+    <column>RGN_ACCD_OD</column>
+    <column>ARB_NUM</column>
+    <column>RPT_DATE</column>
+    <column>LOC</column>
+    <column>VTM_STS</column>
+    <column>ACCD_TYPE</column>
+    <column>VH_TYPE_ARR</column>
+    <column>VH_NUM</column>
+    <column>RMK</column>
+    <column>DATE_SEND</column>
+    <column>DATE_RCV</column>
+    <column>FPN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

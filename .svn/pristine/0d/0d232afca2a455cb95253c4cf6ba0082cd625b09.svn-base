@@ -1,0 +1,137 @@
+<dataset>
+  <table name="TCC_SCH_YR">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2007-09-01</value>
+      <value>2008-08-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2008-09-01</value>
+      <value>2009-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2009-09-01</value>
+      <value>2010-07-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2010-09-01</value>
+      <value>2011-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2011-09-01</value>
+      <value>2012-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2012-03-01</value>
+      <value>2012-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2012-09-01</value>
+      <value>2013-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2013-09-01</value>
+      <value>2014-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>2014-09-01</value>
+      <value>2015-03-31</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2014-09-01</value>
+      <value>2015-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2015-09-01</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+    <row>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>2016-09-01</value>
+      <value>2017-06-30</value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+      <value><![CDATA[2017-12-31 00:00:00.0]]></value>
+      <value><![CDATA[CSSS-II CONV]]></value>
+    </row>
+  </table>
+</dataset>

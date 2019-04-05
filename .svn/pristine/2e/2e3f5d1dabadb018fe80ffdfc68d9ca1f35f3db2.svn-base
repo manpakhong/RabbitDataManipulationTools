@@ -1,0 +1,47 @@
+<dataset>
+  <table name="TPY_SPL_PAY_SLIP_WF">
+    <column>SPMT_ID</column>
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>SEQ_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_AMT</column>
+    <column>PAY_DATE</column>
+    <column>SPMT_REF</column>
+    <column>DATE_PT_GEN</column>
+    <column>NOTI_LANG</column>
+    <column>GEN_IND</column>
+    <column>APP_ID_NUM</column>
+    <column>APP_ID_TYPE</column>
+    <column>APP_CHN_SURNAME</column>
+    <column>APP_CHN_OTH_NAME</column>
+    <column>APP_ENG_SURNAME</column>
+    <column>APP_ENG_OTH_NAME</column>
+    <column>AGT_ID_NUM</column>
+    <column>AGT_ID_TYPE</column>
+    <column>AGT_CHN_SURNAME</column>
+    <column>AGT_CHN_OTH_NAME</column>
+    <column>AGT_ENG_SURNAME</column>
+    <column>AGT_ENG_OTH_NAME</column>
+    <column>APT_ID_NUM</column>
+    <column>APT_ID_TYPE</column>
+    <column>APT_CHN_SURNAME</column>
+    <column>APT_CHN_OTH_NAME</column>
+    <column>APT_ENG_SURNAME</column>
+    <column>APT_ENG_OTH_NAME</column>
+    <column>LANG_TYPE</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>RGN_CODE</column>
+    <column>RTE_CODE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

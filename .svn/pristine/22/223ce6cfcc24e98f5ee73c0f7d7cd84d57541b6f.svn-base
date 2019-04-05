@@ -1,0 +1,54 @@
+<dataset>
+  <table name="TCS_MAIL_LIST">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SER_NUM</column>
+    <column>NOTI_LANG</column>
+    <column>APP_SEX</column>
+    <column>APP_NAME</column>
+    <column>C_ADDR1</column>
+    <column>C_ADDR2</column>
+    <column>C_ADDR3</column>
+    <column>C_ADDR4</column>
+    <column>R_ADDR1</column>
+    <column>R_ADDR2</column>
+    <column>R_ADDR3</column>
+    <column>R_ADDR4</column>
+    <column>TP_TYPE</column>
+    <column>TP_SEX</column>
+    <column>TP_NAME</column>
+    <column>TP_ADDR1</column>
+    <column>TP_ADDR2</column>
+    <column>TP_ADDR3</column>
+    <column>TP_ADDR4</column>
+    <column>LAST_UPD_POST</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <row>
+      <value>10647</value>
+      <value>CWN</value>
+      <value>4390</value>
+      <value>C</value>
+      <value>F</value>
+      <value><![CDATA[(MASKED) Applicant 申請人 4390]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[(MASKED) Residential Addr1 of 申請人 4390]]></value>
+      <value><![CDATA[(MASKED) Residential Addr2 of 申請人 4390]]></value>
+      <value/>
+      <value><![CDATA[(MASKED) Residential Addr4 of 申請人 4390]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[2016-08-12 18:39:28.418267]]></value>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

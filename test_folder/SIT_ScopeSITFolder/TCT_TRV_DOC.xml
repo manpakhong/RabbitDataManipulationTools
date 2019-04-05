@@ -1,0 +1,26 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>882277</value>
+      <value>V</value>
+      <value><![CDATA[J2044750322         ]]></value>
+      <value>2000-08-21</value>
+      <value>2010-08-21</value>
+      <value><![CDATA[                                                                                                    ]]></value>
+      <value/>
+      <value>YTM04037</value>
+      <value><![CDATA[2001-06-06 16:34:19.43781]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

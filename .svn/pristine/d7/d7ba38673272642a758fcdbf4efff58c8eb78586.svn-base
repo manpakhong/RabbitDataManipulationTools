@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TCS_SSA_FRND">
+    <column>CASE_KEY</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_OD</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>ADDR</column>
+    <column>TEL_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

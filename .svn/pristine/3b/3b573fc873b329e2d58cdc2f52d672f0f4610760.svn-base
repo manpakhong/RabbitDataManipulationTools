@@ -1,0 +1,146 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>57835</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>1988-04-18</value>
+      <value>1988-04-18</value>
+      <value>1111-11-11</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:01:07.72663]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>57836</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value><![CDATA[SEVERE COAD]]></value>
+      <value>OA</value>
+      <value>1988-04-18</value>
+      <value>1988-04-18</value>
+      <value>1111-11-11</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2005-04-11 14:17:05.142208]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>754938</value>
+      <value>11180.00</value>
+      <value>2010-05-28</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value>CVA</value>
+      <value>OA</value>
+      <value>1988-04-18</value>
+      <value>1988-04-18</value>
+      <value>1111-11-11</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 15:17:55.480386]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1301973</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value>ST</value>
+      <value>1992-08-12</value>
+      <value>1992-08-12</value>
+      <value>1111-11-11</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:32:52.015602]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value>ST</value>
+      <value>1992-08-12</value>
+      <value>1992-08-12</value>
+      <value>1111-11-11</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2008-09-22 10:33:54.800195]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2000-11-08</value>
+      <value>2000-11-08</value>
+      <value>1111-11-11</value>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:37.256629]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2232696</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2003-03-26</value>
+      <value>2002-03-22</value>
+      <value>1111-11-11</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:14.350469]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2007-10-06</value>
+      <value>2007-10-06</value>
+      <value>1111-11-11</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-08-23 10:32:42.703122]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

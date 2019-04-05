@@ -1,0 +1,552 @@
+package hksarg.swd.cssa.csa.common;
+
+import static org.junit.Assert.fail;
+
+import java.sql.Connection;
+import java.sql.Timestamp;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+
+import org.dbunit.IDatabaseTester;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.criterion.Restrictions;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.FixMethodOrder;
+import org.junit.Ignore;
+import org.junit.Test;
+import org.junit.runners.MethodSorters;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import hksarg.swd.csss.csa.common.CSA_InsLafis;
+import hksarg.swd.csss.csa.flowtest.bundles.DbProperties;
+import hksarg.swd.csss.csa.flowtest.factories.DbUtilsFactory;
+import hksarg.swd.csss.csa.flowtest.factories.PropertiesFactory;
+import hksarg.swd.csss.csa.flowtest.helpers.CaseTestHelper;
+import hksarg.swd.csss.csa.flowtest.models.dtos.CaptureScopeDto;
+import hksarg.swd.csss.csa.flowtest.services.CssaDataStubMgr;
+import hksarg.swd.csss.csa.flowtest.services.SnapshotMgr;
+import hksarg.swd.csss.csa.flowtest.utils.CalendarUtils;
+import hksarg.swd.csss.csa.flowtest.utils.DateUtils;
+import hksarg.swd.csss.csa.flowtest.utils.DbUtils;
+import hksarg.swd.csss.csa.flowtest.utils.HibernateUtilStub;
+import hksarg.swd.csss.database.HibernateUtil;
+import hksarg.swd.csss.security.UserInfo;
+import hksarg.swd.csss.utils.ThreadLocalUtils;
+import hksarg.swd.hdo.TmsPayEst;
+import hksarg.swd.hdo.TpyChgOfAcc;
+import hksarg.swd.hdo.TpyNoti;
+import hksarg.swd.hdo.TpyPayInstr;
+import hksarg.swd.hdo.TuaUserInfo;
+import hksarg.swd.hdo.TuaUserPost;
+import junit.framework.TestCase;
+
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+public class Csa_InsLafis_4468919_AU2_Test {
+	private final static Logger logger = LoggerFactory.getLogger(Csa_InsLafis_4468919_AU2_Test.class);
+	private static String className = Csa_InsLafis_4468919_AU2_Test.class.getName();
+	private static IDatabaseTester databaseTester;
+	private static SnapshotMgr snapshotMgr;
+	private static IDatabaseTester dbTester = null;
+	private static Integer caseKey;
+	private static List<Integer> custKeyList;
+	private static String loginId;
+	private static String procUnit;
+	private static String post;
+	private static String grtType;
+	private static String handleNoti;
+	private static Calendar assPerdStrCalendar;
+	private static Calendar assPendEndCalendar;
+	private static Calendar paymentExpireCalendar;
+	private static Calendar calToday;
+	private static int payDay;
+	private static String urgChgBa;
+	private static String opCode;
+	private static Timestamp creTs;
+	private static StringBuilder sValRet;
+	private static CaseTestHelper helper;
+	private static DbUtils dbUtils = null;
+	private static DbProperties dbProperties = null;
+
+	public Csa_InsLafis_4468919_AU2_Test() {
+		init();
+	}
+
+	private void init() {
+		try {
+			helper = new CaseTestHelper();
+			caseKey = 4468919;
+			custKeyList = new ArrayList<Integer>();
+
+			Integer custKey1 = 3731257;
+			Integer custKey2 = 3735422;
+			Integer custKey3 = 3735424;
+
+			custKeyList.add(custKey1);
+			custKeyList.add(custKey2);
+			custKeyList.add(custKey3);
+
+			loginId = "test1";
+			post = "SSSA2_ABDFU";
+			procUnit = "ABD";
+			grtType = "CSA";
+			handleNoti = "Y";
+
+			assPerdStrCalendar = CalendarUtils.getMinHostCalendarToday();
+			assPerdStrCalendar.set(Calendar.YEAR, 2015);
+			assPerdStrCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPerdStrCalendar.set(Calendar.DAY_OF_MONTH, 29);
+
+			assPendEndCalendar = CalendarUtils.getMaxHostCalendarToday();
+			assPendEndCalendar.set(Calendar.YEAR, 2016);
+			assPendEndCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPendEndCalendar.set(Calendar.DAY_OF_MONTH, 29);
+
+			paymentExpireCalendar = CalendarUtils.getMaxHostCalendarToday();
+			assPendEndCalendar.set(Calendar.YEAR, 2016);
+			assPendEndCalendar.set(Calendar.MONTH, Calendar.FEBRUARY);
+			assPendEndCalendar.set(Calendar.DAY_OF_MONTH, 29);
+
+			calToday = Calendar.getInstance();
+			payDay = 7;
+
+			urgChgBa = "Y";
+			opCode = "AU";
+			creTs = new Timestamp(calToday.getTime().getTime());
+			sValRet = new StringBuilder();
+
+			dbUtils = DbUtilsFactory.getInstanceOfDb2DbUtils();
+			dbProperties = PropertiesFactory.getInstanceOfDb2DbProperties();
+			dbTester = dbUtils.getJdbcDatabaseTester();
+			snapshotMgr = new SnapshotMgr();
+			databaseTester = dbUtils.getJdbcDatabaseTester();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	@BeforeClass
+	public static void setUpClass() throws Exception {
+
+	}
+
+	@AfterClass
+	public static void tearDownClass() {
+		try {
+			databaseTester.getConnection().close();
+			databaseTester = null;
+		} catch (Exception e) {
+			logger.error(className + ".tearDownClass() -", e);
+		}
+	}
+
+	@Before
+	public void setUp() throws Exception {
+		try {
+
+			CaptureScopeDto captureScopeDto = snapshotMgr
+					.getCaptureScopeDtoFromScopeFileName("csaInsLafisScope_CK_4468919_NEW_Pay2Estate_Before.scope");
+			snapshotMgr.restoreXmlFiles(captureScopeDto);
+
+		} catch (Exception e) {
+			e.printStackTrace();
+			throw e;
+		}
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		// restore the original data snapshot from full data snapshot
+
+		// CaptureScopeDto captureScopeDto =
+		// snapshotMgr.getCaptureScopeDtoFromScopeFileName("csaInsLafisScope_CK_4468919_Before.scope");
+		// snapshotMgr.restoreXmlFiles(captureScopeDto);
+		// databaseTester.onTearDown();
+
+	}
+
+	private boolean runPInsLafis(Session sess) throws Exception {
+		boolean isDone = false;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+		Connection conn = null;
+		try {
+			UserInfo userInfo = cssaDataStubMgr.getUserInfo(loginId, procUnit);
+			conn = dbUtils.getConnection();
+			conn.setSchema(dbProperties.getSchema());
+			// conn.setCatalog(dbProperties.getSchema());
+			userInfo.setConnection(conn);
+			ThreadLocalUtils.setUserInfo(userInfo);
+			CSA_InsLafis csaInsLafis = new CSA_InsLafis();
+			int[] retArr = csaInsLafis.PInsLafis(sess, userInfo, caseKey, procUnit, grtType, handleNoti,
+					assPerdStrCalendar.getTime(), assPendEndCalendar.getTime(), paymentExpireCalendar.getTime(), payDay,
+					urgChgBa, opCode, userInfo.getPriPost().getPuName(), creTs, sValRet);
+			conn.commit();
+
+			isDone = true;
+		} catch (Exception e) {
+			conn.rollback();
+
+			logger.error(className + ".runCheckIfDhpAddressModified() -", e);
+			throw e;
+		} finally {
+
+			if (conn != null) {
+				if (!conn.isClosed()) {
+					conn.close();
+				}
+				conn = null;
+			}
+		}
+		return isDone;
+	}
+
+	private void deleteTpyPayInstrList( Session sess) {
+
+		try {
+			List<TpyPayInstr> tpyPayInstrPostList2 = sess.createCriteria(TpyPayInstr.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).add(Restrictions.eq("id.grtType", grtType))
+					.add(Restrictions.ne("id.payType", "M")).add(Restrictions.eq("id.recSts", "A")).list();
+
+			for (TpyPayInstr tpyPayInstr : tpyPayInstrPostList2) {
+
+				TpyPayInstr tpyPayInstr2 = tpyPayInstrPostList2.get(0);
+				sess.delete(tpyPayInstr);
+			}
+
+		} catch (Exception e) {
+			logger.error(className + ".deleteTpyPayInstrList() -", e);
+		} finally {
+
+		}
+	}
+
+	private void deleteTmsPayEst(Session sess, List<TmsPayEst> tmsPayEstList){
+		try{
+			if (tmsPayEstList.size() > 0){
+				sess.delete(tmsPayEstList.get(0));
+			}
+		} catch (Exception e){
+			logger.error(className + ".deleteTmsPayEst() -", e);
+			Assert.assertTrue(false);
+		}
+	}
+	
+	@Test // test7
+	public void testTmsPayEst() {
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+
+		try {
+
+			SessionFactory sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			List<TmsPayEst> tmsPayEstList = sess.createCriteria(TmsPayEst.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).list();
+			
+			deleteTpyNoti(sess);
+			deleteTmsPayEst(sess, tmsPayEstList);
+			Date payDate = DateUtils.getDefaultNullableDateTime();
+			List<TmsPayEst> tmsPayEstList2 = sess.createCriteria(TmsPayEst.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).list();
+
+
+			Assert.assertTrue(tmsPayEstList2.size() == 0);
+
+
+
+			boolean isDone = runPInsLafis(sess);
+			if (!isDone) {
+				throw new Exception("runPInsLafis() - isDone=false");
+			}
+
+
+			List<TmsPayEst> tmsPayEstResultList = sess.createCriteria(TmsPayEst.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).list();
+			
+			Assert.assertTrue(tmsPayEstResultList.size() > 0);
+			
+			TmsPayEst tmsPayEstResult = tmsPayEstResultList.get(0);
+			Date payDateResult = tmsPayEstResult.getId().getPayDate();
+			Date frDateResult = tmsPayEstResult.getId().getFrDate();
+			
+			boolean theSamePayDate = DateUtils.areTheSameDate(payDateResult, DateUtils.getDefaultNullableDateTime());
+			Calendar calFrDateResult = CalendarUtils.getMinHostCalendarToday();
+			calFrDateResult.set(Calendar.YEAR, 2015);
+			calFrDateResult.set(Calendar.MONTH, Calendar.SEPTEMBER);
+			calFrDateResult.set(Calendar.DAY_OF_MONTH, 1);
+			
+			boolean theSameFrDate = DateUtils.areTheSameDate(frDateResult, calFrDateResult.getTime());
+			
+			Assert.assertTrue(theSameFrDate && theSamePayDate);
+
+			tran.commit();
+
+		}
+
+		catch (Exception e) {
+			logger.error(className + ".testTpyChgOfAcc() -", e);
+			fail(e.getMessage());
+
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+
+		}
+	}
+	
+	private void deleteTpyNoti(Session sess){
+
+		try {
+			List<TpyNoti> tpyNotiList = sess.createCriteria(TpyNoti.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).list();
+
+			for (TpyNoti tpyNoti : tpyNotiList) {
+
+
+				sess.delete(tpyNoti);
+			}
+
+		} catch (Exception e) {
+			logger.error(className + ".deleteTpyPayInstrList() -", e);
+		} finally {
+
+		}
+	}
+	
+	@Test // test6
+	public void testTpyPayInstrAuBeginPart2() {
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+
+		try {
+
+			SessionFactory sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+
+			deleteTpyNoti(sess);
+			
+			
+			Date payDate = DateUtils.getDefaultNullableDateTime();
+
+			Calendar frDate = CalendarUtils.getMinHostCalendarToday();
+			frDate.set(Calendar.YEAR, 2015);
+			frDate.set(Calendar.MONTH, Calendar.MARCH);
+			frDate.set(Calendar.DAY_OF_MONTH, 1);
+
+			Calendar toDate = CalendarUtils.getMaxHostCalendarToday();
+			toDate.set(Calendar.YEAR, 2016);
+			toDate.set(Calendar.MONTH, Calendar.FEBRUARY);
+			toDate.set(Calendar.DAY_OF_MONTH, 29);
+
+			List<TpyPayInstr> tpyPayInstrPreList = 
+					sess.createCriteria(TpyPayInstr.class)
+					.add(Restrictions.eq("id.caseKey", caseKey))
+					.add(Restrictions.ge("id.frDate", frDate.getTime()))
+					.add(Restrictions.le("id.toDate", toDate.getTime()))
+					.add(Restrictions.eq("id.grtType", "CSA"))
+					.add(Restrictions.ne("id.payType", "M")).add(Restrictions.eq("id.recSts", "A")).list();
+
+			Assert.assertTrue(tpyPayInstrPreList.size() == 9);
+
+
+			boolean isDone = runPInsLafis(sess);
+			if (!isDone) {
+				throw new Exception("runPInsLafis() - isDone=false");
+			}
+
+
+			for (TpyPayInstr tpyPayInstr:tpyPayInstrPreList){
+
+				List<String> payTypeList = new ArrayList<String>();
+				payTypeList.add("N");
+				payTypeList.add("A");
+				List<TpyPayInstr> tpyPayInstrPostList = sess.createCriteria(TpyPayInstr.class)
+						.add(Restrictions.eq("id.caseKey", caseKey))
+						.add(Restrictions.eq("id.grtType", tpyPayInstr.getId().getGrtType()))
+						.add(Restrictions.eq("id.frDate", tpyPayInstr.getId().getFrDate()))
+						.add(Restrictions.eq("id.toDate", tpyPayInstr.getId().getToDate()))
+						.add(Restrictions.in("id.payType", payTypeList))
+						.add(Restrictions.eq("id.recSts", "A")).list();
+				if (tpyPayInstrPostList.size() == 0) {
+					logger.info(caseKey + "," + tpyPayInstr.getId().getFrDate() + "," + tpyPayInstr.getId().getToDate()
+							+ "," + tpyPayInstr.getId().getGrtType() + "," + tpyPayInstr.getId().getPayType() + ",A");
+				}
+				Assert.assertTrue(tpyPayInstrPostList.size() == 0);
+			}
+
+			tran.commit();
+
+		}
+
+		catch (Exception e) {
+			logger.error(className + ".testTpyChgOfAcc() -", e);
+			fail(e.getMessage());
+
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+
+		}
+	}
+
+	@Test // test 8, test 9
+	public void testTpyPayInstrFinalResults() {
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+
+		try {
+
+			SessionFactory sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+
+			Date payDate = DateUtils.getDefaultNullableDateTime();
+
+			List<TpyPayInstr> tpyPayInstrPreList = sess.createCriteria(TpyPayInstr.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).add(Restrictions.eq("id.grtType", grtType))
+					.add(Restrictions.ne("id.payType", "M")).add(Restrictions.eq("id.recSts", "P")).list();
+
+			Assert.assertTrue(tpyPayInstrPreList.size() == 6);
+			deleteTpyPayInstrList( sess);
+			deleteTpyNoti(sess);
+			
+
+			
+			List<TpyPayInstr> tpyPayInstrDeleteList = sess.createCriteria(TpyPayInstr.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).add(Restrictions.eq("id.grtType", grtType))
+					.add(Restrictions.ne("id.payType", "M")).add(Restrictions.eq("id.recSts", "A")).list();
+			
+			Assert.assertTrue(tpyPayInstrDeleteList.size() == 0);
+			boolean isDone = runPInsLafis(sess);
+			if (!isDone) {
+				throw new Exception("runPInsLafis() - isDone=false");
+			}
+
+			tran.commit();
+			
+			sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			for (TpyPayInstr tpyPayInstr : tpyPayInstrPreList) {
+
+				List<String> payTypeList = new ArrayList<String>();
+				payTypeList.add("N");
+				payTypeList.add("A");
+				List<TpyPayInstr> tpyPayInstrPostList = sess.createCriteria(TpyPayInstr.class)
+						.add(Restrictions.eq("id.caseKey", caseKey))
+						.add(Restrictions.eq("id.grtType", tpyPayInstr.getId().getGrtType()))
+						.add(Restrictions.eq("id.frDate", tpyPayInstr.getId().getFrDate()))
+						.add(Restrictions.eq("id.toDate", tpyPayInstr.getId().getToDate()))
+						.add(Restrictions.in("id.payType", payTypeList))
+						.add(Restrictions.eq("id.recSts", "A")).list();
+				if (tpyPayInstrPostList.size() == 0) {
+					logger.info(caseKey + "," + tpyPayInstr.getId().getFrDate() + "," + tpyPayInstr.getId().getToDate()
+							+ "," + tpyPayInstr.getId().getGrtType() + "," + tpyPayInstr.getId().getPayType() + ",A");
+				}
+
+				Assert.assertTrue(tpyPayInstrPostList.size() == 0);
+			}
+
+			tran.commit();
+
+		}
+
+		catch (Exception e) {
+			logger.error(className + ".testTpyChgOfAcc() -", e);
+			Assert.assertTrue(false);
+
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+
+		}
+	}
+
+	@Test // test1, test2
+	public void testTpyChgOfAcc() {
+		Session sess = null;
+		Transaction tran = null;
+		CssaDataStubMgr cssaDataStubMgr = new CssaDataStubMgr();
+		TuaUserInfo tuaUserInfo = null;
+		List<TuaUserPost> tuaUserPostList = null;
+
+		try {
+			SessionFactory sf = HibernateUtil.getSessionFactory();
+			sf.openSession();
+			sess = HibernateUtil.getCurrentSession();
+			tran = sess.getTransaction();
+			tran.begin();
+			
+			boolean isDone = runPInsLafis(sess);
+			if (!isDone) {
+				throw new Exception("runPInsLafis() - isDone=false");
+			}
+
+
+
+			String newBankCode = "024";
+			String newBrnCode = "237";
+			String newAccNum = "999982668";
+			Date payDate = DateUtils.getDefaultNullableDateTime();
+
+			List<TpyChgOfAcc> tpyChgOfAccList = sess.createCriteria(TpyChgOfAcc.class)
+					.add(Restrictions.eq("id.caseKey", caseKey)).add(Restrictions.eq("id.newBankCode", newBankCode))
+					.add(Restrictions.eq("id.newBrnCode", newBrnCode)).add(Restrictions.eq("id.newAccNum", newAccNum))
+					.add(Restrictions.eq("id.payDate", payDate)).list();
+
+			Assert.assertTrue(tpyChgOfAccList.size() == 0);
+			tran.commit();
+
+		}
+
+		catch (Exception e) {
+			logger.error(className + ".testTpyChgOfAcc() -", e);
+			fail(e.getMessage());
+
+		} finally {
+			if (sess != null && sess.isOpen()) {
+				sess.close();
+				sess = null;
+			}
+
+		}
+	}
+
+}

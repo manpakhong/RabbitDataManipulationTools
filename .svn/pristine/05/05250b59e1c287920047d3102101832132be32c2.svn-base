@@ -1,0 +1,74 @@
+<dataset>
+  <table name="TCC_EMP_INCM">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>FR_DATE</column>
+    <column>EMP_SEQ_NUM</column>
+    <column>TO_DATE</column>
+    <column>FST_PAY_DATE</column>
+    <column>EARN_TYPE</column>
+    <column>EARN_AMT</column>
+    <column>FST_MTH_DISREGDAMT</column>
+    <column>LAST_UPD_TS</column>
+    <column>MPF_DED_AMT</column>
+    <column>OTH_DED_AMT</column>
+    <column>LAST_PAY_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>1316188</value>
+      <value>7939566</value>
+      <value>2010-05-01</value>
+      <value>7939565</value>
+      <value>2010-05-31</value>
+      <value>2010-06-07</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>1580.65</value>
+      <value>1580.65</value>
+      <value><![CDATA[2010-09-07 10:57:08.172147]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2010-06-07</value>
+      <value>SKM03084</value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1316188</value>
+      <value>7939567</value>
+      <value>2010-06-01</value>
+      <value>7939565</value>
+      <value>2010-06-30</value>
+      <value>2010-07-06</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>7000.00</value>
+      <value>5419.35</value>
+      <value><![CDATA[2010-09-07 10:57:08.226869]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2010-07-06</value>
+      <value>SKM03084</value>
+      <value/>
+    </row>
+    <row>
+      <value>1272994</value>
+      <value>1316188</value>
+      <value>7939568</value>
+      <value>2010-07-01</value>
+      <value>7939565</value>
+      <value>2010-07-31</value>
+      <value>2010-07-23</value>
+      <value><![CDATA[WA                                 ]]></value>
+      <value>4200.00</value>
+      <value>0.00</value>
+      <value><![CDATA[2010-09-07 10:57:08.248495]]></value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>2010-07-23</value>
+      <value>SKM03084</value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,230 @@
+<dataset>
+  <table name="TMS_EVENT_LOG">
+    <column>CASE_KEY</column>
+    <column>EVT_SEQ_NUM</column>
+    <column>CRE_TS</column>
+    <column>STR_TS</column>
+    <column>END_TS</column>
+    <column>EVT_CATLG</column>
+    <column>EVT_TYPE</column>
+    <column>EVT_STYPE</column>
+    <column>EVT_STS</column>
+    <column>EVT_DESC</column>
+    <column>EVT_RMK</column>
+    <column>RSP_UID</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SYS_EVT_IND</column>
+    <column>INI_CNCT_DATE</column>
+    <column>UNDEL_MSG</column>
+    <column>REVW_TYPE</column>
+    <column>CASE_TYPE</column>
+    <column>ASS_RSLT</column>
+    <column>SEND_ID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>RSP_POST</column>
+    <column>RSP_LOGIN_ID</column>
+    <column>SEND_POST</column>
+    <column>SEND_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>TITLE</column>
+    <row>
+      <value>5000984</value>
+      <value>1</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-19 14:33:25.0]]></value>
+      <value>INV</value>
+      <value><![CDATA[NA ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value><![CDATA[        ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 14:33:25.0]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>129</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-19 14:33:25.0]]></value>
+      <value><![CDATA[2017-01-19 16:07:32.431803]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value><![CDATA[        ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-19 16:07:32.431803]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value>SSSA2_LCKFU</value>
+      <value><![CDATA[MR ]]></value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>132</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-19 16:07:32.431803]]></value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[211101000000000000001000000000                    ]]></value>
+      <value/>
+      <value><![CDATA[        ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSA2_LCKFU</value>
+      <value>leungraymondyc</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[MR ]]></value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>133</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-19 16:21:23.001108]]></value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value>DIS</value>
+      <value>DIS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[221101000000100000002000000000                    ]]></value>
+      <value/>
+      <value><![CDATA[        ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSO[SSP_YTM]</value>
+      <value><![CDATA[MR ]]></value>
+    </row>
+    <row>
+      <value>5000984</value>
+      <value>134</value>
+      <value><![CDATA[2017-01-17 11:38:41.324]]></value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>P</value>
+      <value><![CDATA[221101000000200000002000000000                    ]]></value>
+      <value/>
+      <value><![CDATA[        ]]></value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value><![CDATA[OK0100038           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG                          ]]></value>
+      <value><![CDATA[SHUN                          ]]></value>
+      <value><![CDATA[黃             ]]></value>
+      <value><![CDATA[順             ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>kwongwaiming</value>
+      <value><![CDATA[2017-01-19 16:32:14.667]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value/>
+      <value>SSSO[SSP_YTM]</value>
+      <value>yipstellayy</value>
+      <value>SSOII3_LCKFU</value>
+      <value><![CDATA[MR ]]></value>
+    </row>
+  </table>
+</dataset>

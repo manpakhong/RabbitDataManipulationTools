@@ -1,0 +1,90 @@
+<dataset>
+  <table name="TCT_CUST">
+    <column>CUST_KEY</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SURNAME_CCC</column>
+    <column>OTH_NAME_CCC</column>
+    <column>SEX</column>
+    <column>DOB</column>
+    <column>DATE_DTH</column>
+    <column>OCCUP_CODE</column>
+    <column>OCCUP_OD</column>
+    <column>MTH_INCM</column>
+    <column>DTL_REC_IND</column>
+    <column>TP_SP_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>3731257</value>
+      <value><![CDATA[ I4442444           ]]></value>
+      <value>I</value>
+      <value><![CDATA[CHI                           ]]></value>
+      <value><![CDATA[MUN HEI                       ]]></value>
+      <value><![CDATA[朱             ]]></value>
+      <value><![CDATA[敏曦          ]]></value>
+      <value><![CDATA[26121               ]]></value>
+      <value><![CDATA[2404125691          ]]></value>
+      <value>M</value>
+      <value>1958-10-02</value>
+      <value>2015-10-16</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-26 11:13:11.468193]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3735422</value>
+      <value><![CDATA[ T9069970           ]]></value>
+      <value>I</value>
+      <value><![CDATA[MEI                           ]]></value>
+      <value><![CDATA[JINGKUI                       ]]></value>
+      <value><![CDATA[梅             ]]></value>
+      <value><![CDATA[景揆          ]]></value>
+      <value><![CDATA[27341               ]]></value>
+      <value><![CDATA[2529122471          ]]></value>
+      <value>F</value>
+      <value>1978-04-15</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-28 15:21:07.710566]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>3735424</value>
+      <value><![CDATA[S22525027           ]]></value>
+      <value>C</value>
+      <value><![CDATA[CHI                           ]]></value>
+      <value><![CDATA[MAY HOI                       ]]></value>
+      <value><![CDATA[朱             ]]></value>
+      <value><![CDATA[微開          ]]></value>
+      <value><![CDATA[26121               ]]></value>
+      <value><![CDATA[1792170301          ]]></value>
+      <value>M</value>
+      <value>2006-08-18</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[                                                            ]]></value>
+      <value>0.00</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value>WTS04075</value>
+      <value><![CDATA[2015-10-28 15:21:07.711948]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

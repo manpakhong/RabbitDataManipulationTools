@@ -1,0 +1,30 @@
+<dataset>
+  <table name="TMS_PHY_FILE_LOC">
+    <column>CASE_KEY</column>
+    <column>FPN</column>
+    <column>SRC_LOC</column>
+    <column>CRE_DATE</column>
+    <column>INXST_LOC</column>
+    <column>SEND_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>SPECIAL_LOC_IND</column>
+    <column>SPECIAL_REMARKS</column>
+    <column>IS_PHY_FOLDER</column>
+    <row>
+      <value>5000983</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>2017-01-10</value>
+      <value><![CDATA[   ]]></value>
+      <value>1111-11-11</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-10 16:29:44.959939]]></value>
+      <value>SSSA2_LCKFU</value>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+    </row>
+  </table>
+</dataset>

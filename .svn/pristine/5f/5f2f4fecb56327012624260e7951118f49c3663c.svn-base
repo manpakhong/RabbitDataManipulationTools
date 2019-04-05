@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TPY_PRV_PAY_SLIP">
+    <column>CASE_KEY</column>
+    <column>SCHD_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>RTE_CODE</column>
+    <column>AMT_PAY</column>
+    <column>DATE_EMAIL_SENT</column>
+    <column>MULTI_DHP</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

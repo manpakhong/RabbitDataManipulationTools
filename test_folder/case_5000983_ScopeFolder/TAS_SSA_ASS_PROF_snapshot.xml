@@ -1,0 +1,14 @@
+<dataset>
+  <table name="TAS_SSA_ASS_PROF">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>REC_STS</column>
+    <column>TO_DATE</column>
+    <column>GRT_TYPE</column>
+    <column>STB_IND</column>
+    <column>CASE_NAT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

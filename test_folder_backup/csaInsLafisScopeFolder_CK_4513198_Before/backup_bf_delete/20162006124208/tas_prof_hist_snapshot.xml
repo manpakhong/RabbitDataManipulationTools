@@ -1,0 +1,62 @@
+<dataset>
+  <table name="TAS_PROF_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_TYPE</column>
+    <column>ASS_OFFR</column>
+    <column>AUTH_OFFR</column>
+    <column>PROF_DTL</column>
+    <column>AUTO_REVN_IND</column>
+    <column>RSON_CODE</column>
+    <column>RSON_OD</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASS_OFFR_POST</column>
+    <column>ASS_OFFR_LOGIN_ID</column>
+    <column>AUTH_OFFR_POST</column>
+    <column>AUTH_OFFR_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>4513198</value>
+      <value><![CDATA[2015-09-29 16:02:48.77683]]></value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>A</value>
+      <value>SMP04084</value>
+      <value>SMP06012</value>
+      <value><![CDATA[<HCN@SMP-C-045868><HGT@CSA><HAK@3773920><HPD@29/09/2015 16:02:41><MAF@01/09/2015><MAT@29/02/2016><MAD@29/09/2015><TAC@3><AC1@0><AC2@3773920><AC3@3394267><AC4@0><TAR@6><AR1@INDNEED,S11,3394267,01/09/2015,29/02/2016,3425,10110><AR2@INDNEED,S22,3773920,01/09/2015,29/02/2016,2450,10220><AR3@SHRNEED,RT0,0,01/09/2015,30/09/2015,1608,50010><AR4@SHRNEED,RT0,0,01/10/2015,29/02/2016,1812,50010><AR5@SHRNEED,WC0,0,01/09/2015,29/02/2016,16.8,50020><AR6@INDNEED,CLS,3394267,01/09/2015,29/02/2016,300,50200><AR7@INDNEED,STS,3394267,01/09/2015,29/02/2016,255,50210><TMP@6><MP1@FromDate|ToDate|Entitlement|Paid|OverPayment|AddPayment><MP2@01/09/2015|30/09/2015|$8,054.80|$0.00|$0.00|$0.00><MP3@01/10/2015|31/10/2015|$8,258.80|$0.00|$0.00|$0.00><MP4@01/11/2015|30/11/2015|$8,258.80|$0.00|$0.00|$0.00><MP5@01/12/2015|31/12/2015|$8,258.80|$0.00|$0.00|$0.00><MP6@01/01/2016|31/01/2016|$8,258.80|$0.00|$0.00|$0.00><MP7@01/02/2016|29/02/2016|$8,258.80|$0.00|$0.00|$0.00>]]></value>
+      <value>Y</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>SMP06012</value>
+      <value><![CDATA[2015-09-29 17:52:27.369879]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+    <row>
+      <value>4513198</value>
+      <value><![CDATA[2015-10-29 15:21:58.531805]]></value>
+      <value>2015-09-01</value>
+      <value>2016-02-29</value>
+      <value>R</value>
+      <value>SMP04084</value>
+      <value><![CDATA[        ]]></value>
+      <value><![CDATA[<HCN@SMP-C-045868><HGT@CSA><HAK@3773920><HPD@29/10/2015 15:19:57><MAF@01/09/2015><MAT@29/02/2016><MAD@29/10/2015><TAC@3><AC1@0><AC2@3773920><AC3@3394267><AC4@0><TAR@7><AR1@INDNEED,S11,3394267,01/09/2015,29/02/2016,3425,10110><AR2@INDNEED,S21,3773920,01/09/2015,29/02/2016,3015,10210><AR3@SHRNEED,RT0,0,01/09/2015,30/09/2015,1608,50010><AR4@SHRNEED,RT0,0,01/10/2015,29/02/2016,1812,50010><AR5@SHRNEED,WC0,0,01/09/2015,29/02/2016,16.8,50020><AR6@INDNEED,CLS,3773920,01/09/2015,29/02/2016,300,50200><AR7@INDNEED,CLS,3394267,01/09/2015,29/02/2016,300,50200><AR8@INDNEED,STS,3394267,01/09/2015,29/02/2016,255,50210><TMP@6><MP1@FromDate|ToDate|Entitlement|Paid|OverPayment|AddPayment><MP2@01/09/2015|30/09/2015|$8,919.80|$8,055.00|$0.00|$864.80><MP3@01/10/2015|31/10/2015|$9,123.80|$8,259.00|$0.00|$864.80><MP4@01/11/2015|30/11/2015|$9,123.80|$0.00|$0.00|$0.00><MP5@01/12/2015|31/12/2015|$9,123.80|$0.00|$0.00|$0.00><MP6@01/01/2016|31/01/2016|$9,123.80|$0.00|$0.00|$0.00><MP7@01/02/2016|29/02/2016|$9,123.80|$0.00|$0.00|$0.00>]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[                                                                                                                                                                                                        ]]></value>
+      <value>SMP04084</value>
+      <value><![CDATA[2015-10-29 15:21:59.53198]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

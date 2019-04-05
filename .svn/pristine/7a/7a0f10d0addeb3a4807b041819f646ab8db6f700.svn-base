@@ -1,0 +1,98 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value><![CDATA[1998-12-18 11:41:51.0]]></value>
+      <value>1998-12-18</value>
+      <value>WCI</value>
+      <value>C</value>
+      <value>20607</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[WCI02003    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value><![CDATA[1998-12-23 10:23:08.9]]></value>
+      <value>1998-12-23</value>
+      <value>WCI</value>
+      <value>C</value>
+      <value>20607</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>4</value>
+      <value><![CDATA[WCI02003    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value><![CDATA[2000-07-28 12:18:03.8]]></value>
+      <value>2000-07-26</value>
+      <value>WCI</value>
+      <value>C</value>
+      <value>20607</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>5</value>
+      <value><![CDATA[WCI02012    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value><![CDATA[2000-08-10 16:02:51.5]]></value>
+      <value>2000-08-10</value>
+      <value>WCI</value>
+      <value>C</value>
+      <value>20607</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>SP</value>
+      <value>1</value>
+      <value><![CDATA[WCI02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value><![CDATA[2000-08-17 16:53:38.1]]></value>
+      <value>2000-08-17</value>
+      <value>WCI</value>
+      <value>C</value>
+      <value>20607</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>4</value>
+      <value><![CDATA[WCI02010    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

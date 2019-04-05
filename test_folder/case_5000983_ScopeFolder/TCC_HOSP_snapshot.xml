@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TCC_HOSP">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>ACCOM_TYPE</column>
+    <column>INST_CODE</column>
+    <column>INST_TEL_NUM</column>
+    <column>DATE_ADM</column>
+    <column>DATE_DISCHG</column>
+    <column>BUY_PLACE_IND</column>
+    <column>RMK_OFFC</column>
+    <column>TXF_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

@@ -1,0 +1,398 @@
+<dataset>
+  <table name="TCC_SIA_MASTER">
+    <column>SCH_YR</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SDL_RUN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>APP_ID_NUM</column>
+    <column>APP_ID_TYPE</column>
+    <column>APP_ENG_SURNAME</column>
+    <column>APP_ENG_OTH_NAME</column>
+    <column>SPU_ID_NUM</column>
+    <column>SPU_ID_TYPE</column>
+    <column>SPU_ENG_SURNAME</column>
+    <column>SPU_ENG_OTH_NAME</column>
+    <column>STD_ID_NUM</column>
+    <column>STD_ID_TYPE</column>
+    <column>STD_ENG_SURNAME</column>
+    <column>STD_ENG_OTH_NAME</column>
+    <column>STD_DOB</column>
+    <column>EX1_ISSUE_DATE</column>
+    <column>EX1_RATE_PCT</column>
+    <column>CEILING_AMT</column>
+    <column>OPR_PROG_NAME</column>
+    <column>OPR_MATCH_INFO</column>
+    <column>OPR_APP_REF</column>
+    <column>OPR_AMT</column>
+    <column>OPR_VALUE_DATE</column>
+    <column>SIA_ASST_LVL</column>
+    <column>SWD_PAY_DATE</column>
+    <column>SWD_INTSUB_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>2010</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[KAU HAR                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[SHER LAP SAMMY                ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2010-07-19</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2010-08-16</value>
+      <value>1300.00</value>
+      <value>SIAPAYM2</value>
+      <value><![CDATA[2010-08-10 10:06:26.268115]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2011</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ T754972A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HOUNG                         ]]></value>
+      <value><![CDATA[CHING LEE                     ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[PAK BUT                       ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2011-07-19</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2011-08-24</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2011-08-19 14:20:47.187978]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2011</value>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>5</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[CHI HAP                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[TEE SUAN                      ]]></value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value>1994-03-25</value>
+      <value>2012-03-19</value>
+      <value>25</value>
+      <value>650.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>9999-03-03</value>
+      <value>0.00</value>
+      <value>SIAEXTR2</value>
+      <value><![CDATA[2012-06-06 01:24:55.828119]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2012</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[SHEUNG TSANG                  ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2012-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2012-07-26</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2012-07-21 16:47:02.346851]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2012</value>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[CHEUK SZE CHLOE               ]]></value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value>1994-03-25</value>
+      <value>2012-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2012-07-26</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2012-07-21 16:47:02.347266]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2013</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[KUN LOY                       ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2013-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2013-07-25</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2013-07-21 00:37:57.954998]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2013</value>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[                              ]]></value>
+      <value><![CDATA[SUM SHU                       ]]></value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value>1994-03-25</value>
+      <value>2013-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2013-07-25</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2013-07-21 00:37:57.955406]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2014</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ T754972A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HOUNG                         ]]></value>
+      <value><![CDATA[CHING LEE                     ]]></value>
+      <value><![CDATA[ C6064165           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[CHEN HSIANG                   ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2014-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2014-07-23</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2014-07-18 01:48:38.697054]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2014</value>
+      <value>1249191</value>
+      <value>3380455</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ T754972A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HOUNG                         ]]></value>
+      <value><![CDATA[CHING LEE                     ]]></value>
+      <value><![CDATA[ C6064165           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[CHEN HSIANG                   ]]></value>
+      <value><![CDATA[ O294094A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[NHAN                          ]]></value>
+      <value><![CDATA[FON HAN                       ]]></value>
+      <value>1994-03-25</value>
+      <value>2014-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2014-07-23</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2014-07-18 01:48:38.697451]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2015</value>
+      <value>1249191</value>
+      <value>2653258</value>
+      <value>1</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>23374</value>
+      <value><![CDATA[ T754972A           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HOUNG                         ]]></value>
+      <value><![CDATA[CHING LEE                     ]]></value>
+      <value><![CDATA[ C6064165           ]]></value>
+      <value>I</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[CHEN HSIANG                   ]]></value>
+      <value><![CDATA[ A0632220           ]]></value>
+      <value>Z</value>
+      <value><![CDATA[HSUNG                         ]]></value>
+      <value><![CDATA[LIN TSZ                       ]]></value>
+      <value>2004-10-03</value>
+      <value>2015-07-01</value>
+      <value>100</value>
+      <value>1300.00</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[             ]]></value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[ ]]></value>
+      <value>2015-07-29</value>
+      <value>1300.00</value>
+      <value>SIAGENP2</value>
+      <value><![CDATA[2015-07-25 00:35:58.799626]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

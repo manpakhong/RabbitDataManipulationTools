@@ -1,0 +1,11 @@
+<dataset>
+  <table name="TCC_SCH_YR">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SCH_FR_DATE</column>
+    <column>SCH_TO_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

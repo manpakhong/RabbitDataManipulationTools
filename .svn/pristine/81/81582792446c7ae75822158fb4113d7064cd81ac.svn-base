@@ -1,0 +1,98 @@
+<dataset>
+  <table name="TMS_CASE_HIST">
+    <column>CASE_KEY</column>
+    <column>CRE_TS</column>
+    <column>EFF_DATE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>REC_TYPE</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>CASE_STS</column>
+    <column>CRE_OFFR</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[1998-10-27 15:52:17.8]]></value>
+      <value>1998-10-27</value>
+      <value>STN</value>
+      <value>C</value>
+      <value>24934</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>0</value>
+      <value><![CDATA[STN02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[1998-10-30 11:02:29.2]]></value>
+      <value>1998-10-30</value>
+      <value>STN</value>
+      <value>C</value>
+      <value>24934</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value>UT</value>
+      <value>1</value>
+      <value><![CDATA[STN02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[1998-10-30 11:04:40.000644]]></value>
+      <value>1998-10-30</value>
+      <value>STN</value>
+      <value>C</value>
+      <value>24934</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>2</value>
+      <value><![CDATA[STN02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[1998-11-24 15:21:18.013899]]></value>
+      <value>1998-11-24</value>
+      <value>STN</value>
+      <value>C</value>
+      <value>24934</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>3</value>
+      <value><![CDATA[STN05005    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value><![CDATA[1999-06-03 16:48:05.4]]></value>
+      <value>1999-06-03</value>
+      <value>STN</value>
+      <value>C</value>
+      <value>24934</value>
+      <value>1</value>
+      <value>CSA</value>
+      <value><![CDATA[  ]]></value>
+      <value>4</value>
+      <value><![CDATA[STN02002    ]]></value>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

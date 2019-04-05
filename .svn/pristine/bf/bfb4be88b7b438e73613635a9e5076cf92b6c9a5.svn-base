@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TCC_PRE_MTCH">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>DATE_LAST_APPL</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>MTCH_SCNR</column>
+    <column>MTCH_DOE</column>
+    <column>DATE_ABN</column>
+    <column>NOTIED</column>
+    <column>EVTED</column>
+    <column>RPTED</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

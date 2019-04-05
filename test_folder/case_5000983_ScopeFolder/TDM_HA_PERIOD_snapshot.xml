@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TDM_HA_PERIOD">
+    <column>TDM_HA_PERIOD_ID</column>
+    <column>TDM_REG_ID</column>
+    <column>CUST_KEY</column>
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>DAYS</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>DATE_ADM</column>
+    <column>DATE_REL</column>
+  </table>
+</dataset>

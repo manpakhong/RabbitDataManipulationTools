@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TFA_ASS">
+    <column>FAT_REG_KEY</column>
+    <column>FIT_CASE_KEY</column>
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CASE_FILE_NO_ORG</column>
+    <column>FAT_CASE_FILE_NO</column>
+    <column>FAT_REG_STS</column>
+    <column>FAT_REG_DATE</column>
+    <column>FAT_COMP_DATE</column>
+    <column>REFER_SRC</column>
+    <column>ICFC_RSLT</column>
+    <column>REJECT_IND</column>
+    <column>REJECT_DATE</column>
+    <column>REJECT_REASON</column>
+    <column>REJECT_RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>LAST_UPD_TS</column>
+  </table>
+</dataset>

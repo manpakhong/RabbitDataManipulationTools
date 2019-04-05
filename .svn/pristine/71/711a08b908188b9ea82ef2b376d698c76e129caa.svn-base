@@ -1,0 +1,200 @@
+<dataset>
+  <table name="TCC_XREF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>CUST_ROLE</column>
+    <column>RSHP_CODE</column>
+    <column>RSHP_VER_IND</column>
+    <column>RSHP_RMK</column>
+    <column>FPN</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>APPL_IND</column>
+    <column>LIV_IND</column>
+    <column>DEP_IND</column>
+    <column>FIN_DEP_CODE</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DISCR_SEQ_NUM2</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>57835</value>
+      <value>MB</value>
+      <value>FA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:01:06.827159]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>57836</value>
+      <value>MB</value>
+      <value>ML</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CACUPAIC</value>
+      <value><![CDATA[2005-11-27 22:35:06.561079]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>754938</value>
+      <value>MB</value>
+      <value>HU</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:55.079584]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1301973</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-10-10 12:32:51.303777]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04084</value>
+      <value><![CDATA[2014-08-22 09:46:06.799949]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>MB</value>
+      <value>DA</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:36.72535]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2232696</value>
+      <value>AP</value>
+      <value>AP</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:13.920584]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>MB</value>
+      <value>SO</value>
+      <value><![CDATA[ ]]></value>
+      <value/>
+      <value>0</value>
+      <value>CWN</value>
+      <value>C</value>
+      <value>4390</value>
+      <value>CSA</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-08-23 10:32:42.215579]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

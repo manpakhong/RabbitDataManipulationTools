@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <TCS_ADDR CASE_KEY="1305" ADDR_TYPE="R" LANG_TYPE="E" ENG_ROOM="     " ENG_FLOOR="99" ENG_BLOCK="  " ADDR1="469 CASTLE PEAK ROAD                " ADDR2="                                    " ADDR3="                                    " RGN_CODE="2" AREA_CODE="U07" POSTAL_CODE="          " TEL_NUM="11111111      " EST_CODE="      " EST_BLOCK="  " PROC_UNIT="LCK" ACCOM_TYPE="PI " INST_CODE="10PI018   " CHRG_TYPE="   " LAST_UPD_UID="LCK03077" LAST_UPD_TS="2009-08-07 11:25:09.40623" MIS_KEY="533580"/>
+</dataset>

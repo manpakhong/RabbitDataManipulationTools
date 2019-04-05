@@ -1,0 +1,50 @@
+<dataset>
+  <table name="TCC_CUST_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DATE_BUR_GRT</column>
+    <column>SCHD_DATE_TO_CHN</column>
+    <column>HLTH_COND</column>
+    <column>NAME_ILL</column>
+    <column>ACT_STS</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>ACTL_DATE_TO_CHN</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>755427</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>NH</value>
+      <value/>
+      <value><![CDATA[  ]]></value>
+      <value>2001-01-12</value>
+      <value>2001-01-12</value>
+      <value>1111-11-11</value>
+      <value>CWN04074</value>
+      <value><![CDATA[2009-02-17 10:14:47.886737]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1248764</value>
+      <value>1210800</value>
+      <value>0.00</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>DB</value>
+      <value><![CDATA[MENTAL RETARDATION]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>2001-01-12</value>
+      <value>2001-01-12</value>
+      <value>1111-11-11</value>
+      <value>WCI04026</value>
+      <value><![CDATA[2004-12-21 17:01:03.14521]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,56 @@
+<dataset>
+  <table name="TCC_RESI_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>DATE_LAST_APPL</column>
+    <column>LAST_DATE_LAST_APPL</column>
+    <column>LAST_MTCH_END_DATE</column>
+    <column>LAST_MTCH_ELG_DATE</column>
+    <column>MTCH_DOE</column>
+    <column>PEND_MTCH_IND</column>
+    <column>MNL_MTCH_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>PREV_ELG_R1</column>
+    <column>PREV_ELG_R7</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>REOPEN_MTCH_IND</column>
+    <row>
+      <value>1228417</value>
+      <value>754250</value>
+      <value>1111-11-11</value>
+      <value>2001-11-30</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 09:58:19.329332]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>3646541</value>
+      <value>2014-06-12</value>
+      <value>2014-06-12</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>7897619</value>
+      <value>0</value>
+      <value>0</value>
+      <value>PREGTAPE</value>
+      <value><![CDATA[2014-07-31 21:02:10.247382]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,164 @@
+<dataset>
+  <table name="TCC_RESI_INFO">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>DATE_LAST_APPL</column>
+    <column>LAST_DATE_LAST_APPL</column>
+    <column>LAST_MTCH_END_DATE</column>
+    <column>LAST_MTCH_ELG_DATE</column>
+    <column>MTCH_DOE</column>
+    <column>PEND_MTCH_IND</column>
+    <column>MNL_MTCH_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>PREV_ELG_R1</column>
+    <column>PREV_ELG_R7</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>REOPEN_MTCH_IND</column>
+    <row>
+      <value>10647</value>
+      <value>57835</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05035</value>
+      <value><![CDATA[2015-08-17 17:33:17.882643]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>57836</value>
+      <value>1111-11-11</value>
+      <value>1988-04-18</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05035</value>
+      <value><![CDATA[2015-08-17 17:33:17.902192]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>754938</value>
+      <value>1111-11-11</value>
+      <value>1988-04-18</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05035</value>
+      <value><![CDATA[2015-08-17 17:33:17.902302]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1301973</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05035</value>
+      <value><![CDATA[2015-08-17 17:33:17.902402]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>1353500</value>
+      <value>1111-11-11</value>
+      <value>1992-08-12</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05035</value>
+      <value><![CDATA[2015-08-17 17:33:17.9025]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2018961</value>
+      <value>1111-11-11</value>
+      <value>2000-11-08</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN05027</value>
+      <value><![CDATA[2011-12-20 16:34:39.045187]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2232696</value>
+      <value>1111-11-11</value>
+      <value>2002-03-22</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-05-28 14:37:16.32551]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>2960313</value>
+      <value>2007-10-06</value>
+      <value>2007-10-06</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>CWN04070</value>
+      <value><![CDATA[2010-08-23 10:32:42.745995]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,56 @@
+<dataset>
+  <table name="TAS_INELG_PERD">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1171420</value>
+      <value>1998-06-15</value>
+      <value>1998-07-14</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>KCY04018</value>
+      <value><![CDATA[2000-11-07 11:13:01.840434]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2000-12-14</value>
+      <value>2001-07-08</value>
+      <value/>
+      <value>KCY04028</value>
+      <value><![CDATA[2001-07-09 10:41:48.554946]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2003-06-01</value>
+      <value>2003-10-02</value>
+      <value/>
+      <value>KCY04026</value>
+      <value><![CDATA[2003-10-03 14:57:51.765263]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2004-06-01</value>
+      <value>2005-03-23</value>
+      <value/>
+      <value>KCY04035</value>
+      <value><![CDATA[2005-03-24 16:38:56.119732]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1171420</value>
+      <value>2008-09-01</value>
+      <value>2009-02-26</value>
+      <value/>
+      <value>SPK03080</value>
+      <value><![CDATA[2009-02-27 11:53:46.553562]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

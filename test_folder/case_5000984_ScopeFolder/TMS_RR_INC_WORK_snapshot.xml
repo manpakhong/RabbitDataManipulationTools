@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TMS_RR_INC_WORK">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>ORIGINAL_RENT_FR</column>
+    <column>REDUCED_RENT_FR</column>
+    <column>ORIGINAL_RENT_TO</column>
+    <column>REDUCED_RENT_TO</column>
+    <column>PARTIAL_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

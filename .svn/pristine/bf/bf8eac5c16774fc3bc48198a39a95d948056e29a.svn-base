@@ -1,0 +1,4 @@
+Scope Name: SIT_Scope_SIT
+Thread id:1, Job id:20161202_145204_425, (Fri Dec 02 14:52:10 CST 2016-Fri Dec 02 14:52:44 CST 2016)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+value (table=TAS_ELG_STS, row=0, col=RMK) expected:<[                                                                                                                                                                                                        ]> but was:<[]>

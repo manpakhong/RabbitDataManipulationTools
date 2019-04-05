@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TPY_AR_PA_WF">
+    <column>CASE_KEY</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_STS</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>RSON_CODE</column>
+    <column>PAY_ACC_NAME</column>
+    <column>PAY_BANK_CODE</column>
+    <column>PAY_BRN_CODE</column>
+    <column>PAY_ACC_NUM</column>
+    <column>PAY_TYPE_GEN_DATE</column>
+    <column>TOT_ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

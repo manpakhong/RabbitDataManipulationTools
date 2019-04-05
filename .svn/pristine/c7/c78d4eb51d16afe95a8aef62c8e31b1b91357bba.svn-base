@@ -1,0 +1,54 @@
+<dataset>
+  <table name="TCS_OTH_RES">
+    <column>CASE_KEY</column>
+    <column>FST_RCV_DATE</column>
+    <column>LAST_RCV_DATE</column>
+    <column>ITEM_CODE</column>
+    <column>SEQ_NUM</column>
+    <column>ITEM_OD</column>
+    <column>ITEM_TYPE</column>
+    <column>TREAT_TYPE</column>
+    <column>CUST_KEY</column>
+    <column>RES_AMT</column>
+    <column>FREQ_TYPE</column>
+    <column>BRKFT_NUM</column>
+    <column>MEAL_PER_MTH</column>
+    <column>MEAL_PATN</column>
+    <column>FST_MTH_DISREGD</column>
+    <column>PART_DISREGD</column>
+    <column>DATE_VERI</column>
+    <column>SRC_VERI</column>
+    <column>FPN</column>
+    <column>RMK_OFFR</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1248764</value>
+      <value>2001-10-06</value>
+      <value>2002-03-31</value>
+      <value>DSM</value>
+      <value>7916236</value>
+      <value/>
+      <value><![CDATA[OR ]]></value>
+      <value>I</value>
+      <value>0</value>
+      <value>7000.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value>2</value>
+      <value><![CDATA[(MASKED) DOCUMENT]]></value>
+      <value>0</value>
+      <value>WCI04018</value>
+      <value><![CDATA[2002-09-10 10:34:32.169638]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

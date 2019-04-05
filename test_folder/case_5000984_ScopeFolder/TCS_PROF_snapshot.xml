@@ -1,0 +1,22 @@
+<dataset>
+  <table name="TCS_PROF">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000984</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>50167</value>
+      <value>135</value>
+      <value>yipstellayy</value>
+      <value><![CDATA[2017-01-19 16:29:16.337352]]></value>
+      <value>SSSO[SSP_YTM]</value>
+    </row>
+  </table>
+</dataset>

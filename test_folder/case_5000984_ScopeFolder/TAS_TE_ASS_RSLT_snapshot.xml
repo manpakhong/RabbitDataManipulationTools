@@ -1,0 +1,44 @@
+<dataset>
+  <table name="TAS_TE_ASS_RSLT">
+    <column>CASE_KEY</column>
+    <column>REC_STS</column>
+    <column>ASS_DATE</column>
+    <column>ELIG_STS</column>
+    <column>INELIG_RSON_CODE</column>
+    <column>INELIG_RSON_OD</column>
+    <column>BUR_GRT_AMT</column>
+    <column>BUR_GRT_DE</column>
+    <column>BUR_GRT_DE_SWD</column>
+    <column>DTH_GRT_AMT</column>
+    <column>INJ_GRT_FR_DATE</column>
+    <column>INJ_GRT_TO_DATE</column>
+    <column>INJ_GRT_ELIG_DAY</column>
+    <column>INJ_GRT_AMT</column>
+    <column>IM_GRT_FR_DATE</column>
+    <column>IM_GRT_TO_DATE</column>
+    <column>IM_GRT_ELIG_DAY</column>
+    <column>IM_GRT_AMT</column>
+    <column>TOT_INCAP</column>
+    <column>NOTI_FMT</column>
+    <column>EFF_DATE</column>
+    <column>DISABLE_GRT_AMT</column>
+    <column>EMP_COMP_AMT</column>
+    <column>OTH_COMP_AMT</column>
+    <column>PERD_PAY_AMT</column>
+    <column>ADV_PAY_AMT</column>
+    <column>ADV_RCV_AMT</column>
+    <column>EX_GRT_AMT</column>
+    <column>EX_GRT_RMK</column>
+    <column>TOT_ASS_AMT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>INJ_GRT_MA_IND</column>
+    <column>IM_GRT_MA_IND</column>
+    <column>SEQ_NUM</column>
+    <column>CASE_NAT</column>
+    <column>BUR_GRT_ELIG_IND</column>
+    <column>DTH_GRT_ELIG_IND</column>
+    <column>EARN_ROLE</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

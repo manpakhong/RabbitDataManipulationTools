@@ -1,0 +1,21 @@
+<dataset>
+  <table name="TAS_ERF_ASS_PROF">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>BUR_GRT_AMT</column>
+    <column>DTH_GRT_AMT</column>
+    <column>INJ_GRT_AMT</column>
+    <column>INJ_GRT_FR_DATE</column>
+    <column>INJ_GRT_TO_DATE</column>
+    <column>DABLE_GRT_AMT</column>
+    <column>DABLE_GRT_FR_DATE</column>
+    <column>DABLE_GRT_TO_DATE</column>
+    <column>IM_GRT_AMT</column>
+    <column>IM_GRT_FR_DATE</column>
+    <column>IM_GRT_TO_DATE</column>
+    <column>TOT_GRT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

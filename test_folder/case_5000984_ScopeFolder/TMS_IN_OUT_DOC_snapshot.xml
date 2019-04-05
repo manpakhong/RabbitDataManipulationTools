@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TMS_IN_OUT_DOC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>CUST_KEY</column>
+    <column>FLOW_IND</column>
+    <column>CATLG</column>
+    <column>SUBJECT</column>
+    <column>FPN</column>
+    <column>ISS_DATE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>ATT_DESC_ID</column>
+    <column>GEN_FROM</column>
+    <column>ACT_IND</column>
+  </table>
+</dataset>

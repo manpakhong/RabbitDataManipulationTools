@@ -1,0 +1,218 @@
+<dataset>
+  <table name="TPY_PAY_INSTR">
+    <column>CASE_KEY</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_TYPE</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>REC_STS</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>PAY_ARGM</column>
+    <column>PAY_NUM</column>
+    <column>RSON_CODE</column>
+    <column>PAY_ACC_NAME1</column>
+    <column>PAY_BANK_CODE1</column>
+    <column>PAY_BRN_CODE1</column>
+    <column>PAY_ACC_NUM1</column>
+    <column>PAY_MODE2</column>
+    <column>PAY_BANK_SEQ2</column>
+    <column>PAY_ACC_NAME2</column>
+    <column>PAY_BANK_CODE2</column>
+    <column>PAY_BRN_CODE2</column>
+    <column>PAY_ACC_NUM2</column>
+    <column>ID_NUM2</column>
+    <column>ID_TYPE2</column>
+    <column>PURPOSE2</column>
+    <column>OTH_PURPOSE2</column>
+    <column>BANK_PAY_AMT2</column>
+    <column>PAY_MODE3</column>
+    <column>PAY_BANK_SEQ3</column>
+    <column>PAY_ACC_NAME3</column>
+    <column>PAY_BANK_CODE3</column>
+    <column>PAY_BRN_CODE3</column>
+    <column>PAY_ACC_NUM3</column>
+    <column>ID_NUM3</column>
+    <column>ID_TYPE3</column>
+    <column>PURPOSE3</column>
+    <column>OTH_PURPOSE3</column>
+    <column>BANK_PAY_AMT3</column>
+    <column>PAY_MODE4</column>
+    <column>PAY_BANK_SEQ4</column>
+    <column>PAY_ACC_NAME4</column>
+    <column>PAY_BANK_CODE4</column>
+    <column>PAY_BRN_CODE4</column>
+    <column>PAY_ACC_NUM4</column>
+    <column>ID_NUM4</column>
+    <column>ID_TYPE4</column>
+    <column>PURPOSE4</column>
+    <column>OTH_PURPOSE4</column>
+    <column>BANK_PAY_AMT4</column>
+    <column>PAY_MODE5</column>
+    <column>PAY_BANK_SEQ5</column>
+    <column>PAY_ACC_NAME5</column>
+    <column>PAY_BANK_CODE5</column>
+    <column>PAY_BRN_CODE5</column>
+    <column>PAY_ACC_NUM5</column>
+    <column>ID_NUM5</column>
+    <column>ID_TYPE5</column>
+    <column>PURPOSE5</column>
+    <column>OTH_PURPOSE5</column>
+    <column>BANK_PAY_AMT5</column>
+    <column>SIMP_REQ_IND</column>
+    <column>AUTH_SIMP_AMT</column>
+    <column>PEND_SIMP_AMT_ARR</column>
+    <column>PEND_SIMP_DATE_ARR</column>
+    <column>PAY_SLIP_GEN_DATE</column>
+    <column>PAY_TAPE_GEN_DATE</column>
+    <column>TOT_ASS_AMT</column>
+    <column>PAY_INSTR_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>10647</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>A</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[(MASKED) PAYMENT ACCOUNT NAME 1                                       ]]></value>
+      <value>012</value>
+      <value>755</value>
+      <value><![CDATA[99995998 ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[(MASKED) PAYMENT ACCOUNT NAME 2                                       ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>940.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>7826.00</value>
+      <value>N</value>
+      <value><![CDATA[AUTOREV ]]></value>
+      <value><![CDATA[2016-05-28 16:35:13.060471]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>10647</value>
+      <value>CSA</value>
+      <value>N</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>A</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>A</value>
+      <value>1</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[(MASKED) PAYMENT ACCOUNT NAME 1                                       ]]></value>
+      <value>012</value>
+      <value>755</value>
+      <value><![CDATA[99995998 ]]></value>
+      <value>A</value>
+      <value>0</value>
+      <value><![CDATA[(MASKED) PAYMENT ACCOUNT NAME 2                                       ]]></value>
+      <value>004</value>
+      <value>808</value>
+      <value>235238292</value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[R  ]]></value>
+      <value/>
+      <value>1111.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value><![CDATA[                                                                      ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[         ]]></value>
+      <value><![CDATA[                    ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value/>
+      <value/>
+      <value>1111-11-11</value>
+      <value>1111-11-11</value>
+      <value>8547.00</value>
+      <value>N</value>
+      <value><![CDATA[AUTOREV ]]></value>
+      <value><![CDATA[2016-05-28 16:35:13.06213]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

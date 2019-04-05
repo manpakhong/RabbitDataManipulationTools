@@ -1,0 +1,119 @@
+<dataset>
+  <table name="TCT_PREV_ID">
+    <column>ID_TYPE</column>
+    <column>ID_NUM</column>
+    <column>CUST_KEY</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ F1180874           ]]></value>
+      <value>785576</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A8195970           ]]></value>
+      <value>1355418</value>
+      <value/>
+      <value>LCK05022</value>
+      <value><![CDATA[2005-11-02 12:41:21.991881]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ M0865023           ]]></value>
+      <value>1116659</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A5108309           ]]></value>
+      <value>1363663</value>
+      <value/>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-06 14:44:45.935122]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A5108309           ]]></value>
+      <value>1363663</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A4528584           ]]></value>
+      <value>1346125</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A8195970           ]]></value>
+      <value>1355418</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A5108376           ]]></value>
+      <value>1363662</value>
+      <value/>
+      <value><![CDATA[CONVERT ]]></value>
+      <value><![CDATA[2000-10-01 00:00:00.0]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A9780389           ]]></value>
+      <value>2203578</value>
+      <value/>
+      <value>LCK05030</value>
+      <value><![CDATA[2012-06-01 16:19:11.385482]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>Z</value>
+      <value><![CDATA[ A9780389           ]]></value>
+      <value>2203578</value>
+      <value/>
+      <value>LCK03020</value>
+      <value><![CDATA[2002-01-18 14:47:11.17942]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A4528584           ]]></value>
+      <value>1346125</value>
+      <value/>
+      <value>LCK05022</value>
+      <value><![CDATA[2005-11-02 12:39:27.427665]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>I</value>
+      <value><![CDATA[ A5108376           ]]></value>
+      <value>1363662</value>
+      <value/>
+      <value>LCK05022</value>
+      <value><![CDATA[2005-11-02 14:02:21.57339]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

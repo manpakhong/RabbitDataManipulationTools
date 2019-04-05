@@ -1,0 +1,27 @@
+<dataset>
+  <table name="TPY_CHG_OF_ACC">
+    <column>CASE_KEY</column>
+    <column>NEW_BANK_CODE</column>
+    <column>NEW_BRN_CODE</column>
+    <column>NEW_ACC_NUM</column>
+    <column>PAY_DATE</column>
+    <column>NEW_ACC_NAME</column>
+    <column>TXN_TS</column>
+    <column>OLD_BANK_CODE</column>
+    <column>OLD_BRN_CODE</column>
+    <column>OLD_ACC_NUM</column>
+    <column>OLD_ACC_NAME</column>
+    <column>AMT</column>
+    <column>PAY_CODE</column>
+    <column>CRE_DATE</column>
+    <column>REQ_BY_ID</column>
+    <column>REQ_BY_PU</column>
+    <column>PRT_DATE</column>
+    <column>CHG_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <column>REQ_BY_POST</column>
+    <column>REQ_BY_LOGIN_ID</column>
+  </table>
+</dataset>

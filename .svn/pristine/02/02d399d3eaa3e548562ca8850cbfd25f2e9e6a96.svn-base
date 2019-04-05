@@ -1,0 +1,33 @@
+<dataset>
+  <table name="TPY_BANK_PAY">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>PAY_TYPE</column>
+    <column>RSON_CODE</column>
+    <column>PAY_MTHD</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>VT_CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>PAY_DATE</column>
+    <column>P_DATE</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>RCVR_FR_DATE</column>
+    <column>RCVR_TO_DATE</column>
+    <column>ACC_NAME</column>
+    <column>PURPOSE_CODE</column>
+    <column>PAY_AMT</column>
+    <column>DATE_PT_GEN</column>
+    <column>PAYEE_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

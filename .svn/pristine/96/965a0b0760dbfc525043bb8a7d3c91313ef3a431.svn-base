@@ -1,0 +1,18 @@
+<dataset>
+  <table name="TAS_IM_GRT_PROF">
+    <column>CASE_KEY</column>
+    <column>TO_DATE</column>
+    <column>IM_GRT_ELIG_IND</column>
+    <column>INELIG_RSON_CODE</column>
+    <column>INELIG_RSON_OD</column>
+    <column>REST_DAY_CODE</column>
+    <column>DE_WKDAY</column>
+    <column>IM_GRT_REST_DAY</column>
+    <column>IM_GRT_UFX_REST_M</column>
+    <column>IM_GRT_UFX_REST_W</column>
+    <column>RMK</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

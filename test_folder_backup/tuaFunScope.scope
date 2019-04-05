@@ -1,0 +1,12 @@
+tua_fun_snapshot.xml;tua_fun_accs_ctl_snapshot.xml
+TUA_FUN;TUA_FUN_ACCS_CTL
+tuaFunScopeFolder
+tuaFunScope
+select * from prddbs1.TUA_FUN
+select * from prddbs1.TUA_FUN_ACCS_CTL
+-----------------------------------------------------------------------------------------------
+select * from prddbs1.TUA_FUN
+select * from prddbs1.TUA_FUN_ACCS_CTL
+...................................................................................
+-BLANK-
+-BLANK-

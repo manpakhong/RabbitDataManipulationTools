@@ -1,0 +1,20 @@
+<dataset>
+  <table name="TPY_AP_RTN_SP">
+    <column>SPMT_ID</column>
+    <column>CASE_KEY</column>
+    <column>PROC_DATE</column>
+    <column>ACC_NAME</column>
+    <column>AP_AMT</column>
+    <column>AP_RTN_TYPE</column>
+    <column>MNL_INP</column>
+    <column>PAY_DATE</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>REJ_CODE</column>
+    <column>PROC_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

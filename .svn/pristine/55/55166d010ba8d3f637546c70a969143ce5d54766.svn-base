@@ -1,0 +1,29 @@
+<dataset>
+  <table name="TAS_INELG_PERD">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>2000-01-11</value>
+      <value>2001-12-02</value>
+      <value/>
+      <value>LCK04011</value>
+      <value><![CDATA[2001-12-03 14:47:29.654466]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2012-11-22</value>
+      <value>2013-01-01</value>
+      <value><![CDATA[(MASKED) REMARKS AND REASON !]]></value>
+      <value>LCK04110</value>
+      <value><![CDATA[2013-01-08 11:28:35.83102]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

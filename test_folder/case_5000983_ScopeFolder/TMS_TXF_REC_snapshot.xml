@@ -1,0 +1,45 @@
+<dataset>
+  <table name="TMS_TXF_REC">
+    <column>CASE_KEY</column>
+    <column>SEQ_NUM</column>
+    <column>TXF_TYPE</column>
+    <column>TXF_STS</column>
+    <column>NEW_PROC_UNIT</column>
+    <column>NEW_SCHM_TYPE</column>
+    <column>NEW_SER_NUM</column>
+    <column>NEW_ASSG_OFFR</column>
+    <column>NEW_APPR_OFFR</column>
+    <column>NEW_APPR_DATE</column>
+    <column>NEW_CASE_NAT</column>
+    <column>NEW_GRT_TYPE</column>
+    <column>PREV_PROC_UNIT</column>
+    <column>PREV_SCHM_TYPE</column>
+    <column>PREV_SER_NUM</column>
+    <column>PREV_ASSG_OFFR</column>
+    <column>PREV_APPR_OFFR</column>
+    <column>PREV_APPR_DATE</column>
+    <column>PREV_CASE_NAT</column>
+    <column>PREV_GRT_TYPE</column>
+    <column>CASE_STS</column>
+    <column>CASE_STS_PCSSA</column>
+    <column>FAMLY_IND</column>
+    <column>STB_IND</column>
+    <column>REQ_OFFR</column>
+    <column>REQ_DATE</column>
+    <column>SRCH_IND</column>
+    <column>REC_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>NEW_ASSG_OFFR_POST</column>
+    <column>NEW_APPR_OFFR_POST</column>
+    <column>PREV_ASSG_OFFR_POST</column>
+    <column>PREV_APPR_OFFR_POST</column>
+    <column>REQ_OFFR_POST</column>
+    <column>LAST_UPD_POST</column>
+    <column>NEW_ASSG_OFFR_LOGIN_ID</column>
+    <column>NEW_APPR_OFFR_LOGIN_ID</column>
+    <column>PREV_ASSG_OFFR_LOGIN_ID</column>
+    <column>PREV_APPR_OFFR_LOGIN_ID</column>
+    <column>REQ_OFFR_LOGIN_ID</column>
+  </table>
+</dataset>

@@ -1,0 +1,46 @@
+<dataset>
+  <table name="TCS_APPL_PERD">
+    <column>CASE_KEY</column>
+    <column>DATE_APPL</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_CLS</column>
+    <column>SCHM_TYPE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>CRE_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1256557</value>
+      <value>1999-01-12</value>
+      <value>1999-01-12</value>
+      <value>2000-04-06</value>
+      <value>C</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:15:57.436162]]></value>
+      <value><![CDATA[2000-10-01 21:15:57.518787]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2001-12-03</value>
+      <value>2001-12-03</value>
+      <value>2002-01-21</value>
+      <value>C</value>
+      <value>LCK05015</value>
+      <value><![CDATA[2002-01-21 10:01:25.079178]]></value>
+      <value><![CDATA[2001-12-03 14:47:29.54769]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1256557</value>
+      <value>2003-05-22</value>
+      <value>2003-05-22</value>
+      <value>1111-11-11</value>
+      <value>C</value>
+      <value>LCK04072</value>
+      <value><![CDATA[2003-06-14 10:11:45.504605]]></value>
+      <value><![CDATA[2003-05-22 15:04:01.632112]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

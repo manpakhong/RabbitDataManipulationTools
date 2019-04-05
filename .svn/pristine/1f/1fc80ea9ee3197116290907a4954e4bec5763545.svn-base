@@ -1,0 +1,2238 @@
+<dataset>
+  <table name="TCS_HSE_EXP">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>LANG_TYPE</column>
+    <column>ACCOM_TYPE</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>AREA_CODE</column>
+    <column>RGN_CODE</column>
+    <column>HSE_CODE</column>
+    <column>INST_CODE</column>
+    <column>RSON_CODE_HSE</column>
+    <column>RSON_OD_HSE</column>
+    <column>OWN_TYPE</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>RENT</column>
+    <column>INC_WC_IND</column>
+    <column>INC_WCIR_IND</column>
+    <column>GOVT_RENT</column>
+    <column>LIC_FEE</column>
+    <column>LAND_TAX</column>
+    <column>LAND_RENT</column>
+    <column>PMT_FEE</column>
+    <column>MORT_PAY</column>
+    <column>PPTY_TAX</column>
+    <column>RATES</column>
+    <column>MGT_FEE</column>
+    <column>ANTE_FEE</column>
+    <column>OTH_ITEM_DESC</column>
+    <column>OTH_ITEM_AMT</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>PRO_RENT_IND</column>
+    <column>PRO_RENT_NUM</column>
+    <column>PRO_RENT_DEN</column>
+    <column>ACT_RENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>1228417</value>
+      <value>2011-08-01</value>
+      <value>2011-09-30</value>
+      <value>7897532</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:49:01.474044]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2011-10-01</value>
+      <value>2012-03-31</value>
+      <value>7897533</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>868.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:49:01.494856]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2013-04-01</value>
+      <value>2013-07-31</value>
+      <value>7897550</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>946.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2013-07-13 18:21:44.578181]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2012-07-01</value>
+      <value>2012-09-30</value>
+      <value>7897557</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-06-16 22:30:35.557604]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2012-10-01</value>
+      <value>2013-03-31</value>
+      <value>7897558</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>958.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-09-08 18:12:51.32572]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2014-04-01</value>
+      <value>2014-07-31</value>
+      <value>7897574</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>937.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-07-19 13:21:33.685917]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2013-08-01</value>
+      <value>2013-09-30</value>
+      <value>7897581</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2013-07-13 18:21:44.583327]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2013-10-01</value>
+      <value>2014-03-31</value>
+      <value>7897582</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>946.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2013-07-13 18:21:44.604146]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2014-10-01</value>
+      <value>2015-03-31</value>
+      <value>7897607</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1229.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-03-21 15:29:54.851607]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2014-08-01</value>
+      <value>2014-08-31</value>
+      <value>7897638</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-07-19 13:21:33.691745]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2014-09-01</value>
+      <value>2014-09-30</value>
+      <value>7897639</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1048.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2014-08-16 17:25:10.290786]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2015-04-01</value>
+      <value>2015-07-31</value>
+      <value>7897676</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1037.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:09.950391]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2015-10-01</value>
+      <value>2016-03-31</value>
+      <value>7897677</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1229.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:10.402566]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>7897692</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:09.955149]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>7897693</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1037.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2015-07-11 13:18:09.955972]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2016-04-01</value>
+      <value>2016-08-31</value>
+      <value>7897748</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1029.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:10.407869]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2016-09-01</value>
+      <value>9999-01-01</value>
+      <value>7897749</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1229.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2016-03-19 12:15:10.409302]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2001-12-30</value>
+      <value>2001-12-31</value>
+      <value>7897250</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>37HE01</value>
+      <value>02</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[2 ]]></value>
+      <value><![CDATA[BLOCK 2                                                                 ]]></value>
+      <value><![CDATA[PO TIN INTERIM HOUSING, TUEN MUN                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>G14</value>
+      <value>3</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>350.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value>Y</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 09:39:09.272239]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2002-01-01</value>
+      <value>2002-12-31</value>
+      <value>7897251</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>37HE01</value>
+      <value>02</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[2 ]]></value>
+      <value><![CDATA[BLOCK 2                                                                 ]]></value>
+      <value><![CDATA[PO TIN INTERIM HOUSING, TUEN MUN                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>G14</value>
+      <value>3</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>317.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>2</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 10:39:40.233861]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2003-01-01</value>
+      <value>2004-11-30</value>
+      <value>7897285</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>37HE01</value>
+      <value>02</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[2 ]]></value>
+      <value><![CDATA[BLOCK 2                                                                 ]]></value>
+      <value><![CDATA[PO TIN INTERIM HOUSING, TUEN MUN                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>G14</value>
+      <value>3</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>350.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2003-11-12</value>
+      <value>2</value>
+      <value>N</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-26 11:59:11.376273]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2004-12-01</value>
+      <value>2005-12-31</value>
+      <value>7897327</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>37HE01</value>
+      <value>02</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[2 ]]></value>
+      <value><![CDATA[BLOCK 2                                                                 ]]></value>
+      <value><![CDATA[PO TIN INTERIM HOUSING, TUEN MUN                                        ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>G14</value>
+      <value>3</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>350.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>N</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-12-29 09:34:35.791967]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2006-01-02</value>
+      <value>2007-01-31</value>
+      <value>7897358</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1100.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>RRSAREV3</value>
+      <value><![CDATA[2006-12-24 03:48:42.450367]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-02-01</value>
+      <value>2007-02-28</value>
+      <value>7897380</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>RRSAREV3</value>
+      <value><![CDATA[2006-12-25 03:38:44.837373]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-03-01</value>
+      <value>2007-03-31</value>
+      <value>7897381</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>1100.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.833496]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-04-01</value>
+      <value>2007-07-31</value>
+      <value>7897413</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>978.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.849137]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-08-01</value>
+      <value>2007-09-30</value>
+      <value>7897414</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>850.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.869777]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-10-01</value>
+      <value>2007-10-31</value>
+      <value>7897415</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>972.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>Y</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.890621]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2007-11-01</value>
+      <value>2007-12-31</value>
+      <value>7897398</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>972.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.909178]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2008-01-01</value>
+      <value>2008-03-31</value>
+      <value>7897416</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>850.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-03-21 21:13:16.91477]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2008-04-01</value>
+      <value>2008-07-31</value>
+      <value>7897417</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>843.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-06-08 05:30:25.979316]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2008-08-01</value>
+      <value>2008-08-31</value>
+      <value>7897434</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-06-08 05:30:25.986885]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2008-09-01</value>
+      <value>2008-10-31</value>
+      <value>7897435</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-07-27 00:31:35.24355]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2008-11-01</value>
+      <value>2009-03-31</value>
+      <value>7897440</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>843.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2008-07-27 00:31:35.251095]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2009-04-01</value>
+      <value>2009-07-31</value>
+      <value>7897418</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>843.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-20 23:49:39.090612]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2009-08-01</value>
+      <value>2009-09-30</value>
+      <value>7897466</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-20 23:49:39.098123]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2009-10-01</value>
+      <value>2010-03-31</value>
+      <value>7897459</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>843.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2009-06-27 19:10:06.525004]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2010-04-01</value>
+      <value>2010-06-30</value>
+      <value>7897467</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>836.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-06-05 22:53:50.604252]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2010-07-01</value>
+      <value>2010-08-31</value>
+      <value>7897498</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-06-05 22:53:50.609373]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2010-09-01</value>
+      <value>2010-09-30</value>
+      <value>7897499</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>0.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2010-08-21 19:38:32.205065]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2010-10-01</value>
+      <value>2011-03-31</value>
+      <value>7897504</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>881.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-26 14:35:47.615245]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2011-04-01</value>
+      <value>2011-07-31</value>
+      <value>7897493</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>868.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2011-06-18 18:49:01.466696]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>2012-04-01</value>
+      <value>2012-06-30</value>
+      <value>7897525</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE08</value>
+      <value>09</value>
+      <value><![CDATA[888 X]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[HOI SHUI HOUSE                                                          ]]></value>
+      <value><![CDATA[HOI LAI ESTATE                                                          ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U10</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>Y</value>
+      <value/>
+      <value>857.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>2005-12-29</value>
+      <value>5</value>
+      <value>O</value>
+      <value><![CDATA[(MASKED) Rent or Rate]]></value>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>ARAUPDH3</value>
+      <value><![CDATA[2012-06-16 22:30:35.550415]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

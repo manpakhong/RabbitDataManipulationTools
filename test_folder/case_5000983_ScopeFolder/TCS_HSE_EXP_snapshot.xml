@@ -1,0 +1,262 @@
+<dataset>
+  <table name="TCS_HSE_EXP">
+    <column>CASE_KEY</column>
+    <column>FR_DATE</column>
+    <column>TO_DATE</column>
+    <column>SEQ_NUM</column>
+    <column>LANG_TYPE</column>
+    <column>ACCOM_TYPE</column>
+    <column>EST_CODE</column>
+    <column>EST_BLOCK</column>
+    <column>ENG_ROOM</column>
+    <column>ENG_FLOOR</column>
+    <column>ENG_BLOCK</column>
+    <column>ADDR1</column>
+    <column>ADDR2</column>
+    <column>ADDR3</column>
+    <column>AREA_CODE</column>
+    <column>RGN_CODE</column>
+    <column>HSE_CODE</column>
+    <column>INST_CODE</column>
+    <column>RSON_CODE_HSE</column>
+    <column>RSON_OD_HSE</column>
+    <column>OWN_TYPE</column>
+    <column>INC_ALL_IND</column>
+    <column>CUST_KEY_ARR</column>
+    <column>RENT</column>
+    <column>INC_WC_IND</column>
+    <column>INC_WCIR_IND</column>
+    <column>GOVT_RENT</column>
+    <column>LIC_FEE</column>
+    <column>LAND_TAX</column>
+    <column>LAND_RENT</column>
+    <column>PMT_FEE</column>
+    <column>MORT_PAY</column>
+    <column>PPTY_TAX</column>
+    <column>RATES</column>
+    <column>MGT_FEE</column>
+    <column>ANTE_FEE</column>
+    <column>OTH_ITEM_DESC</column>
+    <column>OTH_ITEM_AMT</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>DATE_RCPT</column>
+    <column>FPN</column>
+    <column>RCPT_CHK_IND</column>
+    <column>RMK_OFFC</column>
+    <column>PRO_RENT_IND</column>
+    <column>PRO_RENT_NUM</column>
+    <column>PRO_RENT_DEN</column>
+    <column>ACT_RENT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>2015-05-09</value>
+      <value>2015-09-08</value>
+      <value>116</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE05</value>
+      <value>06</value>
+      <value><![CDATA[1206 ]]></value>
+      <value>12</value>
+      <value><![CDATA[6 ]]></value>
+      <value><![CDATA[CHERRY HOUSE                                                            ]]></value>
+      <value><![CDATA[SO UK ESTATE                                                            ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>4001140,4001141,4001142</value>
+      <value>2356.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-12 15:07:25.053]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2015-09-09</value>
+      <value>2016-06-30</value>
+      <value>146</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE05</value>
+      <value>06</value>
+      <value><![CDATA[1206 ]]></value>
+      <value>12</value>
+      <value><![CDATA[6 ]]></value>
+      <value><![CDATA[CHERRY HOUSE                                                            ]]></value>
+      <value><![CDATA[SO UK ESTATE                                                            ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>4001140,4001141,4001142</value>
+      <value>2356.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:26:45.988]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2016-07-01</value>
+      <value>9999-01-01</value>
+      <value>263</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>10HE05</value>
+      <value>06</value>
+      <value><![CDATA[1206 ]]></value>
+      <value>12</value>
+      <value><![CDATA[6 ]]></value>
+      <value><![CDATA[CHERRY HOUSE                                                            ]]></value>
+      <value><![CDATA[SO UK ESTATE                                                            ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>U09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>4001140,4001141</value>
+      <value>2356.00</value>
+      <value>Y</value>
+      <value>E</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:28:45.946]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2016-06-18</value>
+      <value>2016-06-30</value>
+      <value>264</value>
+      <value>E</value>
+      <value><![CDATA[HE ]]></value>
+      <value>16HE05</value>
+      <value>04</value>
+      <value><![CDATA[912  ]]></value>
+      <value><![CDATA[9 ]]></value>
+      <value><![CDATA[4 ]]></value>
+      <value><![CDATA[TAT FUNG HOUSE                                                          ]]></value>
+      <value><![CDATA[PO TAT ESTATE                                                           ]]></value>
+      <value><![CDATA[                                                                        ]]></value>
+      <value>S09</value>
+      <value>2</value>
+      <value>R</value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>N</value>
+      <value>4001142,4001143,4001144,4001145,4001146,4001147</value>
+      <value>2756.00</value>
+      <value>N</value>
+      <value>N</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value>0.00</value>
+      <value/>
+      <value>0.00</value>
+      <value>0</value>
+      <value>1111-11-11</value>
+      <value>0</value>
+      <value>O</value>
+      <value/>
+      <value>N</value>
+      <value>0</value>
+      <value>0</value>
+      <value>0.00</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:34:57.336]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

@@ -1,0 +1,144 @@
+<dataset>
+  <table name="TCS_CSSA">
+    <column>CASE_KEY</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>PAY_ARGM</column>
+    <column>DHP_RGN</column>
+    <column>DHP_INST</column>
+    <column>DHP_LOC</column>
+    <column>DHP_SUB_LOC</column>
+    <column>RTE_CODE</column>
+    <column>SRC_REF</column>
+    <column>DATE_REF</column>
+    <column>STB_IND</column>
+    <column>FAMLY_IND</column>
+    <column>SPOU_LOC</column>
+    <column>LIV_COND</column>
+    <column>PAY_DAY</column>
+    <column>PAY_MTH_STR_DAY</column>
+    <column>ISS_DATE_MW</column>
+    <column>LAST_PAY_DATE</column>
+    <column>LAST_NOR_PAY_DATE</column>
+    <column>WRITE_OFF_IND</column>
+    <column>PAY_EXPIRY_DATE</column>
+    <column>CASE_STS</column>
+    <column>PAY_STS</column>
+    <column>INVT_STR_TS</column>
+    <column>HLP_INVT_PU</column>
+    <column>PROC_FLOW_STG</column>
+    <column>DATE_FST_ELIG</column>
+    <column>DATE_ELIG</column>
+    <column>DATE_FST_APPL</column>
+    <column>DATE_APPL</column>
+    <column>DATE_CLS</column>
+    <column>CLS_RSON_CODE</column>
+    <column>CLS_RSON_OD</column>
+    <column>SP_BU_DATE1</column>
+    <column>SP_BU_RSON1</column>
+    <column>SP_BU_DATE2</column>
+    <column>SP_BU_RSON2</column>
+    <column>SP_BU_DATE3</column>
+    <column>SP_BU_RSON3</column>
+    <column>SP_BU_DATE4</column>
+    <column>SP_BU_RSON4</column>
+    <column>SP_BU_DATE5</column>
+    <column>SP_BU_RSON5</column>
+    <column>CASE_STS_PCSSA</column>
+    <column>LAST_FPN</column>
+    <column>ASSG_DATE</column>
+    <column>ASSG_OFFR</column>
+    <column>ASSG_IND</column>
+    <column>DATE_IR</column>
+    <column>PEND_IND_ARR</column>
+    <column>NOTI_LANG</column>
+    <column>FIN_LINK</column>
+    <column>REV_RMK</column>
+    <column>REV_DATE</column>
+    <column>REV_CLN</column>
+    <column>REV_MODE</column>
+    <column>REV_RSLT</column>
+    <column>MA_REASON</column>
+    <column>MI_REASON</column>
+    <column>DATE_GEN_LETTER</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>ASSG_OFFR_POST</column>
+    <column>LAST_UPD_POST</column>
+    <column>PREV_ASSG_OFFR_POST</column>
+    <row>
+      <value>1272994</value>
+      <value>SKM</value>
+      <value>C</value>
+      <value>27335</value>
+      <value>CSA</value>
+      <value>OA</value>
+      <value>A</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[    ]]></value>
+      <value><![CDATA[    ]]></value>
+      <value><![CDATA[     ]]></value>
+      <value>1</value>
+      <value>1999-03-08</value>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value>5</value>
+      <value>1</value>
+      <value>1111-11-11</value>
+      <value>2016-07-05</value>
+      <value>2016-07-31</value>
+      <value>N</value>
+      <value>2016-09-30</value>
+      <value>A</value>
+      <value>P</value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>AU</value>
+      <value>1999-03-08</value>
+      <value>1999-03-08</value>
+      <value>1999-03-08</value>
+      <value>1999-03-08</value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value/>
+      <value>1111-11-11</value>
+      <value/>
+      <value>2016-08-10</value>
+      <value><![CDATA[(MASKED) REASON2: MAF FOR, REVIEWED, OR EXPIRED]]></value>
+      <value>1111-11-11</value>
+      <value/>
+      <value>1111-11-11</value>
+      <value/>
+      <value>1111-11-11</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>20</value>
+      <value>2013-05-10</value>
+      <value>SKM04115</value>
+      <value>R</value>
+      <value>2014-02-01</value>
+      <value>000000000000000000000000000000</value>
+      <value>C</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[(MASKED) Remark for case 1272994]]></value>
+      <value>08/03/2004</value>
+      <value>01</value>
+      <value>02</value>
+      <value>01</value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[CACR003 ]]></value>
+      <value><![CDATA[2016-06-30 21:58:08.613208]]></value>
+      <value>SSSA12_SKMFU</value>
+      <value/>
+      <value/>
+    </row>
+  </table>
+</dataset>

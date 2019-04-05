@@ -1,0 +1,4752 @@
+<dataset>
+  <table name="TMS_EVENT_LOG">
+    <column>CASE_KEY</column>
+    <column>EVT_SEQ_NUM</column>
+    <column>CRE_TS</column>
+    <column>STR_TS</column>
+    <column>END_TS</column>
+    <column>EVT_CATLG</column>
+    <column>EVT_TYPE</column>
+    <column>EVT_STYPE</column>
+    <column>EVT_STS</column>
+    <column>EVT_DESC</column>
+    <column>EVT_RMK</column>
+    <column>RSP_UID</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>ID_NUM</column>
+    <column>ID_TYPE</column>
+    <column>ENG_SURNAME</column>
+    <column>ENG_OTH_NAME</column>
+    <column>CHN_SURNAME</column>
+    <column>CHN_OTH_NAME</column>
+    <column>SYS_EVT_IND</column>
+    <column>INI_CNCT_DATE</column>
+    <column>UNDEL_MSG</column>
+    <column>REVW_TYPE</column>
+    <column>CASE_TYPE</column>
+    <column>ASS_RSLT</column>
+    <column>SEND_ID</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>RSP_POST</column>
+    <column>RSP_LOGIN_ID</column>
+    <column>SEND_POST</column>
+    <column>SEND_LOGIN_ID</column>
+    <column>LAST_UPD_POST</column>
+    <column>TITLE</column>
+    <row>
+      <value>1228417</value>
+      <value>7897657</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-23 09:45:48.514796]]></value>
+      <value><![CDATA[2014-10-23 09:49:08.534885]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-23 09:49:11.978724]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897646</value>
+      <value><![CDATA[2014-10-01 21:16:05.469545]]></value>
+      <value><![CDATA[2014-10-01 21:16:05.46953]]></value>
+      <value><![CDATA[2014-10-03 17:34:33.32736]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-03 17:34:35.612124]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897628</value>
+      <value><![CDATA[2014-06-30 11:25:12.111197]]></value>
+      <value><![CDATA[2014-06-30 11:25:12.111197]]></value>
+      <value><![CDATA[2014-06-30 11:27:40.126075]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-06-30 11:27:43.776855]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897242</value>
+      <value><![CDATA[2001-09-14 10:25:20.752088]]></value>
+      <value><![CDATA[2001-09-14 10:25:20.752088]]></value>
+      <value><![CDATA[2001-09-14 18:36:39.699914]]></value>
+      <value>INV</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>SSP02012</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>42622</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SSP02012</value>
+      <value>SSP05019</value>
+      <value><![CDATA[2001-09-14 18:36:43.030292]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897243</value>
+      <value><![CDATA[2001-09-14 10:25:20.752088]]></value>
+      <value><![CDATA[2001-09-14 18:36:39.699954]]></value>
+      <value><![CDATA[2001-10-09 15:33:47.60277]]></value>
+      <value>INV</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>SSP04046</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>42622</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SSP05019</value>
+      <value>SSP04046</value>
+      <value><![CDATA[2001-10-09 15:33:52.725079]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897245</value>
+      <value><![CDATA[2001-09-14 10:25:20.752088]]></value>
+      <value><![CDATA[2001-10-09 15:33:47.60277]]></value>
+      <value><![CDATA[2001-10-09 18:15:07.570764]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[000000100000000000000000000000                    ]]></value>
+      <value/>
+      <value>SSP06003</value>
+      <value>SSP</value>
+      <value>C</value>
+      <value>42622</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SSP04046</value>
+      <value>SSP04046</value>
+      <value><![CDATA[2001-10-09 18:15:13.021064]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897247</value>
+      <value><![CDATA[2001-12-05 16:43:44.022462]]></value>
+      <value><![CDATA[2001-12-05 16:43:44.022462]]></value>
+      <value><![CDATA[2001-12-05 17:15:25.212504]]></value>
+      <value>INV</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG02004</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG02004</value>
+      <value>THG06002</value>
+      <value><![CDATA[2001-12-05 17:15:29.240598]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897248</value>
+      <value><![CDATA[2001-12-05 16:43:44.022462]]></value>
+      <value><![CDATA[2001-12-05 17:15:26.212635]]></value>
+      <value><![CDATA[2002-01-28 15:44:22.66619]]></value>
+      <value>INV</value>
+      <value><![CDATA[RA ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04006</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG06002</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:44:28.955923]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897252</value>
+      <value><![CDATA[2002-01-28 10:20:29.72297]]></value>
+      <value><![CDATA[2002-01-28 09:27:45.40649]]></value>
+      <value><![CDATA[2002-01-28 10:20:29.72297]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04006</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04006</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 10:20:31.279757]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897254</value>
+      <value><![CDATA[2002-01-28 15:36:11.617128]]></value>
+      <value><![CDATA[2002-01-28 14:00:00.0]]></value>
+      <value><![CDATA[2002-01-28 15:00:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04006</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2002-01-28</value>
+      <value>N</value>
+      <value>R</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>THG04006</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:36:12.935828]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897265</value>
+      <value><![CDATA[2001-12-05 16:43:44.022462]]></value>
+      <value><![CDATA[2002-01-28 15:44:22.66619]]></value>
+      <value><![CDATA[2002-01-28 15:50:31.703168]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04006</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04006</value>
+      <value>THG04006</value>
+      <value><![CDATA[2002-01-28 15:50:35.434732]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897266</value>
+      <value><![CDATA[2001-12-05 16:43:44.022462]]></value>
+      <value><![CDATA[2002-01-28 15:50:31.703168]]></value>
+      <value><![CDATA[2002-01-28 15:58:21.750146]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG06002</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04006</value>
+      <value>THG06002</value>
+      <value><![CDATA[2002-01-28 15:58:27.079234]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897588</value>
+      <value><![CDATA[2013-10-10 14:44:11.305143]]></value>
+      <value><![CDATA[2013-10-10 14:44:11.305143]]></value>
+      <value><![CDATA[2013-10-10 14:46:54.321422]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK03101</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03101</value>
+      <value>LCK03101</value>
+      <value><![CDATA[2013-10-10 14:46:57.939851]]></value>
+      <value>SSSA9_YL[E]FU</value>
+      <value>chuchuiling</value>
+      <value>SSSA9_YL[E]FU</value>
+      <value>chuchuiling</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897590</value>
+      <value><![CDATA[2013-10-10 14:44:11.305143]]></value>
+      <value><![CDATA[2013-10-10 14:46:54.321422]]></value>
+      <value><![CDATA[2013-10-10 15:28:49.572919]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[000001000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05031</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03101</value>
+      <value>LCK05031</value>
+      <value><![CDATA[2013-10-10 15:28:52.047955]]></value>
+      <value/>
+      <value/>
+      <value>SSSA9_YL[E]FU</value>
+      <value>chuchuiling</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897591</value>
+      <value><![CDATA[2013-10-11 14:28:33.211344]]></value>
+      <value><![CDATA[2013-10-11 14:28:33.211344]]></value>
+      <value><![CDATA[2013-10-15 15:15:35.493524]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>SIB71125</value>
+      <value>SIB</value>
+      <value>C</value>
+      <value>87172</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SIB75030</value>
+      <value>SIB71125</value>
+      <value><![CDATA[2013-10-15 15:15:35.540107]]></value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value>SSOII3_TIT</value>
+      <value>chanck</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897751</value>
+      <value><![CDATA[2016-04-01 11:11:44.030395]]></value>
+      <value><![CDATA[2016-04-01 11:11:44.030395]]></value>
+      <value><![CDATA[2016-04-01 12:05:41.35416]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 12:05:43.76395]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897754</value>
+      <value><![CDATA[2016-04-01 11:43:02.218206]]></value>
+      <value><![CDATA[2016-04-01 11:11:13.027384]]></value>
+      <value><![CDATA[2016-04-01 11:43:02.218206]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 11:43:02.834107]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897755</value>
+      <value><![CDATA[2016-04-01 11:11:44.030395]]></value>
+      <value><![CDATA[2016-04-01 12:05:41.35416]]></value>
+      <value><![CDATA[2016-04-01 12:11:27.388762]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-04-01 12:11:29.211945]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897756</value>
+      <value><![CDATA[2016-04-01 11:11:44.030395]]></value>
+      <value><![CDATA[2016-04-01 12:11:27.388762]]></value>
+      <value><![CDATA[2016-04-05 17:14:02.204226]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05034</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2016-04-05 17:14:03.34709]]></value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897279</value>
+      <value><![CDATA[2002-10-21 21:12:38.626733]]></value>
+      <value><![CDATA[2002-10-21 21:12:38.626718]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.242661]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG05007</value>
+      <value><![CDATA[2004-04-02 17:37:01.242661]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897281</value>
+      <value><![CDATA[2002-11-30 14:59:01.238181]]></value>
+      <value><![CDATA[2002-11-30 14:59:01.238167]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.372799]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG05007</value>
+      <value><![CDATA[2004-04-02 17:37:01.372799]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897282</value>
+      <value><![CDATA[2002-12-23 10:01:34.609416]]></value>
+      <value><![CDATA[2002-12-23 09:44:42.5082]]></value>
+      <value><![CDATA[2002-12-23 10:01:34.609416]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 10:01:40.276691]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897283</value>
+      <value><![CDATA[2002-12-23 10:31:28.788889]]></value>
+      <value><![CDATA[2002-12-23 10:31:28.788889]]></value>
+      <value><![CDATA[2002-12-23 10:54:51.929184]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 10:54:56.959871]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897287</value>
+      <value><![CDATA[2002-12-23 10:31:28.788889]]></value>
+      <value><![CDATA[2002-12-23 10:54:51.929184]]></value>
+      <value><![CDATA[2002-12-23 11:08:19.009969]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 11:08:22.642727]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897288</value>
+      <value><![CDATA[2002-12-23 10:31:28.788889]]></value>
+      <value><![CDATA[2002-12-23 11:08:19.009969]]></value>
+      <value><![CDATA[2002-12-23 16:03:43.782313]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG05007</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG05007</value>
+      <value><![CDATA[2002-12-23 16:03:49.549671]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897289</value>
+      <value><![CDATA[2002-12-23 11:10:43.024376]]></value>
+      <value><![CDATA[2002-12-20 14:00:00.0]]></value>
+      <value><![CDATA[2002-12-20 14:30:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2002-12-20</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2002-12-23 11:10:44.971099]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897301</value>
+      <value><![CDATA[2003-10-21 21:00:04.710193]]></value>
+      <value><![CDATA[2003-10-21 21:00:04.710179]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.63498]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG05007</value>
+      <value><![CDATA[2004-04-02 17:37:01.63498]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897302</value>
+      <value><![CDATA[2003-11-12 10:37:20.824081]]></value>
+      <value><![CDATA[2003-11-12 10:37:20.824081]]></value>
+      <value><![CDATA[2003-11-12 11:01:26.968598]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 11:01:48.874744]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897304</value>
+      <value><![CDATA[2003-11-12 10:37:20.824081]]></value>
+      <value><![CDATA[2003-11-12 11:01:26.968598]]></value>
+      <value><![CDATA[2003-11-12 11:39:56.199661]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 11:40:00.284791]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897306</value>
+      <value><![CDATA[2003-11-12 10:37:20.824081]]></value>
+      <value><![CDATA[2003-11-12 11:39:56.199661]]></value>
+      <value><![CDATA[2003-11-13 17:44:14.385395]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG05007</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG05007</value>
+      <value><![CDATA[2003-11-13 17:44:16.900738]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897307</value>
+      <value><![CDATA[2003-11-12 11:43:27.220723]]></value>
+      <value><![CDATA[2003-11-11 14:00:00.0]]></value>
+      <value><![CDATA[2003-11-11 14:30:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2003-11-11</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 11:43:27.760336]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897308</value>
+      <value><![CDATA[2003-11-12 11:43:45.222507]]></value>
+      <value><![CDATA[2003-11-12 10:12:54.677424]]></value>
+      <value><![CDATA[2003-11-12 11:43:45.222507]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04012</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04012</value>
+      <value>THG04012</value>
+      <value><![CDATA[2003-11-12 11:43:46.37133]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897314</value>
+      <value><![CDATA[2002-10-21 21:12:38.626733]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.090739]]></value>
+      <value><![CDATA[2004-04-03 08:55:44.214482]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG05007</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-04-03 08:55:45.859664]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897315</value>
+      <value><![CDATA[2002-11-30 14:59:01.238181]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.275642]]></value>
+      <value><![CDATA[2004-04-03 08:55:47.214734]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG05007</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-04-03 08:55:48.346386]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897316</value>
+      <value><![CDATA[2003-10-21 21:00:04.710193]]></value>
+      <value><![CDATA[2004-04-02 17:37:01.391938]]></value>
+      <value><![CDATA[2004-04-06 17:49:07.414767]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG05007</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-04-06 17:49:07.961031]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897324</value>
+      <value><![CDATA[2004-10-21 21:44:59.531673]]></value>
+      <value><![CDATA[2004-10-21 21:44:59.531658]]></value>
+      <value><![CDATA[2004-12-01 18:44:28.746883]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-12-01 18:44:30.065327]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897326</value>
+      <value><![CDATA[2004-11-26 11:55:45.29452]]></value>
+      <value><![CDATA[2004-11-26 11:55:45.29452]]></value>
+      <value><![CDATA[2004-11-30 17:01:31.129174]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04014</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-30 17:01:36.842275]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897329</value>
+      <value><![CDATA[2004-11-26 12:10:12.38127]]></value>
+      <value><![CDATA[2004-11-26 11:54:45.288576]]></value>
+      <value><![CDATA[2004-11-26 12:10:12.38127]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04014</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-26 12:10:15.503373]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897330</value>
+      <value><![CDATA[2004-11-26 11:55:45.29452]]></value>
+      <value><![CDATA[2004-11-30 17:01:31.129174]]></value>
+      <value><![CDATA[2004-11-30 17:07:28.164821]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04014</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-30 17:07:29.62087]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897331</value>
+      <value><![CDATA[2004-11-26 11:55:45.29452]]></value>
+      <value><![CDATA[2004-11-30 17:07:28.164821]]></value>
+      <value><![CDATA[2004-12-01 17:30:05.300528]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG05016</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04014</value>
+      <value>THG05016</value>
+      <value><![CDATA[2004-12-01 17:37:14.010404]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897332</value>
+      <value><![CDATA[2004-11-30 17:08:17.169697]]></value>
+      <value><![CDATA[2004-11-30 14:00:00.0]]></value>
+      <value><![CDATA[2004-11-30 15:00:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2004-11-30</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>THG04014</value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-11-30 17:08:16.445679]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897333</value>
+      <value><![CDATA[2004-11-30 21:02:48.716577]]></value>
+      <value><![CDATA[2004-11-30 21:02:48.716562]]></value>
+      <value><![CDATA[2004-12-01 18:44:31.747098]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04014</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG04014</value>
+      <value><![CDATA[2004-12-01 18:44:32.20323]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897345</value>
+      <value><![CDATA[2005-10-21 21:04:51.855739]]></value>
+      <value><![CDATA[2005-10-21 21:04:51.855724]]></value>
+      <value><![CDATA[2005-10-29 11:27:46.1266]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 11:27:47.72803]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897346</value>
+      <value><![CDATA[2005-10-29 09:52:50.557058]]></value>
+      <value><![CDATA[2005-10-29 09:52:50.557058]]></value>
+      <value><![CDATA[2005-10-29 11:18:15.069495]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 11:18:24.424155]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897348</value>
+      <value><![CDATA[2005-10-29 10:08:51.653126]]></value>
+      <value><![CDATA[2005-10-29 09:51:49.550952]]></value>
+      <value><![CDATA[2005-10-29 10:08:51.653126]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 10:08:53.738605]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897349</value>
+      <value><![CDATA[2005-10-29 09:52:50.557058]]></value>
+      <value><![CDATA[2005-10-29 11:18:15.069495]]></value>
+      <value><![CDATA[2005-10-29 11:26:08.116888]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 11:26:13.670521]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897350</value>
+      <value><![CDATA[2005-10-29 11:19:37.07775]]></value>
+      <value><![CDATA[2005-10-28 09:20:00.0]]></value>
+      <value><![CDATA[2005-10-28 11:40:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2005-10-28</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-10-29 11:19:40.704413]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897351</value>
+      <value><![CDATA[2005-10-29 09:52:50.557058]]></value>
+      <value><![CDATA[2005-10-29 11:26:08.116888]]></value>
+      <value><![CDATA[2005-10-31 09:37:41.466145]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG05015</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG05015</value>
+      <value><![CDATA[2005-10-31 09:37:44.828387]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897354</value>
+      <value><![CDATA[2005-12-29 09:12:30.315072]]></value>
+      <value><![CDATA[2005-12-29 09:12:30.315072]]></value>
+      <value><![CDATA[2005-12-29 09:48:14.52945]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-12-29 09:48:21.743985]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897357</value>
+      <value><![CDATA[2005-12-29 09:36:42.460276]]></value>
+      <value><![CDATA[2005-12-29 09:07:23.28435]]></value>
+      <value><![CDATA[2005-12-29 09:36:42.460276]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-12-29 09:36:47.328674]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897359</value>
+      <value><![CDATA[2005-12-29 09:12:30.315072]]></value>
+      <value><![CDATA[2005-12-29 09:48:14.52945]]></value>
+      <value><![CDATA[2005-12-29 09:54:04.564444]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>THG04032</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG04032</value>
+      <value><![CDATA[2005-12-29 09:54:08.312374]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897360</value>
+      <value><![CDATA[2005-12-29 09:12:30.315072]]></value>
+      <value><![CDATA[2005-12-29 09:54:04.564444]]></value>
+      <value><![CDATA[2005-12-29 11:07:28.004884]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002201000000000000000000000000                    ]]></value>
+      <value/>
+      <value>THG05015</value>
+      <value>THG</value>
+      <value>C</value>
+      <value>8899</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>THG04032</value>
+      <value>THG05015</value>
+      <value><![CDATA[2005-12-29 11:07:30.376745]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897361</value>
+      <value><![CDATA[2006-01-05 09:28:29.410986]]></value>
+      <value><![CDATA[2006-01-05 09:28:29.410986]]></value>
+      <value><![CDATA[2006-01-05 14:14:05.124517]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK05023</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2006-01-05 14:14:07.122095]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897373</value>
+      <value><![CDATA[2006-10-21 14:57:10.381751]]></value>
+      <value><![CDATA[2006-10-21 14:57:10.381737]]></value>
+      <value><![CDATA[2006-11-20 17:43:00.378003]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04086</value>
+      <value><![CDATA[2006-11-20 17:43:00.764546]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897375</value>
+      <value><![CDATA[2006-11-17 11:45:54.235421]]></value>
+      <value><![CDATA[2006-11-17 11:45:54.235421]]></value>
+      <value><![CDATA[2006-11-24 17:30:19.301907]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2006-11-24 17:30:25.027064]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897376</value>
+      <value><![CDATA[2006-11-24 17:25:19.271909]]></value>
+      <value><![CDATA[2006-11-24 15:00:00.0]]></value>
+      <value><![CDATA[2006-11-24 17:15:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2006-11-24</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2006-11-24 17:25:22.095566]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897377</value>
+      <value><![CDATA[2006-11-17 11:45:54.235421]]></value>
+      <value><![CDATA[2006-11-24 17:30:19.301907]]></value>
+      <value><![CDATA[2006-11-24 17:34:28.32679]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2006-11-24 17:34:29.92737]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897378</value>
+      <value><![CDATA[2006-11-17 11:45:54.235421]]></value>
+      <value><![CDATA[2006-11-24 17:34:28.32679]]></value>
+      <value><![CDATA[2006-11-25 10:33:25.800507]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05022</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK05022</value>
+      <value><![CDATA[2006-11-25 10:33:28.011951]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897399</value>
+      <value><![CDATA[2007-10-21 21:44:22.381349]]></value>
+      <value><![CDATA[2007-10-21 21:44:22.381333]]></value>
+      <value><![CDATA[2007-11-14 17:48:28.410887]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04086</value>
+      <value><![CDATA[2007-11-14 17:48:31.372572]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897400</value>
+      <value><![CDATA[2007-11-12 09:49:05.534498]]></value>
+      <value><![CDATA[2007-11-12 09:49:05.534498]]></value>
+      <value><![CDATA[2007-11-15 17:40:09.360985]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2007-11-15 17:40:19.159534]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897403</value>
+      <value><![CDATA[2007-11-12 09:49:05.534498]]></value>
+      <value><![CDATA[2007-11-15 17:40:09.360985]]></value>
+      <value><![CDATA[2007-11-15 17:44:14.385421]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2007-11-15 17:44:20.052148]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897404</value>
+      <value><![CDATA[2007-11-12 09:49:05.534498]]></value>
+      <value><![CDATA[2007-11-15 17:44:14.385421]]></value>
+      <value><![CDATA[2007-11-16 15:39:49.638945]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05026</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK05026</value>
+      <value><![CDATA[2007-11-16 15:39:55.301699]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897444</value>
+      <value><![CDATA[2008-10-21 22:15:48.046686]]></value>
+      <value><![CDATA[2008-10-21 22:15:48.046671]]></value>
+      <value><![CDATA[2008-11-20 17:37:39.345926]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04086</value>
+      <value><![CDATA[2008-11-20 17:37:46.058573]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897445</value>
+      <value><![CDATA[2008-11-10 09:54:35.567513]]></value>
+      <value><![CDATA[2008-11-10 09:54:35.567513]]></value>
+      <value><![CDATA[2008-11-20 17:29:50.29904]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2008-11-20 17:30:04.510174]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897448</value>
+      <value><![CDATA[2008-11-20 17:28:07.288769]]></value>
+      <value><![CDATA[2008-11-20 15:00:00.0]]></value>
+      <value><![CDATA[2008-11-20 17:00:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2008-11-20</value>
+      <value>N</value>
+      <value>V</value>
+      <value>U</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2008-11-20 17:28:12.711423]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897449</value>
+      <value><![CDATA[2008-11-10 09:54:35.567513]]></value>
+      <value><![CDATA[2008-11-20 17:29:50.29904]]></value>
+      <value><![CDATA[2008-11-20 17:33:32.321213]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04086</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK04086</value>
+      <value><![CDATA[2008-11-20 17:33:39.267453]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897450</value>
+      <value><![CDATA[2008-11-10 09:54:35.567513]]></value>
+      <value><![CDATA[2008-11-20 17:33:32.321213]]></value>
+      <value><![CDATA[2008-11-21 18:15:22.572228]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05027</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04086</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2008-11-21 18:15:30.189357]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897472</value>
+      <value><![CDATA[2009-10-01 20:24:21.976103]]></value>
+      <value><![CDATA[2009-10-01 20:24:21.976089]]></value>
+      <value><![CDATA[2009-10-05 15:44:00.664039]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04105</value>
+      <value><![CDATA[2009-10-05 15:44:06.021886]]></value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897473</value>
+      <value><![CDATA[2009-10-05 15:40:31.643136]]></value>
+      <value><![CDATA[2009-10-05 15:40:31.643136]]></value>
+      <value><![CDATA[2009-10-06 12:24:04.464437]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04105</value>
+      <value>LCK04105</value>
+      <value><![CDATA[2009-10-06 12:24:11.156862]]></value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897475</value>
+      <value><![CDATA[2009-10-05 15:40:31.643136]]></value>
+      <value><![CDATA[2009-10-06 12:24:04.464437]]></value>
+      <value><![CDATA[2009-10-06 12:27:45.486589]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04105</value>
+      <value>LCK04105</value>
+      <value><![CDATA[2009-10-06 12:27:50.136978]]></value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897476</value>
+      <value><![CDATA[2009-10-05 15:40:31.643136]]></value>
+      <value><![CDATA[2009-10-06 12:27:45.486589]]></value>
+      <value><![CDATA[2009-10-09 09:52:54.557406]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05027</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04105</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2009-10-09 09:52:59.967684]]></value>
+      <value/>
+      <value/>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897477</value>
+      <value><![CDATA[2009-10-06 12:28:09.488916]]></value>
+      <value><![CDATA[2009-10-06 12:14:14.405398]]></value>
+      <value><![CDATA[2009-10-06 12:28:09.488916]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04105</value>
+      <value>LCK04105</value>
+      <value><![CDATA[2009-10-06 12:28:15.910057]]></value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value>SSSA2_SSPFU</value>
+      <value>poonmikewm</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897478</value>
+      <value><![CDATA[2009-10-09 09:53:25.560556]]></value>
+      <value><![CDATA[2009-10-09 09:53:25.560556]]></value>
+      <value><![CDATA[2009-10-09 09:55:34.573484]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[This event is generated by CHUNG, WAI KI (LCK05027) for Helping Out-of-Course Review.]]></value>
+      <value>LCK05027</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK05027</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2009-10-09 09:55:46.203913]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897479</value>
+      <value><![CDATA[2009-10-09 09:53:25.560556]]></value>
+      <value><![CDATA[2009-10-09 09:55:34.573484]]></value>
+      <value><![CDATA[2009-10-09 09:56:27.578745]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[000000000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05027</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK05027</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2009-10-09 09:56:29.517888]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897506</value>
+      <value><![CDATA[2010-10-01 21:08:03.986742]]></value>
+      <value><![CDATA[2010-10-01 21:08:03.986728]]></value>
+      <value><![CDATA[2010-10-08 17:41:30.99415]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03091</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK05027</value>
+      <value><![CDATA[2010-10-08 17:41:30.99415]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897507</value>
+      <value><![CDATA[2010-10-01 21:08:03.986742]]></value>
+      <value><![CDATA[2010-10-08 17:41:30.950539]]></value>
+      <value><![CDATA[2010-10-13 18:41:31.72916]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03092</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK05027</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-13 18:41:32.775021]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897508</value>
+      <value><![CDATA[2010-10-13 18:39:27.716704]]></value>
+      <value><![CDATA[2010-10-13 18:39:27.716704]]></value>
+      <value><![CDATA[2010-10-26 14:38:16.269597]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK03092</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03092</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-26 14:38:22.562998]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897512</value>
+      <value><![CDATA[2010-10-26 14:30:39.223931]]></value>
+      <value><![CDATA[2010-10-26 14:17:38.145836]]></value>
+      <value><![CDATA[2010-10-26 14:30:39.223931]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03092</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03092</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-26 14:30:42.164376]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897513</value>
+      <value><![CDATA[2010-10-13 18:39:27.716704]]></value>
+      <value><![CDATA[2010-10-26 14:38:16.269597]]></value>
+      <value><![CDATA[2010-10-26 14:42:41.296116]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK03092</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03092</value>
+      <value>LCK03092</value>
+      <value><![CDATA[2010-10-26 14:42:44.564226]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897514</value>
+      <value><![CDATA[2010-10-13 18:39:27.716704]]></value>
+      <value><![CDATA[2010-10-26 14:42:41.296116]]></value>
+      <value><![CDATA[2010-10-27 15:50:27.702772]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05027</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03092</value>
+      <value>LCK05027</value>
+      <value><![CDATA[2010-10-27 15:50:37.002281]]></value>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897587</value>
+      <value><![CDATA[2013-10-01 19:57:57.166107]]></value>
+      <value><![CDATA[2013-10-01 19:57:57.166092]]></value>
+      <value><![CDATA[2013-10-10 14:47:41.326164]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03101</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK03101</value>
+      <value><![CDATA[2013-10-10 14:47:48.573807]]></value>
+      <value>SSSA9_YL[E]FU</value>
+      <value>chuchuiling</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897592</value>
+      <value><![CDATA[2013-10-15 09:12:52.317255]]></value>
+      <value><![CDATA[2013-10-15 09:12:52.317255]]></value>
+      <value><![CDATA[2013-10-15 09:19:58.359866]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>SIB71125</value>
+      <value>SIB</value>
+      <value>C</value>
+      <value>87172</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SIB71125</value>
+      <value>SIB71125</value>
+      <value><![CDATA[2013-10-15 09:20:02.676959]]></value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897594</value>
+      <value><![CDATA[2013-10-15 09:12:52.317255]]></value>
+      <value><![CDATA[2013-10-15 09:19:58.359866]]></value>
+      <value><![CDATA[2013-10-15 09:25:01.390141]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>SIB71125</value>
+      <value>SIB</value>
+      <value>C</value>
+      <value>87172</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SIB71125</value>
+      <value>SIB71125</value>
+      <value><![CDATA[2013-10-15 09:25:02.731483]]></value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897595</value>
+      <value><![CDATA[2013-10-15 09:12:52.317255]]></value>
+      <value><![CDATA[2013-10-15 09:25:01.390141]]></value>
+      <value><![CDATA[2013-10-15 16:01:56.771606]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002201000000000000000000000000                    ]]></value>
+      <value/>
+      <value>SIB75027</value>
+      <value>SIB</value>
+      <value>C</value>
+      <value>87172</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>SIB71125</value>
+      <value>SIB75027</value>
+      <value><![CDATA[2013-10-15 16:01:57.423599]]></value>
+      <value>SSOII1_TIT</value>
+      <value>chanchungyee</value>
+      <value>SSA1_TIT</value>
+      <value>lawkinshek</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897598</value>
+      <value><![CDATA[2013-10-22 10:29:54.779408]]></value>
+      <value><![CDATA[2013-10-22 10:29:54.779408]]></value>
+      <value><![CDATA[2013-10-23 11:01:27.968721]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03101</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK05031</value>
+      <value>LCK03101</value>
+      <value><![CDATA[2013-10-23 11:01:27.674744]]></value>
+      <value>SSSA9_YL[E]FU</value>
+      <value>chuchuiling</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897614</value>
+      <value><![CDATA[2014-05-27 15:23:32.541265]]></value>
+      <value><![CDATA[2014-05-27 15:11:44.470436]]></value>
+      <value><![CDATA[2014-05-27 15:23:32.541265]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03090</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03090</value>
+      <value>LCK03090</value>
+      <value><![CDATA[2014-05-27 15:23:34.830825]]></value>
+      <value>SSA3_LCKFU</value>
+      <value>hokitying</value>
+      <value>SSA3_LCKFU</value>
+      <value>hokitying</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897615</value>
+      <value><![CDATA[2014-06-12 10:52:23.914347]]></value>
+      <value><![CDATA[2014-06-12 10:52:23.914347]]></value>
+      <value><![CDATA[2014-06-12 14:47:10.32308]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK03105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03105</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 14:47:17.860975]]></value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897618</value>
+      <value><![CDATA[2014-06-12 11:49:02.254236]]></value>
+      <value><![CDATA[2014-06-12 10:51:54.91146]]></value>
+      <value><![CDATA[2014-06-12 11:49:02.254236]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK03105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03105</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-12 11:49:04.875996]]></value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897620</value>
+      <value><![CDATA[2014-06-12 10:52:23.914347]]></value>
+      <value><![CDATA[2014-06-12 14:47:10.32308]]></value>
+      <value><![CDATA[2014-06-19 11:47:39.245895]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK03105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03105</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-19 11:47:35.642286]]></value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897623</value>
+      <value><![CDATA[2014-06-12 10:52:23.914347]]></value>
+      <value><![CDATA[2014-06-19 11:47:39.245895]]></value>
+      <value><![CDATA[2014-06-24 16:04:27.786706]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[202200000000200000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05033</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03105</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2014-06-24 16:04:34.749939]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897625</value>
+      <value><![CDATA[2014-06-24 17:48:05.408533]]></value>
+      <value><![CDATA[2014-06-24 17:48:05.408533]]></value>
+      <value><![CDATA[2014-06-24 17:50:46.424637]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[This event is generated by YU, CHUNG KEI (LCK03105) for Helping Out-of-Course Review.]]></value>
+      <value>LCK03105</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK03105</value>
+      <value>LCK03105</value>
+      <value><![CDATA[2014-06-24 17:50:49.217338]]></value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value>SSA11_LCKFU</value>
+      <value>yuchungkei</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897629</value>
+      <value><![CDATA[2014-07-13 03:42:16.883443]]></value>
+      <value><![CDATA[2014-07-13 03:42:16.883428]]></value>
+      <value><![CDATA[2014-07-16 17:19:46.2386]]></value>
+      <value>INV</value>
+      <value>ICS</value>
+      <value><![CDATA[ICSR009   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ O4732961           ]]></value>
+      <value>I</value>
+      <value><![CDATA[JOU                           ]]></value>
+      <value><![CDATA[YIM YUNG                      ]]></value>
+      <value><![CDATA[周             ]]></value>
+      <value><![CDATA[灧蓉          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-07-16 17:19:49.549583]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897632</value>
+      <value><![CDATA[2014-07-16 16:49:53.059341]]></value>
+      <value><![CDATA[2014-07-16 16:49:53.059341]]></value>
+      <value><![CDATA[2014-07-16 16:51:12.067229]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-07-16 16:51:27.14854]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897633</value>
+      <value><![CDATA[2014-07-16 16:49:53.059341]]></value>
+      <value><![CDATA[2014-07-16 16:51:12.067229]]></value>
+      <value><![CDATA[2014-07-16 17:04:25.146494]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-07-16 17:04:29.76063]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897636</value>
+      <value><![CDATA[2014-07-16 16:49:53.059341]]></value>
+      <value><![CDATA[2014-07-16 17:04:25.146494]]></value>
+      <value><![CDATA[2014-07-17 15:02:55.417529]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002220000200000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05033</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2014-07-17 15:03:00.866923]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897637</value>
+      <value><![CDATA[2014-07-17 17:21:11.247183]]></value>
+      <value><![CDATA[2014-07-17 17:21:11.247183]]></value>
+      <value><![CDATA[2014-07-17 17:28:52.293213]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-07-17 17:28:56.116739]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897647</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-22 12:01:41.330103]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-22 12:01:51.151094]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897649</value>
+      <value><![CDATA[2014-10-14 10:06:40.640047]]></value>
+      <value><![CDATA[2014-10-14 09:49:42.53828]]></value>
+      <value><![CDATA[2014-10-14 10:06:40.640047]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-14 10:06:42.863245]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897652</value>
+      <value><![CDATA[2014-10-22 11:56:54.301433]]></value>
+      <value><![CDATA[2014-10-17 15:00:00.0]]></value>
+      <value><![CDATA[2014-10-17 16:45:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2014-10-17</value>
+      <value>N</value>
+      <value>V</value>
+      <value>F</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-22 11:56:55.796279]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897653</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-22 12:01:41.330103]]></value>
+      <value><![CDATA[2014-10-22 12:05:39.353936]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-22 12:05:43.428233]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897654</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-22 12:05:39.353936]]></value>
+      <value><![CDATA[2014-10-23 09:44:59.50989]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[001100000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05033</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-23 09:45:02.533519]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897655</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-23 09:44:59.50989]]></value>
+      <value><![CDATA[2014-12-10 11:36:00.175992]]></value>
+      <value>REM</value>
+      <value>REM</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK05033</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2014-12-10 11:36:01.260232]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897656</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-23 09:44:59.50989]]></value>
+      <value><![CDATA[2014-10-23 09:45:48.514796]]></value>
+      <value>INV</value>
+      <value>INV</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2014-10-23 09:45:54.365967]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897658</value>
+      <value><![CDATA[2014-10-13 14:37:49.266925]]></value>
+      <value><![CDATA[2014-10-23 09:49:08.534885]]></value>
+      <value><![CDATA[2014-10-23 10:25:03.750325]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05033</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05033</value>
+      <value><![CDATA[2014-10-23 10:25:08.553531]]></value>
+      <value>SSOII3_LCKFU</value>
+      <value>kwongwaiming</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897702</value>
+      <value><![CDATA[2015-10-01 20:23:36.006393]]></value>
+      <value><![CDATA[2015-10-01 20:23:36.006392]]></value>
+      <value><![CDATA[2015-10-05 11:29:49.138932]]></value>
+      <value>INV</value>
+      <value>CAC</value>
+      <value><![CDATA[CACR005   ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[        ]]></value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-10-05 11:29:50.07218]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value/>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897706</value>
+      <value><![CDATA[2015-10-23 11:08:01.008158]]></value>
+      <value><![CDATA[2015-10-23 11:08:01.008158]]></value>
+      <value><![CDATA[2015-11-11 14:58:25.390498]]></value>
+      <value>INV</value>
+      <value><![CDATA[NR ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-11-11 14:58:31.259818]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897708</value>
+      <value><![CDATA[2015-10-26 11:25:47.114767]]></value>
+      <value><![CDATA[2015-10-26 11:00:46.964634]]></value>
+      <value><![CDATA[2015-10-26 11:25:47.114767]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-10-26 11:25:48.288532]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897709</value>
+      <value><![CDATA[2015-11-11 14:52:41.35617]]></value>
+      <value><![CDATA[2015-10-19 16:30:00.0]]></value>
+      <value><![CDATA[2015-10-19 17:00:00.0]]></value>
+      <value>ACT</value>
+      <value><![CDATA[HV ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>2015-10-19</value>
+      <value>N</value>
+      <value>V</value>
+      <value>F</value>
+      <value><![CDATA[GETINFO   ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-11-11 14:52:43.377186]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897710</value>
+      <value><![CDATA[2015-10-23 11:08:01.008158]]></value>
+      <value><![CDATA[2015-11-11 14:58:25.390498]]></value>
+      <value><![CDATA[2015-11-11 15:03:44.422463]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-11-11 15:03:46.838143]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897711</value>
+      <value><![CDATA[2015-10-23 11:08:01.008158]]></value>
+      <value><![CDATA[2015-11-11 15:03:44.422463]]></value>
+      <value><![CDATA[2015-11-12 15:56:03.736367]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05034</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2015-11-12 15:55:02.939701]]></value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897715</value>
+      <value><![CDATA[2015-12-09 11:23:13.09933]]></value>
+      <value><![CDATA[2015-12-09 11:23:13.09933]]></value>
+      <value><![CDATA[2015-12-09 11:47:01.242155]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-09 11:47:03.670473]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897718</value>
+      <value><![CDATA[2015-12-09 11:23:13.09933]]></value>
+      <value><![CDATA[2015-12-09 11:47:01.242155]]></value>
+      <value><![CDATA[2015-12-09 11:51:00.266084]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-09 11:51:01.869101]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897719</value>
+      <value><![CDATA[2015-12-09 11:23:13.09933]]></value>
+      <value><![CDATA[2015-12-09 11:51:00.266084]]></value>
+      <value><![CDATA[2015-12-10 16:04:43.788343]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05034</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2015-12-10 16:03:44.494721]]></value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897720</value>
+      <value><![CDATA[2015-12-09 11:51:57.271755]]></value>
+      <value><![CDATA[2015-12-09 11:22:26.094626]]></value>
+      <value><![CDATA[2015-12-09 11:51:57.271755]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-09 11:51:58.164111]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897727</value>
+      <value><![CDATA[2015-12-18 10:15:28.692839]]></value>
+      <value><![CDATA[2015-12-18 10:15:28.692839]]></value>
+      <value><![CDATA[2015-12-18 10:17:56.707641]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-18 10:17:59.332419]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897728</value>
+      <value><![CDATA[2015-12-18 10:18:03.708335]]></value>
+      <value><![CDATA[2015-12-18 10:14:40.688017]]></value>
+      <value><![CDATA[2015-12-18 10:18:03.708335]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-18 10:18:06.460248]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897729</value>
+      <value><![CDATA[2015-12-31 11:32:14.153477]]></value>
+      <value><![CDATA[2015-12-31 11:32:14.153477]]></value>
+      <value><![CDATA[2015-12-31 16:24:54.909406]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-31 16:25:00.007795]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897731</value>
+      <value><![CDATA[2015-12-31 11:57:07.302768]]></value>
+      <value><![CDATA[2015-12-31 11:31:53.151376]]></value>
+      <value><![CDATA[2015-12-31 11:57:07.302768]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-31 11:57:18.813058]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897733</value>
+      <value><![CDATA[2015-12-31 11:32:14.153477]]></value>
+      <value><![CDATA[2015-12-31 16:24:54.909406]]></value>
+      <value><![CDATA[2015-12-31 16:31:40.950027]]></value>
+      <value>ASS</value>
+      <value>ASS</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2015-12-31 16:31:42.736328]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897734</value>
+      <value><![CDATA[2015-12-31 11:32:14.153477]]></value>
+      <value><![CDATA[2015-12-31 16:31:40.950027]]></value>
+      <value><![CDATA[2016-01-04 15:36:07.616716]]></value>
+      <value>APR</value>
+      <value>APR</value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[002200000000000000000000000000                    ]]></value>
+      <value/>
+      <value>LCK05034</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK05034</value>
+      <value><![CDATA[2016-01-04 15:36:07.872315]]></value>
+      <value>SSOII5_LCKFU</value>
+      <value>cheongpokeung</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897740</value>
+      <value><![CDATA[2016-02-01 11:19:29.076943]]></value>
+      <value><![CDATA[2016-02-01 11:19:29.076943]]></value>
+      <value><![CDATA[2016-02-01 11:23:51.103147]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-02-01 11:25:06.439184]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897744</value>
+      <value><![CDATA[2016-03-03 14:23:43.18237]]></value>
+      <value><![CDATA[2016-03-03 14:23:43.18237]]></value>
+      <value><![CDATA[2016-03-03 14:25:53.195362]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-03-03 14:25:55.778814]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897762</value>
+      <value><![CDATA[2016-05-09 11:01:52.971261]]></value>
+      <value><![CDATA[2016-05-09 11:01:52.971261]]></value>
+      <value><![CDATA[2016-05-09 11:04:17.985782]]></value>
+      <value>INV</value>
+      <value><![CDATA[OC ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value/>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>Y</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-05-09 11:04:18.688179]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+    <row>
+      <value>1228417</value>
+      <value>7897763</value>
+      <value><![CDATA[2016-05-09 11:05:24.992423]]></value>
+      <value><![CDATA[2016-05-09 11:01:38.969873]]></value>
+      <value><![CDATA[2016-05-09 11:05:24.992423]]></value>
+      <value>ACT</value>
+      <value><![CDATA[OI ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>A</value>
+      <value><![CDATA[                                                  ]]></value>
+      <value><![CDATA[(MASKED) Auto-stop was successful]]></value>
+      <value>LCK04133</value>
+      <value>LCK</value>
+      <value>C</value>
+      <value>37087</value>
+      <value><![CDATA[ F4170586           ]]></value>
+      <value>I</value>
+      <value><![CDATA[WONG LO                       ]]></value>
+      <value><![CDATA[LAM SAU ANGEL                 ]]></value>
+      <value><![CDATA[黃盧          ]]></value>
+      <value><![CDATA[林秀          ]]></value>
+      <value>N</value>
+      <value>1111-11-11</value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>LCK04133</value>
+      <value>LCK04133</value>
+      <value><![CDATA[2016-05-09 11:05:25.119422]]></value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value>SSSA14_LCKFU</value>
+      <value>wongmeilin</value>
+      <value/>
+      <value><![CDATA[   ]]></value>
+    </row>
+  </table>
+</dataset>

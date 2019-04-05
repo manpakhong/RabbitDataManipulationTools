@@ -1,0 +1,398 @@
+<dataset>
+  <table name="TCS_DRP_DBWF_IMG">
+    <column>CASE_KEY</column>
+    <column>PAYMENT_DATE</column>
+    <column>PAY_MTH_FR_DATE</column>
+    <column>PAY_MTH_TO_DATE</column>
+    <column>AMT</column>
+    <column>CASE_FILE_NUM</column>
+    <column>SEQ_NUM_IN_FILE</column>
+    <column>DETAIL_REC_IMG</column>
+    <column>REV_IND</column>
+    <column>REV_REQ_BY</column>
+    <column>REV_REQ_TS</column>
+    <column>RJ_ON</column>
+    <column>RJ_CODE</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-05-09</value>
+      <value>2015-05-31</value>
+      <value>1748.00</value>
+      <value>LCK-C-050166</value>
+      <value>000454</value>
+      <value><![CDATA[1000454LCK-C-0501661206 0610HE0501748.00201505092015053105000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.807454]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-06-01</value>
+      <value>2015-06-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000455</value>
+      <value><![CDATA[1000455LCK-C-0501661206 0610HE0502356.00201506012015063005000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.807455]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-07-01</value>
+      <value>2015-07-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000456</value>
+      <value><![CDATA[1000456LCK-C-0501661206 0610HE0502356.00201507012015073105000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.807456]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-08-01</value>
+      <value>2015-08-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000457</value>
+      <value><![CDATA[1000457LCK-C-0501661206 0610HE0502356.00201508012015083105000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.807457]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-09-01</value>
+      <value>2015-09-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000458</value>
+      <value><![CDATA[1000458LCK-C-0501661206 0610HE0502356.00201509012015093005000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.807458]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-16</value>
+      <value>2015-10-01</value>
+      <value>2015-10-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000459</value>
+      <value><![CDATA[1000459LCK-C-0501661206 0610HE0502356.00201510012015103105000983XXXXXXXX06APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-11 17:52:02.808459]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2015-12-01</value>
+      <value>2015-12-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000452</value>
+      <value><![CDATA[1000452LCK-C-0501661206 0610HE0502356.00201512012015123105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.744452]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-02-01</value>
+      <value>2016-02-29</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000453</value>
+      <value><![CDATA[1000453LCK-C-0501661206 0610HE0502356.00201602012016022905000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.744453]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2015-11-01</value>
+      <value>2015-11-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000451</value>
+      <value><![CDATA[1000451LCK-C-0501661206 0610HE0502356.00201511012015113005000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.744451]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-03-01</value>
+      <value>2016-03-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000454</value>
+      <value><![CDATA[1000454LCK-C-0501661206 0610HE0502356.00201603012016033105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745454]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-01-01</value>
+      <value>2016-01-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000455</value>
+      <value><![CDATA[1000455LCK-C-0501661206 0610HE0502356.00201601012016013105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745455]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-04-01</value>
+      <value>2016-04-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000456</value>
+      <value><![CDATA[1000456LCK-C-0501661206 0610HE0502356.00201604012016043005000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745456]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-08-01</value>
+      <value>2016-08-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000460</value>
+      <value><![CDATA[1000460LCK-C-0501661206 0610HE0502356.00201608012016083105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.74546]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-05-01</value>
+      <value>2016-05-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000457</value>
+      <value><![CDATA[1000457LCK-C-0501661206 0610HE0502356.00201605012016053105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745457]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-06-01</value>
+      <value>2016-06-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000458</value>
+      <value><![CDATA[1000458LCK-C-0501661206 0610HE0502356.00201606012016063005000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745458]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-07-01</value>
+      <value>2016-07-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000459</value>
+      <value><![CDATA[1000459LCK-C-0501661206 0610HE0502356.00201607012016073105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745459]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-09-01</value>
+      <value>2016-09-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000461</value>
+      <value><![CDATA[1000461LCK-C-0501661206 0610HE0502356.00201609012016093005000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745461]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-10-01</value>
+      <value>2016-10-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000462</value>
+      <value><![CDATA[1000462LCK-C-0501661206 0610HE0502356.00201610012016103105000983XXXXXXXX08APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                MBIOK0100089   WONG TAK                                                     ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745462]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-11-01</value>
+      <value>2016-11-30</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000463</value>
+      <value><![CDATA[1000463LCK-C-0501661206 0610HE0502356.00201611012016113005000983XXXXXXXX07APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745463]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2016-12-01</value>
+      <value>2016-12-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000464</value>
+      <value><![CDATA[1000464LCK-C-0501661206 0610HE0502356.00201612012016123105000983XXXXXXXX07APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.745464]]></value>
+      <value>000000</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>2017-01-18</value>
+      <value>2017-01-01</value>
+      <value>2017-01-31</value>
+      <value>2356.00</value>
+      <value>LCK-C-050166</value>
+      <value>000465</value>
+      <value><![CDATA[1000465LCK-C-0501661206 0610HE0502356.00201701012017013105000983XXXXXXXX07APIOK0100011   WONG SUN                                                     MBIOK010002A   LOE MEI                                                      MBIOK0100038   WONG SHUN                                                    MBZO           WONG FOO                                                     MBZO           WONG FUN                                                     MBZO           WONG FONG                                                    MBIOK0100070   CHAN YUK FONG                                                ]]></value>
+      <value>N</value>
+      <value><![CDATA[ ]]></value>
+      <value><![CDATA[1111-11-11 00:00:00.0]]></value>
+      <value>1111-11-11</value>
+      <value><![CDATA[  ]]></value>
+      <value>DRPGEBDF</value>
+      <value><![CDATA[2017-01-13 18:00:05.746465]]></value>
+      <value>000000</value>
+    </row>
+  </table>
+</dataset>

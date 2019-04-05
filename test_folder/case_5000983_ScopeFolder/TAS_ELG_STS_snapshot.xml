@@ -1,0 +1,172 @@
+<dataset>
+  <table name="TAS_ELG_STS">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>FR_DATE</column>
+    <column>CUST_STS</column>
+    <column>TO_DATE</column>
+    <column>RSON_CODE</column>
+    <column>SFS_CODE</column>
+    <column>NEL_CODE</column>
+    <column>CRE_DATE</column>
+    <column>RMK</column>
+    <column>SPS_IND</column>
+    <column>DISCR_SEQ_NUM</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>5000983</value>
+      <value>4001142</value>
+      <value>2015-05-09</value>
+      <value>SPA</value>
+      <value>2015-09-08</value>
+      <value><![CDATA[L  ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-11</value>
+      <value/>
+      <value>Y</value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-12 14:58:45.329]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001142</value>
+      <value>2015-07-10</value>
+      <value>GEM</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-12</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:18:41.081]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001142</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:20:20.205]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001143</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:20:54.23]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001144</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:21:06.32]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001145</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:21:17.078]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001146</value>
+      <value>2015-10-10</value>
+      <value>FCR</value>
+      <value>2016-06-30</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-12</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:19:23.613]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001146</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:20:39.273]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+    <row>
+      <value>5000983</value>
+      <value>4001147</value>
+      <value>2016-07-01</value>
+      <value>EXC</value>
+      <value>9999-01-01</value>
+      <value><![CDATA[   ]]></value>
+      <value><![CDATA[  ]]></value>
+      <value><![CDATA[   ]]></value>
+      <value>2017-01-17</value>
+      <value/>
+      <value><![CDATA[ ]]></value>
+      <value>0</value>
+      <value>leungraymondyc</value>
+      <value><![CDATA[2017-01-17 11:21:43.26]]></value>
+      <value>SSSA2_LCKFU</value>
+    </row>
+  </table>
+</dataset>

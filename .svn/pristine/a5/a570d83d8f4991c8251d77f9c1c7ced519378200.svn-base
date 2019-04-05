@@ -1,0 +1,146 @@
+<dataset>
+  <table name="TCT_TRV_DOC">
+    <column>CUST_KEY</column>
+    <column>TRVL_DOC_TYPE</column>
+    <column>CUST_TRVL_DOC_NUM</column>
+    <column>DATE_ISS</column>
+    <column>DATE_EXP</column>
+    <column>TRVL_DOC_OD</column>
+    <column>RMK_OFFC</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+    <row>
+      <value>754938</value>
+      <value>V</value>
+      <value><![CDATA[7947270             ]]></value>
+      <value>1998-12-24</value>
+      <value>2008-12-24</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2000-11-09 09:55:47.881662]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1353500</value>
+      <value>R</value>
+      <value><![CDATA[A858328             ]]></value>
+      <value>1999-03-18</value>
+      <value>2004-03-18</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2000-11-09 09:56:53.475743]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1353500</value>
+      <value>V</value>
+      <value><![CDATA[J2527922322         ]]></value>
+      <value>1999-03-20</value>
+      <value>2002-03-20</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2000-11-09 09:56:24.950688]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2018961</value>
+      <value>R</value>
+      <value><![CDATA[A7466587            ]]></value>
+      <value>2000-11-14</value>
+      <value>2005-11-14</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2001-04-03 11:05:29.513537]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2018961</value>
+      <value>V</value>
+      <value><![CDATA[J2592726022         ]]></value>
+      <value>2000-11-17</value>
+      <value>2003-11-17</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2001-04-03 11:04:57.796999]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2018961</value>
+      <value>V</value>
+      <value><![CDATA[J2592726025         ]]></value>
+      <value>2010-07-13</value>
+      <value>2013-07-13</value>
+      <value/>
+      <value/>
+      <value>CWN04089</value>
+      <value><![CDATA[2012-03-15 10:10:26.574071]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2232696</value>
+      <value>D</value>
+      <value><![CDATA[T2739199            ]]></value>
+      <value>2002-01-09</value>
+      <value>2009-01-09</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2002-04-04 11:58:01.894177]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2232696</value>
+      <value>V</value>
+      <value><![CDATA[J2648960322         ]]></value>
+      <value>2002-03-02</value>
+      <value>2012-03-02</value>
+      <value/>
+      <value/>
+      <value>CWN04037</value>
+      <value><![CDATA[2003-03-28 11:18:22.301315]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>1353500</value>
+      <value>V</value>
+      <value><![CDATA[J2527922325         ]]></value>
+      <value>2010-07-13</value>
+      <value>2013-07-13</value>
+      <value/>
+      <value/>
+      <value>CWN04089</value>
+      <value><![CDATA[2012-03-15 10:10:04.182774]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2960313</value>
+      <value>V</value>
+      <value><![CDATA[J2677880324         ]]></value>
+      <value>2011-03-16</value>
+      <value>2014-03-16</value>
+      <value/>
+      <value/>
+      <value>CWN04089</value>
+      <value><![CDATA[2012-03-15 10:10:46.607847]]></value>
+      <value/>
+    </row>
+    <row>
+      <value>2960313</value>
+      <value>R</value>
+      <value><![CDATA[TO2191038           ]]></value>
+      <value>2007-11-15</value>
+      <value>2012-11-15</value>
+      <value/>
+      <value/>
+      <value>CWN04089</value>
+      <value><![CDATA[2012-03-15 10:12:31.97917]]></value>
+      <value/>
+    </row>
+  </table>
+</dataset>

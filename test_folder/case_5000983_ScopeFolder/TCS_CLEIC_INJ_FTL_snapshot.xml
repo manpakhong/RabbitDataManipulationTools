@@ -1,0 +1,21 @@
+<dataset>
+  <table name="TCS_CLEIC_INJ_FTL">
+    <column>CASE_KEY</column>
+    <column>FTL_IND</column>
+    <column>CREM_ORD_NUM</column>
+    <column>BUR_ORD_NUM</column>
+    <column>DTH_CERT_NUM</column>
+    <column>CERT_CAUSE_DTH</column>
+    <column>HOSP_NAME</column>
+    <column>DATE_ADM</column>
+    <column>HOSP_REF_NUM</column>
+    <column>CASU_REF_NUM</column>
+    <column>CSLT_PRIV_IND</column>
+    <column>INJ_NAT_DESC</column>
+    <column>PHY_PERM_IND</column>
+    <column>MNTL_PERM_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

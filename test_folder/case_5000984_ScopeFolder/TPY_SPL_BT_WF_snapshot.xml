@@ -1,0 +1,24 @@
+<dataset>
+  <table name="TPY_SPL_BT_WF">
+    <column>CASE_KEY</column>
+    <column>CUST_KEY</column>
+    <column>SUCC_IND</column>
+    <column>REJ_CODE</column>
+    <column>PROC_UNIT</column>
+    <column>SCHM_TYPE</column>
+    <column>SER_NUM</column>
+    <column>PAY_DATE</column>
+    <column>BANK_CODE</column>
+    <column>BRN_CODE</column>
+    <column>ACC_NUM</column>
+    <column>GRT_TYPE</column>
+    <column>PAY_DAY</column>
+    <column>ACC_NAME</column>
+    <column>PAY_AMT</column>
+    <column>DATE_PT_GEN</column>
+    <column>BAT_TYPE_IND</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>

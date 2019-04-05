@@ -1,0 +1,15 @@
+<dataset>
+  <table name="TCS_CHG_CASE_NAT">
+    <column>CASE_KEY</column>
+    <column>CHG_TS</column>
+    <column>SCHM_TYPE</column>
+    <column>CASE_NAT</column>
+    <column>FAMLY_IND</column>
+    <column>PREV_CASE_NAT</column>
+    <column>PREV_FAMLY_IND</column>
+    <column>PROC_UNIT</column>
+    <column>LAST_UPD_LOGIN_ID</column>
+    <column>LAST_UPD_TS</column>
+    <column>LAST_UPD_POST</column>
+  </table>
+</dataset>
