@@ -1,0 +1,16 @@
+<dataset>
+  <table name="gbl_baccarat">
+    <column>id</column>
+    <column>datetime</column>
+    <column>session</column>
+    <column>round</column>
+    <column>bank_player</column>
+    <column>result</column>
+    <column>odd_even</column>
+    <column>count</column>
+    <column>create_date</column>
+    <column>update_date</column>
+    <column>created_by</column>
+    <column>updated_by</column>
+  </table>
+</dataset>
