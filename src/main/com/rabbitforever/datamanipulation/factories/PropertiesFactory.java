@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 import com.rabbitforever.datamanipulation.flowtest.bundles.Db2DbProperties;
 import com.rabbitforever.datamanipulation.flowtest.bundles.MsSqlDbProperties;
 import com.rabbitforever.datamanipulation.flowtest.bundles.MySqlDbProperties;
+import com.rabbitforever.datamanipulation.flowtest.bundles.OracleDbProperties;
 import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
 
 public class PropertiesFactory {
@@ -14,6 +15,7 @@ public class PropertiesFactory {
 	private static Db2DbProperties db2DbProperties;
 	private static MySqlDbProperties mysqlDbProperties;
 	private static MsSqlDbProperties mssqlDbProperties;
+	private static OracleDbProperties oracleDbProperties;
 	private static SysProperties sysProperties;
 
 	private PropertiesFactory() {
@@ -64,6 +66,16 @@ public class PropertiesFactory {
 			logger.error(className + ".getInstanceOfSysProperties() - ", e);
 		}
 		return sysProperties;
+	}
+	public static OracleDbProperties getInstanceOfOracleDbProperties() throws Exception {
+		try {
+			if (oracleDbProperties == null) {
+				oracleDbProperties = new OracleDbProperties();
+			}
+		} catch (Exception e) {
+			logger.error(className + ".getInstanceOfOracleDbProperties() - ", e);
+		}
+		return oracleDbProperties;
 	}
 
 }

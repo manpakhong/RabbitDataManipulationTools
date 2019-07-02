@@ -185,6 +185,10 @@ public class DtdXmlDataUtils extends DataUtils {
 				connection = dbUtils.getDataBaseConnectionNoSchema();
 				// connection = dbUtils.getDataBaseConnectionWithSchema();
 			}
+			if (dbType.equals(DB_TYPE_ORACLE)) {
+				connection = dbUtils.getDataBaseConnectionNoSchema();
+				// connection = dbUtils.getDataBaseConnectionWithSchema();
+			}
 
 			inputSource = new InputSource(xmlFile.getPath());
 			producer = new XmlProducer(inputSource);

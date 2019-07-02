@@ -40,7 +40,7 @@ public abstract class DataUtils {
 	public static final String DB_TYPE_MYSQL = "mysql";
 	public static final String DB_TYPE_DB2 = "db2";
 	public static final String DB_TYPE_MSSQL = "mssql";
-
+	public static final String DB_TYPE_ORACLE = "oracle";
 	protected String DATASET_FOLDER;
 	protected SysProperties sysProperties;
 	protected DbProperties dbProperties;
@@ -74,6 +74,9 @@ public abstract class DataUtils {
 		} else if (databaseType.equals(SysProperties.DATABASE_TYPE_MSSQL)) {
 			dbUtils = DbUtilsFactory.getInstanceOfMsSqlDbUtils();
 			dbProperties = PropertiesFactory.getInstanceOfMsSqlDbProperties();
+		}else if (databaseType.equals(SysProperties.DATABASE_TYPE_ORACLE)) {
+			dbUtils = DbUtilsFactory.getInstanceOfOracleDbUtils();
+			dbProperties = PropertiesFactory.getInstanceOfOracleDbProperties();
 		}
 
 	}

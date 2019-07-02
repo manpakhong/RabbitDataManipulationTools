@@ -7,6 +7,7 @@ public class SysProperties extends PropertiesBase {
 	public static final String DATABASE_TYPE_DB2 = "db2";
 	public static final String DATABASE_TYPE_MYSQL = "mysql";
 	public static final String DATABASE_TYPE_MSSQL = "mssql";
+	public static final String DATABASE_TYPE_ORACLE = "oracle";
 
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	private String className = this.getClass().getName();

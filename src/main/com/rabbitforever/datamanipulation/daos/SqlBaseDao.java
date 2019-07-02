@@ -39,7 +39,11 @@ public abstract class SqlBaseDao <T>{
 			if (dbType.equals(SysProperties.DATABASE_TYPE_MSSQL)){
 				dbUtils = DbUtilsFactory.getInstanceOfMsSqlDbUtils();
 				dbProperties = PropertiesFactory.getInstanceOfMsSqlDbProperties();
-			} 
+			} else 
+				if (dbType.equals(SysProperties.DATABASE_TYPE_ORACLE)){
+					dbUtils = DbUtilsFactory.getInstanceOfOracleDbUtils();
+					dbProperties = PropertiesFactory.getInstanceOfOracleDbProperties();
+				} 
 			systemSchema = dbProperties.getSystemSchema();
 		} catch (Exception e){
 			logger.error(className + ".init() - ", e);

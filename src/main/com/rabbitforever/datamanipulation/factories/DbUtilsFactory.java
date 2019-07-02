@@ -7,13 +7,14 @@ import com.rabbitforever.datamanipulation.utils.Db2DbUtils;
 import com.rabbitforever.datamanipulation.utils.DbUtils;
 import com.rabbitforever.datamanipulation.utils.MsSqlDbUtils;
 import com.rabbitforever.datamanipulation.utils.MySqlDbUtils;
+import com.rabbitforever.datamanipulation.utils.OracleDbUtils;
 public class DbUtilsFactory {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	private String className = this.getClass().getName();
 	private static DbUtils mySqlDbUtils;
 	private static DbUtils db2DbUtils;
 	private static DbUtils msSqlDbUtils;
-	
+	private static DbUtils oracleSqlDbUtils;
 	private DbUtilsFactory(){
 		
 	}
@@ -35,5 +36,12 @@ public class DbUtilsFactory {
 			msSqlDbUtils = new MsSqlDbUtils();
 		}
 		return msSqlDbUtils;
+	}
+	
+	public static DbUtils getInstanceOfOracleDbUtils() throws Exception{
+		if (oracleSqlDbUtils == null){
+			oracleSqlDbUtils = new OracleDbUtils();
+		}
+		return oracleSqlDbUtils;
 	}
 }
