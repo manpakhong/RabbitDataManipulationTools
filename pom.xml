@@ -7,7 +7,7 @@
 	<name>RabbitDataManipulationTools</name>
 	<url>http://maven.apache.org</url>
 	<build>
-		<finalName>cssatesting</finalName>
+		<finalName>RabbitDataManipulationTools</finalName>
 
 		<plugins>
 <!-- 			<plugin>

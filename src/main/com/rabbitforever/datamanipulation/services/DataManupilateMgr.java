@@ -84,6 +84,13 @@ public class DataManupilateMgr {
 					dataUtils = new DtdXmlDataUtils(DataUtils.DB_TYPE_MSSQL);
 				}
 				dbProperties = PropertiesFactory.getInstanceOfMySqlDbProperties();
+			} else if (databaseType.equals(SysProperties.DATABASE_TYPE_ORACLE)) {
+				if (flatXmlStyle) {
+					dataUtils = new FlatXmlDataUtils(DataUtils.DB_TYPE_ORACLE);
+				} else {
+					dataUtils = new DtdXmlDataUtils(DataUtils.DB_TYPE_ORACLE);
+				}
+				dbProperties = PropertiesFactory.getInstanceOfOracleDbProperties();
 			}
 			fileUtils = new FileUtils();
 			xmlUtils = new XmlUtils();

@@ -11,17 +11,20 @@ import org.slf4j.LoggerFactory;
 
 import com.rabbitforever.datamanipulation.daos.KeycolumnUsageDao;
 import com.rabbitforever.datamanipulation.daos.MsKeyColumnUsageDao;
+import com.rabbitforever.datamanipulation.daos.OracleKeyColumnUsageDao;
 import com.rabbitforever.datamanipulation.daos.SyscolumnsDao;
 import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
 import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
 import com.rabbitforever.datamanipulation.models.criteria.KeycolumnUsageCriteria;
 import com.rabbitforever.datamanipulation.models.criteria.MsKeyColumnUsageCriteria;
+import com.rabbitforever.datamanipulation.models.criteria.OracleKeyColumnUsageCriteria;
 import com.rabbitforever.datamanipulation.models.criteria.SyscolumnsCriteria;
 import com.rabbitforever.datamanipulation.models.criteria.SystemColumnInfoCriteria;
 import com.rabbitforever.datamanipulation.models.dtos.SystemColumnInfoDto;
 import com.rabbitforever.datamanipulation.models.dtos.WhereClauseDto;
 import com.rabbitforever.datamanipulation.models.eos.KeycolumnUsageEo;
 import com.rabbitforever.datamanipulation.models.eos.MsKeyColumnUsageEo;
+import com.rabbitforever.datamanipulation.models.eos.OracleKeyColumnUsageEo;
 import com.rabbitforever.datamanipulation.models.eos.SyscolumnsEo;
 import com.rabbitforever.datamanipulation.services.DataManupilateMgr;
 import com.rabbitforever.datamanipulation.utils.CommonUtils;
@@ -36,6 +39,7 @@ public class DataManupilateMgrHelper {
 	private SyscolumnsDao syscolumnsDao;
 	private KeycolumnUsageDao keycolumnUsageDao;
 	private MsKeyColumnUsageDao msKeyColumnUsageDao;
+	private OracleKeyColumnUsageDao oracleKeyColumnUsageDao;
 	public DataManupilateMgrHelper() {
 		init();
 	}
@@ -46,6 +50,7 @@ public class DataManupilateMgrHelper {
 			syscolumnsDao = new SyscolumnsDao();
 			keycolumnUsageDao = new KeycolumnUsageDao();
 			msKeyColumnUsageDao = new MsKeyColumnUsageDao();
+			oracleKeyColumnUsageDao = new OracleKeyColumnUsageDao();
 		} catch (Exception e) {
 			logger.error(className + ".init() - ", e);
 		}
@@ -158,6 +163,17 @@ public class DataManupilateMgrHelper {
 						}
 					}
 				}
+				if (dbType.equals(SysProperties.DATABASE_TYPE_ORACLE)){
+					OracleKeyColumnUsageCriteria criteria = new OracleKeyColumnUsageCriteria(criteriaIn);
+					List<OracleKeyColumnUsageEo> oracleKeyColumnUsageEoList = getOracleKeyColumnUsageEoList(criteria);
+					if (oracleKeyColumnUsageEoList != null && !oracleKeyColumnUsageEoList.isEmpty()){
+						systemColumnInfoDtoList = new ArrayList<SystemColumnInfoDto>();
+						for (OracleKeyColumnUsageEo oracleKeyColumnUsageEo: oracleKeyColumnUsageEoList){
+							SystemColumnInfoDto<OracleKeyColumnUsageEo> systemColumnInfoDto = new SystemColumnInfoDto<OracleKeyColumnUsageEo>(oracleKeyColumnUsageEo);
+							systemColumnInfoDtoList.add(systemColumnInfoDto);
+						}
+					}
+				}
 			}
 		} catch (Exception e) {
 			logger.error(className + ".getSystemColumnInfoDtoList() - criteriaIn=" + criteriaIn, e);
@@ -185,6 +201,17 @@ public class DataManupilateMgrHelper {
 		return keycolumnUsageEoList;
 	}
 
+	public List<OracleKeyColumnUsageEo> getOracleKeyColumnUsageEoList(OracleKeyColumnUsageCriteria criteria) {
+		List<OracleKeyColumnUsageEo> oracleKeyColumnUsageEoList = null;
+		try {
+			oracleKeyColumnUsageEoList = oracleKeyColumnUsageDao.select(criteria);
+		} catch (Exception e) {
+			logger.error(className + ".getOracleKeyColumnUsageEoList() - criteria=" + criteria, e);
+		}
+		return oracleKeyColumnUsageEoList;
+	}
+	
+	
 	public List<MsKeyColumnUsageEo> getMsKeyColumnUsageEoList(MsKeyColumnUsageCriteria criteria) {
 		List<MsKeyColumnUsageEo> msKeyColumnUsageEoList = null;
 		try {

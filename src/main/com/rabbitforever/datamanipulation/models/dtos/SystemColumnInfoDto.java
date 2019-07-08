@@ -2,6 +2,7 @@ package com.rabbitforever.datamanipulation.models.dtos;
 
 import com.rabbitforever.datamanipulation.models.eos.KeycolumnUsageEo;
 import com.rabbitforever.datamanipulation.models.eos.MsKeyColumnUsageEo;
+import com.rabbitforever.datamanipulation.models.eos.OracleKeyColumnUsageEo;
 import com.rabbitforever.datamanipulation.models.eos.SyscolumnsEo;
 
 public class SystemColumnInfoDto <T>{
@@ -22,6 +23,9 @@ public class SystemColumnInfoDto <T>{
 		} else if (object instanceof MsKeyColumnUsageEo){
 			MsKeyColumnUsageEo msKeyColumnUsageEo = (MsKeyColumnUsageEo) object;
 			transformMsKeyColumnUsageEo(msKeyColumnUsageEo);
+		}else if (object instanceof OracleKeyColumnUsageEo){
+			OracleKeyColumnUsageEo oracleKeyColumnUsageEo = (OracleKeyColumnUsageEo) object;
+			transformOracleKeyColumnUsageEo(oracleKeyColumnUsageEo);
 		}
 		
 	}
@@ -50,6 +54,14 @@ public class SystemColumnInfoDto <T>{
 			keyseq = msKeyColumnUsageEo.getOrdinalPosition();
 			name = msKeyColumnUsageEo.getColumnName();
 			tbname = msKeyColumnUsageEo.getTablename();
+		}
+	}
+	private void transformOracleKeyColumnUsageEo(OracleKeyColumnUsageEo oracleKeyColumnUsageEo){
+		if (oracleKeyColumnUsageEo != null){
+			colType = oracleKeyColumnUsageEo.getDataType();
+			keyseq = oracleKeyColumnUsageEo.getOrdinalPosition();
+			name = oracleKeyColumnUsageEo.getColumnName();
+			tbname = oracleKeyColumnUsageEo.getTablename();
 		}
 	}
 	

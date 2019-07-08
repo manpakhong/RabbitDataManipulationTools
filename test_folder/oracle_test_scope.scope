@@ -2,8 +2,8 @@ adm_episode_xml
 ADM_EPISODE
 oracle_test_scope_folder
 oracle_test_scope
-select * from ADM_EPISODE where episode_no = '11700587'
+select * from ADM_EPISODE where TRAK_PAADM_ROWID = '4509858'
 -----------------------------------------------------------------------------------------------
-select * from ADM_EPISODE where episode_no = '11700587'
+select * from ADM_EPISODE where TRAK_PAADM_ROWID = '4509858'
 ...................................................................................
 -BLANK-
