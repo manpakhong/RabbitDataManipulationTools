@@ -11,6 +11,7 @@ root
 - mysql.db.properties
 - mysql.db.properties
 - oracle.db.properties
+- log4j.properties
 - jcl-over-slf4j-1.7.21.jar
 - RabbitDataManipulationTools-jar-with-dependencies.jar
 - runFlowTest.bat
