@@ -29,9 +29,14 @@ public class ScribbleMgrTest {
 	@Test
 	public void test() {
 		try {
+//			String in = "cmsapps";
+//			String in2 = "dbau2018";
+//		
+			
 			String in = "cmsapps";
-			String in2 = "dbau2018";
-					
+			String in2 = "cmsadmin";
+			
+			
 			String out = null;
 			String out2 = null;
 			
@@ -53,6 +58,8 @@ public class ScribbleMgrTest {
 			
 			System.out.println("out=" + out + ",in=" + in);
 			System.out.println("out2=" + out2 + ",in2=" + in2);
+			
+			
 		} catch (Exception e) {
 			fail("Exception" + e);
 		}

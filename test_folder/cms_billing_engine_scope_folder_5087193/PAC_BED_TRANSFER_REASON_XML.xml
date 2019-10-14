@@ -1,0 +1,14 @@
+<dataset>
+  <table name="PAC_BED_TRANSFER_REASON">
+    <column>TRAK_ROWID</column>
+    <column>BED_TRANSFER_REASON_CODE</column>
+    <column>BED_TRANSFER_REASON</column>
+    <column>CHARGE_YN</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

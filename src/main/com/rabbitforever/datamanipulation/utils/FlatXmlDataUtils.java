@@ -46,6 +46,10 @@ public class FlatXmlDataUtils extends DataUtils {
 				connection = dbUtils.getDataBaseConnectionNoSchema();
 				// connection = dbUtils.getDataBaseConnectionWithSchema();
 			}
+			if (dbType.equals(DB_TYPE_ORACLE)) {
+				connection = dbUtils.getDataBaseConnectionNoSchema();
+				// connection = dbUtils.getDataBaseConnectionWithSchema();
+			}
 			builder = new FlatXmlDataSetBuilder();
 			builder.setColumnSensing(true);
 

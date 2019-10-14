@@ -1,0 +1,40 @@
+<dataset>
+  <table name="ADM_PAYOR_DETAILS">
+    <column>TRAK_INS_ROWID</column>
+    <column>EPISODE_NO</column>
+    <column>PAYOR_CODE</column>
+    <column>PAYOR_OFFICE</column>
+    <column>INSURANCE_POLICY_NO</column>
+    <column>PLAN_CODE</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>LEVEL_RANK</column>
+    <column>EXCESS_AMOUNT</column>
+    <column>PAYOR_PAYS_UNTIL</column>
+    <column>INSURANCE_EXPIRY_DATE</column>
+    <column>INSURANCE_VOUCHER_DVANUMBER</column>
+    <column>LAST_UPDATE_DATE_TIME</column>
+    <column>LAST_UPDATE_USER</column>
+    <column>EPISODE_ID</column>
+    <column>PACKAGE_ID</column>
+    <row>
+      <value>5087193||1</value>
+      <value>6921994</value>
+      <value>CP</value>
+      <null/>
+      <null/>
+      <value>PATIENT</value>
+      <null/>
+      <null/>
+      <value>1</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>0</value>
+      <value>5087193</value>
+      <null/>
+    </row>
+  </table>
+</dataset>

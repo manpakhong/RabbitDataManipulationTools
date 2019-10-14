@@ -1,0 +1,20 @@
+<dataset>
+  <table name="OR_ANAESTHESIA">
+    <column>OR_ANAESTHESIA_ROWID</column>
+    <column>OR_ANAESTHESIA_CHILDSUB</column>
+    <column>EPISODE_NO</column>
+    <column>ANAESTHETIST_CODE</column>
+    <column>OT_IN_DATETIME</column>
+    <column>OT_OUT_DATETIME</column>
+    <column>PACU_IN_DATETIME</column>
+    <column>PACU_OUT_DATETIME</column>
+    <column>STATUS</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>TRAK_ROWID</column>
+    <column>TRAK_CHILDSUB</column>
+    <column>TRAK_PARREF</column>
+  </table>
+</dataset>

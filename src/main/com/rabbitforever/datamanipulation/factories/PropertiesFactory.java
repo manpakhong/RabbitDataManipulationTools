@@ -34,9 +34,11 @@ public class PropertiesFactory {
 				if (isScribbleEnabled != null && isScribbleEnabled) {
 					String userName = db2DbProperties.getUserName();
 					userName = scribbleMgr.scribbleWords(userName);
+					db2DbProperties.setUserName(userName);
 					
 					String password = db2DbProperties.getPassword();
 					password = scribbleMgr.scribbleWords(password);
+					db2DbProperties.setPassword(password);
 				}
 			}
 		} catch (Exception e) {
@@ -56,11 +58,12 @@ public class PropertiesFactory {
 				scribbleMgr = new ScribbleMgr();
 				Boolean isScribbleEnabled = getInstanceOfSysProperties().getUsernamePasswordScribbleEnabled();
 				if (isScribbleEnabled != null && isScribbleEnabled) {
-					String userName = db2DbProperties.getUserName();
+					String userName = mysqlDbProperties.getUserName();
 					userName = scribbleMgr.scribbleWords(userName);
-					
-					String password = db2DbProperties.getPassword();
+					mysqlDbProperties.setUserName(userName);
+					String password = mysqlDbProperties.getPassword();
 					password = scribbleMgr.scribbleWords(password);
+					mysqlDbProperties.setPassword(password);
 				}
 			}
 
@@ -81,11 +84,13 @@ public class PropertiesFactory {
 				scribbleMgr = new ScribbleMgr();
 				Boolean isScribbleEnabled = getInstanceOfSysProperties().getUsernamePasswordScribbleEnabled();
 				if (isScribbleEnabled != null && isScribbleEnabled) {
-					String userName = db2DbProperties.getUserName();
+					String userName = mssqlDbProperties.getUserName();
 					userName = scribbleMgr.scribbleWords(userName);
+					mssqlDbProperties.setUserName(userName);
 					
-					String password = db2DbProperties.getPassword();
+					String password = mssqlDbProperties.getPassword();
 					password = scribbleMgr.scribbleWords(password);
+					mssqlDbProperties.setPassword(password);
 				}
 			}
 
@@ -116,11 +121,12 @@ public class PropertiesFactory {
 				scribbleMgr = new ScribbleMgr();
 				Boolean isScribbleEnabled = getInstanceOfSysProperties().getUsernamePasswordScribbleEnabled();
 				if (isScribbleEnabled != null && isScribbleEnabled) {
-					String userName = db2DbProperties.getUserName();
+					String userName = oracleDbProperties.getUserName();
 					userName = scribbleMgr.scribbleWords(userName);
-					
-					String password = db2DbProperties.getPassword();
+					oracleDbProperties.setUserName(userName);
+					String password = oracleDbProperties.getPassword();
 					password = scribbleMgr.scribbleWords(password);
+					oracleDbProperties.setPassword(password);
 				}
 			}
 		} catch (Exception e) {

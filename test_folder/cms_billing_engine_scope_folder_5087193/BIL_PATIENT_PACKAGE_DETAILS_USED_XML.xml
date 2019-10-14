@@ -1,0 +1,31 @@
+<dataset>
+  <table name="BIL_PATIENT_PACKAGE_DETAILS_USED">
+    <column>ID</column>
+    <column>BIL_PATIENT_CHARGES_TRANS_ROWID</column>
+    <column>PACK_NUM</column>
+    <column>IS_MAIN_PACKAGE_YN</column>
+    <column>LV</column>
+    <column>UP_LV_ID</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>BIL_PATIENT_PACKAGE_DETAILS_ID</column>
+    <column>ORDER_SET_CODE</column>
+    <column>EPISODE_NO</column>
+    <column>EPISODE_ID</column>
+    <column>PATIENT_ID</column>
+    <column>PACKAGE_QTY</column>
+    <column>PACKAGE_LIMIT</column>
+    <column>QTY_USED</column>
+    <column>LIMIT_USED</column>
+    <column>CREATE_DATETIME</column>
+    <column>UPDATE_DATETIME</column>
+    <column>CREATED_BY</column>
+    <column>UPDATED_BY</column>
+    <column>IS_DELETED_YN</column>
+    <column>SELECTION_METHOD</column>
+    <column>GROUP_CATEGORY_CODE</column>
+    <column>SUBGROUP_SUBCATEGORY_CODE</column>
+    <column>BILCHGREQ_ROWID</column>
+    <column>SERVICE_DATE</column>
+    <column>OEORI_ORDENT_DR</column>
+  </table>
+</dataset>

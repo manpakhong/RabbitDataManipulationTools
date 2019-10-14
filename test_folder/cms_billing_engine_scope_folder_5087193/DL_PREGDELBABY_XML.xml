@@ -1,0 +1,14 @@
+<dataset>
+  <table name="DL_PREGDELBABY">
+    <column>DL_PREGDELBABY_ROWID</column>
+    <column>DL_PREGDELIVERY_ROWID</column>
+    <column>HOSPITAL_NO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>TRAK_ROWID</column>
+    <column>TRAK_PARREF</column>
+    <column>HOSPITAL_ID</column>
+  </table>
+</dataset>

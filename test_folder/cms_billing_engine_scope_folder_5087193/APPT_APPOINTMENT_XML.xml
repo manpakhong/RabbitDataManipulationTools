@@ -1,0 +1,36 @@
+<dataset>
+  <table name="APPT_APPOINTMENT">
+    <column>TRAK_APPT_ROWID</column>
+    <column>EPISODE_NO</column>
+    <column>HOSPITAL_NO</column>
+    <column>APPT_STATUS</column>
+    <column>APPT_REMARKS</column>
+    <column>APPT_ARRIVAL_DATE_TIME</column>
+    <column>APPT_ETA</column>
+    <column>APPT_TRANS_DATE_TIME</column>
+    <column>APPT_ADMTYPE</column>
+    <column>DOCTOR_CODE</column>
+    <column>APPT_DURATION</column>
+    <column>APPT_SEEN_DATE_TIME</column>
+    <column>APPT_URGENT</column>
+    <column>APPT_END_DATE_TIME</column>
+    <column>APPT_DEPARTURE_DATE_TIME</column>
+    <column>APPT_BOOKED_DATE_TIME</column>
+    <column>APPT_CANCEL_DATE_TIME</column>
+    <column>LOCATION_CODE</column>
+    <column>CREATE_DATE_TIME</column>
+    <column>CREATE_USER</column>
+    <column>LAST_UPDATE_DATE_TIME</column>
+    <column>LAST_UPDATE_USER</column>
+    <column>TRAK_ROWID</column>
+    <column>AS_ID</column>
+    <column>TRAK_PARREF</column>
+    <column>APPT_DATE</column>
+    <column>APPT_TIME</column>
+    <column>APPT_DATE_TIME</column>
+    <column>APPT_DATE_TIME_STR</column>
+    <column>APPT_RES_CODE</column>
+    <column>APPT_SER_DESC</column>
+    <column>APPT_BOOKED_BY</column>
+  </table>
+</dataset>

@@ -1,0 +1,21 @@
+<dataset>
+  <table name="BIL_USER_INPUT_CHARGES">
+    <column>ID</column>
+    <column>EPISODE_NO</column>
+    <column>EPISODE_ID</column>
+    <column>SERVICE_DATE</column>
+    <column>TRN_DATE_TIME</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>ORDER_ID</column>
+    <column>USER_INPUT_BASE_PRICE</column>
+    <column>USER_INPUT_QTY</column>
+    <column>CREATED_DATE_TIME</column>
+    <column>UPDATED_DATE_TIME</column>
+    <column>CREATED_BY</column>
+    <column>UPDATED_BY</column>
+    <column>WEB_SERVICE_REQUEST_ID</column>
+    <column>WEB_SERVICE_CALLER</column>
+    <column>BILCHGREQ_ROW_ID</column>
+    <column>TRANS_ROW_ID</column>
+  </table>
+</dataset>

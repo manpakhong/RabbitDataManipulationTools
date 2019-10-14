@@ -1,0 +1,15 @@
+<dataset>
+  <table name="ARC_MARKUP">
+    <column>ID</column>
+    <column>MARKUP_CODE</column>
+    <column>ROOM_TYPE_CODE</column>
+    <column>MARKUP_PERCENT</column>
+    <column>MARKUP_AMOUNT</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+  </table>
+</dataset>

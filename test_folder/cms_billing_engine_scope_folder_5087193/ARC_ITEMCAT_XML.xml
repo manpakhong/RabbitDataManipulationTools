@@ -1,0 +1,24 @@
+<dataset>
+  <table name="ARC_ITEMCAT">
+    <column>TRAK_ROWID</column>
+    <column>ORDER_SUBCATEGORY_CODE</column>
+    <column>ORDER_SUBCATEGORY_DESC</column>
+    <column>ORDER_CATEGORY_CODE</column>
+    <column>ORDER_TYPE</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <row>
+      <value>293</value>
+      <value>HXRD0100040</value>
+      <value><![CDATA[Magnetic Resonance Imaging]]></value>
+      <value>HXRD010</value>
+      <value>N</value>
+      <value><![CDATA[2012-11-04 00:00:00.0]]></value>
+      <value><![CDATA[2012-11-04 00:00:00.0]]></value>
+      <null/>
+      <null/>
+    </row>
+  </table>
+</dataset>

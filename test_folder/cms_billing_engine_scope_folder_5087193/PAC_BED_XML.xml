@@ -1,0 +1,18 @@
+<dataset>
+  <table name="PAC_BED">
+    <column>WARD_CODE</column>
+    <column>TRAK_ROWID</column>
+    <column>ROOM_CODE</column>
+    <column>BED_CODE</column>
+    <column>BED_TYPE_CODE</column>
+    <column>BED_RFCFLAG</column>
+    <column>AVAILABLE</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>TRAK_BED_ROWID</column>
+  </table>
+</dataset>

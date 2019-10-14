@@ -1,0 +1,1123 @@
+<dataset>
+  <table name="ARC_ITEMPRICE">
+    <column>TRAK_ROWID</column>
+    <column>TRAK_CHILDSUB</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>CURRENCY_CODE</column>
+    <column>EPISODE_TYPE</column>
+    <column>EPISODE_SUBTYPE_CODE</column>
+    <column>ROOM_TYPE_CODE</column>
+    <column>BED_TYPE_CODE</column>
+    <column>ITEM_PRICE</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>ID</column>
+    <column>DRUG_COST_TRX_NO</column>
+    <row>
+      <value>2805||1||29</value>
+      <value>29</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>1326015</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||28</value>
+      <value>28</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>1326016</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||27</value>
+      <value>27</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>1326017</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||26</value>
+      <value>26</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>7350</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>1326018</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||25</value>
+      <value>25</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8820</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>1326019</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||13</value>
+      <value>13</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132017</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||14</value>
+      <value>14</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132018</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||15</value>
+      <value>15</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8100</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132019</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||16</value>
+      <value>16</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6750</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132020</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||17</value>
+      <value>17</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132021</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||18</value>
+      <value>18</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132022</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||19</value>
+      <value>19</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132023</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||2</value>
+      <value>2</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132024</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||20</value>
+      <value>20</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8400</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132025</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||21</value>
+      <value>21</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>7000</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132026</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||22</value>
+      <value>22</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132027</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||23</value>
+      <value>23</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132028</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||24</value>
+      <value>24</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132029</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||3</value>
+      <value>3</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132030</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||4</value>
+      <value>4</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132031</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||5</value>
+      <value>5</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132032</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||6</value>
+      <value>6</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132033</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||7</value>
+      <value>7</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132034</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||8</value>
+      <value>8</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132035</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||9</value>
+      <value>9</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>132036</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||1</value>
+      <value>1</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-07-21 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>139791</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||10</value>
+      <value>10</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>139792</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||11</value>
+      <value>11</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>139793</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||12</value>
+      <value>12</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <value><![CDATA[          ]]></value>
+      <value><![CDATA[          ]]></value>
+      <value>139794</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||6</value>
+      <value>6</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803971</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||3</value>
+      <value>3</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803968</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||4</value>
+      <value>4</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803969</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||5</value>
+      <value>5</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803970</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||7</value>
+      <value>7</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803972</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||8</value>
+      <value>8</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803973</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||9</value>
+      <value>9</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-03-29 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2803974</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||1</value>
+      <value>1</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-07-21 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805812</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||10</value>
+      <value>10</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>7650</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805813</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||11</value>
+      <value>11</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6375</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805814</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||12</value>
+      <value>12</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805815</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||13</value>
+      <value>13</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805816</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||14</value>
+      <value>14</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2012-05-31 00:00:00.0]]></value>
+      <value><![CDATA[2013-08-11 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805817</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||15</value>
+      <value>15</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8100</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805818</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||16</value>
+      <value>16</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>6750</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805819</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||17</value>
+      <value>17</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805820</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||18</value>
+      <value>18</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805821</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||19</value>
+      <value>19</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5400</value>
+      <value><![CDATA[2013-08-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-09-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805822</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||2</value>
+      <value>2</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <null/>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5100</value>
+      <value><![CDATA[2011-08-24 00:00:00.0]]></value>
+      <value><![CDATA[2012-04-24 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805823</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||20</value>
+      <value>20</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8400</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805824</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||21</value>
+      <value>21</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>7000</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805825</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||22</value>
+      <value>22</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805826</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||23</value>
+      <value>23</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805827</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||24</value>
+      <value>24</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5600</value>
+      <value><![CDATA[2015-10-01 00:00:00.0]]></value>
+      <value><![CDATA[2019-06-30 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805828</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||25</value>
+      <value>25</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>1</value>
+      <null/>
+      <value>8820</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805829</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||26</value>
+      <value>26</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>2</value>
+      <null/>
+      <value>7350</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805830</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||27</value>
+      <value>27</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3</value>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805831</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||28</value>
+      <value>28</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>I</value>
+      <null/>
+      <value>3A</value>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805832</value>
+      <null/>
+    </row>
+    <row>
+      <value>2805||1||29</value>
+      <value>29</value>
+      <value>XM-SSL</value>
+      <value>HKD</value>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <value>5880</value>
+      <value><![CDATA[2019-07-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>2805833</value>
+      <null/>
+    </row>
+  </table>
+</dataset>

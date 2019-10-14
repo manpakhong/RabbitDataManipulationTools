@@ -1,0 +1,20 @@
+<dataset>
+  <table name="OEC_ORDERSTATUS">
+    <column>TRAK_ROWID</column>
+    <column>STATUS_CODE</column>
+    <column>STATUS_DESC</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <row>
+      <value>4</value>
+      <value>D</value>
+      <value>Discontinued</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+  </table>
+</dataset>

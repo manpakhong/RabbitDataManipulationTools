@@ -1,0 +1,44 @@
+<dataset>
+  <table name="CT_CAREPROV">
+    <column>TRAK_ROWID1</column>
+    <column>TRAK_ROWID</column>
+    <column>DOCTOR_CODE</column>
+    <column>DOCTOR_NAME</column>
+    <column>HKID</column>
+    <column>CATEGORY</column>
+    <column>MCHK_NO</column>
+    <column>CARE_PROVIDER_TYPE</column>
+    <column>UNIT_NO</column>
+    <column>SPECIALTY_CODE</column>
+    <column>OFFICE_TEL_NO</column>
+    <column>OFFICE_TEL_EXT</column>
+    <column>RESIDENTIAL_TEL_NO</column>
+    <column>PAGER_NO</column>
+    <column>SPECIALIST_YN</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>LINK_DOCTOR</column>
+    <column>CARE_PROVIDER_GROUP</column>
+    <column>SURGEON_YN</column>
+    <column>ANAESTHETIST_YN</column>
+    <column>PRESCRIBER_NO</column>
+    <column>CHINESE_NAME</column>
+    <column>DATE_OF_BIRTH</column>
+    <column>MOBILE_NO</column>
+    <column>FAX_NO</column>
+    <column>GE_RADIOLOGIST_CODE</column>
+    <column>QUALIFICATION</column>
+    <column>ALLOW_TO_ENTER_RESULT_YN</column>
+    <column>ADMITTING_RIGHTS_YN</column>
+    <column>FIRST_NAME</column>
+    <column>OTHER_NAME</column>
+    <column>TITLE</column>
+    <column>SURNAME</column>
+    <column>BLK</column>
+    <column>ACTIVE_FLAG</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

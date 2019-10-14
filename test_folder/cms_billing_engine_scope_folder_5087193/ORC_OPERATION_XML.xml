@@ -1,0 +1,17 @@
+<dataset>
+  <table name="ORC_OPERATION">
+    <column>TRAK_ROWID</column>
+    <column>OPER_CODE</column>
+    <column>OPER_DESC</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>OPER_CATEGORY_CODE</column>
+    <column>ESTIMATED_TIME</column>
+    <column>DAY_SURGERY_YN</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

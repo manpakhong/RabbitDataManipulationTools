@@ -1,0 +1,1942 @@
+<dataset>
+  <table name="CT_LOC">
+    <column>TRAK_ROWID</column>
+    <column>LOCATION_CODE</column>
+    <column>LOCATION_DESC</column>
+    <column>COST_CENTRE</column>
+    <column>LOCATION_ADDRESS</column>
+    <column>LOCATION_TYPE</column>
+    <column>FLOOR</column>
+    <column>TEL_NO</column>
+    <column>CONTACT_NAME</column>
+    <column>EMAIL</column>
+    <column>FAX_NO</column>
+    <column>IP_LOC_YN</column>
+    <column>OP_LOC_YN</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <row>
+      <value>2</value>
+      <value>NSC5</value>
+      <value>C5</value>
+      <value>421010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>3</value>
+      <value>NSC6</value>
+      <value>C6</value>
+      <value>422010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>5</value>
+      <value>NICU</value>
+      <value><![CDATA[ICU/HDU B4]]></value>
+      <value>403010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>6</value>
+      <value>NTRI</value>
+      <value><![CDATA[B6 Isolation Care Ward]]></value>
+      <value>419010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>7</value>
+      <value>NMA2</value>
+      <value><![CDATA[A2-B2 O&G]]></value>
+      <value>401010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>8</value>
+      <value>NNA2</value>
+      <value><![CDATA[A2 Nursery]]></value>
+      <value>402010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>9</value>
+      <value>NSB3</value>
+      <value><![CDATA[B3 Paediatric]]></value>
+      <value>412010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>11</value>
+      <value>NSB7</value>
+      <value>B7</value>
+      <value>420010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>12</value>
+      <value>NSB4</value>
+      <value>B4</value>
+      <value>414010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>13</value>
+      <value>NSB5</value>
+      <value>B5</value>
+      <value>416010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>14</value>
+      <value>NSB6</value>
+      <value>B6</value>
+      <value>418010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>15</value>
+      <value>NSA3</value>
+      <value><![CDATA[A3 ]]></value>
+      <value>401020</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2013-02-18 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>16</value>
+      <value>NSA4</value>
+      <value>A4</value>
+      <value>415010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>17</value>
+      <value>NSA5</value>
+      <value>A5</value>
+      <value>417010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>18</value>
+      <value>NSD3</value>
+      <value>D3</value>
+      <value>423010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>19</value>
+      <value>NSD5</value>
+      <value>D5</value>
+      <value>424010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>20</value>
+      <value>NSD6</value>
+      <value>D6</value>
+      <value>425010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>21</value>
+      <value>NSD7</value>
+      <value>D7</value>
+      <value>426010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>22</value>
+      <value>NSD8</value>
+      <value>D8</value>
+      <value>427010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>24</value>
+      <value>NSA6</value>
+      <value>A6</value>
+      <value>417510</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>25</value>
+      <value>NB3S</value>
+      <value>B3G</value>
+      <value>413510</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2013-02-18 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>26</value>
+      <value>MEDI</value>
+      <value>MEDICAL</value>
+      <value>001020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>27</value>
+      <value>PAED</value>
+      <value>PAEDIATRIC</value>
+      <value>001020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>46</value>
+      <value>SURG</value>
+      <value>SURGICAL</value>
+      <value>001020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>52</value>
+      <value>RD</value>
+      <value>RADIOLOGY</value>
+      <value>205010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>63</value>
+      <value>SKIN</value>
+      <value><![CDATA[PLASTIC SURGERY & SKIN CENTRE]]></value>
+      <value>015010</value>
+      <value><![CDATA["整形外科及皮膚科中心, B座二樓  2/F, Block B "
+電話 Tel No: 2339 8666  傳真 Fax No: 3190 5997]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>81</value>
+      <value>NM</value>
+      <value><![CDATA[NUCLEAR MEDICINE]]></value>
+      <value>205045</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>83</value>
+      <value>PHARM1</value>
+      <value><![CDATA[PHARMACY BLOCK B ]]></value>
+      <value>203010</value>
+      <null/>
+      <value>D</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>86</value>
+      <value>SOPR</value>
+      <value>SOPR</value>
+      <value>001040</value>
+      <value><![CDATA[門診, D座地下 G/F, Block D
+電話 Tel No: 2339 8941-4  傳真 Fax No: 2339 8978]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>90</value>
+      <value>PHARM</value>
+      <value><![CDATA[PHARMACY WAREHOUSE]]></value>
+      <value>203010</value>
+      <null/>
+      <value>D</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>94</value>
+      <value>UEC</value>
+      <value><![CDATA[UROLOGY & ENDOUROLOGY CENTRE]]></value>
+      <value>008010</value>
+      <value><![CDATA[泌尿及腔內微創泌尿外科中心,  D座低層地下一樓 LG1, Block D
+電話 Tel No: 2339 8205-6  傳真 Fax No: 2339 8207]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>95</value>
+      <value>ENC</value>
+      <value><![CDATA[ENT CENTRE]]></value>
+      <value>007010</value>
+      <value><![CDATA["耳鼻喉科中心, B座七樓 7/F, Block B "
+電話 Tel No: 2339 8721  傳真 Fax No: 2339 8727]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>98</value>
+      <value>EDC</value>
+      <value><![CDATA[ELECTRODIAGNOSTIC CENTRE]]></value>
+      <value>005010</value>
+      <value><![CDATA[電子診斷組, D座四樓 4/F, Block D
+"電話 Tel No: 2339 8991  傳真 Fax No: 2339 8436 "]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>99</value>
+      <value>CMC</value>
+      <value><![CDATA[CHINESE MEDICINE CLINIC]]></value>
+      <value>014010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>101</value>
+      <value>OGC</value>
+      <value><![CDATA[OBSTETRICS & GYNAECOLOGY CENTRE]]></value>
+      <value>002015</value>
+      <value><![CDATA["婦產科中心, D座低層地下一樓 LG1, Block D "
+電話 Tel No: 2339 7200 / 7203  傳真 Fax No: 2339 7204]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>102</value>
+      <value>OPC</value>
+      <value><![CDATA[OUTPATIENT CENTRE]]></value>
+      <value>001010</value>
+      <value><![CDATA[門診, D座地下 G/F, Block D
+電話 Tel No: 2339 8941-4  傳真 Fax No: 2339 8978]]></value>
+      <value>E</value>
+      <value>&#38272;&#35386;</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>106</value>
+      <value>BCC</value>
+      <value><![CDATA[BREAST CARE CENTRE]]></value>
+      <value>002020</value>
+      <value><![CDATA["乳房健康中心, D座低層地下1樓, LG1, Block D "
+電話 Tel No: 2339 7438  傳真 Fax No: 2339 7439]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>109</value>
+      <value>US</value>
+      <value>ULTRASOUND</value>
+      <value>205040</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>110</value>
+      <value>MRI</value>
+      <value>MRI</value>
+      <value>205030</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>111</value>
+      <value>PETCT</value>
+      <value><![CDATA[PET CT]]></value>
+      <value>205060</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>115</value>
+      <value>MPTU</value>
+      <value><![CDATA[O&G Temporary Unit]]></value>
+      <value>401010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-11-26 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>142</value>
+      <value>ROTS</value>
+      <value>RADIOTHERAPY</value>
+      <value>011010</value>
+      <value><![CDATA[腫瘤科中心(門診)香港九龍窩打老道 222號B座地下
+Oncology Centre (Clinic) G/F, Block B, 222 Waterloo Road, Kln, HK
+電話 Telephone :  2339 8500 傳真 Fax :  2338 0261]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <value><![CDATA[Radiotherapy & Oncology Centre]]></value>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>148</value>
+      <value>ESWL</value>
+      <value>ESWL</value>
+      <value>205050</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>149</value>
+      <value>GYN</value>
+      <value>GYNAECOLOGY</value>
+      <value>002015</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>152</value>
+      <value>NCMO</value>
+      <value>CHEMOTHERAPY</value>
+      <value>011030</value>
+      <value><![CDATA[腫瘤科中心(化療)香港九龍窩打老道 222號B座地下
+Oncology Centre (Chemo) G/F, Block B, 222 Waterloo Road, Kln, HK
+電話 Telephone : 2339 8273 傳真 Fax : 2339 8275]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>158</value>
+      <value>END</value>
+      <value><![CDATA[ENDOSCOPY & ENDOSONOGRAPHY CENTRE]]></value>
+      <value>201010</value>
+      <value><![CDATA[內視鏡及超聲波內視鏡中心, A座一樓 1/F, Block A
+電話 Tel No: 2339 8971  傳真 Fax No: 2339 8449
+]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>168</value>
+      <value>EYEC</value>
+      <value><![CDATA[EYE CENTRE]]></value>
+      <value>006010</value>
+      <value><![CDATA["眼科中心, B座五樓  5/F, Block B "
+電話 Tel No: 2339 8611 / 2339 8422  傳真 Fax No: 2337 7589]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>169</value>
+      <value>RENL</value>
+      <value><![CDATA[RENAL CENTRE]]></value>
+      <value>016010</value>
+      <value><![CDATA["腎科中心, A座四樓  "
+4/F, Block A
+電話 Tel No: 2339 8787  傳真 Fax No: 2339 8788]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>170</value>
+      <value>DGDC</value>
+      <value><![CDATA[GASTROENTEROLOGY AND HEPATOLOGY CENTER]]></value>
+      <value>004010</value>
+      <value><![CDATA["腸胃及肝臟內科中心, E座低層地下一樓 LG1, Block E "
+電話 Tel No: 2339 8064  傳真 Fax No: 2339 8807]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>171</value>
+      <value>MISC</value>
+      <value><![CDATA[MINIMALLY INVASIVE SURGERY AND COLORECTAL DISEASE CENTRE]]></value>
+      <value>010010</value>
+      <value><![CDATA["微創外科及大腸外科中心, E座低層地下一樓 LG1, Block E "
+電話 Tel No: 2339 8075  傳真 Fax No: 2339 8077]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>172</value>
+      <value>UGSC</value>
+      <value><![CDATA[UPPER GASTROINTESTINAL SURGERY CENTRE]]></value>
+      <value>004510</value>
+      <value><![CDATA["上消化道外科中心, E座低層地下一樓 LG1, Block E "
+電話 Tel No: 2339 8210  傳真 Fax No: 2339 8209]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>173</value>
+      <value>HCC</value>
+      <value><![CDATA[CHIU HIN KWONG HEART CENTRE]]></value>
+      <value>019020</value>
+      <value><![CDATA["心臟中心, D座四樓 4/F, Block D "
+電話 Tel No: 2339 8977 / 2339 8222  傳真 Fax No: 2304 5823]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>175</value>
+      <value>DWC</value>
+      <value><![CDATA[WELLNESS CENTRE]]></value>
+      <value>003020</value>
+      <value><![CDATA[保健中心, D座低層地下一樓 LG1, Block D
+電話 Tel No: 2339 7228  傳真 Fax No: 2339 7204]]></value>
+      <value>E</value>
+      <null/>
+      <value>23397228</value>
+      <null/>
+      <value>healthscreening@hkbh.org.hk</value>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>176</value>
+      <value>DIET</value>
+      <value><![CDATA[DIETETIC UNIT]]></value>
+      <value>013010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>177</value>
+      <value>PTYS</value>
+      <value>PHYSIOTHERAPY</value>
+      <value>012010</value>
+      <value><![CDATA[九龍窩打老道222號A座5樓 5/F, Block A, 222 Waterloo Road, Kowloon.
+電話 Tel No: 2339 8481  傳真 Fax No: 2339 8903]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>192</value>
+      <value>CT</value>
+      <value><![CDATA[CT SCAN]]></value>
+      <value>205020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2011-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>195</value>
+      <value>LAB</value>
+      <value>LABORATORY</value>
+      <value>204090</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2011-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>200</value>
+      <value>LABIP</value>
+      <value><![CDATA[IPD PHLEBOTOMIST]]></value>
+      <value>204090</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2011-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>203</value>
+      <value>LABOP</value>
+      <value><![CDATA[OPD PHLEBOTOMIST]]></value>
+      <value>204090</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2011-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>209</value>
+      <value>CDC</value>
+      <value>Canteen</value>
+      <value>804010</value>
+      <null/>
+      <value>O</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2011-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>215</value>
+      <value>RKT</value>
+      <value><![CDATA[KAI TAK RENAL CENTRE]]></value>
+      <value>016020</value>
+      <value><![CDATA["啟德腎科中心,土瓜灣宋皇臺道38號,傲雲峰地下G07號  "
+Shop G07, G/F, Sky Tower, 38 Sung Wong Toi Rd, Tokwawan
+電話 Tel No: 2339 5088  傳真 Fax No: 2339 5084]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2011-10-19 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>218</value>
+      <value>PTYS-S</value>
+      <value><![CDATA[STOCK: PHYSIOTHERAPY]]></value>
+      <value>012010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>220</value>
+      <value>MATR</value>
+      <value><![CDATA[A2-B2 Maternity Referral]]></value>
+      <value>401010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2011-11-10 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>221</value>
+      <value>OT</value>
+      <value><![CDATA[OT SUITE]]></value>
+      <value>202010</value>
+      <null/>
+      <value>OP</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>223</value>
+      <value>MPAC</value>
+      <value><![CDATA[PAEDIATRIC AND ADOLESCENT CENTRE]]></value>
+      <value>011040</value>
+      <value><![CDATA["兒童及青少年科中心, B座三樓  3/F, Block B  "
+電話 Tel No: 2339 8461  傳真 Fax No: 2338 0949]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2011-12-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>244</value>
+      <value>CHCABP</value>
+      <value>ABP</value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>245</value>
+      <value>CHCCER</value>
+      <value><![CDATA[CARDIAC EVENT RECORDER]]></value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>246</value>
+      <value>CHCCALB</value>
+      <value><![CDATA[CARDIAC LABORATORY]]></value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>247</value>
+      <value>CHCECG</value>
+      <value>ECG</value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>249</value>
+      <value>CHCECHO</value>
+      <value>ECHO</value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>250</value>
+      <value>CHCHOL</value>
+      <value>HOLTER</value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>252</value>
+      <value>CHCTRE</value>
+      <value>TREADMILL</value>
+      <value>019020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-02-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>261</value>
+      <value>CMKT</value>
+      <value><![CDATA[KAI TAK CHINESE MEDICINE CLINIC]]></value>
+      <value>014020</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2012-05-18 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>264</value>
+      <value>UEC01</value>
+      <value><![CDATA[Endourology Procedure Centre]]></value>
+      <value>008010</value>
+      <value><![CDATA[泌尿內視鏡及檢查中心, B座六樓 6/F,Block B
+電話 Tel No: 2339 8205-6  傳真 Fax No: 2339 8207]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>Y</value>
+      <value><![CDATA[2014-02-07 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>267</value>
+      <value>NSE3</value>
+      <value>E3</value>
+      <value>423010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-02-23 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>269</value>
+      <value>NSE7</value>
+      <value>E7</value>
+      <value>426010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-04-17 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>270</value>
+      <value>NSE8</value>
+      <value>E8</value>
+      <value>427010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-04-17 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>271</value>
+      <value>NSE9</value>
+      <value>E9</value>
+      <value>428010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-07-21 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>272</value>
+      <value>NSE6</value>
+      <value>E6</value>
+      <value>425010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-02-23 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>273</value>
+      <value>NSPE</value>
+      <value><![CDATA[SPECIALIST CLINICS]]></value>
+      <value>001050</value>
+      <value><![CDATA[專科門診, E座低層地下一樓 LG1, Block E
+電話 Tel No: 2339 5981-4  傳真 Fax No: 2339 5980]]></value>
+      <value>E</value>
+      <value>&#38272;&#35386;</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2015-02-26 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>274</value>
+      <value>PHARM5</value>
+      <value><![CDATA[PHARMACY BLOCK E]]></value>
+      <value>203010</value>
+      <null/>
+      <value>D</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-02-14 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>280</value>
+      <value>NSE5</value>
+      <value><![CDATA[ICU E5]]></value>
+      <value>403010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2015-08-31 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>284</value>
+      <value>PETMR</value>
+      <value><![CDATA[PET MR]]></value>
+      <value>205080</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2018-04-04 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>285</value>
+      <value>VCW01</value>
+      <value>VCW01</value>
+      <null/>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>116</value>
+      <value>NPSU</value>
+      <value><![CDATA[Nursery Pseudo Room]]></value>
+      <value>402010</value>
+      <null/>
+      <value>W</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2011-01-10 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>139</value>
+      <value>OBST</value>
+      <value>OBSTETRIC</value>
+      <value>002015</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>84</value>
+      <value>PHARM2</value>
+      <value><![CDATA[PHARMACY BLOCK D]]></value>
+      <value>203010</value>
+      <null/>
+      <value>D</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>277</value>
+      <value>MDEC</value>
+      <value><![CDATA[Diabetes and Endocrinology Centre]]></value>
+      <value>004520</value>
+      <value><![CDATA[糖尿及內分泌科中心, D座低層地下一樓, LG1/F, Block D
+Tel: 2339 5990, 2339 8836  Fax: 2339 5994]]></value>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>Y</value>
+      <value><![CDATA[2015-05-07 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>202</value>
+      <value>PHARM3</value>
+      <value><![CDATA[PHARMACY BLOCK C]]></value>
+      <value>203010</value>
+      <null/>
+      <value>D</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>N</value>
+      <value>N</value>
+      <value><![CDATA[2010-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+    <row>
+      <value>214</value>
+      <value>PHARM4</value>
+      <value><![CDATA[Pharmacy Counter]]></value>
+      <value>203010</value>
+      <null/>
+      <value>E</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>Y</value>
+      <value>Y</value>
+      <value><![CDATA[2011-10-04 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </row>
+  </table>
+</dataset>

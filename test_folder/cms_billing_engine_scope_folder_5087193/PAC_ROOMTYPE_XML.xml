@@ -1,0 +1,14 @@
+<dataset>
+  <table name="PAC_ROOMTYPE">
+    <column>TRAK_ROWID</column>
+    <column>ROOM_TYPE_CODE</column>
+    <column>ROOM_TYPE_DESC</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

@@ -1,0 +1,15 @@
+<dataset>
+  <table name="DL_PREGDELIVERY">
+    <column>DL_PREGDELIVERY_ROWID</column>
+    <column>DL_PREGDELIVERY_CHILDSUB</column>
+    <column>DL_PREGNANCY_ROWID</column>
+    <column>EPISODE_NO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>TRAK_ROWID</column>
+    <column>TRAK_CHILDSUB</column>
+    <column>TRAK_PARREF</column>
+  </table>
+</dataset>

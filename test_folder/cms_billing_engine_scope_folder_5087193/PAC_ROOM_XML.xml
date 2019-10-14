@@ -1,0 +1,15 @@
+<dataset>
+  <table name="PAC_ROOM">
+    <column>TRAK_ROWID</column>
+    <column>ROOM_CODE</column>
+    <column>ROOM_DESC</column>
+    <column>ROOM_TYPE_CODE</column>
+    <column>DIFF_SEX_PATIENT</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

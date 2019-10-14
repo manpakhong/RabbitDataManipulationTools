@@ -1,0 +1,14 @@
+<dataset>
+  <table name="PHA_FORMDOSEEQUIV">
+    <column>PHA_FORMDOSEEQUIV_ID</column>
+    <column>PHA_DRGFORM_ID</column>
+    <column>QTY</column>
+    <column>UOM_DESC2</column>
+    <column>UOM_DESC1</column>
+    <column>UOM_CODE</column>
+    <column>CHILDSUB</column>
+    <column>EQ_ROWID</column>
+    <column>EQ_PARREF</column>
+    <column>DEFAULT_DOSE</column>
+  </table>
+</dataset>

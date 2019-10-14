@@ -1,0 +1,18 @@
+<dataset>
+  <table name="ARC_PAYAGREEMDISCOUNT">
+    <column>TRAK_ROWID</column>
+    <column>TRAK_PAYMENTAGREEMENT_ROWID</column>
+    <column>BILLING_GROUP_CODE</column>
+    <column>BILLING_SUBGROUP_CODE</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>EPISODE_TYPE</column>
+    <column>DISCOUNT_PERC</column>
+    <column>DISCOUNT_AMOUNT</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

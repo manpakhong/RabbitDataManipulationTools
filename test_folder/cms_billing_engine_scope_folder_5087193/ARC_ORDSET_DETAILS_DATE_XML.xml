@@ -1,0 +1,13 @@
+<dataset>
+  <table name="ARC_ORDSET_DETAILS_DATE">
+    <column>TRAK_OS_ROWID</column>
+    <column>TRAK_OS_DTL_DATE_ROWID</column>
+    <column>ORDER_SET_CODE</column>
+    <column>DATE_FROM</column>
+    <column>DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

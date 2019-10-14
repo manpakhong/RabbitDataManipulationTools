@@ -12,7 +12,10 @@ import org.dbunit.ext.mysql.MySqlDataTypeFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
 import com.rabbitforever.datamanipulation.flowtest.bundles.DbProperties;
+import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
+import com.rabbitforever.datamanipulation.services.ScribbleMgr;
 
 public abstract class DbUtils {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
@@ -20,15 +23,27 @@ public abstract class DbUtils {
 	// public static final String DB_TYPE_MYSQL = "mysql";
 	// public static final String DB_TYPE_DB2 = "db2";
 	protected DbProperties properties;
-
+	private SysProperties sysProperties;
 	public Connection getConnection() throws Exception {
 		Connection jdbcConnection = null;
+		ScribbleMgr scribbleMgr = null;
 		try {
 			String connectionString = properties.getConnectString();
 			String userName = properties.getUserName();
 			String password = properties.getPassword();
 			String schema = properties.getSchema();
 			Class.forName(properties.getClassForName());
+			
+			sysProperties = PropertiesFactory.getInstanceOfSysProperties();
+			
+			scribbleMgr = new ScribbleMgr();
+			Boolean isScribbleEnabled = sysProperties.getUsernamePasswordScribbleEnabled();
+			if (isScribbleEnabled != null && isScribbleEnabled) {
+				userName = scribbleMgr.scribbleWords(userName);
+				password = scribbleMgr.scribbleWords(password);
+			}
+			
+			
 			jdbcConnection = DriverManager.getConnection(connectionString, userName, password);
 			// jdbcConnection.setSchema(schema);
 		} catch (Exception e) {

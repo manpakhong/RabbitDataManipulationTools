@@ -1,0 +1,23 @@
+<dataset>
+  <table name="BIL_BED_CHARGE_JOBS">
+    <column>ID</column>
+    <column>JOB_DATE_TIME</column>
+    <column>EPISODE_NO</column>
+    <column>EPISODE_TYPE</column>
+    <column>JOB_TYPE</column>
+    <column>STATUS</column>
+    <column>START_WAITING_DATE_TIME</column>
+    <column>END_WAITING_DATE_TIME</column>
+    <column>CREATED_DATE_TIME</column>
+    <column>UPDATED_DATE_TIME</column>
+    <column>CREATED_BY</column>
+    <column>UPDATE_BY</column>
+    <column>HANDLED_BY_SERVER</column>
+    <column>START_PROCESS_DATE_TIME</column>
+    <column>END_PROCESS_DATE_TIME</column>
+    <column>CREATED_BY_SERVER</column>
+    <column>PROVIDED_BY_SERVER</column>
+    <column>ROUTE</column>
+    <column>REMARKS</column>
+  </table>
+</dataset>

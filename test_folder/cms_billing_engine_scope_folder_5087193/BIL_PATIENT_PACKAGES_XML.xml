@@ -1,0 +1,24 @@
+<dataset>
+  <table name="BIL_PATIENT_PACKAGES">
+    <column>HOSPITAL_ID</column>
+    <column>PACKAGE_ID</column>
+    <column>PACKAGE_NUMBER</column>
+    <column>PACKAGE_TEMPLATE</column>
+    <column>PACKAGE_CODE</column>
+    <column>PACKAGE_DESC</column>
+    <column>PACKAGE_COVERED_DATE_FROM</column>
+    <column>PACKAGE_COVERED_DATE_TO</column>
+    <column>FIXED_PRICE</column>
+    <column>NUM_OF_DAYS_COVERED</column>
+    <column>NUM_OF_VISITS_COVERED</column>
+    <column>SELECTION_METHOD</column>
+    <column>MULTIPLE_EPISODE_YN</column>
+    <column>INCLUDE_OPTIONAL_YN</column>
+    <column>PACKAGE_EFFECTIVE_DATE_FROM</column>
+    <column>PACKAGE_EFFECTIVE_DATE_TO</column>
+    <column>TRAK_PACK_ROWID</column>
+    <column>TRAK_PACK_CHILDSUB</column>
+    <column>ID</column>
+    <column>DELETED_YN</column>
+  </table>
+</dataset>

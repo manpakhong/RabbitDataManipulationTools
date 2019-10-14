@@ -1,0 +1,17 @@
+<dataset>
+  <table name="OR_ANAEST_OPERATION">
+    <column>OR_ANAEST_OPERATION_ROWID</column>
+    <column>OR_ANAEST_OPERATION_CHILDSUB</column>
+    <column>OR_ANAESTHESIA_ROWID</column>
+    <column>SURGEON_CODE</column>
+    <column>OPERATION_CODE</column>
+    <column>OPERATION_STATUS</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>TRAK_ROWID</column>
+    <column>TRAK_CHILDSUB</column>
+    <column>TRAK_PARREF</column>
+  </table>
+</dataset>

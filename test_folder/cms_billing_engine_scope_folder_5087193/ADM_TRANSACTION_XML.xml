@@ -1,0 +1,46 @@
+<dataset>
+  <table name="ADM_TRANSACTION">
+    <column>TRAK_TRANS_ROWID</column>
+    <column>EPISODE_NO</column>
+    <column>TRANS_START_DATE_TIME</column>
+    <column>TRANS_END_DATE_TIME</column>
+    <column>DOCTOR_CODE</column>
+    <column>MAIN_PROVIDER_YN</column>
+    <column>ADMISSION_TYPE_CODE</column>
+    <column>ROOM_CODE</column>
+    <column>WARD_CODE</column>
+    <column>BED_NO</column>
+    <column>BED_TYPE_CODE</column>
+    <column>OVERRIDE_ROOM_TYPE_CODE</column>
+    <column>TRANSFER_REASON_CODE</column>
+    <column>TRANS_STATUS</column>
+    <column>TRANS_TYPE_CODE</column>
+    <column>COMMENT_TEXT</column>
+    <column>LAST_UPDATE_USER</column>
+    <column>LAST_UPDATE_DATE_TIME</column>
+    <column>EPISODE_ID</column>
+    <column>SEQ</column>
+    <row>
+      <value>5087193||1</value>
+      <value>6921994</value>
+      <value><![CDATA[2019-01-07 09:56:01.0]]></value>
+      <null/>
+      <value>2391</value>
+      <value>Y</value>
+      <value>OPC</value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>T</value>
+      <value>T</value>
+      <null/>
+      <value>H090372</value>
+      <value><![CDATA[2019-01-06 10:00:52.0]]></value>
+      <value>5087193</value>
+      <value>1</value>
+    </row>
+  </table>
+</dataset>

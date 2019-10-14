@@ -1,0 +1,13 @@
+<dataset>
+  <table name="BIL_EPISODE_PACKAGE_LINK">
+    <column>HOSPITAL_ID</column>
+    <column>PACKAGE_ID</column>
+    <column>STATUS</column>
+    <column>CREATE_DATE_TIME</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_DATE_TIME</column>
+    <column>UPDATE_BY</column>
+    <column>EPISODE_ID</column>
+    <column>ID</column>
+  </table>
+</dataset>

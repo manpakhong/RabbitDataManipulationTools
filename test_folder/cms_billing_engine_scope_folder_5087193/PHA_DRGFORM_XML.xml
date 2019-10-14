@@ -1,0 +1,26 @@
+<dataset>
+  <table name="PHA_DRGFORM">
+    <column>PHA_DRGMAST_ID</column>
+    <column>PHA_DRGFORM_ID</column>
+    <column>DRUGMAST_CODE</column>
+    <column>CHILDSUB</column>
+    <column>FREQ_CODE</column>
+    <column>INSTRUC_CODE</column>
+    <column>DOSAGE_CODE</column>
+    <column>UOM_CODE</column>
+    <column>BASE_QTY</column>
+    <column>DURATION_OP_CODE</column>
+    <column>DURATION_IP_CODE</column>
+    <column>ADMINROUTE_CODE</column>
+    <column>NEVER_CAL_QTY_YN</column>
+    <column>DEDUCT_PARTIALLY</column>
+    <column>EXTRA_DETAIL</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>UPDATE_DATE</column>
+    <column>UPDATE_BY</column>
+    <column>PHCDF_PHCD_PARREF</column>
+    <column>PHCDF_ROWID</column>
+    <column>ROUND_INDIVIDUAL_ADMIN</column>
+  </table>
+</dataset>

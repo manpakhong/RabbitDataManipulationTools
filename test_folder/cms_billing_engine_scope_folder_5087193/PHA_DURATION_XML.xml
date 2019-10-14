@@ -1,0 +1,14 @@
+<dataset>
+  <table name="PHA_DURATION">
+    <column>PHA_DURA_ID</column>
+    <column>DURA_CODE</column>
+    <column>DURA_FACTOR</column>
+    <column>DURA_DESC1</column>
+    <column>DURA_DESC2</column>
+    <column>PHCDU_ROWID</column>
+    <column>CREATED_ID</column>
+    <column>CREATED_DATE</column>
+    <column>UPDATED_ID</column>
+    <column>UPDATED_DATE</column>
+  </table>
+</dataset>

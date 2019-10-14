@@ -1,0 +1,11 @@
+<dataset>
+  <table name="BIL_MIGRATE_PACKAGE">
+    <column>ID</column>
+    <column>PACKAGE_ID</column>
+    <column>HOSPITAL_ID</column>
+    <column>CREATE_DATE_TIME</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_DATE_TIME</column>
+    <column>UPDATE_BY</column>
+  </table>
+</dataset>

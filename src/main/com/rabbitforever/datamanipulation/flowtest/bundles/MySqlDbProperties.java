@@ -45,6 +45,14 @@ public class MySqlDbProperties extends PropertiesBase implements DbProperties{
 		return userName;
 	}
 
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
 	public String getPassword() {
 		password = this.getPropValues("password");
 		return password;

@@ -1,0 +1,34 @@
+<dataset>
+  <table name="BIL_JOBS_UNDER_MONITORING">
+    <column>ID</column>
+    <column>MOVEMENT_ID</column>
+    <column>HOSPITAL_ID</column>
+    <column>EPISODE_ID</column>
+    <column>EPISODE_NO</column>
+    <column>EPISODE_TYPE</column>
+    <column>STATUS</column>
+    <column>RETRY</column>
+    <column>DELAY</column>
+    <column>ORDER_ID</column>
+    <column>PENDING_MESSAGE</column>
+    <column>PENDING_TYPE</column>
+    <column>DATE_FROM</column>
+    <column>DATE_TO</column>
+    <column>BILCHGREQ_ROWID</column>
+    <column>CREATED_DATE_TIME</column>
+    <column>UPDATED_DATE_TIME</column>
+    <column>CREATED_BY</column>
+    <column>UPDATED_BY</column>
+    <column>HANDLED_BY_SERVER</column>
+    <column>START_PROCESS_DATE_TIME</column>
+    <column>END_PROCESS_DATE_TIME</column>
+    <column>CREATED_BY_SERVER</column>
+    <column>START_WAITING_DATE_TIME</column>
+    <column>END_WAITING_DATE_TIME</column>
+    <column>PENDING_SUBTYPE</column>
+    <column>FACTOR_DETERMINE_TERMINATE</column>
+    <column>NEXT_TURN_DATE_TIME</column>
+    <column>PROVIDED_BY_SERVER</column>
+    <column>REMARKS</column>
+  </table>
+</dataset>

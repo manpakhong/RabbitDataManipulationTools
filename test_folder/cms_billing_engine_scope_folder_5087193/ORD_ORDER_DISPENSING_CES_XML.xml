@@ -1,0 +1,31 @@
+<dataset>
+  <table name="ORD_ORDER_DISPENSING_CES">
+    <column>DSP_OEORE_PARREF</column>
+    <column>DSP_ROWID</column>
+    <column>DSP_INCLB_DR</column>
+    <column>DSP_CHILDSUB</column>
+    <column>DSP_QTY</column>
+    <column>DSP_OECHG_DR</column>
+    <column>DSP_DATE</column>
+    <column>DSP_TIME</column>
+    <column>DSP_SSUSR_DR</column>
+    <column>DSP_STATUS</column>
+    <column>DSP_RETURNQTY</column>
+    <column>DSP_RETURNLOC_DR</column>
+    <column>DSP_COLLECTEDUSER_DR</column>
+    <column>DSP_COLLECTEDDATE</column>
+    <column>DSP_COLLECTEDTIME</column>
+    <column>DSP_COLLECTEDPATIENTREP</column>
+    <column>DSP_TOTALRETURNEDQTY</column>
+    <column>DSP_CHECKEDBY_DR</column>
+    <column>DSP_CHECKEDDATE</column>
+    <column>DSP_CHECKEDTIME</column>
+    <column>DSP_EXTERNALBATCHNO</column>
+    <column>DSP_EXTERNALBATCHID</column>
+    <column>DSP_EXTUNPACKID</column>
+    <column>DSP_ISBARCODERETURN</column>
+    <column>TRAK_STATUS</column>
+    <column>TRAK_CREATE_TIME</column>
+    <column>TRAK_UPDATE_TIME</column>
+  </table>
+</dataset>

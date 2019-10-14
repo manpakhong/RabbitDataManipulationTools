@@ -39,6 +39,12 @@ public class OracleDbProperties extends PropertiesBase implements DbProperties{
 		return port;
 	}
 
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
 	public String getUserName() {
 		userName = this.getPropValues("username");
 		return userName;

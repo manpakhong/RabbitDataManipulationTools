@@ -1,0 +1,2312 @@
+<dataset>
+  <table name="ARC_SURCHTIMEDEPEND">
+    <column>TRAK_ROWID</column>
+    <column>SURCHARGE_CODE</column>
+    <column>SURCHARGE_NAME</column>
+    <column>PUBLIC_HOLIDAY</column>
+    <column>DOW_FROM</column>
+    <column>DOW_TO</column>
+    <column>TIME_FROM</column>
+    <column>TIME_TO</column>
+    <column>FIXED_TIME_AMOUNT</column>
+    <column>FIXED_TIME_BLOCK</column>
+    <column>MARKUP_PERCENT</column>
+    <column>LOCATION</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>ROOM_TYPE_MARKUP_CODE</column>
+    <row>
+      <value>432||15</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||5</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||78</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC MONDAY (18:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>2</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 18:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||85</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||20</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT SATURDAY (13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||21</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||22</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT WEEKDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||23</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||24</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||25</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM SATURDAY (00:00-08:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||26</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM SATURDAY (13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||27</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||28</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM WEEKDAY (00:00-08:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||29</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||30</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||31</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI SATURDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||32</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI SATURDAY (14:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 14:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 14:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||33</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||34</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI WEEKDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||35</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI WEEKDAY (18:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 18:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||36</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||37</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC SATURDAY(00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||38</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC SATURDAY(13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||39</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||40</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||41</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||42</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[UEC WEEKDAY (18:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>UEC</value>
+      <value><![CDATA[2012-05-12 18:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||43</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[SOPR SATURDAY (00:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>SOPR</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||44</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[SOPR HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>SOPR</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||45</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[SOPR SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>SOPR</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||46</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[SOPR WEEKDAY (00:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>SOPR</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||47</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END SATURDAY(00:00-06:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 06:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||48</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END SATURDAY(17:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||49</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END SUNDAY(13:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||50</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END SUNDAY(00:00-06:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 06:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||51</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||52</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END WEEKDAY (00:00-06:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 06:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||53</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[END WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>END</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||54</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||55</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC SATURDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||56</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||57</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||58</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC WEEKDAY (19:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 19:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 19:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||59</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EYEC SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>100</value>
+      <value>EYEC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||60</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC SATURDAY(00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||61</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC SATURDAY(13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||62</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||63</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||64</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||65</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC WEEKDAY (07:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 07:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 07:00:00.0]]></value>
+      <value><![CDATA[2012-05-13 07:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||66</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[EDC WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>EDC</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||67</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC SATURDAY(00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||68</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC SATURDAY(13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||69</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||70</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||71</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||72</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[HCC WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>HCC</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||73</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC SATURDAY(00:00-08:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||74</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC SATURDAY(15:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 15:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 15:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||75</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||76</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||77</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC MONDAY (00:00-08:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>2</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||79</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC THURSDAY(00:00-08:59)]]></value>
+      <value>N</value>
+      <value>4</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||80</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC THURSDAY(18:00-23:59)]]></value>
+      <value>N</value>
+      <value>4</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 18:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||81</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC WEDNESDAY(00:00-08:59)]]></value>
+      <value>N</value>
+      <value>3</value>
+      <value>3</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||82</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ENC WEDNESDAY(14:00-23:59)]]></value>
+      <value>N</value>
+      <value>3</value>
+      <value>3</value>
+      <value><![CDATA[1970-01-01 14:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>0</value>
+      <value>ENC</value>
+      <value><![CDATA[2012-05-12 14:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||83</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB SATURDAY (00:00-06:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 06:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 06:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||84</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB SATURDAY (22:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 22:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 22:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||86</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB WEEKDAY (00:00-06:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 06:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 06:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||87</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB WEEKDAY (22:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 22:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 22:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||88</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[LAB SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>LAB</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2012-05-22 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||89</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PTYS SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>20</value>
+      <value>PTYS</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2014-05-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||90</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PTYS HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>20</value>
+      <value>PTYS</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2014-05-31 23:59:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||1</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US SATURDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||2</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US SATURDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||3</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||4</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US WEEKDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||6</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||7</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||8</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL SATURDAY (13:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 13:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 13:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||9</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||10</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||11</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL WEEKDAY (17:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 17:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 17:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||12</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[ESWL SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>30</value>
+      <value>ESWL</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||13</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||14</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD SATURDAY (22:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 22:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 22:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||16</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||17</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD WEEKDAY (22:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 22:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 22:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||18</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[RD SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>RD</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||19</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT SATURDAY (00:00-08:29)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 08:29:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2012-05-12 00:00:00.0]]></value>
+      <value><![CDATA[2015-12-31 08:29:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||95</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PTYS HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>25</value>
+      <value>PTYS</value>
+      <value><![CDATA[2014-06-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||97</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PTYS SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>25</value>
+      <value>PTYS</value>
+      <value><![CDATA[2014-06-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||100</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||102</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||104</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[US WEEKDAY (19:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 19:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>US</value>
+      <value><![CDATA[2016-01-01 19:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||106</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||108</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT SATURDAY (14:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 14:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2016-01-01 14:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||110</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||112</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[CT WEEKDAY (18:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>CT</value>
+      <value><![CDATA[2016-01-01 18:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||114</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||116</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM SATURDAY (14:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 14:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2016-01-01 14:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||118</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||120</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[NM WEEKDAY (18:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 18:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>NM</value>
+      <value><![CDATA[2016-01-01 18:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||122</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI SATURDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||124</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI SATURDAY (15:00-23:59)]]></value>
+      <value>N</value>
+      <value>6</value>
+      <value>6</value>
+      <value><![CDATA[1970-01-01 15:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2016-01-01 15:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||126</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI WEEKDAY (00:00-07:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 07:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2016-01-01 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||128</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[MRI WEEKDAY (19:00-23:59)]]></value>
+      <value>N</value>
+      <value>1</value>
+      <value>5</value>
+      <value><![CDATA[1970-01-01 19:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>MRI</value>
+      <value><![CDATA[2016-01-01 19:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||131</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PHARM4 HOLIDAY(00:00-23:59)]]></value>
+      <value>Y</value>
+      <value>0</value>
+      <value>0</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>PHARM4</value>
+      <value><![CDATA[2018-04-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+    <row>
+      <value>432||133</value>
+      <value>TDBYLOC010</value>
+      <value><![CDATA[PHARM4 SUNDAY(00:00-23:59)]]></value>
+      <value>N</value>
+      <value>7</value>
+      <value>7</value>
+      <value><![CDATA[1970-01-01 00:00:00.0]]></value>
+      <value><![CDATA[1970-01-01 23:59:00.0]]></value>
+      <value>0</value>
+      <value>0</value>
+      <value>50</value>
+      <value>PHARM4</value>
+      <value><![CDATA[2018-04-16 00:00:00.0]]></value>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <value>NOMARKUP</value>
+    </row>
+  </table>
+</dataset>

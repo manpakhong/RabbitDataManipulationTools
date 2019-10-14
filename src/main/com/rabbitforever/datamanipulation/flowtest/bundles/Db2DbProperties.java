@@ -57,6 +57,14 @@ public class Db2DbProperties extends PropertiesBase implements DbProperties{
 		systemSchema = this.getPropValues("system_schema");
 		return systemSchema;
 	}
+	
+	
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();

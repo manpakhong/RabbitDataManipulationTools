@@ -1,0 +1,28 @@
+<dataset>
+  <table name="BIL_EPISODE_BILLING_SUMMARY">
+    <column>HOSPITAL_NO</column>
+    <column>TRAK_PAPMI_ROWID</column>
+    <column>EPISODE_TYPE</column>
+    <column>EPISODE_NO</column>
+    <column>TOTAL_HOSP_CHARGE_AMOUNT</column>
+    <column>TOTAL_DR_FEE_AMOUNT</column>
+    <column>TOTAL_ITEM_DISCOUNT_AMOUNT</column>
+    <column>TOTAL_BILL_DISCOUNT_AMOUNT</column>
+    <column>TOTAL_SETTLED_AMOUNT</column>
+    <column>TOTAL_BILLED_AMOUNT</column>
+    <column>TOTAL_DEPOSIT_AMOUNT</column>
+    <column>TOTAL_PREPAY_AMOUNT</column>
+    <column>TOTAL_ALLOCATED_DEPOSIT_AMOUNT</column>
+    <column>TOTAL_ALLOCATED_PREPAY_AMOUNT</column>
+    <column>CREATE_BY</column>
+    <column>CREATE_DATE_TIME</column>
+    <column>UPDATE_BY</column>
+    <column>UPDATE_DATE_TIME</column>
+    <column>LAST_INTERIM_BILL_GEN_DATE</column>
+    <column>LAST_INTERIM_BILL_DATE_FROM</column>
+    <column>LAST_INTERIM_BILL_DATE_TO</column>
+    <column>BIL_ENG_LAST_BED_CHARGE_CAL_DATE_TIME</column>
+    <column>HOSPITAL_ID</column>
+    <column>EPISODE_ID</column>
+  </table>
+</dataset>

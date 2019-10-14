@@ -1,0 +1,15 @@
+<dataset>
+  <table name="PHA_FREQUENCY">
+    <column>PHA_FREQ_ID</column>
+    <column>FREQ_CODE</column>
+    <column>FREQ_FACTOR</column>
+    <column>FREQ_DESC1</column>
+    <column>FREQ_DESC2</column>
+    <column>FREQ_DAYS</column>
+    <column>CREATED_ID</column>
+    <column>CREATED_DATE</column>
+    <column>UPDATED_ID</column>
+    <column>UPDATED_DATE</column>
+    <column>PHCFR_ROWID</column>
+  </table>
+</dataset>

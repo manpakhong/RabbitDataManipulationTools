@@ -30,6 +30,14 @@ public class MsSqlDbProperties extends PropertiesBase implements DbProperties{
 		return connectString;
 	}
 
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
 	public String getHost() {
 		host = this.getPropValues("host");
 		return host;

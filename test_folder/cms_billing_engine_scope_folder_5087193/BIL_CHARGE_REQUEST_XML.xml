@@ -1,0 +1,212 @@
+<dataset>
+  <table name="BIL_CHARGE_REQUEST">
+    <column>BILCHGREQ_ROWID</column>
+    <column>REQUEST_ROWID</column>
+    <column>CREATED_DATE_TIME</column>
+    <column>UPDATED_DATE_TIME</column>
+    <column>STATUS</column>
+    <column>REQUEST_TYPE</column>
+    <column>REQUEST_WORKFLOW</column>
+    <column>REQUEST_PARAMETERS</column>
+    <column>HANDLED_BY_SERVER</column>
+    <column>START_WAITING_DATE_TIME</column>
+    <column>END_WAITING_DATE_TIME</column>
+    <column>START_PROCESS_DATE_TIME</column>
+    <column>END_PROCESS_DATE_TIME</column>
+    <column>EPISODE_ID</column>
+    <column>JOB_QUEUE</column>
+    <column>ORDER_ID</column>
+    <column>PROVIDED_BY_SERVER</column>
+    <column>ROUTE</column>
+    <column>REMARKS</column>
+    <row>
+      <value>1710142</value>
+      <value>2299620||2</value>
+      <value><![CDATA[2019-10-13 14:45:47.0]]></value>
+      <value><![CDATA[2019-10-14 15:03:57.331]]></value>
+      <value>4</value>
+      <value>INSERT</value>
+      <value>ORDER_ITEM</value>
+      <null/>
+      <value>billing_engine_1</value>
+      <value><![CDATA[2019-10-14 15:03:05.452]]></value>
+      <value><![CDATA[2019-10-14 15:03:57.255]]></value>
+      <value><![CDATA[2019-10-14 15:03:57.266]]></value>
+      <value><![CDATA[2019-10-14 15:03:57.331]]></value>
+      <value>5087193</value>
+      <value>3</value>
+      <value>2299620</value>
+      <value>billing_engine_1</value>
+      <value>RequestJobQueue.processOrderItem()~RequestJobQueueHelper.createOrderItemRequestDto()-!requestParameters||OrderItemRequestDto.REQUEST_PARAM_DRUG_RETURN||doEpisodeLevelChangeOrderItemInputDto~RequestJobQueue.processOrderItem():general~OrderItemMgr.doGeneralChargeCalculation():ordOrderItemCesPatientChargesDto~ExceptionsHandlingMgr.doExceptionHandling()~connections=1</value>
+      <null/>
+    </row>
+    <row>
+      <value>2279272</value>
+      <value>5087193</value>
+      <value><![CDATA[2019-10-14 10:50:18.0]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.702]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>PASSIVE_MONITORING</value>
+      <value>ADM_EPISODE</value>
+      <value>billing_engine_2</value>
+      <value><![CDATA[2019-10-14 10:50:19.036]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.623]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.623]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.702]]></value>
+      <value>5087193</value>
+      <value>1</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processPassiveMonitoring():TABLE_NAME_ADM_EPISODE~connections=0</value>
+      <null/>
+    </row>
+    <row>
+      <value>2279268</value>
+      <value>2299620||3</value>
+      <value><![CDATA[2019-10-14 10:49:51.0]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.479]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>ORDER_ITEM</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value><![CDATA[2019-10-14 10:49:51.013]]></value>
+      <value><![CDATA[2019-10-14 10:51:44.985]]></value>
+      <value><![CDATA[2019-10-14 10:51:44.985]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.479]]></value>
+      <value>5087193</value>
+      <value>1</value>
+      <value>2299620</value>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processOrderItem()~RequestJobQueueHelper.createOrderItemRequestDto()-!requestParameters||OrderItemRequestDto.REQUEST_PARAM_DRUG_RETURN||doEpisodeLevelChangeOrderItemInputDto~RequestJobQueue.processOrderItem():general~OrderItemMgr.doGeneralChargeCalculation():ordOrderItemCesPatientChargesDto~OrderItemMgr.doGeneralChargeCalculation():admEpisodeDto,serviceDateTime=20190107_120000~OrderItemMgrHelper.determineIsContinueToCalculateUponBuoBue():ArcItmmastDto.BILLING_LOGIC_BILL_UPON_EXECUTION~OrderItemMgrHelper.determineIsContinueToCalculateUponBuoBue():!ITEM_STAT_EXECUTED~OrderItemMgrHelper.calculateGeneralChargePerOrderItem():!isContinueUponExe~PackageMgr.checkAndApplyPackages()~connections=0</value>
+      <value>!isContinueUponExe</value>
+    </row>
+    <row>
+      <value>2279269</value>
+      <value>2299620||2</value>
+      <value><![CDATA[2019-10-14 10:49:51.0]]></value>
+      <value><![CDATA[2019-10-14 15:17:12.001]]></value>
+      <value>4</value>
+      <value>INSERT</value>
+      <value>ORDER_ITEM</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value><![CDATA[2019-10-14 15:10:31.903]]></value>
+      <value><![CDATA[2019-10-14 15:17:11.943]]></value>
+      <value><![CDATA[2019-10-14 15:17:11.952]]></value>
+      <value><![CDATA[2019-10-14 15:17:12.001]]></value>
+      <value>5087193</value>
+      <value>3</value>
+      <value>2299620</value>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processOrderItem()~RequestJobQueueHelper.createOrderItemRequestDto()-!requestParameters||OrderItemRequestDto.REQUEST_PARAM_DRUG_RETURN||doEpisodeLevelChangeOrderItemInputDto~RequestJobQueue.processOrderItem():general~OrderItemMgr.doGeneralChargeCalculation():ordOrderItemCesPatientChargesDto~ExceptionsHandlingMgr.doExceptionHandling()~connections=1</value>
+      <null/>
+    </row>
+    <row>
+      <value>1681935</value>
+      <value>5087193||1</value>
+      <value><![CDATA[2019-10-12 11:50:29.0]]></value>
+      <value><![CDATA[2019-10-12 12:58:14.64]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>PASSIVE_MONITORING</value>
+      <value>ADM_PAYOR_DETAILS</value>
+      <value>billing_engine_1</value>
+      <value><![CDATA[2019-10-12 12:58:00.964]]></value>
+      <value><![CDATA[2019-10-12 12:58:14.629]]></value>
+      <value><![CDATA[2019-10-12 12:58:14.629]]></value>
+      <value><![CDATA[2019-10-12 12:58:14.64]]></value>
+      <value>5087193</value>
+      <value>3</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processPassiveMonitoring():TABLE_NAME_ADM_PAYOR_DETAILS~connections=0</value>
+      <null/>
+    </row>
+    <row>
+      <value>1681936</value>
+      <value>5087193||1</value>
+      <value><![CDATA[2019-10-12 11:50:29.0]]></value>
+      <value><![CDATA[2019-10-14 15:02:14.648]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>PAYORPLAN</value>
+      <value>~</value>
+      <value>billing_engine_1</value>
+      <value><![CDATA[2019-10-14 15:02:01.45]]></value>
+      <value><![CDATA[2019-10-14 15:02:14.615]]></value>
+      <value><![CDATA[2019-10-14 15:02:14.615]]></value>
+      <value><![CDATA[2019-10-14 15:02:14.648]]></value>
+      <value>5087193</value>
+      <value>3</value>
+      <null/>
+      <value>billing_engine_1</value>
+      <value>RequestJobQueue.processPayorPlan()~connections=0</value>
+      <null/>
+    </row>
+    <row>
+      <value>1710141</value>
+      <value>2299620||3</value>
+      <value><![CDATA[2019-10-13 14:45:47.0]]></value>
+      <value><![CDATA[2019-10-14 15:04:35.192]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>ORDER_ITEM</value>
+      <null/>
+      <value>billing_engine_1</value>
+      <value><![CDATA[2019-10-14 15:03:05.452]]></value>
+      <value><![CDATA[2019-10-14 15:04:34.649]]></value>
+      <value><![CDATA[2019-10-14 15:04:34.649]]></value>
+      <value><![CDATA[2019-10-14 15:04:35.191]]></value>
+      <value>5087193</value>
+      <value>3</value>
+      <value>2299620</value>
+      <value>billing_engine_1</value>
+      <value>RequestJobQueue.processOrderItem()~RequestJobQueueHelper.createOrderItemRequestDto()-!requestParameters||OrderItemRequestDto.REQUEST_PARAM_DRUG_RETURN||doEpisodeLevelChangeOrderItemInputDto~RequestJobQueue.processOrderItem():general~OrderItemMgr.doGeneralChargeCalculation():ordOrderItemCesPatientChargesDto~OrderItemMgr.doGeneralChargeCalculation():admEpisodeDto,serviceDateTime=20190107_120000~OrderItemMgrHelper.determineIsContinueToCalculateUponBuoBue():ArcItmmastDto.BILLING_LOGIC_BILL_UPON_EXECUTION~OrderItemMgrHelper.determineIsContinueToCalculateUponBuoBue():!ITEM_STAT_EXECUTED~OrderItemMgrHelper.calculateGeneralChargePerOrderItem():!isContinueUponExe~PackageMgr.checkAndApplyPackages()~connections=0</value>
+      <value>!isContinueUponExe</value>
+    </row>
+    <row>
+      <value>2279270</value>
+      <value>5087193||1</value>
+      <value><![CDATA[2019-10-14 10:50:15.0]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.786]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>PASSIVE_MONITORING</value>
+      <value>ADM_PAYOR_DETAILS</value>
+      <value>billing_engine_2</value>
+      <value><![CDATA[2019-10-14 10:50:17.028]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.709]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.709]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.786]]></value>
+      <value>5087193</value>
+      <value>1</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processPassiveMonitoring():TABLE_NAME_ADM_PAYOR_DETAILS~connections=0</value>
+      <null/>
+    </row>
+    <row>
+      <value>2279271</value>
+      <value>5087193||1</value>
+      <value><![CDATA[2019-10-14 10:50:15.0]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.61]]></value>
+      <value>1</value>
+      <value>INSERT</value>
+      <value>PAYORPLAN</value>
+      <value>~</value>
+      <value>billing_engine_2</value>
+      <value><![CDATA[2019-10-14 10:50:17.028]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.577]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.577]]></value>
+      <value><![CDATA[2019-10-14 10:51:45.61]]></value>
+      <value>5087193</value>
+      <value>1</value>
+      <null/>
+      <value>billing_engine_2</value>
+      <value>RequestJobQueue.processPayorPlan()~connections=0</value>
+      <null/>
+    </row>
+  </table>
+</dataset>

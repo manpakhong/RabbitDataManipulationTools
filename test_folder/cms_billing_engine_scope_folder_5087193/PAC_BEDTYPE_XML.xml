@@ -1,0 +1,24 @@
+<dataset>
+  <table name="PAC_BEDTYPE">
+    <column>TRAK_ROWID</column>
+    <column>BED_TYPE_CODE</column>
+    <column>BED_TYPE_DESC</column>
+    <column>ICU_BED</column>
+    <column>ORDER_ITEM_CODE</column>
+    <column>ROOM_TYPE_CODE</column>
+    <column>EFFECTIVE_DATE_FROM</column>
+    <column>EFFECTIVE_DATE_TO</column>
+    <column>CREATE_DATE</column>
+    <column>UPDATE_DATE</column>
+    <column>CREATE_BY</column>
+    <column>UPDATE_BY</column>
+    <column>ICU_BED_CHARGE</column>
+    <column>IGNORE_AVERAGE</column>
+    <column>SHORT_STAY_YN</column>
+    <column>PSEUDO_BED_YN</column>
+    <column>SLEEP_TEST_YN</column>
+    <column>TRANSFER_IN_BED_CHARGE_PERCENT</column>
+    <column>D2_DISCHG_BEFORE_13_BED_CHRG_PERC</column>
+    <column>D2_DISCHG_AFTER_13_BED_CHRG_PERC</column>
+  </table>
+</dataset>

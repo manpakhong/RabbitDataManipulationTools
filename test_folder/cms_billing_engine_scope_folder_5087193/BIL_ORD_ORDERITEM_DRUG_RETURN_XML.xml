@@ -1,0 +1,21 @@
+<dataset>
+  <table name="BIL_ORD_ORDERITEM_DRUG_RETURN">
+    <column>ID</column>
+    <column>EPISODE_ID</column>
+    <column>EPISODE_NO</column>
+    <column>ITEM_CODE</column>
+    <column>ITEM_DESC</column>
+    <column>ORD_ORDER_ITEM_CES_OEORI_PRESCNO</column>
+    <column>ORDER_ITEM_CES_OEORI_PHQTYORD</column>
+    <column>ORDER_ITEM_CES_OEORI_DOSAGEQTY</column>
+    <column>ORD_DISPENSING_CES_DSP_QTY</column>
+    <column>ORD_DISPENSING_CES_DSP_RETURNQTY</column>
+    <column>DSP_TOTAL_QTY</column>
+    <column>IS_BILLED</column>
+    <column>CREATE_DATE_TIME</column>
+    <column>UPDATE_DATE_TIME</column>
+    <column>RETURN_QTY</column>
+    <column>REQUEST_ROWID</column>
+    <column>SOURCE</column>
+  </table>
+</dataset>
