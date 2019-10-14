@@ -10,6 +10,7 @@ import com.rabbitforever.datamanipulation.factories.DbUtilsFactory;
 import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
 import com.rabbitforever.datamanipulation.flowtest.bundles.DbProperties;
 import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
+import com.rabbitforever.datamanipulation.services.ScribbleMgr;
 import com.rabbitforever.datamanipulation.utils.DbUtils;
 
 public abstract class SqlBaseDao <T>{
@@ -21,6 +22,7 @@ public abstract class SqlBaseDao <T>{
 	protected SysProperties sysProperties;
 	protected String schema;
 	protected String systemSchema;
+
 	public SqlBaseDao() throws Exception{
 		init();
 	}
@@ -28,6 +30,9 @@ public abstract class SqlBaseDao <T>{
 		try{
 			sysProperties = PropertiesFactory.getInstanceOfSysProperties();
 			String dbType = sysProperties.getDatabaseType();
+			
+
+			
 			if (dbType.equals(SysProperties.DATABASE_TYPE_DB2)){
 				dbUtils = DbUtilsFactory.getInstanceOfDb2DbUtils();
 				dbProperties = PropertiesFactory.getInstanceOfDb2DbProperties();
