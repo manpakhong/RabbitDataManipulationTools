@@ -1,6 +1,7 @@
 file archieve:
 
 root
++ CssaFlowTestResultLogCollector
 + icons
 + jdk-1.8-ea
 + pgmrNotepad

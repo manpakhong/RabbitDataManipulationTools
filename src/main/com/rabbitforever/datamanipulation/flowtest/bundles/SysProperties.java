@@ -42,6 +42,11 @@ public class SysProperties extends PropertiesBase {
 	private Boolean deleteStatementGenerateAutoOpenFolder;
 	private Boolean deleteStatementGenerateAutoOpenFile;
 	private Boolean restoreInAscendingOrder;
+	private Boolean usernamePasswordScribbleEnabled;
+	private Integer colorRgbR;
+	private Integer colorRgbG;
+	private Integer colorRgbB;
+
 	
 	public SysProperties() throws Exception {
 		super(FILE_NAME);
@@ -73,6 +78,24 @@ public class SysProperties extends PropertiesBase {
 		databaseType = this.getPropValues("database_type");
 		return databaseType;
 	}
+
+	
+	
+	public Boolean getUsernamePasswordScribbleEnabled() {
+		
+		try {
+			String usernamePasswordScribbleEnabledString = this.getPropValues("username_password_scribble_enabled");
+			usernamePasswordScribbleEnabled = Boolean.parseBoolean(usernamePasswordScribbleEnabledString);
+		} catch (Exception e) {
+			logger.error(className + ".getUsernamePasswordScribbleEnabled()", e);
+			usernamePasswordScribbleEnabled = true;
+		}
+		return usernamePasswordScribbleEnabled;
+	}
+
+
+
+
 
 	public Boolean getFlatXmlStyle() {
 		try {
@@ -304,6 +327,42 @@ public class SysProperties extends PropertiesBase {
 			logger.error(className + ".getButtonsIconsRoot()", e);
 		}
 		return buttonsIconsRoot;
+	}
+
+
+
+	public Integer getColorRgbR() {
+		try{
+			String colorRgbRString = this.getPropValues("color_rgb_r");
+			colorRgbR = Integer.parseInt(colorRgbRString);
+		} catch (Exception e){
+			logger.error(className + ".getColorRgbR()", e);
+		}
+		return colorRgbR;
+	}
+
+
+
+	public Integer getColorRgbG() {
+		try{
+			String colorRgbGString = this.getPropValues("color_rgb_g");
+			colorRgbG = Integer.parseInt(colorRgbGString);
+		} catch (Exception e){
+			logger.error(className + ".getColorRgbG()", e);
+		}
+		return colorRgbG;
+	}
+
+
+
+	public Integer getColorRgbB() {
+		try{
+			String colorRgbBString = this.getPropValues("color_rgb_b");
+			colorRgbB = Integer.parseInt(colorRgbBString);
+		} catch (Exception e){
+			logger.error(className + ".getColorRgbB()", e);
+		}
+		return colorRgbB;
 	}
 
 

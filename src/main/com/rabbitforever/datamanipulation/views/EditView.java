@@ -1,6 +1,7 @@
 package com.rabbitforever.datamanipulation.views;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridLayout;
 
@@ -15,6 +16,8 @@ import javax.swing.JTextField;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
+import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
 import com.rabbitforever.datamanipulation.helpers.UiHelper;
 import com.rabbitforever.datamanipulation.models.dtos.CaptureDto;
 import com.rabbitforever.datamanipulation.models.vos.CaptureVo;
@@ -44,7 +47,7 @@ public class EditView {
 
 	private MainScreenView mainView = null;
 	private CaptureVo captureVo;
-
+	protected SysProperties sysProperties;
 	private final static int WEST_PANEL_ROW_SIZE = 5;
 	private final static int WEST_PANEL_COL_SIZE = 1;
 	private final static int EAST_PANEL_ROW_SIZE = 5;
@@ -88,89 +91,95 @@ public class EditView {
 	}
 
 	private void init() {
-		editFrame = new JFrame("Edit Screen");
-		editPanel = new JPanel(new BorderLayout());
-		editPanel.setPreferredSize(new Dimension(PANEL_WIDTH, PANEL_HEIGHT));
-		editPanelWest = new JPanel(new GridLayout(WEST_PANEL_ROW_SIZE, WEST_PANEL_COL_SIZE));
-		editPanelCenter = new JPanel(new GridLayout(EAST_PANEL_ROW_SIZE, EAST_PANEL_COL_SIZE));
-		editPanelSouth = new JPanel(new GridLayout(SOUTH_PANEL_ROW_SIZE, SOUTH_PANEL_COL_SIZE));
-		tableNameLabel = new JLabel();
-		tableNameLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
-		tableNameLabel.setText("Table Name:");
-		editPanelWest.add(tableNameLabel);
+		try {
+			sysProperties = PropertiesFactory.getInstanceOfSysProperties();
+			editFrame = new JFrame("Edit Screen");
+			editPanel = new JPanel(new BorderLayout());
+			editPanel.setPreferredSize(new Dimension(PANEL_WIDTH, PANEL_HEIGHT));
+			editPanelWest = new JPanel(new GridLayout(WEST_PANEL_ROW_SIZE, WEST_PANEL_COL_SIZE));
+			editPanelCenter = new JPanel(new GridLayout(EAST_PANEL_ROW_SIZE, EAST_PANEL_COL_SIZE));
+			editPanelSouth = new JPanel(new GridLayout(SOUTH_PANEL_ROW_SIZE, SOUTH_PANEL_COL_SIZE));
+			tableNameLabel = new JLabel();
+			tableNameLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
+			tableNameLabel.setText("Table Name:");
+			editPanelWest.add(tableNameLabel);
 
-		tableNameTextField = new JTextField();
-		tableNameTextField.setPreferredSize(new Dimension(TEXT_FIELD_WIDTH, TEXT_FIELD_HEIGHT));
-		editPanelCenter.add(tableNameTextField);
+			tableNameTextField = new JTextField();
+			tableNameTextField.setPreferredSize(new Dimension(TEXT_FIELD_WIDTH, TEXT_FIELD_HEIGHT));
+			editPanelCenter.add(tableNameTextField);
 
-		outputXmlFileNameLabel = new JLabel();
-		outputXmlFileNameLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
-		outputXmlFileNameLabel.setText("Xml file Name:");
-		editPanelWest.add(outputXmlFileNameLabel);
+			outputXmlFileNameLabel = new JLabel();
+			outputXmlFileNameLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
+			outputXmlFileNameLabel.setText("Xml file Name:");
+			editPanelWest.add(outputXmlFileNameLabel);
 
-		outputXmlFileNameTextField = new JTextField();
-		outputXmlFileNameTextField.setPreferredSize(new Dimension(TEXT_FIELD_WIDTH, TEXT_FIELD_HEIGHT));
-		editPanelCenter.add(outputXmlFileNameTextField);
+			outputXmlFileNameTextField = new JTextField();
+			outputXmlFileNameTextField.setPreferredSize(new Dimension(TEXT_FIELD_WIDTH, TEXT_FIELD_HEIGHT));
+			editPanelCenter.add(outputXmlFileNameTextField);
 
-		captureSqlLabel = new JLabel();
-		captureSqlLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
-		captureSqlLabel.setText("Capture Sql:");
-		editPanelWest.add(captureSqlLabel);
+			captureSqlLabel = new JLabel();
+			captureSqlLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
+			captureSqlLabel.setText("Capture Sql:");
+			editPanelWest.add(captureSqlLabel);
 
-		captureSqlTextArea = new JTextArea();
-		captureSqlTextArea.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
-		captureSqlTextArea.setLineWrap(true);
-		JScrollPane captureSqlScrollPane = new JScrollPane(captureSqlTextArea);
-		
-		editPanelCenter.add(captureSqlScrollPane);
+			captureSqlTextArea = new JTextArea();
+			captureSqlTextArea.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
+			captureSqlTextArea.setLineWrap(true);
+			JScrollPane captureSqlScrollPane = new JScrollPane(captureSqlTextArea);
+			
+			editPanelCenter.add(captureSqlScrollPane);
 
-		actualAssertionTargetSqlLabel = new JLabel();
-		actualAssertionTargetSqlLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
-		actualAssertionTargetSqlLabel.setText("Actual Table Assertion Sql:");
-		editPanelWest.add(actualAssertionTargetSqlLabel);
+			actualAssertionTargetSqlLabel = new JLabel();
+			actualAssertionTargetSqlLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
+			actualAssertionTargetSqlLabel.setText("Actual Table Assertion Sql:");
+			editPanelWest.add(actualAssertionTargetSqlLabel);
 
-		actualAssertionTargetSqlTextArea = new JTextArea();
-		actualAssertionTargetSqlTextArea.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
-		actualAssertionTargetSqlTextArea.setLineWrap(true);
-		JScrollPane actualAssertionTargetSqlScrollPane = new JScrollPane(actualAssertionTargetSqlTextArea);
-		editPanelCenter.add(actualAssertionTargetSqlScrollPane);
+			actualAssertionTargetSqlTextArea = new JTextArea();
+			actualAssertionTargetSqlTextArea.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
+			actualAssertionTargetSqlTextArea.setLineWrap(true);
+			JScrollPane actualAssertionTargetSqlScrollPane = new JScrollPane(actualAssertionTargetSqlTextArea);
+			editPanelCenter.add(actualAssertionTargetSqlScrollPane);
 
-		actualAssertionTargetIgnoreColumnsListLabel = new JLabel();
-		actualAssertionTargetIgnoreColumnsListLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
-		actualAssertionTargetIgnoreColumnsListLabel.setText("Actual Table Ass. ignore cols:");
-		editPanelWest.add(actualAssertionTargetIgnoreColumnsListLabel);
+			actualAssertionTargetIgnoreColumnsListLabel = new JLabel();
+			actualAssertionTargetIgnoreColumnsListLabel.setPreferredSize(new Dimension(LABEL_WIDTH, LABEL_HEIGHT));
+			actualAssertionTargetIgnoreColumnsListLabel.setText("Actual Table Ass. ignore cols:");
+			editPanelWest.add(actualAssertionTargetIgnoreColumnsListLabel);
 
-		actualAssertionTargetIgnoreColumnsListTextArea = new JTextArea();
-		actualAssertionTargetIgnoreColumnsListTextArea
-				.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
-		editPanelCenter.add(actualAssertionTargetIgnoreColumnsListTextArea);
+			actualAssertionTargetIgnoreColumnsListTextArea = new JTextArea();
+			actualAssertionTargetIgnoreColumnsListTextArea
+					.setPreferredSize(new Dimension(TEXT_AREA_WIDTH, TEXT_AREA_HEIGHT));
+			editPanelCenter.add(actualAssertionTargetIgnoreColumnsListTextArea);
 
-		oKButton = new JButton();
-		oKButton.setText("Ok");
-		editPanelSouth.add(oKButton);
+			oKButton = new JButton();
+			oKButton.setText("Ok");
+			editPanelSouth.add(oKButton);
 
-		checkDependentTablesButton = new JButton();
-		checkDependentTablesButton.setText("Check Dependent Tables");
-		editPanelSouth.add(checkDependentTablesButton);
+			checkDependentTablesButton = new JButton();
+			checkDependentTablesButton.setText("Check Dependent Tables");
+			editPanelSouth.add(checkDependentTablesButton);
 
-		editPanel.add(editPanelWest, BorderLayout.WEST);
-		editPanel.add(editPanelCenter, BorderLayout.CENTER);
-		editPanel.add(editPanelSouth, BorderLayout.SOUTH);
+			editPanel.add(editPanelWest, BorderLayout.WEST);
+			editPanel.add(editPanelCenter, BorderLayout.CENTER);
+			editPanel.add(editPanelSouth, BorderLayout.SOUTH);
 
-		addEventHandlers();
+			addEventHandlers();
 
-		editFrame.add(editPanel);
-		editFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+			editFrame.add(editPanel);
+			editFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
-		editFrame.pack();
-		editFrame.setLocationRelativeTo(null);
+			editFrame.pack();
+			editFrame.setLocationRelativeTo(null);
+			Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
 
+			UiHelper.setColor(editPanel,color);
+			UiHelper.setColor(editPanelWest,color);
+			UiHelper.setColor(editPanelCenter,color);
+			UiHelper.setColor(editPanelSouth,color);
+			bindData2Controls();
+		} catch (Exception e) {
+			logger.error(className + ".init()", e);
+		}
 
-		UiHelper.setColor(editPanel);
-		UiHelper.setColor(editPanelWest);
-		UiHelper.setColor(editPanelCenter);
-		UiHelper.setColor(editPanelSouth);
-		bindData2Controls();
 	}
 
 	private void addEventHandlers() {

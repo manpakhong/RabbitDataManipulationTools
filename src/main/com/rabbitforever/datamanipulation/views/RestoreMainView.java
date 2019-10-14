@@ -21,6 +21,8 @@ import javax.swing.table.TableCellRenderer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
+import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
 import com.rabbitforever.datamanipulation.helpers.UiHelper;
 import com.rabbitforever.datamanipulation.models.vos.CaptureScopeVo;
 import com.rabbitforever.datamanipulation.models.vos.CaptureVo;
@@ -39,7 +41,7 @@ public class RestoreMainView extends MainScreenView {
 	private String className = this.getClass().getName();
 	private boolean isDelStmtGenButtonEnabled;
 	private boolean deleteThenRestoreComboActionEnabled;
-
+	protected SysProperties sysProperties;
 	public RestoreMainView() {
 		initParams();
 		init();
@@ -52,6 +54,7 @@ public class RestoreMainView extends MainScreenView {
 
 	private void initParams() {
 		try {
+			sysProperties = PropertiesFactory.getInstanceOfSysProperties();
 			isDelStmtGenButtonEnabled = sysProperties.getDeleteStatementGenerateButtonEnabled();
 			deleteThenRestoreComboActionEnabled = sysProperties.getDeleteThenRestoreComboActionEnabled();
 			this.currentMode = MODE_VIEW;
@@ -228,8 +231,8 @@ public class RestoreMainView extends MainScreenView {
 		mainFrame.setSize(MAIN_FRAME_WIDTH, MAIN_FRAME_HEIGHT);
 		mainFrame.setLocationRelativeTo(null);
 		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-		UiHelper.setColor(mainPanel);
+		Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
+		UiHelper.setColor(mainPanel,color);
 	}
 
 

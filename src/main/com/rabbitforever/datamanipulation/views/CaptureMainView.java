@@ -181,10 +181,12 @@ public class CaptureMainView extends MainScreenView {
 		mainFrame.setLocationRelativeTo(null);
 		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		UiHelper.setColor(mainPanel);
-		UiHelper.setColor(upperPanel);
-		UiHelper.setColor(middlePanel);
-		UiHelper.setColor(bottomPanel);
+		Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
+		
+		UiHelper.setColor(mainPanel,color);
+		UiHelper.setColor(upperPanel,color);
+		UiHelper.setColor(middlePanel,color);
+		UiHelper.setColor(bottomPanel,color);
 
 		addEventHandlers();
 

@@ -1,5 +1,6 @@
 package com.rabbitforever.datamanipulation.views;
 
+import java.awt.Color;
 import java.awt.FlowLayout;
 import java.util.List;
 
@@ -14,6 +15,8 @@ import javax.swing.table.DefaultTableModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.rabbitforever.datamanipulation.factories.PropertiesFactory;
+import com.rabbitforever.datamanipulation.flowtest.bundles.SysProperties;
 import com.rabbitforever.datamanipulation.helpers.UiHelper;
 import com.rabbitforever.datamanipulation.models.dtos.CaptureDto;
 import com.rabbitforever.datamanipulation.models.dtos.CaptureScopeDto;
@@ -42,7 +45,7 @@ public class FileSelectionView {
 	public final static int LABEL_HEIGHT = 20;
 	public final static int TEXT_FIELD_WIDTH = 200;
 	public final static int TEXT_FIELD_HEIGHT = 20;
-
+	protected SysProperties sysProperties;
 	public static final int FILE_SELECTION_FRAME_WIDTH = 1000;
 	public static final int FILE_SELECTION_FRAME_HEIGHT = 500;
 
@@ -147,6 +150,7 @@ public class FileSelectionView {
 
 	private void initParams() throws Exception {
 		snapshotMgr = new SnapshotMgr();
+		sysProperties = PropertiesFactory.getInstanceOfSysProperties();
 	}
 
 	private void refreshScreenFileList() {
@@ -196,8 +200,8 @@ public class FileSelectionView {
 		cancelButton = new JButton();
 		cancelButton.setText("Cancel");
 		fileSelectionPanel.add(cancelButton);
-		
-		UiHelper.setColor(fileSelectionPanel);
+		Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
+		UiHelper.setColor(fileSelectionPanel,color);
 		
 		addEventHandlers();
 

@@ -152,13 +152,13 @@ public class AssertionMainView extends MainScreenView {
 		mainFrame.setSize(MAIN_FRAME_WIDTH, MAIN_FRAME_HEIGHT);
 		mainFrame.setLocationRelativeTo(null);
 		mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+		Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
 		
-		UiHelper.setColor(mainPanel);
-		UiHelper.setColor(buttonsPanel);
-		UiHelper.setColor(statusPanel);
-		UiHelper.setColor(inputsPanel);
-		UiHelper.setColor(tablePanel);
+		UiHelper.setColor(mainPanel,color);
+		UiHelper.setColor(buttonsPanel,color);
+		UiHelper.setColor(statusPanel,color);
+		UiHelper.setColor(inputsPanel,color);
+		UiHelper.setColor(tablePanel,color);
 		
 
 		

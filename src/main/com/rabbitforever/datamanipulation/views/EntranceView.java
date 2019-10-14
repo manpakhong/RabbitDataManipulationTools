@@ -88,22 +88,26 @@ public class EntranceView {
 		// northEntrancePanel = new JPanel();
 		// southEntrancePanel = new JPanel();
 
+		Color color = new Color(sysProperties.getColorRgbR(), sysProperties.getColorRgbG(), sysProperties.getColorRgbG());
+		
 		goToCaptureMainButton = new JButton();
 		goToCaptureMainButton.setText("Go to capture screen");
-		goToCaptureMainButton.setBackground(Color.pink);
+		goToCaptureMainButton.setBackground(color);
 		entrancePanel.add(goToCaptureMainButton);
 
 		goToRestoreMainButton = new JButton();
 		goToRestoreMainButton.setText("Go to restore screen");
-		goToRestoreMainButton.setBackground(Color.pink);
+		goToRestoreMainButton.setBackground(color);
 		entrancePanel.add(goToRestoreMainButton);
 
 		gotoAssertionMainButton = new JButton();
 		gotoAssertionMainButton.setText("Go to assertion screen");
-		gotoAssertionMainButton.setBackground(Color.pink);
+		gotoAssertionMainButton.setBackground(color);
 		entrancePanel.add(gotoAssertionMainButton);
 
-		UiHelper.setColor(entrancePanel);
+
+		
+		UiHelper.setColor(entrancePanel, color);
 		
 		addEventHandlers();
 
@@ -111,7 +115,7 @@ public class EntranceView {
 		entranceFrame.setSize(FILE_SELECTION_FRAME_WIDTH, FILE_SELECTION_FRAME_HEIGHT);
 		entranceFrame.setLocationRelativeTo(null);
 		entranceFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		entranceFrame.setBackground(Color.pink);
+		entranceFrame.setBackground(color);
 		// entrancePanel.add(northEntrancePanel, BorderLayout.NORTH);
 		// entrancePanel.add(southEntrancePanel, BorderLayout.CENTER);
 
