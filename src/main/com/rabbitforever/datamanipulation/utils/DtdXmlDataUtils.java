@@ -186,7 +186,7 @@ public class DtdXmlDataUtils extends DataUtils {
 				// connection = dbUtils.getDataBaseConnectionWithSchema();
 			}
 			if (dbType.equals(DB_TYPE_ORACLE)) {
-				connection = dbUtils.getDataBaseConnectionNoSchema();
+				connection = dbUtils.getDataBaseConnectionWithSchema();
 				// connection = dbUtils.getDataBaseConnectionWithSchema();
 			}
 
